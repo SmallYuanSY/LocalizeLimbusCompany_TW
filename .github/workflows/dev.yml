@@ -2,8 +2,8 @@ name: 开发版
 on:
   workflow_dispatch:
   push:
-    branches: master_ilcpp
-      - 'master_ilcpp'
+    branches: master
+      - 'master'
     paths:
       - 'src/**'
       - '!CHANGELOG.md'
