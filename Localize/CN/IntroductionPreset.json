@@ -571,6 +571,22 @@
     {
       "id": "introduce_sentence_72",
       "content": "來，所有人把嘴張開。{0}地喝下去吧，呵呵。"
+    },
+    {
+      "id": "introduce_word_73",
+      "content": "大叔"
+    },
+    {
+      "id": "introduce_sentence_73",
+      "content": "{0}？是不是有點太過了……"
+    },
+    {
+      "id": "introduce_word_74",
+      "content": "觀察"
+    },
+    {
+      "id": "introduce_sentence_74",
+      "content": "我並不是什麼{0}對象……"
     }
   ]
 }

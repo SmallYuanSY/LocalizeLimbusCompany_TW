@@ -3796,7 +3796,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "飛散的香氣",
+          "name": "飛香播散",
           "desc": "",
           "coinlist": [
             {
@@ -3828,7 +3828,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "刺鼻的香氣",
+          "name": "香氣撲鼻",
           "desc": "",
           "coinlist": [
             {
@@ -3854,7 +3854,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "綻放的花蕾",
+          "name": "花蕾綻放",
           "desc": "下回合生成2朵花\n已生成4朵花後，作為替換，使階段最低的隨機1朵花上升1個階段",
           "coinlist": [
             {

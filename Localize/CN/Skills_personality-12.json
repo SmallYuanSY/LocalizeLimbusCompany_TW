@@ -1,0 +1,204 @@
+{
+  "dataList": [
+    {
+      "id": 1120601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "針鋒相對",
+          "desc": "[WhenUse] 使自身獲得2層防禦等級提升 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層迅捷 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "針鋒相對",
+          "desc": "[WhenUse] 使自身獲得2層防禦等級提升\n[DefeatDuel] 使自身獲得(自身的防禦等級提升層數× 3)點護盾。下回合使自身獲得1層防禦等級提升。 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "針鋒相對",
+          "desc": "[WhenUse] 使自身獲得2層防禦等級提升\n[DefeatDuel]使自身獲得(自身的防禦等級提升層數× 5)點護盾。下回合使自身獲得2層防禦等級提升。 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層迅捷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "靈活壓制",
+          "desc": "[WhenUse] 使自身獲得2層防禦等級提升 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身的防禦等級提升 層數不低於6層，則使本硬幣造成的傷害+20%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "靈活壓制",
+          "desc": "[WhenUse] 使自身獲得3層防禦等級提升 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身的防禦等級提升 層數不低於6層，則使本硬幣造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "靈活壓制",
+          "desc": "[WhenUse] 使自身獲得3層防禦等級提升\n[WhenUse] 下回合使本技能對應行動槽的挑釁值+3\n若自身的防禦等級提升層數不低於6層，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身的防禦等級提升 層數不低於6層，則使本硬幣造成的傷害+40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "人民衛士",
+          "desc": "[WhenUse] 使全體友方單位獲得2層忍耐與3層防禦等級提升\n若自身的防禦等級提升層數不低於6層，則使本技能硬幣威力+1\n若自身的防禦等級提升層數不低於10層，則使本技能造成的傷害+30%",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使全體友方單位獲得3層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "人民衛士",
+          "desc": "[WhenUse] 使全體友方單位獲得2層忍耐與3層防禦等級提升\n自身每帶有6層防禦等級提升，使本技能的硬幣威力+1(最多+3)\n若自身的防禦等級提升層數不低於10層，則使本技能造成的傷害+50%",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使全體友方單位獲得3層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "最佳防守",
+          "desc": "[StartBattle]使自身獲得(自身的防禦等級提升層數 × 2)點護盾",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "最佳防守",
+          "desc": "[StartBattle]使自身獲得(自身的防禦等級提升層數 × 2)點護盾\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}
