@@ -1,0 +1,201 @@
+{
+  "dataList": [
+    {
+      "id": 1020501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "地區巡查",
+          "desc": "[DefeatDuel] 使自身獲得2層防禦等級提升 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得2層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "地區巡查",
+          "desc": "[DefeatDuel] 使自身獲得3層防禦等級提升 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "地區巡查",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2\n[DefeatDuel] 使自身獲得3層防禦等級提升 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "客戶保護",
+          "desc": "[WhenUse] 使現存體力比例最低的友方單位獲得2層防禦等級提升 （每回合最多發動3次）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "客戶保護",
+          "desc": "[WhenUse] 使現存體力比例最低的友方單位獲得3層防禦等級提升（每回合最多發動3次）\n若自身的防禦等級提升層數不低於5層，則使本技能拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "客戶保護",
+          "desc": "[WhenUse] 使現存體力比例最低的友方單位獲得4層防禦等級提升（每回合最多發動3次）\n若自身的防禦等級提升層數不低於5層，則使本技能拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "治安維和",
+          "desc": "若自身的防禦等級提升 層數不低於5層，則使本技能的硬幣威力+1\n[WinDuel] 使自身恢復2點體力",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "使現存體力比例最低的1名友方單位在下回合獲得1層迅捷 與2層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "治安維和",
+          "desc": "若自身的防禦等級提升 層數不低於5層，則使本技能的硬幣威力+1\n[WinDuel] 使自身恢復4點體力",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "使現存體力比例最低的1名友方單位在下回合獲得1層迅捷 與2層防禦等級提升 "
+                },
+                {
+                  "desc": "若該友方單位隸屬於Zwei協會，則使其額外獲得1層迅捷 與1層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "防禦",
+          "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}
