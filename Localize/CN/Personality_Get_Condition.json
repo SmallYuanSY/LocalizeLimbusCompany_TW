@@ -399,6 +399,22 @@
     {
       "id": "11007_getCondition_gacksung",
       "content": "臼齒修船廠 收尾人 辛克萊 3階段同步完成"
+    },
+    {
+      "id": "11206_getCondition_normal",
+      "content": "獲得Zwei協會 南部4科 格里高爾"
+    },
+    {
+      "id": "11206_getCondition_gacksung",
+      "content": "Zwei協會 南部4科 格里高爾 3階段同步完成"
+    },
+    {
+      "id": "10205_getCondition_normal",
+      "content": "獲得Zwei協會 南部4科 浮士德"
+    },
+    {
+      "id": "10205_getCondition_gacksung",
+      "content": "Zwei協會 南部4科 浮士德 3階段同步完成"
     }
   ]
 }

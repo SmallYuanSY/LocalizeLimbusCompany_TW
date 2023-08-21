@@ -143,6 +143,10 @@
     {
       "id": "networkingerror_update",
       "content": "跳轉至商店頁面"
+    },
+    {
+      "id": "speed_hack_warning",
+      "content": "發現使用未經授權的第三方程序。"
     }
   ]
 }
