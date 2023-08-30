@@ -587,6 +587,22 @@
     {
       "id": "introduce_sentence_74",
       "content": "我並不是什麼{0}對象……"
+    },
+    {
+      "id": "introduce_word_75",
+      "content": "培訓"
+    },
+    {
+      "id": "introduce_sentence_75",
+      "content": "荒謬。竟然讓我去{0}。"
+    },
+    {
+      "id": "introduce_word_76",
+      "content": "WARP列車"
+    },
+    {
+      "id": "introduce_sentence_76",
+      "content": "那些{0}裡往往相當擁擠，不這麼覺得嗎？"
     }
   ]
 }

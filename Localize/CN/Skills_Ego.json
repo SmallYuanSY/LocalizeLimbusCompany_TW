@@ -2108,10 +2108,10 @@
                   "desc": "[OnSucceedAttackHead] 使目標增加12級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身減少10點理智值並在下回合獲得1層強壯 "
+                  "desc": "[OnSucceedAttackHead] 使自身減少10點理智值。<style=\"highlight\">下回合獲得1層強壯 </style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 使自身回复10點理智值並在下回合獲得1層守護 "
+                  "desc": "[OnSucceedAttackTail] 使自身回复10點理智值。<style=\"highlight\">下回合獲得1層守護 </style> "
                 }
               ]
             }

@@ -1,0 +1,245 @@
+{
+  "dataList": [
+    {
+      "id": 1040501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "能·循",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "能·循",
+          "desc": "若自身的充能 層數不低於10層，則使本技能造成的傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "能·循",
+          "desc": "若自身的充能層數不低於10層，則使本技能造成的傷害+10%\n若自身的充能層數不低於15層，則使本技能造成的傷害再額外+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "騰躍速攻",
+          "desc": "[WhenUse] 使自身獲得5層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 若自身的充能 層數不低於10層，則對目標施加1層斬擊易損 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標現存體力不高於30%，則使本硬幣造成的傷害+15%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "騰躍速攻",
+          "desc": "[WhenUse] 使自身獲得6層充能 \n若自身的充能 層數不低於10層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的充能 層數不低於10層，則對目標施加1層斬擊易損 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標現存體力不高於30%，則使本硬幣造成的傷害+20%"
+                },
+                {
+                  "desc": "[EnemyKill] 下回合使自身獲得1層迅捷 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "騰躍速攻",
+          "desc": "[WhenUse] 使自身獲得7層充能\n若自身的充能層數不低於10層，則使本技能的硬幣威力+1\n若自身的充能層數不低於15層，則使本技能的硬幣威力再額外+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的充能 層數不低於10層，則對目標施加2層斬擊易損 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標現存體力不高於30%，則使本硬幣造成的傷害+30%"
+                },
+                {
+                  "desc": "[EnemyKill] 下回合使自身獲得3層迅捷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "次·魔·空·切",
+          "desc": "[WhenUse] 若自身的充能層數在7~14層之間，\n則消耗所有充能層數，\n並消耗體力上限3 x (15 - 所消耗充能層數)%的體力，使本技能的硬幣威力+3\n[WhenUse] 消耗15層充能，並使本技能的硬幣威力+3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 最後一枚硬幣造成的傷害 +5%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 最後一枚硬幣造成的傷害 +5%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 最後一枚硬幣造成的傷害 +5%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] 若使用本技能時消耗了15層充能 ，則使自身與除自身以外隨機1名友方單位獲得5層充能力場 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "次·魔·空·切",
+          "desc": "[WhenUse] 若自身的充能層數在7~14層之間，\n則消耗所有充能層數，\n並消耗體力上限3 x (15 - 所消耗充能層數)%的體力，使本技能的硬幣威力+5\n[WhenUse] 消耗15層充能，並使本技能的硬幣威力+5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 最後一枚硬幣造成的傷害 +10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 最後一枚硬幣造成的傷害 +10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 最後一枚硬幣造成的傷害 +10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] 若使用本技能時消耗了15層充能 ，則使自身與除自身以外隨機1名友方單位獲得7層充能力場 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "充能閃避",
+          "desc": "自身每帶有5層充能 ，使本技能的基礎威力+1(最多+2)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "充能閃避",
+          "desc": "自身每帶有5層充能 ，使本技能的基礎威力+1(最多+3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

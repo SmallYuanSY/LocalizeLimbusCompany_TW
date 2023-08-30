@@ -1,0 +1,198 @@
+{
+  "dataList": [
+    {
+      "id": 1060601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "能源循環",
+          "desc": "[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "能源循環",
+          "desc": "[WhenUse] 使自身獲得3層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "能源循環",
+          "desc": "[WhenUse] 使自身獲得4層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "清掃支援",
+          "desc": "[WhenUse] 使自身獲得2層充能 \n若自身帶有護盾，則使本技能的拼點威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 若自身的充能 層數不低於10層，則下回合使自身獲得2層充能力場 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "清掃支援",
+          "desc": "[WhenUse] 使自身獲得3層充能 \n若自身帶有護盾，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的充能 層數不低於10層，則下回合使自身獲得2層充能力場 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "清掃支援",
+          "desc": "[WhenUse] 使自身獲得3層充能 \n若自身帶有護盾，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的充能 層數不低於5層，則自身每帶有5層充能 ，下回合使自身獲得1層充能力場 (最多獲得4層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "充能力場展開",
+          "desc": "[WhenUse] 若自身的充能層數不低於10層，則消耗所有充能層數並使現存體力比例最低的2名友方單位獲得(消耗充能層數/2)層充能力場(小數點後捨去)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層充能力場 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "充能力場展開",
+          "desc": "[WhenUse] 若自身的充能層數不低於10層，則消耗所有充能層數並使現存體力比例最低的2名友方單位獲得(消耗充能層數/2)層充能力場(小數點後捨去)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層充能力場 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "[WhenUse] 使自身獲得2層充能力場 (每回合最多3次)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "防禦",
+          "desc": "[WhenUse] 使自身獲得3層充能力場 (每回合最多3次)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}
