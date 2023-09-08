@@ -1,0 +1,12 @@
+{
+  "dataList": [
+    {
+      "id": "daily_login_event_2_event_Title",
+      "content": "特別出席活動"
+    },
+    {
+      "id": "daily_login_event_2_event_description",
+      "content": "※ 活動期間根據登入天數解鎖獎勵\n 簽到越多獎勵越多 \n\n※ 在每日重置後登入 \n 領取你的簽到獎勵 \n\n※ 當活動結束,\n 獎勵將無法領取.\n 請務必在活動結束前領取獎勵。"
+    }
+  ]
+}

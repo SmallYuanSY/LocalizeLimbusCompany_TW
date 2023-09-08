@@ -1,0 +1,57 @@
+{
+  "dataList": [
+    {
+      "id": "AtkDamageMultiplier",
+      "desc": "造成的傷害{0}%",
+      "variation": "造成的{0}傷害{1}%"
+    },
+    {
+      "id": "GiveBuffOnSucceedAttack",
+      "desc": "命中時對目標施加{0}{1}"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "desc": "體力上限{0}%"
+    },
+    {
+      "id": "SlotWeightAdder",
+      "desc": "攻擊容量{0}"
+    },
+    {
+      "id": "AtkAdder",
+      "desc": "攻擊力{0}"
+    },
+    {
+      "id": "DefAdder",
+      "desc": "防禦力{0}"
+    },
+    {
+      "id": "AtkAdderIfNotDamagedPrevTurn",
+      "desc": "若一回合內未受到傷害，則下回合攻擊等級{0}（對護盾造成的傷害不計入）"
+    },
+    {
+      "id": "MaxSpeedAdderAsStack",
+      "desc": "最大速度值{0}"
+    },
+    {
+      "id": "MaxSpeedAdder",
+      "desc": "最大速度值{0}"
+    },
+    {
+      "id": "MinSpeedAdder",
+      "desc": "最小速度值{0}"
+    },
+    {
+      "id": "TakeHpHealMultiplier",
+      "desc": "通過技能效果的體力恢復量{0}%"
+    },
+    {
+      "id": "RecoverSelfHpOnSucceedAttackByDmg",
+      "desc": "恢復造成傷害{0}%的體力"
+    },
+    {
+      "id": "RailEnemyBuffF",
+      "desc": "目標使用E.G.O技能時需要的罪孽碎片的數量{0}（只對消耗的罪孽碎片生效）"
+    }
+  ]
+}

@@ -461,6 +461,34 @@
       "name": "鴻璐",
       "nameWithTitle": "鴻璐",
       "desc": "鴻璐的第6人格"
+    },
+    {
+      "id": 10206,
+      "title": "Seven協會\n南部4科",
+      "name": "浮士德",
+      "nameWithTitle": "浮士德",
+      "desc": "浮士德的第6人格"
+    },
+    {
+      "id": 10706,
+      "title": "Seven協會\n南部4科",
+      "name": "希斯克利夫",
+      "nameWithTitle": "希斯克利夫",
+      "desc": "希斯克利夫的第6人格"
+    },
+    {
+      "id": 10105,
+      "title": "臼齒事務所\n修理人",
+      "name": "李箱",
+      "nameWithTitle": "李箱",
+      "desc": "李箱的第5人格"
+    },
+    {
+      "id": 11105,
+      "title": "臼齒事務所\n修理人",
+      "name": "奧提斯",
+      "nameWithTitle": "奧提斯",
+      "desc": "奧提斯的第5人格"
     }
   ]
 }

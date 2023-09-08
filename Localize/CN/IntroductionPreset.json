@@ -603,6 +603,22 @@
     {
       "id": "introduce_sentence_76",
       "content": "那些{0}裡往往相當擁擠，不這麼覺得嗎？"
+    },
+    {
+      "id": "introduce_word_77",
+      "content": "紅茶"
+    },
+    {
+      "id": "introduce_sentence_77",
+      "content": "{0}請來這邊。"
+    },
+    {
+      "id": "introduce_word_78",
+      "content": "事件"
+    },
+    {
+      "id": "introduce_sentence_78",
+      "content": "去把{0}收拾掉吧。"
     }
   ]
 }
