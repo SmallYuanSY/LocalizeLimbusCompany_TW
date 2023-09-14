@@ -112,6 +112,7 @@
   ],
   "actionEvents": [
     "ActionEvents",
+    "ActionEvents_Refraction2",
     "ActionEvents_Mirror"
   ],
   "egoGifts": [
@@ -236,7 +237,21 @@
     "Voice_Yisang_LEGO_10104",
     "Voice_Ishmael_LEGO_10805",
     "Voice_Honglu_Kcorp_10605",
-    "Voice_Sinclair_LEGO_11006"
+    "Voice_Sinclair_LEGO_11006",
+    "Voice_Ishmael_LiuAsso4_10806",
+    "Voice_Meursault_Rcorp_10506",
+    "Voice_Rodion_Zwei_10906",
+    "Voice_Donquixote_Cinq_10305",
+    "Voice_Ishmael_Ucorp_10807",
+    "Voice_Sinclair_Ucorp_11007",
+    "Voice_Gregor_Zwei_11206",
+    "Voice_Faust_Zwei_10205",
+    "Voice_Ryoshu_Wcorp_10405",
+    "Voice_Honglu_Wcorp_10606",
+    "Voice_Faust_Seven_10206",
+    "Voice_Heathcliff_Seven_10706",
+    "Voice_Yisang_Molar_10105",
+    "Voice_Outis_Molar_11105"
   ],
   "announcer": [
     "Announcer"
