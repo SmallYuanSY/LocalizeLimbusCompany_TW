@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20701_1",
+      "desc": "E.G.O 발동",
+      "dlg": "너도… 이 안에 담아주지!"
+    },
+    {
+      "id": "battle_awaken_20702_1",
+      "desc": "E.G.O 발동",
+      "dlg": "좋아, 내장까지 지져주마!"
+    },
+    {
+      "id": "battle_erosion_20702_1",
+      "desc": "E.G.O 침식 발동",
+      "dlg": ""
+    },
+    {
+      "id": "battle_awaken_20703_1",
+      "desc": "E.G.O 발동",
+      "dlg": "크하하핫! 심장 째로… 튀겨주마!"
+    },
+    {
+      "id": "battle_erosion_20703_1",
+      "desc": "E.G.O 침식 발동",
+      "dlg": "이번엔 내가 괴롭혀주마… 전기가 필요한 건, 이 몸이냐?!"
+    }  
+  ]
+}

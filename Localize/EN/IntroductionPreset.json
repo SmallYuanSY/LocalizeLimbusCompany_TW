@@ -1,0 +1,640 @@
+{
+  "dataList": [
+    {
+      "id": "introduce_word_1",
+      "content": "Vroom-Vroom"
+    },
+    {
+      "id": "introduce_word_2",
+      "content": "Rumble-Tumble"
+    },
+    {
+      "id": "introduce_word_3",
+      "content": "Clockface"
+    },
+    {
+      "id": "introduce_word_4",
+      "content": "Bug Guy"
+    },
+    {
+      "id": "introduce_word_5",
+      "content": "TRANCHES"
+    },
+    {
+      "id": "introduce_word_6",
+      "content": "Laundry"
+    },
+    {
+      "id": "introduce_word_7",
+      "content": "Bus Jannie"
+    },
+    {
+      "id": "introduce_word_8",
+      "content": "Enactor of Justice"
+    },
+    {
+      "id": "introduce_word_9",
+      "content": "Pit-a-pat"
+    },
+    {
+      "id": "introduce_word_10",
+      "content": "Brawling"
+    },
+    {
+      "id": "introduce_word_11",
+      "content": "Questions"
+    },
+    {
+      "id": "introduce_word_12",
+      "content": "Dance Time"
+    },
+    {
+      "id": "introduce_word_13",
+      "content": "Prayer"
+    },
+    {
+      "id": "introduce_word_14",
+      "content": "Enkephalin"
+    },
+    {
+      "id": "introduce_word_15",
+      "content": "Limbus Company"
+    },
+    {
+      "id": "introduce_word_16",
+      "content": "Golden Bough"
+    },
+    {
+      "id": "introduce_word_17",
+      "content": "Honk-Honk"
+    },
+    {
+      "id": "introduce_word_18",
+      "content": "Right Turn"
+    },
+    {
+      "id": "introduce_word_19",
+      "content": "Tick-Tock"
+    },
+    {
+      "id": "introduce_word_20",
+      "content": "In Fashion"
+    },
+    {
+      "id": "introduce_word_21",
+      "content": "Yi Sang"
+    },
+    {
+      "id": "introduce_word_22",
+      "content": "Red"
+    },
+    {
+      "id": "introduce_word_23",
+      "content": "Gregor"
+    },
+    {
+      "id": "introduce_word_24",
+      "content": "Rodion"
+    },
+    {
+      "id": "introduce_word_25",
+      "content": "Ishmael"
+    },
+    {
+      "id": "introduce_word_26",
+      "content": "Faust"
+    },
+    {
+      "id": "introduce_word_27",
+      "content": "Don Quixote"
+    },
+    {
+      "id": "introduce_word_28",
+      "content": "Outis"
+    },
+    {
+      "id": "introduce_word_29",
+      "content": "Hong Lu"
+    },
+    {
+      "id": "introduce_word_30",
+      "content": "Meursault"
+    },
+    {
+      "id": "introduce_word_31",
+      "content": "Heathcliff"
+    },
+    {
+      "id": "introduce_word_32",
+      "content": "Dante"
+    },
+    {
+      "id": "introduce_word_33",
+      "content": "Sinclair"
+    },
+    {
+      "id": "introduce_word_34",
+      "content": "Ryōshū"
+    },
+    {
+      "id": "introduce_word_35",
+      "content": "Christmas"
+    },
+    {
+      "id": "introduce_word_36",
+      "content": "Chicken Kebab"
+    },
+    {
+      "id": "introduce_word_37",
+      "content": "Mustache"
+    },
+    {
+      "id": "introduce_word_38",
+      "content": "Nagel und Hammer"
+    },
+    {
+      "id": "introduce_word_39",
+      "content": "Waste"
+    },
+    {
+      "id": "introduce_word_40",
+      "content": "Sinner"
+    },
+    {
+      "id": "introduce_sentence_1",
+      "content": "Permission to {0}?"
+    },
+    {
+      "id": "introduce_sentence_2",
+      "content": "Greetings, I’m {0}."
+    },
+    {
+      "id": "introduce_sentence_3",
+      "content": "{0} will go to District 4."
+    },
+    {
+      "id": "introduce_sentence_4",
+      "content": "I wanna be just like {0}."
+    },
+    {
+      "id": "introduce_sentence_5",
+      "content": "{0}, wake me up when we’re there."
+    },
+    {
+      "id": "introduce_sentence_6",
+      "content": "{0} should suffice, don’t you think?"
+    },
+    {
+      "id": "introduce_sentence_7",
+      "content": "{0} is an idle affair."
+    },
+    {
+      "id": "introduce_sentence_8",
+      "content": "I suggest that you ignore such {0}, Executive Manager."
+    },
+    {
+      "id": "introduce_sentence_9",
+      "content": "We’re {0}, not “heroes” fighting for justice."
+    },
+    {
+      "id": "introduce_sentence_10",
+      "content": "Life is full of {0}."
+    },
+    {
+      "id": "introduce_sentence_11",
+      "content": "Handling {0} as usual."
+    },
+    {
+      "id": "introduce_sentence_12",
+      "content": "Come hither, fellows, and behold this {0}!"
+    },
+    {
+      "id": "introduce_sentence_13",
+      "content": "I decided to forget and focus on {0}!"
+    },
+    {
+      "id": "introduce_sentence_14",
+      "content": "Go ahead and {0}, if you dare."
+    },
+    {
+      "id": "introduce_sentence_15",
+      "content": "Hath you seen such {0}?"
+    },
+    {
+      "id": "introduce_sentence_16",
+      "content": "Whenever I’m feeling down, I indulge in a bit of {0}."
+    },
+    {
+      "id": "introduce_sentence_17",
+      "content": "{0} isn’t always correct."
+    },
+    {
+      "id": "introduce_sentence_18",
+      "content": "All we can count on now is {0}."
+    },
+    {
+      "id": "introduce_sentence_19",
+      "content": "Cock-a-hoop {0}’s cock-a-hoop parking."
+    },
+    {
+      "id": "introduce_sentence_20",
+      "content": "I am come to liberate the weak and {0}!"
+    },
+    {
+      "id": "introduce_sentence_21",
+      "content": "{0} won’t cut it…"
+    },
+    {
+      "id": "introduce_sentence_22",
+      "content": "You won’t sway me with that look, {0}."
+    },
+    {
+      "id": "introduce_sentence_23",
+      "content": "This has got to be the most pointless {0} in the world!"
+    },
+    {
+      "id": "introduce_sentence_24",
+      "content": "Really… {0} can be rubbish like this, huh…"
+    },
+    {
+      "id": "introduce_sentence_25",
+      "content": "From under what stone did {0} come out?"
+    },
+    {
+      "id": "introduce_sentence_26",
+      "content": "Oh, it is time for {0}."
+    },
+    {
+      "id": "introduce_sentence_27",
+      "content": "I set my heart on becoming a magnificent {0} such as you!"
+    },
+    {
+      "id": "introduce_sentence_28",
+      "content": "You’re late. Counted to {0} and you still didn’t come."
+    },
+    {
+      "id": "introduce_sentence_29",
+      "content": "I will remember {0}."
+    },
+    {
+      "id": "introduce_sentence_30",
+      "content": "Sorry about that. I’ll buy you {0} later."
+    },
+    {
+      "id": "introduce_sentence_31",
+      "content": "I cannot turn a blind eye to {0}, can I?"
+    },
+    {
+      "id": "introduce_sentence_32",
+      "content": "I’m sure you remember {0}."
+    },
+    {
+      "id": "introduce_sentence_33",
+      "content": "Why are you gawking at me? Looking to get {0}?"
+    },
+    {
+      "id": "introduce_sentence_34",
+      "content": "Ugh… What a mess {0} is, huh."
+    },
+    {
+      "id": "introduce_sentence_35",
+      "content": "Come see me, {0}!"
+    },
+    {
+      "id": "introduce_sentence_36",
+      "content": "Well, you are my {0}."
+    },
+    {
+      "id": "introduce_sentence_37",
+      "content": "Mephi loves {0}."
+    },
+    {
+      "id": "introduce_sentence_38",
+      "content": "Oi! Got more of this {0}? It’s peak."
+    },
+    {
+      "id": "introduce_sentence_39",
+      "content": "Call me {0}, if you please."
+    },
+    {
+      "id": "introduce_sentence_40",
+      "content": "Please do your best, {0}."
+    },
+    {
+      "id": "introduce_word_41",
+      "content": "Churning"
+    },
+    {
+      "id": "introduce_word_42",
+      "content": "Succor"
+    },
+    {
+      "id": "introduce_sentence_41",
+      "content": "Looking for the soup to warm up your {0}?"
+    },
+    {
+      "id": "introduce_sentence_42",
+      "content": "Salutations!!!!!! I implore thee to try this {0}!!!!"
+    },
+    {
+      "id": "introduce_word_43",
+      "content": "Chicken"
+    },
+    {
+      "id": "introduce_word_44",
+      "content": "Ingredient Trimming"
+    },
+    {
+      "id": "introduce_sentence_43",
+      "content": "{0}, rev up those fryers."
+    },
+    {
+      "id": "introduce_word_45",
+      "content": "Judgement"
+    },
+    {
+      "id": "introduce_sentence_45",
+      "content": "Nay, {0}’s words cannot be trusted!"
+    },
+    {
+      "id": "introduce_word_46",
+      "content": "Purification"
+    },
+    {
+      "id": "introduce_sentence_46",
+      "content": "{0} should be okay, I hope…?"
+    },
+    {
+      "id": "introduce_word_47",
+      "content": "Open Alley"
+    },
+    {
+      "id": "introduce_sentence_47",
+      "content": "As a matter of fact, it is {0}."
+    },
+    {
+      "id": "introduce_word_48",
+      "content": "World"
+    },
+    {
+      "id": "introduce_sentence_48",
+      "content": "To bound over to the next {0}…"
+    },
+    {
+      "id": "introduce_word_49",
+      "content": "Workshop"
+    },
+    {
+      "id": "introduce_sentence_49",
+      "content": "…Yes, this is {0} on the phone. Please speak."
+    },
+    {
+      "id": "introduce_word_50",
+      "content": "All In"
+    },
+    {
+      "id": "introduce_sentence_50",
+      "content": "Alright... I'm {0}~ Come at me if you can!"
+    },
+    {
+      "id": "introduce_word_51",
+      "content": "This Way"
+    },
+    {
+      "id": "introduce_sentence_51",
+      "content": "Come on… {0}!"
+    },
+    {
+      "id": "introduce_word_52",
+      "content": "Bullring"
+    },
+    {
+      "id": "introduce_sentence_52",
+      "content": "The best {0} you could ask for a stampede."
+    },
+    {
+      "id": "introduce_word_53",
+      "content": "Colleagues"
+    },
+    {
+      "id": "introduce_sentence_53",
+      "content": "I have no {0} left now."
+    },
+    {
+      "id": "introduce_word_54",
+      "content": "Creamer"
+    },
+    {
+      "id": "introduce_sentence_54",
+      "content": "No {0}, huh? You really care..."
+    },
+    {
+      "id": "introduce_word_55",
+      "content": "Discharge"
+    },
+    {
+      "id": "introduce_sentence_55",
+      "content": "Time to {0}."
+    },
+    {
+      "id": "introduce_word_56",
+      "content": "Attention"
+    },
+    {
+      "id": "introduce_sentence_56",
+      "content": "I don't need... any pointless {0}!"
+    },
+    {
+      "id": "introduce_word_57",
+      "content": "Eyes"
+    },
+    {
+      "id": "introduce_sentence_57",
+      "content": "Your {0} will be in the dark."
+    },
+    {
+      "id": "introduce_word_58",
+      "content": "Umbrella"
+    },
+    {
+      "id": "introduce_sentence_58",
+      "content": "I worry that it may leak through the {0}."
+    },
+    {
+      "id": "introduce_word_59",
+      "content": "Scent"
+    },
+    {
+      "id": "introduce_sentence_59",
+      "content": "That {0} seems quite attractive to me."
+    },
+    {
+      "id": "introduce_word_60",
+      "content": "Fairy Wine"
+    },
+    {
+      "id": "introduce_sentence_60",
+      "content": "Mmm... A glass of {0}..."
+    },
+    {
+      "id": "introduce_word_61",
+      "content": "Deployment"
+    },
+    {
+      "id": "introduce_sentence_61",
+      "content": "Ahh~ You're finally ordering my {0}~"
+    },
+    {
+      "id": "introduce_word_62",
+      "content": "Talisman"
+    },
+    {
+      "id": "introduce_sentence_62",
+      "content": "Must attach the {0}..."
+    },
+    {
+      "id": "introduce_word_63",
+      "content": "Spider"
+    },
+    {
+      "id": "introduce_sentence_63",
+      "content": "The {0}s will like this..."
+    },
+    {
+      "id": "introduce_word_64",
+      "content": "Many Eyes"
+    },
+    {
+      "id": "introduce_sentence_64",
+      "content": "The {0} opened."
+    },
+    {
+      "id": "introduce_word_65",
+      "content": "Beef Noodles"
+    },
+    {
+      "id": "introduce_sentence_65",
+      "content": "Wanna have some {0} on the way back?"
+    },
+    {
+      "id": "introduce_word_66",
+      "content": "Rhino Team"
+    },
+    {
+      "id": "introduce_sentence_66",
+      "content": "{0}, charging ahead."
+    },
+    {
+      "id": "introduce_word_67",
+      "content": "Stealth Mission"
+    },
+    {
+      "id": "introduce_sentence_67",
+      "content": "Shh, I'm in the middle of a {0}."
+    },
+    {
+      "id": "introduce_word_68",
+      "content": "Childish"
+    },
+    {
+      "id": "introduce_sentence_68",
+      "content": "What say you, is it still a {0}?"
+    },
+    {
+      "id": "introduce_word_69",
+      "content": "Strugglin'"
+    },
+    {
+      "id": "introduce_sentence_69",
+      "content": "Sit still... Quit {0}!"
+    },
+    {
+      "id": "introduce_word_70",
+      "content": "Welding"
+    },
+    {
+      "id": "introduce_sentence_70",
+      "content": "Right... Now let's get to {0}..."
+    },
+    {
+      "id": "introduce_word_71",
+      "content": "Transformation"
+    },
+    {
+      "id": "introduce_sentence_71",
+      "content": "Tadaa~ {0} complete!\n"
+    },
+    {
+      "id": "introduce_word_72",
+      "content": "Relax"
+    },
+    {
+      "id": "introduce_sentence_72",
+      "content": "Go on, open wide. {0} and cram this drink down your throats, heheh."
+    },
+    {
+      "id": "introduce_word_73",
+      "content": "Some Old Guy"
+    },
+    {
+      "id": "introduce_sentence_73",
+      "content": "{0}? Come on…"
+    },
+    {
+      "id": "introduce_word_74",
+      "content": "Observation"
+    },
+    {
+      "id": "introduce_sentence_74",
+      "content": "I am not some {0} target…"
+    },
+    {
+      "id": "introduce_word_75",
+      "content": "Training"
+    },
+    {
+      "id": "introduce_sentence_75",
+      "content": "Absurd. Can't believe I'm relegated to {0}."
+    },
+    {
+      "id": "introduce_word_76",
+      "content": "Those WARP Trains"
+    },
+    {
+      "id": "introduce_sentence_76",
+      "content": "{0} tend to be rather cramped, don't you think?"
+    },
+    {
+      "id": "introduce_word_77",
+      "content": "Black Tea"
+    },
+    {
+      "id": "introduce_sentence_77",
+      "content": "{0} will take your orders."
+    },
+    {
+      "id": "introduce_word_78",
+      "content": "Case"
+    },
+    {
+      "id": "introduce_sentence_78",
+      "content": "Let's go solve this {0}, yeah?"
+    },
+    {
+      "id": "introduce_word_79",
+      "content": "Ourselves"
+    },
+    {
+      "id": "introduce_sentence_79",
+      "content": "Alas, it appears that we must involve {0} in this matter."
+    },
+    {
+      "id": "introduce_word_80",
+      "content": "Water"
+    },
+    {
+      "id": "introduce_sentence_80",
+      "content": "{0}... I need some {0}..."
+    }
+  ]
+}

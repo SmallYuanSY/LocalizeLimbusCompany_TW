@@ -1,0 +1,72 @@
+{
+  "dataList": [
+    {
+      "id": "EGO_GIFT",
+      "content": "E.G.Oギフト"
+    },
+    {
+      "id": "OnStageStart",
+      "content": "ステージ進入時"
+    },
+    {
+      "id": "IncludeSkillAttribute",
+      "content": "属性の積みを保有する"
+    },
+    {
+      "id": "NotIncludeSkillAttribute",
+      "content": "属性の積みを保有しない"
+    },
+    {
+      "id": "NextBattle",
+      "content": "次の戦闘に参加する"
+    },
+    {
+      "id": "LowestMp",
+      "content": "最も精神力の低い"
+    },
+    {
+      "id": "FAILURE",
+      "content": "判定に失敗した"
+    },
+    {
+      "id": "SUCCESS",
+      "content": "判定に成功した"
+    },
+    {
+      "id": "ADD",
+      "content": "加算"
+    },
+    {
+      "id": "SUB",
+      "content": "減算"
+    },
+    {
+      "id": "85560101CRIMSON",
+      "content": "붉은"
+    },
+    {
+      "id": "85560101SCARLET",
+      "content": "주홍"
+    },
+    {
+      "id": "85560101AMBER",
+      "content": "노란"
+    },
+    {
+      "id": "85560101SHAMROCK",
+      "content": "푸른"
+    },
+    {
+      "id": "85560101AZURE",
+      "content": "새파란"
+    },
+    {
+      "id": "85560101INDIGO",
+      "content": "쪽빛"
+    },
+    {
+      "id": "85560101VIOLET",
+      "content": "보랏빛"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "name": "Season 1 Celebratory Banner",
+      "desc": "Obtained at Season 1 Free Pass Level 1"
+    },
+    {
+      "id": 2,
+      "name": "Season 1 Completion Banner",
+      "desc": "Obtained at Season 1 Limbus Pass Level 60"
+    },
+    {
+      "id": 3,
+      "name": "Proof of Diligent Attendance",
+      "desc": "Obtained from the New-hire’s Attendance Rewards event."
+    },
+    {
+      "id": 4,
+      "name": "Kind Manager",
+      "desc": "Obtained from the New-hire’s Attendance Rewards event."
+    },
+    {
+      "id": 5,
+      "name": "Refraction Railway Line 1 Basic Banner",
+      "desc": "Obtained by clearing Station 13 of Refraction Railway Line 1."
+    },
+    {
+      "id": 6,
+      "name": "Refraction Railway Line 1 Decorated Banner",
+      "desc": "Obtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns."
+    },
+    {
+      "id": 7,
+      "name": "Refraction Railway Line 1 Embellished Banner",
+      "desc": "Obtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns during the first two weeks of the event."
+    },
+    {
+      "id": 8,
+      "name": "Hell’s Chicken",
+      "desc": "Obtained from the Hell’s Chicken event."
+    },
+    {
+      "id": 9,
+      "name": "To My Mother…",
+      "desc": "Obtained from the Hell’s Chicken event."
+    },
+    {
+      "id": 10,
+      "name": "Season 2 Celebratory Banner",
+      "desc": "Obtained at Season 2 Free Pass Level 1"
+    },
+    {
+      "id": 11,
+      "name": "Season 2 Completion Banner",
+      "desc": "Obtained at Season 2 Limbus Pass Level 60"
+    },
+    {
+      "id": 12,
+      "name": "S.E.A Event Ornamental Banner",
+      "desc": "Obtained from the S.E.A event."
+    },
+    {
+      "id": 13,
+      "name": "Refraction Railway Line 2 Basic Banner",
+      "desc": "Obtained by clearing Refraction Railway Line 2 with 3 or more Cycles"
+    },
+    {
+      "id": 14,
+      "name": "Refraction Railway Line 2 Decorated Banner",
+      "desc": "Obtained by clearing Refraction Railway Line 2 with 5 or more Cycles"
+    },
+    {
+      "id": 15,
+      "name": "Refraction Railway Line 2 Embellished Banner",
+      "desc": "Obtained by clearing Refraction Railway Line 2 with 5 or more Cycles and under 200 Total Turns"
+    },
+    {
+      "id": 16,
+      "name": "Special Refraction Railway Line 2 Basic Banner",
+      "desc": "Obtained by clearing Refraction Railway Line 2 with 3 or more Cycles before the end of Season 2: Reminiscence"
+    },
+    {
+      "id": 17,
+      "name": "Special Refraction Railway Line 2 Decorated Banner",
+      "desc": "Obtained by clearing Refraction Railway Line 2 with 5 or more Cycles before the end of Season 2: Reminiscence"
+    },
+    {
+      "id": 18,
+      "name": "Special Refraction Railway Line 2 Embellished Banner",
+      "desc": "Obtained by clearing Refraction Railway Line 2 with 5 or more Cycles and under 200 Total Turns before the end of Season 2: Reminiscence"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20701_1",
+      "desc": "E.G.O Activation",
+      "dlg": "You’ll… get shoved in this bag too!"
+    },
+    {
+      "id": "battle_awaken_20702_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Alright, I’ll sear you down to your guts!"
+    },
+    {
+      "id": "battle_erosion_20702_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": ""
+    },
+    {
+      "id": "battle_awaken_20703_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Kahahaha! I'll fry you... all the way to the heart!"
+    },
+    {
+      "id": "battle_erosion_20703_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "It's my turn to torment you now... Need some shock in your system?!"
+    }
+  ]
+}

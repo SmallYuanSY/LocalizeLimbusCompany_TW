@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Increases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>",
+      "min": "Decreases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>"
+    },
+    {
+      "id": "OnKillEnemyAsLevelRatioMultiply",
+      "add": "Increase by {0} after defeating an enemy whose level was higher than the unit’s",
+      "min": "Decrease by {0} after defeating an enemy whose level was higher than the unit’s"
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
+      "add": "Increase by {0} after an ally defeats an enemy whose level was higher than the unit’s",
+      "min": "Decrease by {0} after an ally defeats an enemy whose level was higher than the unit’s"
+    },
+    {
+      "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Increases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>",
+      "min": "Decreases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>"
+    },
+    {
+      "id": "OnDieAllyAsLevelRatio",
+      "add": "If the level of the defeated ally was higher than the unit’s,\nincrease based on the level difference\n<size=95%>(Base Value is {0}, raised by {0} per level)</size>",
+      "min": "If the level of the defeated ally was higher than the unit’s,\ndecrease based on the level difference\n<size=95%>(Base Value is {0}, raised by {0} per level)</size>"
+    },
+    {
+      "id": "OnRoundStartAfterEvent",
+      "add": "SP increased by {0} at the start of the turn",
+      "min": "SP decreased by {0} at the start of the turn"
+    }
+  ]
+}

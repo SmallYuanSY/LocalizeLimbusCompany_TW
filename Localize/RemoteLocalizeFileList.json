@@ -5,6 +5,7 @@
     "ResistText",
     "SuccessRate",
     "AbEventsResultLog",
+    "AbEventsResultLog_Refraction2",
     "DungeonArea1-1",
     "DungeonArea1-2",
     "BattlePass",
@@ -34,7 +35,13 @@
     "RailwayDungeonUI",
     "HellsChicken",
     "DailyLoginEvent",
-    "MirrorDungeonUI_2"
+    "MirrorDungeonUI_2",
+    "MainUIText_UPDATE_ON_0720",
+    "EventCommonText",
+    "EventUmidaText",
+    "RailwayDungeonUI_2",
+    "FormationNameFilterUI",
+    "DailyLoginEvent_2"
   ],
   "bgmLyrics": [
     "BgmLyrics_Credit",
@@ -51,40 +58,81 @@
   ],
   "enemy": [
     "Enemies",
-    "Enemies_Refraction"
+    "Enemies_Refraction",
+    "Enemies_Refraction2",
+    "Enemies91-4"
   ],
   "ego": [
     "Egos"
   ],
   "skill": [
     "Skills",
+    "Skills_personality-01",
+    "Skills_personality-02",
+    "Skills_personality-03",
+    "Skills_personality-04",
+    "Skills_personality-05",
+    "Skills_personality-06",
+    "Skills_personality-07",
+    "Skills_personality-08",
+    "Skills_personality-09",
+    "Skills_personality-10",
+    "Skills_personality-11",
+    "Skills_personality-12",
     "Skills_Ego",
+    "Skills_Ego_Personality-01",
+    "Skills_Ego_Personality-02",
+    "Skills_Ego_Personality-03",
+    "Skills_Ego_Personality-04",
+    "Skills_Ego_Personality-05",
+    "Skills_Ego_Personality-06",
+    "Skills_Ego_Personality-07",
+    "Skills_Ego_Personality-08",
+    "Skills_Ego_Personality-09",
+    "Skills_Ego_Personality-10",
+    "Skills_Ego_Personality-11",
+    "Skills_Ego_Personality-12",
     "Skills_Enemy",
+    "Skills_Enemy91-4",
     "Skills_Abnormality",
+    "Skills_Abnormality91-4",
     "Skills_Abnormality_Refraction",
+    "Skills_Abnormality_Refraction2",
+    "Skills_Abnormality_Mirror",
     "Skills_Tutorial"
   ],
   "passive": [
     "Passives",
+    "Passives_check4",
     "Passives_Enemy",
+    "Passives_Enemy91-4",
     "Passives_Abnormality",
     "Passives_Abnormality_Refraction",
+    "Passives_Abnormality_Refraction2",
+    "Passives_Abnormality91-4",
     "Passive_Ego"
   ],
   "buf": [
-    "Bufs"
+    "Bufs",
+    "Bufs_Refraction2"
+
+  ],
+  "buffAbilities": [
+    "BuffAbilities"
   ],
   "item": [
     "Items"
   ],
   "keyword": [
-    "BattleKeywords"
+    "BattleKeywords",
+    "BattleKeywords_Refraction2"
   ],
   "skillTag": [
     "SkillTag"
   ],
   "abnormalityEvents": [
     "AbEvents",
+    "AbEvents_Refraction2",
     "AbEvents_Mirror"
   ],
   "abnormalityCharDlgs": [
@@ -105,7 +153,9 @@
     "AttributeText"
   ],
   "abnormalityGuideContent": [
-    "AbnormalityGuides"
+    "AbnormalityGuides",
+    "AbnormalityGuides_Refraction2",
+    "AbnormalityGuides_Mirror"
   ],
   "keywordDictionary": [
     "KeywordDictionary"
@@ -131,7 +181,8 @@
     "StageNode1-2",
     "StageNode1-3",
     "StageNode91-3",
-    "StageNode1-4"
+    "StageNode1-4",
+    "StageNode91-4"
   ],
   "dungeonNodeInfo": [
     "MirrorDungeonNode1-1",
@@ -148,7 +199,11 @@
     "RailwayDungeon"
   ],
   "railwayDungeonNodeInfo": [
-    "RailwayDungeonNode1-1"
+    "RailwayDungeonNode1-1",
+    "RailwayDungeonNode2"
+  ],
+  "railwayDungeonBuff": [
+    "RailwayDungeonBuff"
   ],
   "quest": [
     "Quest"
@@ -179,7 +234,8 @@
   "tutorialDesc": [
     "TutorialDesc",
     "TutorialDesc0-4",
-    "TutorialPopUpDesc"
+    "TutorialPopUpDesc",
+    "TutorialNewUpperSkillInfoUI"
   ],
   "personalityVoice": [
     "Voice_Yisang_LCB_10101",
@@ -315,7 +371,8 @@
     "ThreadDungeon"
   ],
   "railwayDungeonStationName": [
-    "RailwayDungeonStationName1-1"
+    "RailwayDungeonStationName1-1",
+    "RailwayDungeonStationName2"
   ],
   "dungeonName": [
     "DungeonName_Event"
