@@ -44,10 +44,3 @@ jobs:
             Release/*.7z
           body_path: CHANGELOG.md
           tag_name: ${{ steps.extract_version.outputs.release_tag }}
-      - name: 触发工作流
-        uses: benc-uk/workflow-dispatch@v1
-        with:
-          token: ${{ secrets.ROOT }}
-          workflow: update_api.yml
-          repo: ZengXiaoPi/LLC_jsontest
-          ref: main
