@@ -1,14 +1,13 @@
-﻿using HarmonyLib;
-using Il2Cpp;
-using Il2CppAddressable;
-using Il2CppSimpleJSON;
-using Il2CppStorySystem;
+﻿using Addressable;
+using HarmonyLib;
 using Il2CppSystem.Collections.Generic;
-using Il2CppTMPro;
-using Il2CppUtilityUI;
+using SimpleJSON;
+using StorySystem;
 using System;
 using System.IO;
+using TMPro;
 using UnityEngine;
+using UtilityUI;
 
 namespace LimbusLocalize
 {
@@ -50,10 +49,7 @@ namespace LimbusLocalize
             return false;
         }
         public static bool IsChineseFont(TMP_FontAsset fontAsset)
-        {
-            return tmpchinesefontnames.Contains(fontAsset.name);
-        }
-
+            => tmpchinesefontnames.Contains(fontAsset.name);
         [HarmonyPatch(typeof(TMP_Text), nameof(TMP_Text.font), MethodType.Setter)]
         [HarmonyPrefix]
         private static bool set_font(TMP_Text __instance, ref TMP_FontAsset value)
@@ -106,9 +102,17 @@ namespace LimbusLocalize
                 if (__instance.TryGetComponent<TextMeshProUGUI>(out var textMeshProUGUI))
                     __instance._text = textMeshProUGUI;
             if (!__instance._matSetter)
-                if(__instance.TryGetComponent<TextMeshProMaterialSetter>(out var textMeshProMaterialSetter))
-                    __instance._matSetter= textMeshProMaterialSetter;
+                if (__instance.TryGetComponent<TextMeshProMaterialSetter>(out var textMeshProMaterialSetter))
+                    __instance._matSetter = textMeshProMaterialSetter;
         }
+        [HarmonyPatch(typeof(BattleSkillViewUIInfo), nameof(BattleSkillViewUIInfo.Init))]
+        [HarmonyPrefix]
+        private static void BattleSkillViewUIInfoInit(BattleSkillViewUIInfo __instance)
+        {
+            __instance._materialSetter_abText.underlayColor = Color.clear;
+            __instance._materialSetter_skillText.underlayColor = Color.clear;
+        }
+
         [HarmonyPatch(typeof(TextMeshProMaterialSetter), nameof(TextMeshProMaterialSetter.WriteMaterialProperty))]
         [HarmonyPrefix]
         public static bool WriteMaterialProperty(TextMeshProMaterialSetter __instance)
@@ -190,6 +194,8 @@ namespace LimbusLocalize
             tm._panicInfo.Init(romoteLocalizeFileList.PanicInfo);
             tm._mentalConditionList.Init(romoteLocalizeFileList.mentalCondition);
             tm._dungeonStartBuffs.Init(romoteLocalizeFileList.DungeonStartBuffs);
+            tm._railwayDungeonBuffText.Init(romoteLocalizeFileList.RailwayDungeonBuff);
+            tm._buffAbilityList.Init(romoteLocalizeFileList.buffAbilities);
 
             tm._abnormalityEventCharDlg.AbEventCharDlgRootInit(romoteLocalizeFileList.abnormalityCharDlgFilePath);
 
@@ -290,9 +296,7 @@ namespace LimbusLocalize
         [HarmonyPatch(typeof(TextDataManager), nameof(TextDataManager.LoadRemote))]
         [HarmonyPrefix]
         private static void LoadRemote(ref LOCALIZE_LANGUAGE lang)
-        {
-            lang = LOCALIZE_LANGUAGE.EN;
-        }
+           => lang = LOCALIZE_LANGUAGE.EN;
         [HarmonyPatch(typeof(StoryData), nameof(StoryData.Init))]
         [HarmonyPostfix]
         private static void StoryDataInit(StoryData __instance)
@@ -319,7 +323,6 @@ namespace LimbusLocalize
                 }
             }
         }
-
         private static void AbEventCharDlgRootInit(this AbEventCharDlgRoot root, List<string> jsonFilePathList)
         {
             root._personalityDict = new();
@@ -356,7 +359,6 @@ namespace LimbusLocalize
                 jsonDataList[text.Split('_')[^1]] = localizeTextData;
             }
         }
-
         #endregion
         public static bool TryGetValueEX<TKey, TValue>(this Dictionary<TKey, TValue> dic, TKey key, out TValue value)
         {

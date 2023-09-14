@@ -1,10 +1,9 @@
-﻿using HarmonyLib;
-using Il2Cpp;
-using Il2CppLocalSave;
-using Il2CppMainUI;
-using Il2CppTMPro;
-using MelonLoader;
+﻿using BepInEx.Configuration;
+using HarmonyLib;
+using LocalSave;
+using MainUI;
 using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -12,7 +11,7 @@ namespace LimbusLocalize
 {
     public static class LLC_Chinese_Setting
     {
-        public static MelonPreferences_Entry<bool> IsUseChinese = LCB_LLCMod.LLC_Settings.CreateEntry("IsUseChinese", true, null, "为 true 使用漢化,可選 false");
+        public static ConfigEntry<bool> IsUseChinese = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "IsUseChinese", true, "是否使用汉化 ( true | false )");
         static bool _isusechinese;
         static Toggle Chinese_Setting;
         [HarmonyPatch(typeof(SettingsPanelGame), nameof(SettingsPanelGame.InitLanguage))]
@@ -60,10 +59,7 @@ namespace LimbusLocalize
         }
         [HarmonyPatch(typeof(SettingsPanelGame), nameof(SettingsPanelGame.ApplySetting))]
         [HarmonyPostfix]
-        private static void ApplySetting()
-        {
-            IsUseChinese.Value = _isusechinese;
-        }
+        private static void ApplySetting() => IsUseChinese.Value = _isusechinese;
         private static void OnClickLanguageToggleEx(this SettingsPanelGame __instance, int tgIdx)
         {
             if (tgIdx == 3)

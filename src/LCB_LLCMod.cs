@@ -1,39 +1,41 @@
-using LimbusLocalize;
-using MelonLoader;
+using BepInEx;
+using BepInEx.Configuration;
+using BepInEx.Unity.IL2CPP;
 using System;
 using System.IO;
 using System.Reflection;
-using System.Text.RegularExpressions;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(LCB_LLCMod), LCB_LLCMod.NAME, LCB_LLCMod.VERSION, LCB_LLCMod.AUTHOR, LCB_LLCMod.LLCLink)]
 namespace LimbusLocalize
 {
-    public class LCB_LLCMod : MelonMod
+    [BepInPlugin(GUID, NAME, VERSION)]
+    public class LCB_LLCMod : BasePlugin
     {
+        public static ConfigFile LLC_Settings;
         public static string ModPath;
         public static string GamePath;
+        public const string GUID = "Com.Bright.LocalizeLimbusCompany";
         public const string NAME = "LimbusLocalizeMod";
-        public const string VERSION = "0.5.17";
+        public const string VERSION = "0.6.3";
         public const string AUTHOR = "Bright&SmallYuan";
-        public const string LLCLink = "https://github.com/SmallYuanSY/LocalizeLimbusCompany";
-        public static MelonPreferences_Category LLC_Settings = MelonPreferences.CreateCategory("LLC", "LLC Settings");
+        public const string LLCLink = "https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW";
         public static Action<string, Action> LogFatalError { get; set; }
         public static Action<string> LogError { get; set; }
         public static Action<string> LogWarning { get; set; }
-        public static void OpenLLCURL() { Application.OpenURL(LLCLink); }
-        public static void OpenGamePath() { Application.OpenURL(GamePath); }
-        public override void OnInitializeMelon()
+        public static void OpenLLCURL() => Application.OpenURL(LLCLink);
+        public static void OpenGamePath() => Application.OpenURL(GamePath);
+        public override void Load()
         {
-            LogError = (string log) => { LoggerInstance.Error(log); Debug.LogError(log); };
-            LogWarning = (string log) => { LoggerInstance.Warning(log); Debug.LogWarning(log); };
+            LLC_Settings = Config;
+            LogError = (string log) => { Log.LogError(log); Debug.LogError(log); };
+            LogWarning = (string log) => { Log.LogWarning(log); Debug.LogWarning(log); };
             LogFatalError = (string log, Action action) => { LLC_Manager.FatalErrorlog += log + "\n"; LogError(log); LLC_Manager.FatalErrorAction = action; LLC_Manager.CheckModActions(); };
             ModPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             GamePath = new DirectoryInfo(Application.dataPath).Parent.FullName;
+            LLC_UpdateChecker.StartAutoUpdate();
             try
             {
-                LLC_UpdateChecker.StartCheckUpdates();
-                HarmonyLib.Harmony harmony = new("LimbusLocalizeMod");
+                HarmonyLib.Harmony harmony = new(NAME);
                 if (LLC_Chinese_Setting.IsUseChinese.Value)
                 {
                     LLC_Manager.InitLocalizes(new DirectoryInfo(ModPath + "/Localize/CN"));
@@ -45,21 +47,18 @@ namespace LimbusLocalize
                 harmony.PatchAll(typeof(LLC_Manager));
                 harmony.PatchAll(typeof(LLC_Chinese_Setting));
                 if (!LCB_Chinese_Font.AddChineseFont(ModPath + "/tmpchinesefont"))
-                    LogFatalError("You Not Have Chinese Font, Please Read GitHub Readme To Download\n你没有下载中文字體,請閱讀GitHub的Readme下載", OpenLLCURL);
+                    LogFatalError("You Not Have Chinese Font, Please Read GitHub Readme To Download\n你沒有下載中文字體,請閱讀GitHub的Readme下載", OpenLLCURL);
             }
             catch (Exception e)
             {
-                LogFatalError("Mod Has Unknown Fatal Error!!!\n模组部分功能出現致命錯誤,即將打開GitHub,請根據Issues流程反饋", () => { OnApplicationQuit(); OpenGamePath(); OpenLLCURL(); });
+                LogFatalError("Mod Has Unknown Fatal Error!!!\n模组部分功能出現致命錯誤,即將打開GitHub,請根據Issues流程反饋", () => { CopyLog(); OpenGamePath(); OpenLLCURL(); });
                 LogError(e.ToString());
             }
         }
-        public override void OnApplicationQuit()
+        public static void CopyLog()
         {
-            File.Copy(GamePath + "/MelonLoader/Latest.log", GamePath + "/Latest(框架日志).log", true);
-            var Latestlog = File.ReadAllText(GamePath + "/Latest(框架日志).log");
-            Latestlog = Regex.Replace(Latestlog, "[0-9:\\.\\[\\]]+ During invoking native->managed trampoline(\r\n)?", "");
-            File.WriteAllText(GamePath + "/Latest(框架日志).log", Latestlog);
-            File.Copy(Application.consoleLogPath, GamePath + "/Player(游戏日志).log", true);
+            File.Copy(GamePath + "/BepInEx/LogOutput.log", GamePath + "/Latest(框架日誌).log", true);
+            File.Copy(Application.consoleLogPath, GamePath + "/Player(遊戲日誌).log", true);
         }
     }
 }

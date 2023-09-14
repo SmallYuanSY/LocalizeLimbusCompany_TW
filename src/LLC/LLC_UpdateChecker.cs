@@ -1,25 +1,30 @@
-﻿using Il2CppSimpleJSON;
+﻿using BepInEx.Configuration;
 using Il2CppSystem.Threading;
-using Semver;
+using SimpleJSON;
 using System;
 using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.Networking;
+
 namespace LimbusLocalize
 {
     public static class LLC_UpdateChecker
     {
-        public static void StartCheckUpdates()
+        public static ConfigEntry<bool> AutoUpdate = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "AutoUpdate", false, "是否從Github上面自動檢查並下載更新 ( true | false )");
+        public static void StartAutoUpdate()
         {
-            LCB_LLCMod.LogWarning("Check Mod Update");
-            Action ModUpdate = CheckModUpdate;
-            new Thread(ModUpdate).Start();
+            if (AutoUpdate.Value)
+            {
+                LCB_LLCMod.LogWarning("Check Mod Update");
+                Action ModUpdate = CheckModUpdate;
+                new Thread(ModUpdate).Start();
+            }
         }
         static void CheckModUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/SmallYuanSY/LocalizeLimbusCompany/releases");
+            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases");
             www.timeout = 4;
             www.SendWebRequest();
             while (!www.isDone)
@@ -31,11 +36,11 @@ namespace LimbusLocalize
                 JSONArray releases = JSONNode.Parse(www.downloadHandler.text).AsArray;
                 string latestReleaseTag = releases[0]["tag_name"].Value;
                 string latest2ReleaseTag = releases.m_List.Count > 1 ? releases[1]["tag_name"].Value : string.Empty;
-                if (SemVersion.Parse(LCB_LLCMod.VERSION) < SemVersion.Parse(latestReleaseTag.Remove(0, 1)))
+                if (Version.Parse(LCB_LLCMod.VERSION) < Version.Parse(latestReleaseTag.Remove(0, 1)))
                 {
-                    string updatelog = (latest2ReleaseTag == "v" + LCB_LLCMod.VERSION ? "LimbusLocalize_TW_OTA_" : "LimbusLocalize_TW_") + latestReleaseTag;
-                    Updatelog += updatelog + ".zip ";
-                    string download = "https://github.com/SmallYuanSY/LocalizeLimbusCompany/releases/download/" + latestReleaseTag + "/" + updatelog + ".zip";
+                    string updatelog = (latest2ReleaseTag == "v" + LCB_LLCMod.VERSION ? "LimbusLocalize_BIE_OTA_" : "LimbusLocalize_BIE_") + latestReleaseTag;
+                    Updatelog += updatelog + ".7z ";
+                    string download = "https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW/releases/download/" + latestReleaseTag + "/" + updatelog + ".7z";
                     var dirs = download.Split('/');
                     string filename = LCB_LLCMod.GamePath + "/" + dirs[^1];
                     if (!File.Exists(filename))
@@ -46,15 +51,12 @@ namespace LimbusLocalize
                 Action FontAssetUpdate = CheckChineseFontAssetUpdate;
                 new Thread(FontAssetUpdate).Start();
             }
-            LCB_LLCMod.LogWarning("Check Readme Update");
-            Action ReadmeUpdate = CheckReadmeUpdate;
-            new Thread(ReadmeUpdate).Start();
         }
         static void CheckChineseFontAssetUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/SmallYuanSY/LLC_ChineseFontAsset/releases/latest");
+            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/latest");
             string FilePath = LCB_LLCMod.ModPath + "/tmpchinesefont";
-            var LastWriteTime = File.Exists(FilePath) ? int.Parse(new FileInfo(FilePath).LastWriteTime.ToString("yyMMdd")) : 0;
+            var LastWriteTime = File.Exists(FilePath) ? int.Parse(TimeZoneInfo.ConvertTime(new FileInfo(FilePath).LastWriteTime, TimeZoneInfo.FindSystemTimeZoneById("China Standard Time")).ToString("yyMMdd")) : 0;
             www.SendWebRequest();
             while (!www.isDone)
                 Thread.Sleep(100);
@@ -62,9 +64,9 @@ namespace LimbusLocalize
             int latestReleaseTag = int.Parse(latest["tag_name"].Value);
             if (LastWriteTime < latestReleaseTag)
             {
-                string updatelog = "tmpchinesefont_" + latestReleaseTag;
-                Updatelog += updatelog + ".zip ";
-                string download = "https://github.com/SmallYuanSY/LLC_ChineseFontAsset/releases/download/" + latestReleaseTag + "/" + updatelog + ".zip";
+                string updatelog = "tmpchinesefont_BIE_" + latestReleaseTag;
+                Updatelog += updatelog + ".7z ";
+                string download = "https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/download/" + latestReleaseTag + "/" + updatelog + ".7z";
                 var dirs = download.Split('/');
                 string filename = LCB_LLCMod.GamePath + "/" + dirs[^1];
                 if (!File.Exists(filename))
@@ -88,7 +90,7 @@ namespace LimbusLocalize
         }
         public static void CheckReadmeUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://SmallYuanSY.github.io/LocalizeLimbusCompany/LatestUpdateTime.txt");
+            UnityWebRequest www = UnityWebRequest.Get("https://json.zxp123.eu.org/ReadmeLatestUpdateTime.txt");
             www.timeout = 1;
             www.SendWebRequest();
             string FilePath = LCB_LLCMod.ModPath + "/Localize/Readme/Readme.json";
@@ -99,7 +101,7 @@ namespace LimbusLocalize
             }
             if (www.result == UnityWebRequest.Result.Success && LastWriteTime < DateTime.Parse(www.downloadHandler.text))
             {
-                UnityWebRequest www2 = UnityWebRequest.Get("https://SmallYuanSY.github.io/LocalizeLimbusCompany/Readme.json");
+                UnityWebRequest www2 = UnityWebRequest.Get("https://json.zxp123.eu.org/Readme.json");
                 www2.SendWebRequest();
                 while (!www2.isDone)
                 {
