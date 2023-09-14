@@ -2,11 +2,10 @@ name: 开发版
 on:
   workflow_dispatch:
   push:
-    branches: master
+    branches:
       - 'master'
     paths:
       - 'src/**'
-      - '!CHANGELOG.md'
 jobs:
   dev:
     runs-on: windows-latest
@@ -14,8 +13,24 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
+          lfs: true
           fetch-depth: 0
+      - name: Check Ver
+        id: extract_version
+        run: |
+          $version = Get-Content -Path CHANGELOG.md | Select-Object -First 1 | ForEach-Object { $_ -replace '# ', '' }
+          if($(git diff --name-only HEAD $(git describe --tags --abbrev=0) -- CHANGELOG.md)){
+          echo "hasnewver=true" >> $env:GITHUB_OUTPUT
+          echo "release_tag=$version" >> $env:GITHUB_OUTPUT
+          }
+      - name: 触发工作流
+        if: steps.extract_version.outputs.hasnewver == 'true'
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: release.yml
+          inputs: '{ "version": "${{ steps.extract_version.outputs.release_tag }}" }'
       - name: Cache NuGet packages
+        if: steps.extract_version.outputs.hasnewver != 'true'
         uses: actions/cache@v3
         with:
           path: ~/.nuget/packages
@@ -23,15 +38,18 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-nuget-
       - name: Run build script
+        if: steps.extract_version.outputs.hasnewver != 'true'
         run: |
           ./build.ps1 Dev
-      - name: Upload Full
+      - name: Upload BIE Full
+        if: steps.extract_version.outputs.hasnewver != 'true'
         uses: actions/upload-artifact@v3
         with:
-          name: LimbusLocalize_TW_Dev.zip
-          path: Release/LimbusLocalize_TW_Dev.zip
-      - name: Upload OTA
+          name: LimbusLocalize_BIE_Dev.7z
+          path: Release/LimbusLocalize_BIE_Dev.7z
+      - name: Upload BIE OTA
+        if: steps.extract_version.outputs.hasnewver != 'true'
         uses: actions/upload-artifact@v3
         with:
-          name: LimbusLocalize_TW_OTA_Dev.zip
-          path: Release/LimbusLocalize_TW_OTA_Dev.zip
+          name: LimbusLocalize_BIE_OTA_Dev.7z
+          path: Release/LimbusLocalize_BIE_OTA_Dev.7z

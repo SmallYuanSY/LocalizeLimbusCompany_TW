@@ -1,10 +1,9 @@
-name: release
+name: 發行
 on:
   workflow_dispatch:
     inputs:
       version:
-        description: '版本號碼'
-        required: true
+        description: '版本号'
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
 jobs:
@@ -14,6 +13,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
+          lfs: true
           fetch-depth: 0
       - name: Cache NuGet packages
         uses: actions/cache@v3
@@ -22,18 +22,32 @@ jobs:
           key: ${{ runner.os }}-nuget-${{ hashFiles('src/*.csproj') }}
           restore-keys: |
             ${{ runner.os }}-nuget-
+      - name: Extract version from CHANGELOG.md
+        id: extract_version
+        run: |
+          $version = "${{ github.event.inputs.version }}"
+          if (!$version) {
+            $version = Get-Content -Path CHANGELOG.md | Select-Object -First 1 | ForEach-Object { $_ -replace '# ', '' }
+          }
+          echo "release_tag=$version" >> $env:GITHUB_OUTPUT
       - name: Run build script
         run: |
-          ./build.ps1 ${{ github.event.inputs.version }}
+          ./build.ps1 ${{ steps.extract_version.outputs.release_tag }}
           Add-Content -Path CHANGELOG.md -Value "
           # 下载
-          - LimbusLocalize_TW_${{ github.event.inputs.version }}.zip 全量包
-          - LimbusLocalize_TW_OTA_${{ github.event.inputs.version }}.zip 增量更新"
+          - LimbusLocalize_BIE_${{ steps.extract_version.outputs.release_tag }}.7z 全量包
+          - LimbusLocalize_BIE_OTA_${{ steps.extract_version.outputs.release_tag }}.7z 增量更新"
       - name: Create Upload Release   
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            Release/*.zip
+            Release/*.7z
           body_path: CHANGELOG.md
-          name: LimbusLocalize_ml_${{ github.event.inputs.version }}
-          tag_name: ${{ github.event.inputs.version }}
+          tag_name: ${{ steps.extract_version.outputs.release_tag }}
+      - name: 触发工作流
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          token: ${{ secrets.ROOT }}
+          workflow: update_api.yml
+          repo: ZengXiaoPi/LLC_jsontest
+          ref: main
