@@ -1027,6 +1027,14 @@
       "content": "通關本場戰鬥後剩餘的E.G.O資源在到下場戰鬥依舊能夠使用。"
     },
     {
+      "id": "tutorial_mainui_17_railway_page_08_title_02",
+      "content": "人格狀態"
+    },
+    {
+      "id": "tutorial_mainui_17_railway_page_08_desc_02",
+      "content": "能夠表示編隊中人格的體力，理智值以及陣亡狀態。"
+    },
+    {
       "id": "tutorial_mainui_17_railway_page_09_title_01",
       "content": "通關回合數與累計通關回合數"
     },
@@ -1557,6 +1565,282 @@
     {
       "id": "tutorial_mainui_20_umida_09_desc_01",
       "content": "活動結束後，您也依然可以通過駕駛席-[外傳故事]及放映室-[其他故事]，隨時重溫去・海・邊的關卡和故事。 "
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_01_title_01",
+      "content": "如何進入戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_01_desc_01",
+      "content": "進入折射軌道2號線時無需消耗任何資源。選擇路線即可入場。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_02_title_01",
+      "content": "編隊"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_02_desc_01",
+      "content": "進入關卡時，您可以選擇所擁有的人格與E.G.O來組建隊伍。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_03_desc_01",
+      "content": "戰鬥中更無法更改編隊，且與其他戰斗方式不同，編隊完成並進入關卡後所進行的人格同步或異想解析，將不會反饋進此編隊中"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_04_title_01",
+      "content": "2號線站點"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_04_desc_01",
+      "content": "折射軌道2號線一共由9個關卡構成。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_05_desc_01",
+      "content": "選擇站點並進入戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_05_desc_02",
+      "content": "通關站點後所獲得的獎勵將會顯示在本關下方。部分站點的獎勵需要達到一定巡迴數才會解鎖。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_06_title_01",
+      "content": "戰鬥編隊"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_06_desc_01",
+      "content": "戰鬥最多可編入7人。但若在不滿7人的情況下進入戰鬥，人格的行動槽並不會隨著回合數增加。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_07_title_01",
+      "content": "戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_07_desc_01",
+      "content": "所有戰鬥皆與集中戰鬥相同，友方單位的所有技能均能夠直接對應敵方行動槽。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_07_desc_02",
+      "content": "通關關卡後，參與戰鬥的人格及其體力、理智值，儀錶盤上的技能、各個人格已使用的技能及剩餘技能將會保存。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_08_desc_01",
+      "content": "通關本場戰鬥後剩餘的罪孽碎片在下一站依舊能夠使用。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_08_desc_02",
+      "content": "能夠顯示巡迴數，以及到達目前站點的總計回合數。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_08_desc_03",
+      "content": "能夠表示編隊中人格的體力，理智值以及陣亡狀態。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_09_desc_01",
+      "content": "進入下一站時將會讀取上一站時所保存的數據。\n敵我雙方的速度值將在進站時被保存。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_09_desc_02",
+      "content": "敵我雙方的速度值將在進站時進行保存。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_10_desc_01",
+      "content": "放棄關卡時，會回到進入此站之前的狀態。\n以往關卡開始時人格的體力、理智值、速度值、儀錶盤上的技能、各人格的技能使用狀態，敵方單位的速度值將不會發生變化。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_10_desc_02",
+      "content": "關卡重開時人格的體力、理智值、速度值、儀錶盤上的技能、各人格的技能使用狀態，敵方單位的速度值將不再發生變化。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_11_desc_01",
+      "content": "關卡攻略失敗時，可以回到進站前的狀態或是以剩下的人格繼續戰鬥。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_11_desc_02",
+      "content": "繼續進行戰鬥時，不會刷新敵方單位的剩餘體力，並將在站點上方顯示剩餘體力的比例條。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_12_title_01",
+      "content": "巡迴"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_12_desc_01",
+      "content": "通關了線路上已開放的所有站點後，可以前往第一站（起點站）並進行巡迴。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_12_desc_02",
+      "content": "選擇進行巡迴時，將會增加1點巡迴數。部分站點會基於巡迴數開放。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_13_title_01",
+      "content": "選擇BUFF"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_13_desc_01",
+      "content": "每當進行巡迴時都可以選擇1個友方BUFF與1個敵方BUFF。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_13_desc_02",
+      "content": "您選擇的所有效果都會在以後的戰鬥中激活並累積下去。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_14_desc_01",
+      "content": "選擇1種友方BUFF。無法選擇在以往的巡迴中選擇過的效果。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_15_desc_01",
+      "content": "選擇1種敵方BUFF。無法選擇在以往的巡迴中選擇過的效果。\n但是如果已經將所有效果都選過了1遍，則會刷新選擇機會並可以再次選擇您想要的效果。\n除了可以直接選擇的BUFF以外，每次巡迴時都會額外激活1個固定的BUFF。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_15_desc_02",
+      "content": "但是如果已經將所有效果都選過了1遍，則會刷新選擇機會並可以再次選擇您想要的效果。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_15_desc_03",
+      "content": "除了可以直接選擇的BUFF以外，每次巡迴時都會額外激活1個固定的BUFF。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_16_desc_01",
+      "content": "每5次巡迴可以復活1個陣亡的人格。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_17_title_01",
+      "content": "終點站"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_17_desc_01",
+      "content": "進行巡迴時（巡迴數不小於1時）路線中央的終點站將會被激活。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_17_desc_02",
+      "content": "終點站被激活後不論身處哪一站都可以隨時進入終點站。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_18_desc_01",
+      "content": "進入終點站後將再也無法回到以往的站點，請您慎重考慮。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_18_desc_02",
+      "content": "折射軌道2號線的最終目標是通關終點站，通關後將會記錄巡迴數、累計回合數、參與的人格與E.G.O以及BUFF列表。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_19_title_01",
+      "content": "橫幅獲取條件"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_19_desc_01",
+      "content": "可以在此確認活動橫幅的獲取條件。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_19_desc_02",
+      "content": "條件越困難，便會獲得更為特殊的橫幅。\n獲得橫幅後，會在上面顯示巡迴數與累計回合數的最大值。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_19_desc_03",
+      "content": "獲得橫幅後，會在上面顯示巡迴數與累計回合數的最大值。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_20_title_01",
+      "content": "失物認領處"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_20_desc_01",
+      "content": "初次通關關卡或是滿足特定的條件後，相關的獎勵將會在失物認領所被激活。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_20_desc_02",
+      "content": "為了領取失物認領處中的獎勵，最初需要支付一定數量的腦啡肽模塊。後續領取獎勵無需額外消耗腦啡肽模塊，並且可以隨時獲取已激活的獎勵。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_21_title_01",
+      "content": "累計記錄"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_21_desc_01",
+      "content": "通過最終關卡時將會保存摺射軌道的遊玩記錄，最多可以瀏覽20個記錄。"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_21_desc_02",
+      "content": "記錄超過20個時，將會優先刪除巡迴數較少的記錄，而在巡迴數相同的情況下將會優先刪除累計回合數較多的記錄。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_1_title_01",
+      "content": "路線移動鍵"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_1_desc_01",
+      "content": "通關了路線上已開放的所有站點後將會出現可以前往下一個路線的按鍵。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_2_title_01",
+      "content": "巡迴"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_2_desc_01",
+      "content": "可以通過路線前往第一站（起點站）"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_2_desc_02",
+      "content": "在此過程中巡迴數將會+1，並且將要選擇今後的戰鬥中將被激活的友方BUFF與敵方BUFF。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_3_title_01",
+      "content": "選擇BUFF"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_3_desc_01",
+      "content": "每當進行巡迴時都可以選擇1個友方BUFF與1個敵方BUFF。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_3_desc_02",
+      "content": "您選擇的所有效果都會在以後的戰鬥中激活並累積下去。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_4_desc_01",
+      "content": "選擇1種友方BUFF。無法選擇在以往的巡迴中選擇過的效果。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_5_desc_01",
+      "content": "選擇1種敵方BUFF。無法選擇在以往的巡迴中選擇過的效果。\n但是如果已經將所有效果都選過了1遍，則會刷新選擇機會並可以再次選擇您想要的效果。\n除了可以直接選擇的BUFF以外，每次巡迴時都會額外激活1個固定的BUFF。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_5_desc_02",
+      "content": "但是如果已經將所有效果都選過了1遍，則會刷新選擇機會並可以再次選擇您想要的效果。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_5_desc_03",
+      "content": "除了可以直接選擇的BUFF以外，每次巡迴時都會額外激活1個固定的BUFF。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_6_title_01",
+      "content": "終點站移動鍵"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_6_desc_01",
+      "content": "完成按鍵選擇後將通過路線前往第一站（起點站）。部分站點將會基於巡迴數額外開放。"
+    },
+    {
+      "id": "tutorial_mainui_22_railway2_page_6_desc_02",
+      "content": "進行巡迴後路線中央的終點站將被激活，並出現可以前往終點站的按鍵。"
+    },
+    {
+      "id": "tutorial_mainui_23_railway2_page_1_desc_01",
+      "content": "進入終點站後將再也無法回到以往的站點，請您慎重考慮。"
+    },
+    {
+      "id": "tutorial_mainui_23_railway2_page_1_desc_02",
+      "content": "折射軌道2號線的最終目標是通關終點站，通關後將會記錄巡迴數、累計回合數、參與的人格與E.G.O以及BUFF列表。"
+    },
+    {
+      "id": "tutorial_mainui_railway2_mainTitle",
+      "content": "折射軌道2號線"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_08_title_01",
+      "content": "終點站移動鍵"
+    },
+    {
+      "id": "tutorial_mainui_21_railway2_page_04_desc_02",
+      "content": "每次入場時之後開放至第3站，第4站至第8站將會基於巡迴數依次開放。"
     }
   ]
 }

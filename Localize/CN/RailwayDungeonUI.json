@@ -118,7 +118,7 @@
     },
     {
       "id": "railway_dungeon_try_last_node",
-      "content": "如果您清剿該關卡，則無法返回至上一站點，除非您重新挑戰該線路。\n是否進入該關卡？"
+      "content": "如果您進入終點站，則無法返回至上一站點，除非您重新挑戰該線路。\n是否進入終點站？"
     },
     {
       "id": "railway_dungeon_ask_stop_desc",
@@ -159,6 +159,10 @@
     {
       "id": "railway_dungeon_operation_closed",
       "content": "行程結束"
+    },
+    {
+      "id": "final_clear_accumulated_round",
+      "content": "累計清剿巡迴數"
     }
   ]
 }

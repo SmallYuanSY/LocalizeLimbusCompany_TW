@@ -1459,6 +1459,26 @@
     {
       "id": "user_level_limit_increase_notice",
       "content": "※ 執行經理的最大等級上限可能在今後的更新中提高。"
+    },
+    {
+      "id": "level_up",
+      "content": "升級"
+    },
+    {
+      "id": "summary",
+      "content": "總結"
+    },
+    {
+      "id": "abnormality_part_skill",
+      "content": "部位技能"
+    },
+    {
+      "id": "awaken",
+      "content": "覺醒"
+    },
+    {
+      "id": "erosion",
+      "content": "侵蝕"
     }
   ]
 }

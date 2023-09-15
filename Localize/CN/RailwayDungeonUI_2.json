@@ -2,7 +2,199 @@
   "dataList": [
     {
       "id": "railway_dungeon_alarm_buff_no_one_select_for_heal",
-      "content": "dummy"
+      "content": "沒有可以恢復的人格"
+    },
+    {
+      "id": "railway_dungeon_alarm_buff_no_one_select_for_resurrect",
+      "content": "沒有可以復活的人格"
+    },
+    {
+      "id": "railway_dungeon_healable",
+      "content": "可恢復"
+    },
+    {
+      "id": "railway_dungeon_resurrectable",
+      "content": "可複活"
+    },
+    {
+      "id": "railway_dungeon_ask_to_select_buff_and_rotate",
+      "content": "是否通過路線回到<color=#0f7137>起點站</color>？\n\n<size=90%>移動後將會增加巡迴數，\n並選擇將要激活的<color =#0f7137>友方BUFF</color> 與<color=#990000>敵方BUFF</color>。</size>"
+    },
+    {
+      "id": "railway_dungeon_current_rotation_count_title",
+      "content": "目前巡迴數："
+    },
+    {
+      "id": "railway_dungeon_rotation_count",
+      "content": "巡迴數"
+    },
+    {
+      "id": "railway_dungeon_cumulative_turn_count",
+      "content": "累計回合數"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_1",
+      "content": "巡迴數不少於{1}時通關2號線獲得"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_2",
+      "content": "巡迴數不少於{1}時通關2號線獲得"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_3",
+      "content": "巡迴數不少於{1}，累計回合數不多於{0}時通關2號線獲得"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_4",
+      "content": "在<color=#d6e7f2>第2賽季 追憶</color>期間以巡迴數不少於{1}通關2號線獲得"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_5",
+      "content": "在<color=#d6e7f2>第2賽季 追憶</color>期間以巡迴數不少於{1}通關2號線獲得"
+    },
+    {
+      "id": "railway_dungeon_2_banner_reward_condition_6",
+      "content": "在<color=#d6e7f2>第2賽季 追憶</color>期間以巡迴數不少於{1}，累計回合數不多於{0}通關2號線獲得"
+    },
+    {
+      "id": "railway_dungeon_2_buff_list",
+      "content": "BUFF列表"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_1",
+      "content": "BUFF名稱1（dummy）"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_2",
+      "content": "BUFF名稱2（dummy）"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_3",
+      "content": "BUFF名稱3（dummy）"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_4",
+      "content": "BUFF名稱4（dummy）"
+    },
+    {
+      "id": "railway_dungeon_2_dummy_buff_name_5",
+      "content": "BUFF名稱5（dummy）"
+    },
+    {
+      "id": "railway_dungeon_2_no_owned_buff_desc",
+      "content": "尚未持有任何BUFF。"
+    },
+    {
+      "id": "railway_dungeon_2_buff_effect_title",
+      "content": "BUFF選擇列表"
+    },
+    {
+      "id": "railway_dungeon_2_current_buff",
+      "content": "BUFF現狀"
+    },
+    {
+      "id": "railway_dungeon_2_buff_acquire_ally_buff",
+      "content": "選擇1種<style=\"railwayDungeonAlly\">友方BUFF</style>。"
+    },
+    {
+      "id": "railway_dungeon_2_buff_acquire_enemy_buff",
+      "content": "選擇1種<style=\"railwayDungeonEnemy\">敵方BUFF</style>。"
+    },
+    {
+      "id": "railway_dungeon_2_buff_not_selectable",
+      "content": "在本次巡迴中無法選擇"
+    },
+    {
+      "id": "railway_dungeon_2_buff_fixed_selection",
+      "content": "固定選擇"
+    },
+    {
+      "id": "railway_dungeon_2_select_buff_popup_title",
+      "content": "選擇BUFF"
+    },
+    {
+      "id": "railway_dungeon_2_select_ally_buff",
+      "content": "選擇友方BUFF"
+    },
+    {
+      "id": "railway_dungeon_2_select_enemy_buff",
+      "content": "選擇敵方BUFF"
+    },
+    {
+      "id": "railway_dungeon_2_ally_buff",
+      "content": "友方BUFF"
+    },
+    {
+      "id": "railway_dungeon_2_enemy_buff",
+      "content": "敵方BUFF"
+    },
+    {
+      "id": "railway_dungeon_2_select_resurrect",
+      "content": "選擇需要復活的人格"
+    },
+    {
+      "id": "railway_dungeon_2_empty_selected_buffs",
+      "content": "沒有可選擇的BUFF。"
+    },
+    {
+      "id": "railway_dungeon_2_ask_retry_when_all_died",
+      "content": "由於罪人全部陣亡無法繼續推進。\n是否回到進入目前關卡前的時刻？"
+    },
+    {
+      "id": "railway_dungeon_2_ask_retry_when_defeat",
+      "content": "是否回到進入目前關卡前的時刻？"
+    },
+    {
+      "id": "railway_dungeon_2_ask_retry_when_defeat_info",
+      "content": "※否則將以剩下的人格與保留剩餘體力值與增益效果的敵方單位繼續戰鬥。"
+    },
+    {
+      "id": "railway_dungeon_2_retry_stage",
+      "content": "再次挑戰關卡"
+    },
+    {
+      "id": "railway_dungeon_2_retry_popup_exit",
+      "content": "結束"
+    },
+    {
+      "id": "railway_dungeon_2_retry_popup_continue",
+      "content": "繼續"
+    },
+    {
+      "id": "railway_dungeon_2_retry_popup_retry",
+      "content": "再次挑戰"
+    },
+    {
+      "id": "railway_dungeon_2_rotation_count",
+      "content": "（巡迴數{0}）"
+    },
+    {
+      "id": "railway_dungeon_2_rotation_count_short",
+      "content": "巡迴：{0}"
+    },
+    {
+      "id": "railway_dungeon_2_turn_count_short",
+      "content": "回合：{0}"
+    },
+    {
+      "id": "railway_dungeon_2_rotation_node",
+      "content": "巡迴"
+    },
+    {
+      "id": "railway_dungeon_2_reward_condition_special_ticket",
+      "content": "※<color=#32434f>第二賽季追憶</color>期間，巡迴數到達<color=#005823>{1}</color>圈，且累計回合數不高於<color= #005823>{0}</color>回合時獲得"
+    },
+    {
+      "id": "railway_dungeon_2_special_reward_title",
+      "content": "特殊獎勵"
+    },
+    {
+      "id": "railway_dungeon_2_fixed_enemy_buff",
+      "content": "固定敵方BUFF"
+    },
+    {
+      "id": "railway_dungeon_2_pass_station",
+      "content": "經過站"
     }
   ]
 }

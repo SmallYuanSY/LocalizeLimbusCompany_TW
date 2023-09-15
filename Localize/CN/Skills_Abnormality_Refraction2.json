@@ -1,0 +1,2198 @@
+{
+  "dataList": [
+    {
+      "id": 853901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "沉悶的呻吟",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "席捲而來的沉淪",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "哀傷的反擊",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "哀傷的洪流",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "尋找某物的哭聲",
+          "desc": "拼點時，場上每存活1把舊傘，則使本硬幣的拼點威力+2\n每把舊傘使本技能的傷害+25%\n回合結束時，移除全部舊傘\n回合結束時，根據本回合獲得的保護傘層數，召喚相應數量的舊傘",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "等待",
+          "desc": "[StartBattle] 全體敵方單位失去20點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "劇烈反應",
+          "desc": "[StartBattle] 使自身獲得荊棘 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "劇烈反應",
+          "desc": "[StartBattle] 使自身獲得荊棘 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "哀求的哭聲",
+          "desc": "進行拼點時，場上每存活1把舊傘，則使本技能拼點威力 +2\n每把舊傘使本技能傷害+25%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "散落的悲傷",
+          "desc": "[EndSkill] 對全體敵方單位施加3層破裂 與3層沉淪",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "電流注入",
+          "desc": "[StartBattle] 使自身獲得2層自體發電 \n[DefeatDuel] 消耗2層自體發電 \n若目標帶有麻痺 ，則使本技能的傷害+10%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "電流放流",
+          "desc": "[StartBattle] 使自身獲得2層自體發電 \n[DefeatDuel] 消耗2層自體發電 \n若目標帶有麻痺 ，則使本技能的傷害+10%",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "放電",
+          "desc": "[StartBattle] 使自身獲得2層自體發電 \n[DefeatDuel] 消耗2層自體發電 \n若目標帶有麻痺 ，則使本技能的傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "超高壓放電",
+          "desc": "[WhenUse] 若自身的自體發電層數不低於5層，則每超過1層使本技能的傷害+20%\n[WhenUse] 每層自體發電使本技能拼點威力+ 1\n[WhenUse] 消耗所有自體發電",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "盤繞",
+          "desc": "行動槽中存在該技能時，每層自體發電使頭部獲得50點護盾\n頭部被破壞時，每層自體發電使頭部獲得25點護盾\n每失去等同於1層自體發電的護盾，則使自身消耗1層自體發電",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蠕動的頭",
+          "desc": "指定體力最低的敵方單位\n[WhenUse] 消耗1層自體發電 \n[DefeatDuel] 消耗1層自體發電 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蠕動的尾",
+          "desc": "指定體力最低的敵方單位\n[WhenUse] 消耗1層自體發電 \n[DefeatDuel] 消耗2層自體發電 ",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "想喝醉嗎？",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度並對其施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "分著喝吧！",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限5%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "只剩這些了！",
+          "desc": "優先攻擊帶有震顫 的單位。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據目標的震顫 層數，相應引爆目標的震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標所有的震顫 層數"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "這個我吃了！",
+          "desc": "若目標未帶有醉意 ，則使本技能的拼點威力+8\n[WhenUse] 若目標未帶有醉意 ，則使本技能造成的傷害+150%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有的醉意 層數不低於5層，本硬幣造成傷害為0。\n妖精紳士下回合陷入混亂"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標的所有醉意 。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "想要這杯妖精酒嗎？",
+          "desc": "[WhenUse] 下回合對自身施加3層束縛 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "要來一杯嗎？",
+          "desc": "[StartBattle] 下回合召喚妖精酒\n[DefeatDuel] 妖精酒會以體力上限70%的體力被召喚",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "甜美的妖精酒",
+          "desc": "被人格擊殺時，下回合對所有人格施加5層醉意 ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "纏繞符咒",
+          "desc": "[WhenUse] 對目標施加3層糾纏的咒符 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度並對其施加2層破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "積累詛咒",
+          "desc": "[WhenUse] 根據目標帶有的糾纏的咒符 層數，施加相應層數的糾纏的咒符 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加5級破裂 強度並對其施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度並對其施加2層破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "因而無人哭泣",
+          "desc": "[EndBattle] 消耗所有復貼的咒符 \n[WhenUse] 若自身的複貼的咒符 層數不低於10層，則使本技能的硬幣威力-1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痺 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "轉移符咒",
+          "desc": "[WhenUse] 消耗目標所有糾纏的咒符 。根據消耗的層數，獲得相應層數的複貼的咒符 \n[StartBattle] 使所有部位獲得3層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "複製詛咒",
+          "desc": "[WhenUse] 根據目標所帶有糾纏的咒符 的層數，施加相應層數的糾纏的咒符 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "舔舐傷口",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 層數不低於2層，則使目標增加5級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 層數高於2層，則對目標施加1層麻痺 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "束縛傷痕",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則下回合對目標施加1層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "陷於血肉",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復25點體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 層數不低於2層，則使目標增加5級流血 強度。"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復25點體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "綠蔭籠罩",
+          "desc": "[StartBattle] 下回合生成折射的四葉草。\n[DefeatDuel] 折射的四葉草以50%的體力生成",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有1級流血 強度，則使本硬幣傷害+5%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標所有流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "消化",
+          "desc": "[StartBattle] 使所有部位獲得3層守護 。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有1級流血 強度，使自身恢復體力上限1%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有1級流血 強度，使自身恢復體力上限1%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標1層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "想喝醉嗎？",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度並對其施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "分著喝吧！",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限5%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "只剩這些了！",
+          "desc": "優先攻擊帶有震顫 的單位。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據目標的震顫 層數，相應引爆目標的震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標所有的震顫 層數"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "這個我吃了！",
+          "desc": "若目標未帶有醉意 ，則使本技能的拼點威力+8\n[WhenUse] 若目標未帶有醉意 ，則使本技能造成的傷害+150%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有的醉意 層數不低於5層，本硬幣造成傷害為0。\n妖精紳士下回合陷入混亂"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標的所有醉意 。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "想要這杯妖精酒嗎？",
+          "desc": "[WhenUse] 下回合使自身獲得3層束縛 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "要來一杯嗎？",
+          "desc": "[StartBattle] 下回合召喚妖精酒\n[DefeatDuel] 妖精酒會以體力上限50%的體力被召喚",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "甜美的妖精酒",
+          "desc": "被人格擊殺時，下回合對所有人格施加5層醉意 ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+  {
+      "id": 854901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "懸掛的誘餌",
+          "desc": "[CantDuel] 妖精存活時，攻擊容量增加。\n優先攻擊被魅惑的人格。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 本體，軀幹恢復15點體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "深埋的根",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "伸展的根",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蠶食的莖",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ，目標每帶有1級破裂 強度，則使本硬幣造成的傷害+5%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "顯露的深淵",
+          "desc": "目標的破裂 強度不低於5級時，本硬幣造成的傷害+100%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "自我陶醉",
+          "desc": "攻擊妖精提燈時傷害為0。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "次元斬",
+          "desc": "[WhenUse] 使自身獲得3層充能 \n[DefeatDuel] 消耗2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "連續次元斬",
+          "desc": "[WhenUse] 使自身獲得3層充能 \n[DefeatDuel] 消耗2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層次元裂痕 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層次元裂痕 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "吐出副產物",
+          "desc": "[DefeatDuel] 消耗2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "空間撕裂",
+          "desc": "若充能層數不低於10，消耗10層充能並使本技能拼點威力+5，傷害+100%\n充能層數不足10層時，消耗本體100點體力值。使本技能傷害+80%\n該技能不會使體力變為0。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身獲得2層充能 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層次元裂痕 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身獲得2層充能 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層次元裂痕 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "預備反擊",
+          "desc": "[WhenUse] 使自身獲得1層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘔吐副產物",
+          "desc": "[WhenUse] 目標帶有次元裂痕 時，使本技能傷害+10%\n[DefeatDuel] 消耗2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層次元裂痕 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "高速空間撕裂",
+          "desc": "根據自身帶有層數最高的次元效果，相應增加拼點威力\n每擁有1層次元效果，則使本技能傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "把握時機",
+          "desc": "[WhenUse] 目標帶有次元裂痕 時，使本技能傷害+20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層次元裂痕 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "攻擊破綻",
+          "desc": "[WhenUse] 目標帶有次元裂痕 時，使本技能本硬幣傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層次元裂痕 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嚙合的瞬間",
+          "desc": "[DefeatDuel] 消耗2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層嚙合的時間 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "吸收時間",
+          "desc": "自身每帶有3層充能 ，使本技能的基礎威力+1\n[WhenUse] 使自身獲得4層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得3層借來的時間 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "加速的瞬間",
+          "desc": "自身每帶有1層借來的時間 ，使本技能的基礎威力+1\n[DefeatDuel] 消耗3層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層嚙合的時間 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自身每帶有1層借來的時間 ，使本硬幣造成的傷害+20%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得4層充能 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "充能防禦",
+          "desc": "[StartBattle] 使自身獲得1層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6463",
+          "desc": "每擁有50層積累的過去 ，則使本技能傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層 束縛"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6753",
+          "desc": "每擁有50層積累的過去 ，則使本技能傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "853",
+          "desc": "呼吸法 強度不低於5時，使本技能拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標混亂閾值前移該硬幣傷害的50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 每擁有1層積累的過去，使本技能傷害+1%（最多50%）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "5384",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標混亂閾值前移與自身呼吸法 強度相當的數值"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 每擁有3級呼吸法 強度，使本硬幣傷害+20%（最多100%）"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得4級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蒸汽槍",
+          "desc": "呼吸法 強度不低於7時，使本技能硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 呼吸法 強度不低於5時，使目標混亂閾值前移本硬幣傷害的50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得4層呼吸法 ，並使自身增加8級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "974569A",
+          "desc": "呼吸法 強度不低於10時，使本技能基礎值+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 每擁有1層積累的過去，則使本技能傷害+1%（最多200%）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "前往永恆的庭院",
+          "desc": "[CantDuel]\n[WhenUse] 對目標施加冠冕。消除自身所帶有的所有效果\n自身本體體力不足40%時，下回合將會生成被強化的玫瑰單位",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "止步",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度與2級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]使目標增加2級燒傷 強度與2級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "緊縛",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度與3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使體力最低的玫瑰單位恢復10點體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "花開不息",
+          "desc": "優先攻擊不帶有冠冕 的單位",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 與1層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加冠冕 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使本體恢復30點體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "隔絕之壁",
+          "desc": "每有一個存活的玫瑰單位，則使本技能威力+2\n場上沒有玫瑰時，下回合對自身施加2層易損 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使本體恢復30點體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "永恆心願",
+          "desc": "[StartBattle] 下回合隨機使1個玫瑰獲得1層強壯 \n護盾持續期間每當被攻擊時，會使攻擊者增加1級沉淪 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "一同在此",
+          "desc": "[StartBattle] 下回合隨機使1個玫瑰獲得1層忍耐 \n護盾持續期間每當被攻擊時，使攻擊者增加1級沉淪 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "烈烈憤怒",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "憤怒四散",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層燒傷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "色欲將至",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身混亂閾值後移該硬幣傷害的50%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身混亂閾值後移該硬幣傷害的50%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身混亂閾值後移該硬幣傷害的50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "發掘色欲",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "怠惰凝滯",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級震顫 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "頑固怠惰",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "困倦怠惰",
+          "desc": "護盾持續期間每當被攻擊時，引爆自身和目標的震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "貪婪暴食",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "豐盛暴食",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "暴食不息",
+          "desc": "[WhenUse] 若目標帶有破裂 ，則使本技能恢復量+50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 恢復本硬幣傷害的25%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 恢復本硬幣傷害的25%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 恢復本硬幣傷害的25%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 恢復本硬幣傷害的25%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "憂鬱滿溢",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加6級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "憂鬱氾濫",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "憂鬱圍繞",
+          "desc": "護盾持續期間每當被攻擊時，對自身和目標施加1層沉淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "傲慢流露",
+          "desc": "[WhenUse] 使全體友方單位增加3級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "傲慢自滿",
+          "desc": "[WhenUse] 使全體友方單位獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "尖銳傲慢",
+          "desc": "自身的呼吸法 強度不低於5時，使本技能硬幣威力+3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嫉妒堆砌",
+          "desc": "[WhenUse] 使自身獲得3層充能  \n[DefeatDuel] 自身失去3層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嫉妒傳播",
+          "desc": "[WhenUse] 消耗10層充能 ，使硬幣威力+4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "次元移動",
+          "desc": "該次元存活時，傷害 +10%",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "次元移動",
+          "desc": "該次元存活時，體力上限+20%",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "次元移動",
+          "desc": "該次元存活時，速度值 +1",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "次元移動",
+          "desc": "該次元存活時，拼點威力 +1",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "因而無人哭泣",
+          "desc": "[EndBattle] 消耗所有復貼的咒符 \n[WhenUse] 若自身的複貼的咒符 層數不低於10層，則使本技能的硬幣威力-1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痺 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

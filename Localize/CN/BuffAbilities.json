@@ -6,6 +6,11 @@
       "variation": "造成的{0}傷害{1}%"
     },
     {
+      "id": "AtkAndTakeAtkDamageMultiplier",
+      "desc": "造成/受到的傷害{0}%",
+      "variation": "受到及造成的{0}屬性技能傷害 {1}%"
+    },
+    {
       "id": "GiveBuffOnSucceedAttack",
       "desc": "命中時對目標施加{0}{1}"
     },
@@ -15,7 +20,7 @@
     },
     {
       "id": "SlotWeightAdder",
-      "desc": "攻擊容量{0}"
+      "desc": "行動槽容量{0}"
     },
     {
       "id": "AtkAdder",
@@ -51,7 +56,29 @@
     },
     {
       "id": "RailEnemyBuffF",
-      "desc": "目標使用E.G.O技能時需要的罪孽碎片的數量{0}（只對消耗的罪孽碎片生效）"
+      "desc": "罪人使用E.G.O技能時需要的罪孽碎片的數量{0}"
+    },
+    {
+      "id": "MaxHpMultiplierRail",
+      "desc": "體力上限{0}%"
+    },
+    {
+      "id": "AtkAndDefAdder",
+      "desc": "攻擊等級{0}，防禦等級{0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAlly",
+      "desc": "回合開始時使全體友方單位獲得{1}級{0} 強度，並施加{2}層{0} ",
+      "variation": "回合開始時使全體友方單位增加{1}級{0} 強度",
+      "variation2": "回合開始時對全體友方單位施加{1} 層 {0} "
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAllyExtra",
+      "desc": "回合開始時使全體友方單位增加{1}級{0} 強度，額外對{0}狀態的友方單位施加{2}層{0} "
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllEnemyExtra",
+      "desc": "回合開始時使全體敵方單位增加{1}級{0} 強度，額外對{0}狀態的敵方單位施加{2}層{0} "
     }
   ]
 }

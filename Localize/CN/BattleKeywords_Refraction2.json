@@ -8,25 +8,25 @@
     },
     {
       "id": "PassedPortal_Red",
-      "name": "紅色傳送門",
+      "name": "血流成河的次元傳送門",
       "desc": "該傳送門存在時，造成的傷害+10%",
       "summary": "該傳送門存在時，造成的傷害+10%"
     },
     {
       "id": "PassedPortal_Green",
-      "name": "綠色傳送門",
+      "name": "劇毒沸騰的次元傳送門",
       "desc": "該傳送門存在時，體力上限提升20%",
       "summary": "該傳送門存在時，體力上限提升20%"
     },
     {
       "id": "PassedPortal_Yellow",
-      "name": "黃色傳送門",
+      "name": "振顫不止的次元傳送門",
       "desc": "該傳送門存在時，速度值+1",
       "summary": "該傳送門存在時，速度值+1"
     },
     {
       "id": "PassedPortal_Blue",
-      "name": "藍色傳送門",
+      "name": "電流湧動的次元傳送門",
       "desc": "該傳送門存在時，硬幣威力+1",
       "summary": "該傳送門存在時，硬幣威力+1"
     },
@@ -39,7 +39,7 @@
     {
       "id": "DecoyRegenerated ",
       "name": "再生",
-      "desc": "每當部位被恢復時增加1層。",
+      "desc": "每當部位被恢復時，層數+1。",
       "summary": ""
     },
     {
@@ -61,9 +61,93 @@
     },
     {
       "id": "ReattachedCurseTag_Re",
-      "name": "复貼的咒符",
+      "name": "復貼的咒符",
       "desc": "若層數高於9層，則在回合結束時對自身施加5層束縛 。\n若層數高於12層，則在回合結束時對自身施加5層虛弱 。",
       "summary": "若層數高於9層，則在回合結束時對自身施加5層束縛 。\n若層數高於12層，則在回合結束時對自身施加5層虛弱 。"
+    },
+    {
+      "id": "WrappedCurseTagRe",
+      "name": "糾纏的咒符",
+      "desc": "每層使造成的傷害+1%\n若層數高於9層，則在回合開始時對自身施加2層虛弱 （最多9層）",
+      "summary": "每層使造成的傷害+1%，若層數高於9層，則在回合開始時對自身施加2層虛弱 "
+    },
+    {
+      "id": "AccumulatedPast",
+      "name": "沉積的過去",
+      "desc": "顯示著折射軌道累計回合數。\n回合結束時，層數+1。\n軀幹部位被破壞時，消耗所有層數。",
+      "summary": ""
+    },
+    {
+      "id": "PrepareSinRose",
+      "name": "冠冕",
+      "desc": "生成被施加該效果的目標所持有的技能中最多的罪孽屬性對應的玫瑰單位",
+      "summary": ""
+    },
+    {
+      "id": "BloomingRose",
+      "name": "綻放的罪孽",
+      "desc": "回合結束時\n- 層數+ 1。\n- 被連接的人格失去體力上限25%的體力。\n- 失去10%與玫瑰屬性相對應的罪孽碎片。\n- 玫瑰告示牌恢復體力上限5%的體力。\n\n層數達到4層時，\n- 被連接的人格會陣亡。\n- 失去所有與玫瑰屬性相對應的罪孽碎片。",
+      "summary": ""
+    },
+    {
+      "id": "EatingSin",
+      "name": "罪孽纏身",
+      "desc": "體力上限增加（被減少的罪孽碎片數量）%。\n\n陣亡時\n-歸還被減少的罪孽碎片。\n-被連接的人格恢復（該人格25%體力上限*綻放的罪孽層數）點體力。",
+      "summary": ""
+    },
+    {
+      "id": "EnhanceRose",
+      "name": "強化狀態",
+      "desc": "將會發動強化狀態的被動效果",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Crimson",
+      "name": "綻放的暴怒玫瑰",
+      "desc": "人格以暴怒屬性技能造成/受到的傷害增加",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Scarlet",
+      "name": "綻放的色欲玫瑰",
+      "desc": "人格以色欲屬性技能造成/受到的傷害增加",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Amber",
+      "name": "綻放的怠惰玫瑰",
+      "desc": "人格以怠惰屬性技能造成/受到的傷害增加",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Shamrock",
+      "name": "綻放的爆食玫瑰",
+      "desc": "人格以暴食屬性技能造成/受到的傷害增加",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Azure",
+      "name": "綻放的憂鬱玫瑰",
+      "desc": "人格以憂鬱屬性技能造成/受到的傷害增加",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Indigo",
+      "name": "綻放的傲慢玫瑰",
+      "desc": "人格以傲慢屬性技能造成/受到的傷害增加",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Violet",
+      "name": "綻放的忌妒玫瑰",
+      "desc": "人格以嫉妒屬性技能造成/受到的傷害增加",
+      "summary": ""
+    },
+    {
+      "id": "KalpaVine",
+      "name": "永恆荊棘",
+      "desc": "所有角色造成的傷害減少\n所有角色受到的傷害減少",
+      "summary": ""
     }
   ]
 }

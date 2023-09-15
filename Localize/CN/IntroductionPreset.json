@@ -619,6 +619,22 @@
     {
       "id": "introduce_sentence_78",
       "content": "去把{0}收拾掉吧。"
+    },
+    {
+      "id": "introduce_word_79",
+      "content": "我們"
+    },
+    {
+      "id": "introduce_sentence_79",
+      "content": "結果，還是由{0}出面處理。"
+    },
+    {
+      "id": "introduce_word_80",
+      "content": "水"
+    },
+    {
+      "id": "introduce_sentence_80",
+      "content": "{0}……{0}給我喝一口……"
     }
   ]
 }
