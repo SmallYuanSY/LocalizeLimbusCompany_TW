@@ -90,7 +90,7 @@ namespace LimbusLocalize
         }
         public static void CheckReadmeUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://smallyuansy.github.io/LocalizeLimbusCompany_TW/LatestUpdateTime.tx");
+            UnityWebRequest www = UnityWebRequest.Get("https://smallyuansy.github.io/LocalizeLimbusCompany_TW/LatestUpdateTime.txt");
             www.timeout = 1;
             www.SendWebRequest();
             string FilePath = LCB_LLCMod.ModPath + "/Localize/Readme/Readme.json";
