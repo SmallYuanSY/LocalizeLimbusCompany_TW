@@ -37,6 +37,16 @@
       "startDate": "2023-09-15T08:00:00.000Z",
       "endDate": "2023-12-31T23:00:00.000Z",
       "sprNameList": [],
+      "title_KR": "Mod V0.6.5",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.5\\n- 改變核心\\n  - 無法自動更新的問題(請幫我將BepInEx config 的資料夾刪掉 \\n  - 漢化內容更新\\n 折射軌道二號線 (上) 的漢化內容更新\\n 其他內容更新\"}]}"
+    },
+    {
+      "id": 3017,
+      "version": 0,
+      "type": 0,
+      "startDate": "2023-09-15T08:00:00.000Z",
+      "endDate": "2023-12-31T23:00:00.000Z",
+      "sprNameList": [],
       "title_KR": "Mod V0.6.4",
       "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.4\\n- 改變核心\\n  - 修復漢化無法使用問題 \\n  - 漢化內容更新\\n 折射軌道二號線 (上) 的漢化內容更新\\n 其他內容更新\"}]}"
     },

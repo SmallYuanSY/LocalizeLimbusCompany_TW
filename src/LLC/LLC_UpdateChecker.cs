@@ -12,7 +12,7 @@ namespace LimbusLocalize
 {
     public static class LLC_UpdateChecker
     {
-        public static ConfigEntry<bool> AutoUpdate = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "AutoUpdate", false, "是否從Github上面自動檢查並下載更新 ( true | false )");
+        public static ConfigEntry<bool> AutoUpdate = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "AutoUpdate", true, "是否從Github上面自動檢查並下載更新 ( true | false )");
         public static void StartAutoUpdate()
         {
             if (AutoUpdate.Value)
