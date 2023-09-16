@@ -24,7 +24,7 @@ namespace LimbusLocalize
         }
         static void CheckModUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases");
+            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/SmallYuanSY/LocalizeLimbusCompany/releases");
             www.timeout = 4;
             www.SendWebRequest();
             while (!www.isDone)
@@ -54,7 +54,7 @@ namespace LimbusLocalize
         }
         static void CheckChineseFontAssetUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/latest");
+            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/SmallYuanSY/LLC_ChineseFontAsset/releases/latest");
             string FilePath = LCB_LLCMod.ModPath + "/tmpchinesefont";
             var LastWriteTime = File.Exists(FilePath) ? int.Parse(TimeZoneInfo.ConvertTime(new FileInfo(FilePath).LastWriteTime, TimeZoneInfo.FindSystemTimeZoneById("China Standard Time")).ToString("yyMMdd")) : 0;
             www.SendWebRequest();
@@ -66,7 +66,7 @@ namespace LimbusLocalize
             {
                 string updatelog = "tmpchinesefont_BIE_" + latestReleaseTag;
                 Updatelog += updatelog + ".7z ";
-                string download = "https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/download/" + latestReleaseTag + "/" + updatelog + ".7z";
+                string download = "https://github.com/SmallYuanSY/LLC_ChineseFontAsset/releases/download/" + latestReleaseTag + "/" + updatelog + ".7z";
                 var dirs = download.Split('/');
                 string filename = LCB_LLCMod.GamePath + "/" + dirs[^1];
                 if (!File.Exists(filename))
@@ -90,7 +90,7 @@ namespace LimbusLocalize
         }
         public static void CheckReadmeUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://json.zxp123.eu.org/ReadmeLatestUpdateTime.txt");
+            UnityWebRequest www = UnityWebRequest.Get("https://smallyuansy.github.io/LocalizeLimbusCompany_TW/LatestUpdateTime.tx");
             www.timeout = 1;
             www.SendWebRequest();
             string FilePath = LCB_LLCMod.ModPath + "/Localize/Readme/Readme.json";
@@ -101,7 +101,7 @@ namespace LimbusLocalize
             }
             if (www.result == UnityWebRequest.Result.Success && LastWriteTime < DateTime.Parse(www.downloadHandler.text))
             {
-                UnityWebRequest www2 = UnityWebRequest.Get("https://json.zxp123.eu.org/Readme.json");
+                UnityWebRequest www2 = UnityWebRequest.Get("https://SmallYuanSY.github.io/LocalizeLimbusCompany_TW/Readme.json");
                 www2.SendWebRequest();
                 while (!www2.isDone)
                 {
