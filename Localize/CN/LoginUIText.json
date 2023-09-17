@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "loginui_sign_in_with_google",
-      "content": "Google登錄"
+      "content": "Google登入"
     },
     {
       "id": "loginui_sign_in_with_apple",
-      "content": "Apple登錄"
+      "content": "Apple登入"
     },
     {
       "id": "loginui_sign_in_with_steam",
-      "content": "Steam登錄"
+      "content": "Steam登入"
     },
     {
       "id": "loginui_sign_in_with_guest",
-      "content": "遊客登錄"
+      "content": "遊客登入"
     },
     {
       "id": "loginui_sign_out_current_account",
@@ -22,11 +22,11 @@
     },
     {
       "id": "loginui_sign_out_current_account_desc",
-      "content": "登出現有的帳戶嗎？\n如果正以遊客身份登錄，帳戶數據可能會丟失。"
+      "content": "登出現有的帳戶嗎？\n如果正以遊客身份登入，帳戶數據可能會丟失。"
     },
     {
       "id": "loginui_sign_out_switch_account_desc",
-      "content": "登出現有的帳戶\n並登錄選擇的帳戶嗎？\n如果正以遊客身份登錄，帳戶數據可能會丟失。"
+      "content": "登出現有的帳戶\n並登入選擇的帳戶嗎？\n如果正以遊客身份登入，帳戶數據可能會丟失。"
     },
     {
       "id": "switch_account",
