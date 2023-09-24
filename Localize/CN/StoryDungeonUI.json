@@ -79,6 +79,14 @@
     {
       "id": "dungeon_return_to_save_point",
       "content": "回到\n檢查點"
+    },
+    {
+      "id": "dungeon_unlocked_node_notice",
+      "content": "新地點追加。"
+    },
+    {
+      "id": "dungeon_unlocked_line_notice",
+      "content": "新路線開放。"
     }
   ]
 }

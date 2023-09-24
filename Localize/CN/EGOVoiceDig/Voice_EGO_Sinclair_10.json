@@ -24,6 +24,16 @@
       "id": "battle_erosion_21003_1",
       "desc": "E.G.O侵蝕",
       "dlg": "呼……消化……完成……"
+    },
+    {
+      "id": "battle_awaken_21004_1",
+      "desc": "E.G.O覺醒",
+      "dlg": "將你們與樹…一同砍倒。"
+    },
+    {
+      "id": "battle_erosion_21004_1",
+      "desc": "E.G.O侵蝕",
+      "dlg": "在踏入森林的時候…千萬要小心！"
     }
   ]
 }

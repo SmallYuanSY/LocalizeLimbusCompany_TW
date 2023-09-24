@@ -1635,6 +1635,11 @@
     {
       "id": "RailBuffForLine2_S_ALLY",
       "name": "充能強化"
+    },
+    {
+      "id": "KnowledgeExplored",
+      "name": "所解真知",
+      "desc": "最後丟棄技能的等級：{0}（基礎值：1）"
     }
   ]
 }

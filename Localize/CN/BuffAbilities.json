@@ -24,11 +24,11 @@
     },
     {
       "id": "AtkAdder",
-      "desc": "攻擊力{0}"
+      "desc": "攻擊等級{0}"
     },
     {
       "id": "DefAdder",
-      "desc": "防禦力{0}"
+      "desc": "防禦等級{0}"
     },
     {
       "id": "AtkAdderIfNotDamagedPrevTurn",

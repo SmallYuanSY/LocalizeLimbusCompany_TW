@@ -1,0 +1,128 @@
+{
+   "dataList": [
+     {
+       "id": 2100411,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "提燈",
+           "abName": "妖精提燈",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限10%的體力"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "提燈",
+           "abName": "妖精提燈",
+           "desc": "[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限12%的體力"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "提燈",
+           "abName": "妖精提燈",
+           "desc": "[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限15%的體力"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 2100421,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "提燈",
+           "abName": "妖精提燈",
+           "desc": "[CantIdentify] \n指定體力最高的單位",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackTail] 對目標施加2層破裂 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "提燈",
+           "abName": "妖精提燈",
+           "desc": "[CantIdentify]\n指定體力最高的單位\n[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackTail] 對目標施加3層破裂 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "提燈",
+           "abName": "妖精提燈",
+           "desc": "[CantIdentify]\n指定體力最高的單位\n[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackTail] 對目標施加3層破裂 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加5層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     }
+   ]
+}
