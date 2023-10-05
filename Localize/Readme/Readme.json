@@ -37,7 +37,17 @@
       "startDate": "2023-09-15T08:00:00.000Z",
       "endDate": "2023-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "Mod V0.6.5",
+      "title_KR": "Mod V0.6.7",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.7\\n- 漢化內容更新\\n  - E.G.O更新 \\n  提燈 辛克萊的漢化內容更新 \\n - 其他內容少量更進\"}]}"
+    },
+    {
+      "id": 3017,
+      "version": 0,
+      "type": 0,
+      "startDate": "2023-09-15T08:00:00.000Z",
+      "endDate": "2023-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Mod V0.6.6",
       "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.6\\n- 漢化內容更新\\n  - 角色更新 \\n  Dieci協會 4科羅佳 \\n - 折射軌道二號線 (上) 的漢化內容更新\\n 其他內容更新\"}]}"
     },
     {

@@ -280,7 +280,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 使全體友方單位恢復12點理智值"
+                  "desc": "[EndSkill] 使理智值最低的4個友方單位恢復10點理智值"
                 }
               ]
             }
@@ -295,7 +295,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 使除自身以外理智值最低的3名友方單位恢復12點理智值"
+                  "desc": "[EndSkill] 使理智值最低的4個友方單位恢復12點理智值"
                 }
               ]
             }
@@ -1377,7 +1377,7 @@
                   "desc": "[OnSucceedAttack] 下回合使自身獲得3層迅捷 "
                 },
                 {
-                  "desc": "[EnenyKill] 下回合使自身獲得2層強壯 "
+                  "desc": "[EnemyKill] 下回合使自身獲得2層強壯 "
                 }
               ]
             }

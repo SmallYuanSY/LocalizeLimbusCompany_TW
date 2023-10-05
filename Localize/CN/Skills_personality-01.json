@@ -1,0 +1,189 @@
+{
+   "dataList": [
+     {
+       "id": 1010501,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "沉著冷靜",
+           "desc": "若技能被丟棄，則對自身施加3層震顫 ",
+           "coinlist": [
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層震顫 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "沉著冷靜",
+           "desc": "若技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 對自身施加2層震顫 ",
+           "coinlist": [
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "沉著冷靜",
+           "desc": "若技能被丟棄，則對自身施加4層震顫\n[WhenUse] 對自身施加2層震顫\n若自身的震顫層數不低於5層，則使本技能的硬幣威力 +1",
+           "coinlist": [
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1010502,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "鋌而走險",
+           "desc": "若本技能被丟棄，則對自身施加3層震顫 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則引爆目標的震顫 。使目標的震顫 層數減少2層"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "鋌而走險",
+           "desc": "若本技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則引爆目標的震顫 。使目標的震顫 層數減少2層"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "鋌而走險",
+           "desc": "若本技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層震顫 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則引爆目標的震顫 。使目標的震顫 層數減少2層"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1010503,
+       "levelList": [
+         {
+           "level": 3,
+           "name": "咬緊臼齒",
+           "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 消耗10層震顫 並使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若使用本技能時消耗了震顫 層數，則引爆目標的震顫 "
+                 }
+               ]
+             },
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若本技能消耗了震顫 層數，則引爆目標的震顫 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "咬緊臼齒",
+           "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 消耗10層震顫 並使本技能的硬幣威力+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若使用本技能時消耗了震顫 層數，則引爆目標的震顫 "
+                 }
+               ]
+             },
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若本技能消耗了震顫 層數，則引爆目標的震顫 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1010504,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "防禦",
+           "desc": "[WhenUse] 丟棄 自身所有行動槽中等級最低的1個技能",
+           "coinlist": [
+             {}
+           ]
+         },
+         {
+           "level": 4,
+           "name": "防禦",
+           "desc": "[WhenUse] 丟棄 自身所有行動槽中等級最低的1個技能",
+           "coinlist": [
+             {}
+           ]
+         }
+       ]
+     }
+   ]
+}
