@@ -1479,6 +1479,26 @@
     {
       "id": "erosion",
       "content": "侵蝕"
-    }
+    },
+    {
+       "id": "formation_panel_detail",
+       "content": "詳情"
+     },
+    {
+       "id": "ego_cost",
+       "content": "E.G.O消耗"
+     },
+    {
+       "id": "enable_count_for_battle",
+       "content": "戰鬥參與人數"
+     },
+    {
+       "id": "select_for_formation",
+       "content": "選擇參戰人格"
+     },
+    {
+       "id": "edit_for_formation",
+       "content": "編輯編隊"
+     }
   ]
 }

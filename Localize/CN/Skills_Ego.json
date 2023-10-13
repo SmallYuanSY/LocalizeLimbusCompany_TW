@@ -4151,6 +4151,142 @@
           ]
         }
       ]
-    }
+    },
+    {
+       "id": 2070411,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "空即是色",
+           "abName": "無我入定",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
+                 },
+                 {
+                   "desc": "[EndSkill] 使除自身以外理智值最低的4名友方單位恢復12點理智值"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "空即是色",
+           "abName": "無我入定",
+           "desc": "[BeforeAttack] 若自身理智值不低於15點，則使本技能的攻擊容量+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層虛弱 "
+                 },
+                 {
+                   "desc": "[EndSkill] 使除自身以外理智值最低的4名友方單位恢復17點理智值"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "空即是色",
+           "abName": "無我入定",
+           "desc": "[BeforeAttack] 若自身理智值不低於15點，則使本技能的攻擊容量+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層虛弱 "
+                 },
+                 {
+                   "desc": "[EndSkill] 使除自身以外理智值最低的4名友方單位恢復25點理智值"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+    {
+       "id": 2070421,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "空即是色",
+           "abName": "無我入定",
+           "desc": "[CantIdentify]\n隨機指定目標",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 隨機對除自身以外的1名友方單位施加3層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "空即是色",
+           "abName": "無我入定",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若自身理智值不高於-15點，則使本技能的攻擊容量+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 隨機對除自身以外的1名友方單位施加3層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackTail] 使自身恢復4點理智值"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "空即是色",
+           "abName": "無我入定",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若自身理智值不高於-15點，則使本技能的攻擊容量+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 隨機對除自身以外的1名友方單位施加3層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackTail] 使自身恢復4點理智值"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackTail] 對目標施加1層易損 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     }
   ]
 }

@@ -650,7 +650,15 @@
     },
     {
       "id": "introduce_sentence_82",
-      "content": "踏入{0}的時候…千萬要小心！"
+      "content": "在你們踏足{0}的那一刻時…就該發現的！"
+    },
+    {
+      "id": "introduce_word_83",
+      "content": "循環"
+    },
+    {
+      "id": "introduce_sentence_83",
+      "content": "{0}之輪一巡。"
     }
   ]
 }

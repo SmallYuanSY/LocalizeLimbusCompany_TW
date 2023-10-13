@@ -147,6 +147,26 @@
     {
       "id": "speed_hack_warning",
       "content": "發現使用未經授權的第三方程序。"
-    }
+    },
+    {
+       "id": "serverstate_verify_ban_startdate",
+       "content": "日期"
+     },
+    {
+       "id": "serverstate_verify_ban_reason",
+       "content": "理由"
+     },
+    {
+       "id": "serverstate_verify_ban_reason_refund",
+       "content": "濫用公開市場退款制度"
+     },
+    {
+       "id": "serverstate_verify_ban_reason_cheat",
+       "content": "不正當遊戲使用紀錄"
+     },
+    {
+       "id": "serverstate_blocking_endpoint",
+       "content": "該功能正在維護。"
+     }
   ]
 }

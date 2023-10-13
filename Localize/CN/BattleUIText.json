@@ -570,6 +570,14 @@
     {
       "id": "EGOSelectUI_DetailInfo",
       "content": "更多信息"
+    },
+    {
+      "id": "ab_part_destroyable",
+      "content": "可破壞部位"
+    },
+    {
+      "id": "ab_part_destroyable_and_can_vanish",
+      "content": "可破壞和<color=#ffffff>提取</color>部位"
     }
   ]
 }
