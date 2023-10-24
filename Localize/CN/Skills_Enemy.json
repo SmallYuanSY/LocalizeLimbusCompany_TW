@@ -4312,7 +4312,7 @@
         {
           "level": 1,
           "name": "液體阻塞",
-          "desc": "[WhenUse] 使自身恢復體力上限5%的體力\n下回合使自身獲得2層易損 \n[EndBattle] 消耗全部醉意 ",
+          "desc": "[WhenUse] 使自身恢復體力上限5%的體力\n下回合對自身獲得2層易損 \n[EndBattle] 消耗全部醉意 ",
           "coinlist": [
             {
               "coindescs": [

@@ -130,7 +130,7 @@
     },
     {
       "id": "EndBattle",
-      "name": "[戰鬥結束時]"
+      "name": "[回合結束時]"
     },
     {
       "id": "OnDefeatEvade",

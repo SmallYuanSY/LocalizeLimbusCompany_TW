@@ -1,0 +1,40 @@
+{
+   "dataList": [
+     {
+       "id": "Mepis",
+       "content": "梅菲斯托費勒斯"
+     },
+     {
+       "id": "Backdoor",
+       "content": "後門"
+     },
+     {
+       "id": "MirrorDungeon",
+       "content": "鏡像迷宮"
+     },
+     {
+       "id": "ResourceDungeon",
+       "content": "採礦迷宮"
+     },
+     {
+       "id": "MirrorSubway",
+       "content": "折射軌道"
+     },
+     {
+       "id": "Line1",
+       "content": "折射軌道 1號線"
+     },
+     {
+       "id": "Line2",
+       "content": "折射軌道 2號線"
+     },
+     {
+       "id": "DieciAsso",
+       "content": "Dieci協會"
+     },
+     {
+       "id": "NestK",
+       "content": "K公司"
+     }
+   ]
+}

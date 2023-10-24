@@ -1499,6 +1499,18 @@
     {
        "id": "edit_for_formation",
        "content": "編輯編隊"
+     },
+     {
+       "id": "full_participated",
+       "content": "參戰人數上限"
+     },
+     {
+       "id": "select_for_delete_participation",
+       "content": "解除參戰"
+     },
+     {
+       "id": "clear_reward",
+       "content": "通關獎勵"
      }
   ]
 }

@@ -195,6 +195,14 @@
     {
       "id": "railway_dungeon_2_pass_station",
       "content": "經過站"
-    }
+    },
+     {
+       "id": "railway_dungeon_2_banner_reward_condition_7",
+       "content": "<color=#d6e7f2>第2季追憶</color> 期間內，以巡迴數{1}以上，總計回合數{0}以下通關2號線時獲得\n(※以23/ 09/15 19:15 (CST) 後重新開始的記錄為準)"
+     },
+     {
+       "id": "railway_dungeon_2_reward_condition_special_ticket_14",
+       "content": "<color=#32434f>第2季追憶</color>期間內，以巡迴數<color=#005823>{1}</color>以上，總計回合數<color=#005823>{ 0}</color>以下通關2號線時獲得。\n（※以23/09/15 19:15(CST)後重新開始的記錄為準）"
+     }
   ]
 }
