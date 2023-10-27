@@ -1,0 +1,122 @@
+{
+    "dataList": [
+      {
+        "id": 2050511,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "悔恨",
+            "abName": "被遺棄的殺人魔",
+            "desc": "[BeforeAttack] 隨機解除自身帶有的1項可解除的負面狀態",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 對目標施加2層震顫 ，額外對目標施加（暴怒完全共鳴數/3）層震顫 "
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "name": "悔恨",
+            "abName": "被遺棄的殺人魔",
+            "desc": "[BeforeAttack] 隨機解除自身帶有的1項可解除的負面狀態",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 對目標施加2層震顫 ，額外對目標施加（暴怒完全共鳴數/3）層震顫 "
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 引爆目標的震顫\n引爆震顫時，若目標未擁有混亂閾值，\n則對目標造成最終混亂閾值前移量(6 + 2×(暴怒完全共鳴數))% 的暴怒傷害"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "name": "悔恨",
+            "abName": "被遺棄的殺人魔",
+            "desc": "[BeforeAttack] 隨機解除自身帶有的2項可解除的負面效果",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 對目標施加3層震顫 ，額外對目標施加（暴怒完全共鳴數/3）層震顫 "
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 引爆目標的震顫\n引爆震顫時，若目標未擁有混亂閾值，\n則對目標造成最終混亂閾值前移量(12 + 3×(暴怒完全共鳴數))% 的暴怒傷害"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2050521,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "悔恨",
+            "abName": "被遺棄的殺人魔",
+            "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若本身帶有負面狀態，則使本技能的攻擊容量+1",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 引爆目標的震顫 \n使引爆震顫 的混亂閾值前移量增加30%\n使目標的震顫 層數減少1層"
+                  },
+                  {
+                    "desc": "[EndSkill] 下回合對自身施加3層束縛 並獲得1層打擊強壯 "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "name": "悔恨",
+            "abName": "被遺棄的殺人魔",
+            "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若本身帶有負面狀態，則使本技能的攻擊容量+1",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 引爆目標的震顫\n使引爆震顫的混亂閾值前移量增加40%\n若引爆震顫時目標未擁有混亂閾值，\n則對目標造成最終混亂閾值前移量 (6+2×(暴怒完全共鳴數))%的暴怒傷害\n使目標的震顫層數減少1層"
+                  },
+                  {
+                    "desc": "[EndSkill] 下回合對自身施加3層束縛 並獲得1層打擊強壯 "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "name": "悔恨",
+            "abName": "被遺棄的殺人魔",
+            "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若本身帶有負面狀態，則使本技能的攻擊容量+2",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 引爆目標的震顫\n使引爆震顫的混亂閾值前移量增加50%\n若引爆震顫時目標未擁有混亂閾值，\n則對目標造成最終混亂閾值前移量 (12+3×(暴怒完全共鳴數))%的暴怒傷害\n使目標的震顫層數減少1層"
+                  },
+                  {
+                    "desc": "[EndSkill] 下回合對自身施加3層束縛 並獲得1層打擊強壯 "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+ }

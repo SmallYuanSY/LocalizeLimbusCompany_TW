@@ -193,6 +193,238 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1060701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "潛步追蹤",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "潛步追蹤",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "潛步追蹤",
+          "desc": "若自身的迅捷 層數不低於2層，則使本技能的最終威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "先一步一步",
+          "desc": "[WhenUse] 下回合使自己獲得1層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值高於目標，則根據速度值之差，對目標施加相應層數的流血 （最多2層）"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "先一步一步",
+          "desc": "[WhenUse] 下回合使自己獲得2層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值高於目標，則根據速度值之差，對目標施加相應層數的流血 （最多3層）"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "先一步一步",
+          "desc": "若自身的速度值不低於6點，則使本技能的硬幣威力+1\n[WhenUse] 下回合使自身獲得2層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值高於目標，則根據速度值之差，對目標施加相應層數的流血 （最多4層）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "喪心症狂",
+          "desc": "若自身的速度值不低於8，則使本技能的硬幣威力+1\n根據目標已損失體力，相應增加本技能造成的傷害（每損失體力上限1%的體力，造成 的傷害+0.3%）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 目標每帶有1級流血 強度，使自身恢復1點理智值（最多5點）"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "喪心症狂",
+          "desc": "若自身的速度值不低於6，則使本技能的硬幣威力+1\n根據目標已損失體力，相應增加本技能造成的傷害（每損失體力上限1%的體力，造成 的傷害+0.5%）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 目標每帶有1級流血 強度，使自身恢復1點理智值（最多10點）"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃電神經",
+          "desc": "[OnSucceedEvade] 下回合使自身獲得1層迅捷 （每回合最多3層）",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "閃電神經",
+          "desc": "若目標的流血 強度不低於7級，則使本技能的硬幣威力+2\n[OnSucceedEvade] 下回合使自身獲得1層迅捷 （每回合最多3層）",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

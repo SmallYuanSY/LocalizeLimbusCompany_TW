@@ -1,0 +1,68 @@
+{
+    "dataList": [
+      {
+        "id": "MemoryDelete",
+        "content": "記憶消除"
+      },
+      {
+        "id": "NestT",
+        "content": "T公司"
+      },
+      {
+        "id": "NestU",
+        "content": "U公司"
+      },
+      {
+        "id": "Library",
+        "content": "圖書館"
+      },
+      {
+        "id": "Office",
+        "content": "事務所"
+      },
+      {
+        "id": "SevenAsso",
+        "content": "Seven協會"
+      },
+      {
+        "id": "DebatyAsso",
+        "content": "Девять協會"
+      },
+      {
+        "id": "LobotomyCorp",
+        "content": "腦葉公司"
+      },
+      {
+        "id": "Armory",
+        "content": "工坊"
+      },
+      {
+        "id": "Outside",
+        "content": "郊區"
+      },
+      {
+        "id": "GreatPond",
+        "content": "大湖"
+      },
+      {
+        "id": "Creature",
+        "content": "怪物"
+      },
+      {
+        "id": "Mepis",
+        "content": "梅菲斯托費勒斯"
+      },
+      {
+        "id": "NestK",
+        "content": "K公司"
+      },
+      {
+        "id": "Misc",
+        "content": "目前難以分類"
+      },
+      {
+        "id": "Walpurgis",
+        "content": "瓦爾普吉斯之夜"
+      }
+    ]
+ }

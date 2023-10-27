@@ -578,6 +578,10 @@
     {
       "id": "ab_part_destroyable_and_can_vanish",
       "content": "可破壞和<color=#ffffff>提取</color>部位"
+    },
+    {
+      "id": "ab_guidebook_view",
+      "content": "查看圖鑑"
     }
   ]
 }
