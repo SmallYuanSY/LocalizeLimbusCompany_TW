@@ -246,14 +246,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 最後一個硬幣對目標施加的狀態層數+1"
+                  "desc": "[OnSucceedAttack] 最後一個硬幣對目標施加的狀態額外+1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 最後一個硬幣對目標施加的狀態層數+1"
+                  "desc": "[OnSucceedAttack] 最後一個硬幣對目標施加的狀態額外+1"
                 }
               ]
             },
@@ -277,14 +277,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 最後一枚硬幣對目標施加的狀態層數+1"
+                  "desc": "[OnSucceedAttack] 最後一枚硬幣對目標施加的狀態額外+1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 最後一枚硬幣對目標施加的狀態層數+1"
+                  "desc": "[OnSucceedAttack] 最後一枚硬幣對目標施加的狀態額外+1"
                 }
               ]
             },

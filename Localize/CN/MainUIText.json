@@ -1357,6 +1357,14 @@
       "content": "卡池{1}的{0}個[理想]已被轉化為紡錘。"
     },
     {
+      "id": "notice_of_pity_point_progress_or_not",
+      "content": "是否消耗200個理想進行兌換？"
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not_already_have",
+      "content": "您已擁有選定的人格。是否消耗200個理想兌換所選罪人的50個自我碎片？"
+    },
+    {
       "id": "open_date_description_month_day_time_zone",
       "content": "{0}月{1}日({2}) 更新後解鎖"
     },
@@ -1519,6 +1527,18 @@
      {
        "id": "notice_not_on_sales_period",
        "content": "※無法在此期間兌換。"
+     },
+     {
+       "id": "pc_shortcut",
+       "content": "PC快速鍵"
+     },
+     {
+       "id": "shortcut_manual_popup_title",
+       "content": "快捷鍵指南"
+     },
+     {
+       "id": "new_dungeon_update_alarm",
+       "content": "後門變化偵測"
      }
   ]
 }

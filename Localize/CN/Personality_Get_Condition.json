@@ -487,6 +487,14 @@
     {
       "id": "10607_getCondition_gacksung",
       "content": "吊鉤事務所 收尾人 鴻璐 3階段同步完成"
+    },
+    {
+      "id": "10106_getCondition_normal",
+      "content": "取得W公司 3級清掃人員 李箱"
+    },
+    {
+      "id": "10106_getCondition_gacksung",
+      "content": "W公司 3級清掃人員 李箱 3階段同步完成"
     }
   ]
 }
