@@ -513,7 +513,7 @@
     },
     {
       "id": "auto_coinToss",
-      "content": "自動投擲"
+      "content": "自動投擲硬幣"
     },
     {
       "id": "babayaga_alert",
@@ -577,7 +577,7 @@
     },
     {
       "id": "ab_part_destroyable_and_can_vanish",
-      "content": "可破壞和<color=#ffffff>提取</color>部位"
+      "content": "可破壞和<color=#ffffff>截除</color>部位"
     },
     {
       "id": "ab_guidebook_view",

@@ -34,6 +34,16 @@
       "id": "battle_erosion_20204_1",
       "desc": "E.G.O侵蝕",
       "dlg": ""
+    },
+    {
+      "id": "battle_awaken_20205_1",
+      "desc": "E.G.O覺醒",
+      "dlg": "記錄已完成。剩下的只有…放你自由。"
+    },
+    {
+      "id": "battle_erosion_20205_1",
+      "desc": "E.G.O侵蝕",
+      "dlg": "真理、真理近在眼前…嘻嘻、嘻嘻嘻、嘻嘻！！！"
     }
   ]
 }

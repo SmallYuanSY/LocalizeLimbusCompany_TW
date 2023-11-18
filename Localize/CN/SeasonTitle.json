@@ -15,6 +15,22 @@
     {
       "id": "season_title_2_EVENT",
       "content": "REMINISCENCE [EVENT]"
+    },
+    {
+      "id": "season_9101_walpurgisnacht",
+      "content": "瓦爾普及斯之夜"
+    },
+    {
+      "id": "season_title_3",
+      "content": "BON VOYAGE"
+    },
+    {
+      "id": "season_title_3_event",
+      "content": "BON VOYAGE [EVENT]"
+    },
+    {
+      "id": "season_filter_3",
+      "content": "第3賽季"
     }
   ]
 }

@@ -1508,37 +1508,53 @@
        "id": "edit_for_formation",
        "content": "編輯編隊"
      },
-     {
-       "id": "full_participated",
-       "content": "參戰人數上限"
-     },
-     {
-       "id": "select_for_delete_participation",
-       "content": "解除參戰"
-     },
-     {
-       "id": "clear_reward",
-       "content": "通關獎勵"
-     },
-     {
-       "id": "event_information",
-       "content": "活動資訊"
-     },
-     {
-       "id": "notice_not_on_sales_period",
-       "content": "※無法在此期間兌換。"
-     },
-     {
-       "id": "pc_shortcut",
-       "content": "PC快速鍵"
-     },
-     {
-       "id": "shortcut_manual_popup_title",
-       "content": "快捷鍵指南"
-     },
-     {
-       "id": "new_dungeon_update_alarm",
-       "content": "後門變化偵測"
-     }
+    {
+      "id": "full_participated",
+      "content": "參戰人數上限"
+    },
+    {
+      "id": "select_for_delete_participation",
+      "content": "解除參戰"
+    },
+    {
+      "id": "clear_reward",
+      "content": "通關獎勵"
+    },
+    {
+      "id": "event_information",
+      "content": "活動資訊"
+    },
+    {
+      "id": "notice_not_on_sales_period",
+      "content": "※無法在此期間兌換。"
+    },
+    {
+      "id": "pc_shortcut",
+      "content": "PC快速鍵"
+    },
+    {
+      "id": "shortcut_manual_popup_title",
+      "content": "快捷鍵指南"
+    },
+    {
+      "id": "new_dungeon_update_alarm",
+      "content": "後門變化偵測"
+    },
+    {
+      "id": "buy_announcer",
+      "content": "購買播報員"
+    },
+    {
+      "id": "label_require_paid_lunacy",
+      "content": "※付費狂氣不足。"
+    },
+    {
+      "id": "notice_require_paid_lunacy",
+      "content": "付費狂氣不足"
+    },
+    {
+      "id": "mainui_original",
+      "content": "現有"
+    }
   ]
 }

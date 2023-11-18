@@ -94,11 +94,11 @@
     },
     {
       "id": "railway_dungeon_2_buff_acquire_ally_buff",
-      "content": "選擇1種<style=\"railwayDungeonAlly\">友方BUFF</style>。"
+      "content": "選擇1種友方BUFF。"
     },
     {
       "id": "railway_dungeon_2_buff_acquire_enemy_buff",
-      "content": "選擇1種<style=\"railwayDungeonEnemy\">敵方BUFF</style>。"
+      "content": "選擇1種敵方BUFF。"
     },
     {
       "id": "railway_dungeon_2_buff_not_selectable",
@@ -203,6 +203,22 @@
      {
        "id": "railway_dungeon_2_reward_condition_special_ticket_14",
        "content": "<color=#32434f>第2季追憶</color>期間內，以巡迴數<color=#005823>{1}</color>以上，總計回合數<color=#005823>{ 0}</color>以下通關2號線時獲得。\n（※以23/09/15 19:15(CST)後重新開始的記錄為準）"
+     },
+     {
+       "id": "railway_dungeon_2_current_battle_turn_count",
+       "content": "本站歷經的回合數：<size=\"60%\">{0}</size>"
+     },
+     {
+       "id": "railway_dungeon_2_ask_retry_when_defeat_info_turn_count",
+       "content": "※ 通過網站時，<color=yellow>該站歷經的回合數</color>將被加至<color=yellow>總回合數</color>。"
+     },
+     {
+       "id": "railway_dungeon_2_ask_retry_when_defeat_info_save_battle",
+       "content": "如選擇繼續，將以餘下人格進行戰鬥，敵人的體力與增益效果保留不變。"
+     },
+     {
+       "id": "railway_dungeon_2_ask_retry_when_all_died_turn_count",
+       "content": "※ 僅當通過站點後，<color=yellow>該站歷經的回合數</color>才將被加至<color=yellow>總回合數</color>中。"
      }
   ]
 }

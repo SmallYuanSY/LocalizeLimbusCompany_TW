@@ -2,15 +2,59 @@
    "dataList": [
      {
        "id": "shotcutKeyManual_confirm_popup",
-       "content": "確認視窗"
+       "content": "[一般] 彈跳窗確認"
      },
      {
-       "id": "shotcutKeyManual_start_battle",
-       "content": "開始戰鬥"
+       "id": "shotcutKeyManual_skip_story",
+       "content": "[故事] 跳過對話"
+     },
+     {
+       "id": "shotcutKeyManual_skip_extraction",
+       "content": "[提取] 跳過動畫"
      },
      {
        "id": "shotcutKeyManual_pause_and_play",
-       "content": "（戰鬥中）暫停與延續"
+       "content": "[戰鬥] 暫停與繼續"
+     },
+     {
+       "id": "shotcutKeyManual_start_battle",
+       "content": "[戰鬥] 開始戰鬥"
+     },
+     {
+       "id": "shotcutKeyManual_button_winning",
+       "content": "[戰鬥] 勝率"
+     },
+     {
+       "id": "shotcutKeyManual_button_damage",
+       "content": "傷害按鍵"
+     },
+     {
+       "id": "shotcutKeyManual_close_popup",
+       "content": "[一般] 關閉彈跳窗"
+     },
+     {
+       "id": "shotcutKeyManual_cancel_back",
+       "content": "取消或返回原始選單"
+     },
+     {
+       "id": "shotcutKeyManual_quit_game",
+       "content": "退出遊戲"
+     },
+     {
+       "id": "shotcutKeyManual_move_screen",
+       "content": "[戰鬥] 視角移動"
+     },
+     {
+       "id": "shotcutKeyManual_show_current_situation",
+       "content": "[戰鬥] 顯示拼點箭頭"
+     },
+     {
+       "id": "shotcutKeyManual_open_manual",
+       "content": "[通用] 開啟UI操作指南"
+     },
+     {
+       "id": "shotcutKeyManual_zoom_inout_battle",
+       "content": "[戰鬥] 放大與縮小"
      }
    ]
 }

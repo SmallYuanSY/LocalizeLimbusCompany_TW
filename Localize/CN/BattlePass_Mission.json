@@ -51,6 +51,10 @@
     {
       "id": "THREADDENGEON_CLEAR",
       "content": "通過紡錘副本{0}次"
+    },
+    {
+      "id": "PURCHASE_ENKEPHALIN_MODULE",
+      "content": "製作腦啡肽模塊{0}次"
     }
   ]
 }

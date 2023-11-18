@@ -495,6 +495,22 @@
     {
       "id": "10106_getCondition_gacksung",
       "content": "W公司 3級清掃人員 李箱 3階段同步完成"
+    },
+    {
+      "id": "11207_getCondition_normal",
+      "content": "獲得雙鉤海盜團 大副 格里高爾"
+    },
+    {
+      "id": "11207_getCondition_gacksung",
+      "content": "雙鉤海盜團 大副 格里高爾 3階段同步完成"
+    },
+    {
+      "id": "10406_getCondition_normal",
+      "content": "獲得LCCB 系長 良秀"
+    },
+    {
+      "id": "10406_getCondition_gacksung",
+      "content": "LCCB 系長 良秀 3階段同步完成"
     }
   ]
 }

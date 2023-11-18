@@ -19,6 +19,10 @@
     {
       "id": "daily_login_halloween_event_desc",
       "content": "▶累計簽到七天可獲得「十連提取券」"
+    },
+    {
+      "id": "daily_login_seventh_anniversary_desc",
+      "content": "活動期間登入，獲得十連提取券"
     }
   ]
 }

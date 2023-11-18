@@ -240,6 +240,241 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1040601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "強力推擊",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標失去4點理智值"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "強力推擊",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標失去6點理智值"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "強力推擊",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標失去8點理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "目·無",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "目·無",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "目·無",
+          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加2層攻擊等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "頭·裂",
+          "desc": "[WhenUse] 使自身增加4級呼吸法 強度\n若自身的呼吸法 強度不低於10級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加的震顫 與破裂 的強度和層數翻倍"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對目標施加1層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度並對目標施加1層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "頭·裂",
+          "desc": "[WhenUse] 使自身增加4級呼吸法 強度\n自身每帶有7級呼吸法 強度，使本技能的硬幣威力+1（最多+2）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使自身獲得1層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使自身獲得1層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加的震顫 與破裂 的強度和層數翻倍"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度並對目標施加2層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "防禦",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

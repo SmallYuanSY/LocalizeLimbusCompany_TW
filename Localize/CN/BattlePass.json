@@ -135,6 +135,70 @@
     {
       "id": "battlepass_reward_opened_at",
       "content": "{0} 更新"
+    },
+    {
+      "id": "battlepass_package_purchase",
+      "content": "邊獄通行證禮包"
+    },
+    {
+      "id": "battlepass_package_desc_level",
+      "content": "包括「邊獄巴士禮包 特殊裝飾橫幅」在內的各種獎勵"
+    },
+    {
+      "id": "battlepass_package_desc_banner",
+      "content": "+ [LIMBUS PASS] 贈品"
+    },
+    {
+      "id": "battlepass_package_ask_purchase",
+      "content": "要消耗 {0} 付費狂氣來購買這個禮包嗎？"
+    },
+    {
+      "id": "battlepass_package_warning",
+      "content": "※ 這件商品在購買後會立即使用，退款將會受到限制。"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward",
+      "content": "購買時將會獲得下列通行證等級超額獎勵"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward_count",
+      "content": "{1} [第{0}賽季]自我碎片自選箱 "
+    },
+    {
+      "id": "battlepass_select_product_popup_title",
+      "content": "選擇組合包/通行證"
+    },
+    {
+      "id": "only_paid_lunacy_for_battlepass_levelup_with_number",
+      "content": "※購買 1 通行證等級需要花費{0}付费狂气。"
+    },
+    {
+      "id": "battle_pass_package_button_desc",
+      "content": "附帶特殊裝飾橫幅\n可獲得各種獎勵"
+    },
+    {
+      "id": "battle_pass_select_popup_package_desc",
+      "content": "附帶特殊裝飾橫幅\n可獲得各種獎勵"
+    },
+    {
+      "id": "battle_pass_select_popup_limbus_desc",
+      "content": "◆解鎖邊獄通行證獎勵\n◆通行證超額獎勵增加"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc",
+      "content": "◆購買後立即增加10通行證等級。\n◆包含以下內容。"
+    },
+    {
+      "id": "battle_pass_limbus_purchase_popup_desc",
+      "content": "◆ 能夠獲得包含邊獄通行證在內的多種獎勵。\n◆ 戰鬥通行證超額獎勵中可取得的[第3季]自我碎片自選箱的數量由1個增加至3個。"
+    },
+    {
+      "id": "battle_pass_package_button_desc_with_limbus",
+      "content": "附帶特別橫幅\n獲得各種獎勵\n+[邊獄通行證] 贈品"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc_in_box",
+      "content": "- 邊獄巴士禮包 特殊裝飾橫幅\n- 人格等級直升券IV"
     }
   ]
 }
