@@ -706,7 +706,39 @@
     },
     {
       "id": "introduce_sentence_89",
-      "content": "我做{0}是為了開心。"
+      "content": "我做{0}只是為了開心。"
+    },
+    {
+      "id": "introduce_word_90",
+      "content": "冰－淇－淋－"
+    },
+    {
+      "id": "introduce_sentence_90",
+      "content": "吾！想吃！{0}！"
+    },
+    {
+      "id": "introduce_word_91",
+      "content": "復仇"
+    },
+    {
+      "id": "introduce_sentence_91",
+      "content": "唯有以命相抵才算{0}結束。"
+    },
+    {
+      "id": "introduce_word_92",
+      "content": "真理"
+    },
+    {
+      "id": "introduce_sentence_92",
+      "content": "{0}近在眼前…"
+    },
+    {
+      "id": "introduce_word_93",
+      "content": "污穢"
+    },
+    {
+      "id": "introduce_sentence_93",
+      "content": "{0}寄宿進我的身體…從而重生為可用之材。"
     }
   ]
 }

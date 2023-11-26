@@ -123,6 +123,139 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2060511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "沸騰腐蝕",
+          "abName": "陸行珍珠",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加（暴食共鳴數/2）級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "沸騰腐蝕",
+          "abName": "陸行珍珠",
+          "desc": "[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加（暴食共鳴數/2）級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層暴食易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "沸騰腐蝕",
+          "abName": "陸行珍珠",
+          "desc": "[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1\n若自身現存體力不高於25%，則使本技能的攻擊容量額外+1" ,
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加（暴食共鳴數/2）級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層暴食易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "沸騰腐蝕",
+          "abName": "陸行珍珠",
+          "desc": "[CantIdentify]\n指定場上體力最低的單位",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加（暴食共鳴數/3）層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量20%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "沸騰腐蝕",
+          "abName": "陸行珍珠",
+          "desc": "[CantIdentify]\n指定場上體力最低的單位\n[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加（暴食共鳴數/3）層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "沸騰腐蝕",
+          "abName": "陸行珍珠",
+          "desc": "[CantIdentify]\n指定場上體力最低的單位\n[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1\n若自身現存體力不高於 25%，則使本技能的攻擊容量額外+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加（暴食共鳴數/3）層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

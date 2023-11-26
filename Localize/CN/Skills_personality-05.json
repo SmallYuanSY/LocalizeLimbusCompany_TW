@@ -1,0 +1,244 @@
+{
+   "dataList": [
+     {
+       "id": 1050701,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "銘記",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "銘記",
+           "desc": "[DefeatDuel] 下回合使自身獲得1層嫉妒傷害強化 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "銘記",
+           "desc": "[DefeatDuel] 下回合使自身獲得1層嫉妒傷害強化 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050702,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "忠義鎖鏈",
+           "desc": "[StartBattle] 使儀錶板上位於自身兩側的友方單位獲得1層嫉妒強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "忠義鎖鏈",
+           "desc": "[StartBattle] 使儀錶板上位於自身兩側的友方單位獲得1層嫉妒強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "忠義鎖鏈",
+           "desc": "[StartBattle] 使儀錶板上位於自身兩側的友方單位獲得1層嫉妒強壯\n若受影響的技能槽中的技能為嫉妒屬性，則使對應單位獲得1層嫉妒傷害強化 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050703,
+       "levelList": [
+         {
+           "level": 3,
+           "name": "銘刻",
+           "desc": "若嫉妒共鳴數不低於4，則使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有報復物件 ，則下回合對其施加1層加算硬幣弱化 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {}
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有報復對象 ，則下回合對其施加1層嫉妒易損 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "銘刻",
+           "desc": "若嫉妒共鳴數不低於4，則使本技能的硬幣威力+1\n若嫉妒完全共鳴數不低於6，則使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有報復物件 ，則下回合對其施加1層加算硬幣弱化 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {}
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有報復對象 ，則下回合對其施加2層嫉妒易損 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050704,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "加倍奉還",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "加倍奉還",
+           "desc": "若嫉妒共鳴數不低於4，則使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     }
+   ]
+}

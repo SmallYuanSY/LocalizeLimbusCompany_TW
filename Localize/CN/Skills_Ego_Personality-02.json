@@ -1,0 +1,125 @@
+{
+    "dataList": [
+      {
+        "id": 2020511,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "9章2節",
+            "abName": "人皮預言者",
+            "desc": "",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化為1層防禦等級降低 （最多轉化10層）"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "name": "9章2節",
+            "abName": "人皮預言者",
+            "desc": "[BeforeAttack] 若最大色欲完全共鳴數不低於4，則使本技能的攻擊容量+1",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttackHead] 使目標增加3級燒傷 強度"
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化為1層防禦等級降低 （最多轉化10層）"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "name": "9章2節",
+            "abName": "人皮預言者",
+            "desc": "[BeforeAttack] 若最大色欲完全共鳴數不低於4，則使本技能的攻擊容量+1\n若最大色欲完全共鳴數不低於6，則使本技能的攻擊容量額外+ 1",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化為1層防禦等級降低 （最多轉化10層）"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2020521,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "9章2節",
+            "abName": "人皮預言者",
+            "desc": "[CantIdentify]\n隨機指定目標",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttackTail] 使目標增加4級燒傷 強度"
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化為1層防禦等級降低 （最多轉化10層）"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "name": "9章2節",
+            "abName": "人皮預言者",
+            "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若最大色欲完全共鳴數不低於4，則使本技能的攻擊容量+1",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttackTail] 下回合對目標施加2層束縛 "
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度 "
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化為1層防禦等級降低 （最多轉化10層）"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "name": "9章2節",
+            "abName": "人皮預言者",
+            "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若最大色欲完全共鳴數不低於4，則使本技能的攻擊容量+1\n若最大色欲完全共鳴數不低於6 ，則使本技能的攻擊容量額外+1",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttackTail] 下回合對目標施加2層束縛 "
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化為1層防禦等級降低 （最多轉化10層）"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+ }

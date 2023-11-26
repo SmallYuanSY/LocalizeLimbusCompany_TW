@@ -582,6 +582,10 @@
     {
       "id": "ab_guidebook_view",
       "content": "查看圖鑑"
+    },
+    {
+      "id": "show_BattleAblityUI",
+      "content": "戰鬥中顯示詳細資料UI"
     }
   ]
 }

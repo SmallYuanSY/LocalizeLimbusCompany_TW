@@ -661,7 +661,7 @@
                     "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                   },
                   {
-                    "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                    "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
                   }
                 ]
               },

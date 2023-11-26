@@ -511,6 +511,22 @@
     {
       "id": "10406_getCondition_gacksung",
       "content": "LCCB 系長 良秀 3階段同步完成"
+    },
+    {
+      "id": "10306_getCondition_normal",
+      "content": "取得中指 幼妹 唐吉訶德"
+    },
+    {
+      "id": "10306_getCondition_gacksung",
+      "content": "中指 幼妹 唐吉訶德 3階段同步完成"
+    },
+    {
+      "id": "10507_getCondition_normal",
+      "content": "中指 幼弟 默爾索"
+    },
+    {
+      "id": "10507_getCondition_gacksung",
+      "content": "中指 幼弟 默爾索 3階段同步完成"
     }
   ]
 }

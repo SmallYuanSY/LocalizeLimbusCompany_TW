@@ -1555,6 +1555,10 @@
     {
       "id": "mainui_original",
       "content": "現有"
+    },
+    {
+      "id": "open_after_clear_node",
+      "content": "通關{0}-{1}後解鎖"
     }
   ]
 }

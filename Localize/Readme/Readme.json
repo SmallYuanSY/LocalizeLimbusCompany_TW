@@ -37,7 +37,17 @@
       "startDate": "2023-11-09T08:00:00.000Z",
       "endDate": "2024-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "Mod V0.6.11",
+      "title_KR": "Mod V0.6.13",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.13\\n- 漢化內容更新\\n  - 章節V 定義為惡 第二部分 的漢化內容 更新\\n 翻譯\\n 漢化內容將按照《上》、《下》兩部分更新\\n  - 其他內容少量更進\"}]}"
+    },
+    {
+      "id": 3032,
+      "version": 0,
+      "type": 0,
+      "startDate": "2023-11-09T08:00:00.000Z",
+      "endDate": "2024-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Mod V0.6.12",
       "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.12\\n- 漢化內容更新\\n  - 章節V 定義為惡 (上) 的漢化更新\\n 翻譯\\n 漢化內容將按照《上》、《下》兩部分更新\\n  - 其他內容少量更進\"}]}"
     },
     {

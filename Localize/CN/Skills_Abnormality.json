@@ -4630,7 +4630,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦弱化 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等级降低 "
                 }
               ]
             }

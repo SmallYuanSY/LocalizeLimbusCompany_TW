@@ -77,6 +77,18 @@
       "panicName": "恐慌",
       "lowMoraleDescription": "",
       "panicDescription": "一回合內無法行動"
+    },
+    {
+      "id": 1013,
+      "panicName": "不潔",
+      "lowMoraleDescription": "使自己獲得1層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></ u>. 單位拼點失敗時，使目標失去2點理智值。",
+      "panicDescription": "使自己取得2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></ u>. 當單位拼點失敗時，使目標失去5點理智值。"
+    },
+    {
+      "id": 1014,
+      "panicName": "報復",
+      "lowMoraleDescription": "回合開始時，使自己獲得1層<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">強壯</color></link ></u>並施加3層對自己<sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防禦等級降低</color></link> </u>，基於上回合受到的傷害使自身獲得<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></ link></u>\n（每失去體力上限3%的體力，使自身獲得1層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\" >傷害強化</color></link></u>）",
+      "panicDescription": "回合開始時，使自己獲得2層<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">強壯</color></link ></u>並對自己施加6層<sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防禦等級降低</color></link> </u>，基於上回合受到的傷害使自身獲得<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></ link></u>\n（每失去體力上限3%的體力，使自身獲得1層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\" >傷害強化</color></link></u>）"
     }
   ]
 }

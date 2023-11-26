@@ -1,0 +1,217 @@
+{
+    "dataList": [
+      {
+        "id": 809901,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "拳打",
+            "desc": "",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 打擊傷害 +3"
+                  }
+                ]
+              },
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 打擊傷害 +3"
+                  }
+                ]
+              },
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 809902,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "腳踢",
+            "desc": "",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 打擊傷害 +5"
+                  }
+                ]
+              },
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 打擊傷害 +5"
+                  }
+                ]
+              },
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 809903,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "償還",
+            "desc": "",
+            "coinlist": [
+              {},
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 使目標失去5點理智值"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 809904,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "威嚴",
+            "desc": "[StartBattle] 使全體友方單位獲得1層強壯 \n[StartBattle] 對理智值最低的2名敵方單位施加2層虛弱 ",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 809905,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "銘刻於身",
+            "desc": "[StartBattle] 使自身獲得2層大哥的試煉 。下回合對自身施加5層束縛 ",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 809906,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "注意背後！",
+            "desc": "若目標的理智值不高於0點，則使本技能的硬幣威力+3",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 使自身恢復10點理智值"
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 與2層虛弱 "
+                  }
+                ]
+              },
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 使目標失去20點理智值"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 809907,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "全體集合",
+            "desc": "[StartBattle] 下回合召喚2名友方單位",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 809908,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "牢記仇怨",
+            "desc": "[StartBattle] 使自身獲得2層大哥的試煉 。下回合對自身施加5層束縛 ，使自身獲得5層傷害強化 ",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 809909,
+        "levelList": [
+          {
+            "level": 1,
+            "name": "我的理髮啊啊啊啊啊啊啊啊啊啊啊啊券！！！",
+            "desc": "若主要目標的理智值不高於0點，則使本技能的最終威力+5",
+            "coinlist": [
+              {
+                "coindescs": [
+                  {
+                    "desc": "[OnSucceedAttack] 使目標的混亂閾值前移30"
+                  },
+                  {
+                    "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+ }

@@ -1248,6 +1248,18 @@
       "id": "Unjust_Enrichment",
       "name": "不義之財",
       "desc": "- 正面命中帶有流血 的目標時增加（最多4層）\n- 當被動 子彈很貴 觸發時，清空該效果並追加相對應傷害"
+    },
+    {
+      "id": "Resentment",
+      "name": "怨恨",
+      "desc": "擊中有<sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">復仇帳簿</color></link></u >的目標時，攻擊後解除此效果\n回合結束時解除本效果",
+      "undefined": "-"
+    },
+    {
+      "id": "RetaliationBook",
+      "name": "報復對象",
+      "desc": "施加在上回合內對單一友方單位造成技能傷害最多的敵方單位（最多1次）",
+      "undefined": "-"
     }
   ]
 }
