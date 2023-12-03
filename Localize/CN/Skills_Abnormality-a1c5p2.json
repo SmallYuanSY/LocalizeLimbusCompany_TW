@@ -111,7 +111,7 @@
           {
             "level": 1,
             "name": "銘刻於身",
-            "desc": "[StartBattle] 使自身獲得2層大哥的試煉 。下回合對自身施加5層束縛 ",
+            "desc": "[StartBattle] 使自身獲得2層兄長的試煉 。下回合對自身施加5層束縛 ",
             "coinlist": [
               {
                 "coindescs": [
@@ -178,7 +178,7 @@
           {
             "level": 1,
             "name": "牢記仇怨",
-            "desc": "[StartBattle] 使自身獲得2層大哥的試煉 。下回合對自身施加5層束縛 ，使自身獲得5層傷害強化 ",
+            "desc": "[StartBattle] 使自身獲得2層兄長的試煉 。下回合對自身施加5層束縛 ，使自身獲得5層傷害強化 ",
             "coinlist": [
               {
                 "coindescs": [

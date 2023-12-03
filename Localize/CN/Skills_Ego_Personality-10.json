@@ -123,6 +123,133 @@
            ]
          }
        ]
+     },
+     {
+       "id": 2100511,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "9章2節",
+           "abName": "人皮預言者",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "9章2節",
+           "abName": "人皮預言者",
+           "desc": "[BeforeAttack] 若色欲共鳴數不低於4，則使本技能的攻擊容量+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "9章2節",
+           "abName": "人皮預言者",
+           "desc": "[BeforeAttack] 若色欲共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 若最大色欲完全共鳴數不低於4，則使本技能的攻擊容量額外 +1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則在下回合對其施加1層虛弱 與1層破綻 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 2100521,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "9章2節",
+           "abName": "人皮預言者",
+           "desc": "[CantIdentify]\n隨機指定目標",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "9章2節",
+           "abName": "人皮預言者",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若色欲共鳴數不低於4，則使本技能的攻擊容量+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則在下回合對其施加1層色欲易損 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "9章2節",
+           "abName": "人皮預言者",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若色欲共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 若最大色欲完全共鳴數不低於 4，則使本技能的攻擊容量額外+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則在下回合對其施加2層色欲易損 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
      }
    ]
 }

@@ -1,0 +1,140 @@
+{
+   "dataList": [
+     {
+       "id": 2080511,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "盲目",
+           "abName": "噬夢的濁流",
+           "desc": "[EndSkill] 使理智值最低的4名友方單位恢復15點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自己獲得3層充能 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 隨機使1名友方單位獲得1層呼吸法 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "盲目",
+           "abName": "噬夢的濁流",
+           "desc": "[EndSkill] 使理智值最低的4名友方單位恢復20點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身獲得4層充能 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 隨機使1名友方單位獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[EndSkillHead] 使理智值最高的4名友方單位獲得1層突刺強壯與1層傷害強化 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "盲目",
+           "abName": "噬夢的濁流",
+           "desc": "[EndSkill] 使理智值最低的4名友方單位恢復25點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得6層充能 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 隨機使1名友方單位獲得2層呼吸法 "
+                 },
+                 {
+                   "desc": "[EndSkill] 使理智值最高的4名友方單位獲得1層突刺強壯與1層傷害強化 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 2080521,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "盲目",
+           "abName": "噬夢的濁流",
+           "desc": "[CantIdentify]\n隨機指定目標",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 本回合和下回合中，對目標施加2層傲慢易損 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "盲目",
+           "abName": "噬夢的濁流",
+           "desc": "[CantIdentify]\n隨機指定目標",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackTail] 使自身恢復體力上限3%的體力"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 本回合和下回合中，對目標施加2層傲慢易損 "
+                 },
+                 {
+                   "desc": "[EndSkillTail] 本回合和下回合中，使理智值最低的4名友方單位獲得2層傷害強化 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "盲目",
+           "abName": "噬夢的濁流",
+           "desc": "[CantIdentify]\n隨機指定目標",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復體力上限3%的體力"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 本回合和下回合中，對目標施加3層傲慢易損 "
+                 },
+                 {
+                   "desc": "[EndSkill] 在本回合和下回合中，使理智值最低的4名友方單位獲得2層傷害強化 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     }
+   ]
+}

@@ -1,0 +1,134 @@
+{
+   "dataList": [
+     {
+       "id": 2090411,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "沸騰腐蝕",
+           "abName": "陸行珍珠",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層震顫 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 下回合對目標施加2層束縛 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "沸騰腐蝕",
+           "abName": "陸行珍珠",
+           "desc": "[BeforeAttack] 若主要目標現存體力不低於50%，則使本技能的攻擊容量+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並施加5層震顫 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 下回合對目標施加2層束縛 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 引爆目標的震顫 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "沸騰腐蝕",
+           "abName": "陸行珍珠",
+           "desc": "[BeforeAttack] 若主要目標現存體力不低於50%，則使本技能的攻擊容量+1；若主要目標現存體力不低於75%，則使本技能的攻擊容量額外+1 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並施加7層震顫 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 下回合對目標施加2層束縛 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 2090421,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "沸騰腐蝕",
+           "abName": "陸行珍珠",
+           "desc": "[CantIdentify]\n指定體力最低的單位",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "沸騰腐蝕",
+           "abName": "陸行珍珠",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若主要目標現存體力不低於50%，則使本技能的攻擊容量+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "沸騰腐蝕",
+           "abName": "陸行珍珠",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若主要目標現存體力不低於50%，則使本技能的攻擊容量+1；若主要目標現存體力不低於75%， 則使本技能的攻擊容量額外+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加5層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     }
+   ]
+}

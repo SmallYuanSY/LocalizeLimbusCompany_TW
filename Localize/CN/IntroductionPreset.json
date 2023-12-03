@@ -739,6 +739,38 @@
     {
       "id": "introduce_sentence_93",
       "content": "{0}寄宿進我的身體…從而重生為可用之材。"
-    }
+    },
+     {
+       "id": "introduce_word_94",
+       "content": "滅亡"
+     },
+     {
+       "id": "introduce_sentence_94",
+       "content": "你的{0}…都全部寫在這裡呢！"
+     },
+     {
+       "id": "introduce_word_95",
+       "content": "珍珠"
+     },
+     {
+       "id": "introduce_sentence_95",
+       "content": "連轉化成{0}的價值都沒有！"
+     },
+     {
+       "id": "introduce_word_96",
+       "content": "燈光"
+     },
+     {
+       "id": "introduce_sentence_96",
+       "content": "全員，朝著{0}閃爍的方向行進。"
+     },
+     {
+       "id": "introduce_word_97",
+       "content": "浪潮"
+     },
+     {
+       "id": "introduce_sentence_97",
+       "content": "能在這{0}之中行動的，唯有我一人。"
+     }
   ]
 }

@@ -1410,11 +1410,11 @@
     },
     {
       "id": "formation_force_participation_on",
-      "content": "固定編成"
+      "content": "固定編入"
     },
     {
       "id": "formation_force_participation_off",
-      "content": "必須固定編成"
+      "content": "需固定編入"
     },
     {
       "id": "formation_must_participate_specific_character",
@@ -1554,7 +1554,7 @@
     },
     {
       "id": "mainui_original",
-      "content": "現有"
+      "content": "原價"
     },
     {
       "id": "open_after_clear_node",

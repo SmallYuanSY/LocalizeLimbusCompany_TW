@@ -1,0 +1,1951 @@
+{
+   "dataList": [
+     {
+       "id": 810001,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "分裂吧",
+           "desc": "指定有識別 的單位",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 根據點燃的蠟燭數，對目標造成相應的理智傷害"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 根據點燃的蠟燭數，對目標造成相應的理智傷害"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810002,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "渴求著…",
+           "desc": "指定有識別 的單位",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層暴怒易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有燒傷 ，則使其增加4級燒傷 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層暴怒易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有燒傷時 ，則使其增加4級燒傷 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810003,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "9章2節",
+           "desc": "下回合熄滅所有蠟燭\n攻擊命中帶有[AaCePcBa]的目標時，使其體力上限額外減少5%\n[DefeatDuel] 使目標增加10級燒傷強度，下回合對其施加標識 \n[EndBattle] 使所有蠟燭恢復全部體力",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標的體力上限減少10%"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級燒傷 強度並對其施加2層燒傷 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標的體力上限減少10%"
+                 },
+                 {
+                   "desc": "[OnSucceedAttac使目標增加5級燒傷 強度並對其施加2層燒傷 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810004,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "6章5節",
+           "desc": "[CantDuel][CantChangeTarget]\n代替目標承受傷害，下回合使自身陷入混亂。\n隨機對不帶有[AaCePcBa]的1名敵方單位施加標識。\n[EndBattle] 使 所有蠟燭恢復全部體力",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身的體力上限減少10%"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加10級燒傷 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身的體力上限減少10%"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加10級燒傷 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810005,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "揭示一切",
+           "desc": "[CantDuel]",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層暴怒易損 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810006,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "燃燒一切",
+           "desc": "[CantDuel]",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有燒傷 ，則使其增加3級燒傷 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810701,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "燃起火種",
+           "desc": "指定帶有[AaCePcBa]的目標",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加6級燒傷 強度，並對目標施加2層燒傷 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810702,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "不可消逝",
+           "desc": "[StartBattle] 使自身獲得20點護盾\n護盾全部消耗後，下回合熄滅火焰",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度，對目標施加1層燒傷 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810101,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "毒性黏液",
+           "desc": "[StartBattle] 消耗1層綠色黏液 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層劇毒 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層劇毒 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810102,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "腐蝕黏液",
+           "desc": "[StartBattle] 消耗1層綠色黏液",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 目標每帶有1層劇毒 ，對其施加1層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層幼蟲 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 目標每帶有1層劇毒 ，對其施加1層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層幼蟲 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810103,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "麻痺黏液",
+           "desc": "[StartBattle] 消耗1層綠色黏液 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有劇毒 ，則對其施加1層麻痺 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層幼蟲 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有劇毒 ，則對其施加1層麻痺 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層幼蟲 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810104,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "蠶食黏液",
+           "desc": "[StartBattle] 消耗2層綠色黏液 \n[WhenUse] 對目標施加3層幼蟲 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加4層劇毒 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加4層劇毒 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810105,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "沸騰的綠色黏液",
+           "desc": "[StartBattle] 自身每帶有1層綠色粘液 ，使本技能的攻擊容量+1\n[StartBattle] 使自身獲得10層綠色粘液 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加10層劇毒 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標失去7點理智值"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層幼蟲 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 與3層防禦等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810106,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "捕食",
+           "desc": "[CantDuel][CantChangeTarget]\n優先攻擊綠色黏液\n攻擊綠色黏液時，將其擊殺",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "擊殺目標時，使自身獲得3層綠色黏液 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810107,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "溢出的劇毒",
+           "desc": "[OnSucceedEvade] 對目標施加5層劇毒 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810201,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "頭槌",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810202,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "衝撞",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810203,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "壓制",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級[Sinking]強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標擁有[AaCePcBb]，則對目標施加2層沉淪 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級[Sinking]強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標擁有[AaCePcBb]，則對目標施加2層沉淪 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810204,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "盲目",
+           "desc": "[DefeatDuel] 使螢光燈部位失去體力上限34%的體力\n[DefeatDuel] 對自身施加1層盲目 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加4級沉淪 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加4級沉淪 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加4級沉淪 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標沉淪氾濫 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810205,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "襲來的濁流",
+           "desc": "[CantDuel][StartBattle] 改變戰鬥場地",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度並對其施加2層沉淪 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 下回合自身理智值減少效率 -2"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度並對其施加2層沉淪 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810206,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "彷就盲目",
+           "desc": "[CantDuel][CantChangeTarget] 指定被破壞的漂流物\n[EndSkill] 使螢光燈部位失去體力上限34%的體力\n[EndBattle] 對自身施加1層盲目 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 擊殺目標"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810207,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "橫掃",
+           "desc": "[EndBattle] 生成漂流物",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有螢光燈碎片 ，則對其施加2層沉淪 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有螢光燈碎片 ，則對其施加2層沉淪 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810208,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "掙扎",
+           "desc": "[StartBattle] 消耗所有盲目 \n[StartBattle] 摧毀所有漂流物與被破壞的漂流物",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811001,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "突刺",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811002,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "撕裂傷口",
+           "desc": "[WinDuel] 使自身恢復5點理智值\n目標每帶有1級流血 強度，使本技能造成的傷害+5%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811003,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "保衛小鎮！",
+           "desc": "[WhenUse] 使自身增加5級呼吸法 強度",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811004,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "捆縛用標槍",
+           "desc": "[WhenUse] 使自身增加5級呼吸法 強度並獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加捆綁 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811005,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "防禦",
+           "desc": "若自身在有護盾時受到攻擊，則在下回合使自身獲得1層攻擊等級提升 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811101,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "連續突刺",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811102,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "刻下傷口",
+           "desc": "[WinDuel] 使自身恢復5點理智值\n目標每帶有1級流血 強度，使本技能造成的傷害+5%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811103,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "保衛小鎮！",
+           "desc": "[WhenUse] 使自身增加5級呼吸法 強度",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811104,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "捕捉用標槍",
+           "desc": "[WhenUse] 使自身增加5級呼吸法 強度並獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加捕獲 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 811105,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "閃避",
+           "desc": "[OnSucceedEvade] 下回合使自身獲得1層攻擊等級提升 （最多3次）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810301,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "狩獵開始",
+           "desc": "[StartBattle] 下回合召喚4個友方單位\n[WhenUse] 下回合對目標施加獵物標記 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810302,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "魚叉",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810303,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "穿刺魚叉",
+           "desc": "",
+           "coinlist": [
+             {},
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層攻擊等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810304,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "深呼吸",
+           "desc": "[StartBattle] 使自身增加10級呼吸法強度並獲得5層呼吸法\n本技能造成暴擊時不消耗呼吸法層數\n回合結束時，除自身以外每有1名友 方單位存活，下回合使自身獲得1層加算硬幣強化",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {}
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810305,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "反擊",
+           "desc": "本技能造成暴擊時不消耗呼吸法 層數",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810306,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "追蹤獵物",
+           "desc": "本技能暴擊時造成的傷害+30%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 },
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 使目標的第一個混亂閾值前移本硬幣傷害量的50%"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810307,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "割喉",
+           "desc": "本技能造成暴擊時不消耗呼吸法層數\n目標每帶有1級流血強度，使本技能造成的傷害+5%\n[WhenUse] 若自身未帶有呼吸法， 則使自身在回合結束時陷入混亂",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "暴擊時造成的傷害+50%"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使目標陷入混亂"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810308,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "深呼吸",
+           "desc": "[StartBattle] 使自身增加3級呼吸法強度並獲得5層呼吸法\n本回合中，自身每帶有1級呼吸法強度，使本技能的最終威力+1\n本回合 中，受到攻擊時使自身失去1層呼吸法",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {}
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810309,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "生存意志",
+           "desc": "本技能暴擊時造成的傷害+30%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使本體與部位恢復本硬幣傷害量50%的體力"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使本體與部位恢復本硬幣傷害量50%的體力"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使本體與部位恢復本硬幣傷害量50%的體力"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810310,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "必須…保衛",
+           "desc": "[TurnStartBattle] 使用本技能時，若自身的援護護盾 高於0點，則進行援護防禦 \n[StartBattle] 使自身獲得體力上限10%的援護護盾 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {}
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810311,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "堅韌魚叉",
+           "desc": "與斯達巴克攻擊相同目標時，使本技能的最終威力+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使本體與部位恢復本硬幣傷害量50%的體力"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加捆綁 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使本體與部位恢復本硬幣傷害量50%的體力"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810312,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "必須…完成狩獵",
+           "desc": "本技能造成暴擊時不消耗呼吸法 層數\n目標每帶有1級流血 強度，使本技能造成的傷害+5%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "暴擊時造成的傷害+50%"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使目標陷入混亂"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810401,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "穿刺",
+           "desc": "[WhenUse] 使自身獲得3層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810402,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "利刃穿身",
+           "desc": "[WhenUse] 使自身增加5級呼吸法 強度",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 重複使用本幣（最多3次）"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810403,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "聽從指令…",
+           "desc": "[TurnStartBattle] 若魁魁格的援護護盾 高於0點，則進行援護攻擊 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810404,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "突擊",
+           "desc": "本技能暴擊時造成的傷害+50%\n目標每帶有1級流血 強度，使本技能造成的傷害+5%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                 },
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 使目標的第一個混亂閾值前移本硬幣傷害量的50%"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810405,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "恐懼的嘆息",
+           "desc": "[WhenUse] 使自身獲得6層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810406,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "決心魚叉",
+           "desc": "與魁魁格攻擊相同目標時，使本技能的最終威力+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加捕獲 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加5層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackTail] 重複使用本硬幣（最多3次）"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810407,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "為了離開",
+           "desc": "本技能暴擊時造成的傷害+100%\n目標每帶有1級流血 強度，使本技能造成的傷害+5%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                 },
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 使目標的第一個混亂閾值前移本硬幣傷害量的50%"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810501,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "聽我號令",
+           "desc": "[WhenUse] 使自身及除自身外理智值最低的1名友方單位恢復10點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {}
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810502,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "到我身邊！",
+           "desc": "[StartBattle] 命令魁魁格下回合進行援助防禦 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {}
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810503,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "追蹤到底！",
+           "desc": "[StartBattle] 命令斯達巴克下回合進行援護攻擊 \n[WhenUse] 下回合對目標施加1層獵物標記 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {}
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810504,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "老練的魚叉手",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810505,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "魚叉如火",
+           "desc": "主要目標每帶有1種負面效果，則使本技能最終威力+1（最多+5）\n目標每帶有1級流血 強度，使本技能造成的傷害+5%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 施加與目標流血 強度相同的燒傷 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810506,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "愚蠢！",
+           "desc": "[WhenUse] 使自身恢復5點理智值\n[OnSucceedEvade] 使目標失去5點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {}
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810507,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "吐氣！",
+           "desc": "[WhenUse] 下回合對目標施加1層獵物標記 \n[WinDuel] 使自身增加4級呼吸法 強度",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使除自身外的2名友方單位增加4級呼吸法 強度\n無友方單位存活時，改為使自身獲得2層呼吸法 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810508,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "越過最後的恐懼！",
+           "desc": "[WhenUse] 使自身恢復10點理智值。使除自身外理智值最高的1名友方單位失去10點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對除自身外的1名隨機友方單位施加1層麻痺 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對除自身外的1名隨機友方單位施加1層麻痺 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對除自身外的1名隨機友方單位施加1層麻痺 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810509,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "死亡淬煉",
+           "desc": "[WhenUse] 對理智值最低的1名友方單位施加1層不可抗拒的命令 \n[DefeatDuel] 使理智值最低的1名友方單位的混亂閾值前移20",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層易損 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810601,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "放馬過來！",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810602,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "暗殺",
+           "desc": "指定體力上限最低的單位",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加6層攻擊等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810603,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "不滅之魂",
+           "desc": "閃避失敗時重複使用（最多2次）\n[OnDefeatEvade] 消耗1層比普的自我 ",
+           "coinlist": [
+             {}
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810604,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "渾濁的純潔",
+           "desc": "[DefeatDuel] 使自身獲得2層破綻 並失去10點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層束縛 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810605,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "罪惡感的重量",
+           "desc": "指定場上體力上限最低的3名單位\n[StartBattle] 自身每帶有5層比普的自我，使本技能的基礎威力+2，攻擊容量+1\n[WhenUse] 使 自身失去3層比普的自我",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標的混亂閾值前移30"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標失去10點理智值"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810606,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "사용하지않는스킬(번역x)",
+           "desc": "",
+           "coinlist": [
+             {},
+             {}
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810607,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "掩飾恐懼",
+           "desc": "[WhenUse] 對目標施加1層獵物標記 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加4層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810608,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "穿透軟弱",
+           "desc": "[WhenUse] 下回合對目標施加1層獵物標記 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加3層攻擊等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810609,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "嘆息迴響",
+           "desc": "目標每帶有1級流血強度，使本技能造成的傷害+5%\n若目標未帶有獵物標記，則使本技能的硬幣威力+1\n[DefeatDuel] 使自身失去 5點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 隨機對3名敵方單位造成3點理智傷害"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 隨機對3名敵方單位造成3點理智傷害"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 隨機對3名敵方單位造成3點理智傷害"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 隨機對3名敵方單位造成3點理智傷害"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 隨機對3名敵方單位造成3點理智傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 自身每帶有10層斯達巴克的自我 ，重複使用最後一枚硬幣1次"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810610,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "混濁軌跡",
+           "desc": "[WhenUse] 下回合對目標施加1層獵物標記 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層傷害弱化 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810611,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "褪色的懺悔",
+           "desc": "[WhenUse] 使自身失去5層魁魁格的自我 \n[WinDuel] 使自身獲得6層防禦等級提升 \n[DefeatDuel] 使自身失去5點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層蒼白的噪音 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標陷入混亂"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810612,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "擴散白化",
+           "desc": "[StartBattle] 使自身獲得體力上限10%的護盾。每帶有1層魁魁格的自我，使自身額外獲得體力上限0.5%的護盾。\n若在帶有護盾 時受到攻擊，使攻擊者失去5點理智值。\n受到攻擊時，自身每帶有10層魁魁格的自我，使本技能重複使用1次",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 810007,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "不要輕視預言",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級燒傷 強度並對其施加2層燒傷 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     }
+   ]
+}
