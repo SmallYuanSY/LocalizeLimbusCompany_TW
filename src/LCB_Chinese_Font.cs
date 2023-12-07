@@ -291,6 +291,7 @@ namespace LimbusLocalize
             tm._loginUIList.Init(localizeFileList.LoginUIFilePaths);
             tm._fileDownloadDesc.Init(localizeFileList.FileDownloadDesc);
             tm._battleHint.Init(localizeFileList.BattleHint);
+            tm._battleHint._dic.Clear();
             return false;
         }
         [HarmonyPatch(typeof(TextDataManager), nameof(TextDataManager.LoadRemote))]

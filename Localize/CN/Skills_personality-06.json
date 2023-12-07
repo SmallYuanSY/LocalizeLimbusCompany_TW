@@ -258,7 +258,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "先一步一步",
+          "name": "先行一步",
           "desc": "[WhenUse] 下回合使自己獲得1層迅捷 ",
           "coinlist": [
             {
@@ -286,7 +286,7 @@
         },
         {
           "level": 2,
-          "name": "先一步一步",
+          "name": "先行一步",
           "desc": "[WhenUse] 下回合使自己獲得2層迅捷 ",
           "coinlist": [
             {
@@ -314,7 +314,7 @@
         },
         {
           "level": 4,
-          "name": "先一步一步",
+          "name": "先行一步",
           "desc": "若自身的速度值不低於6點，則使本技能的硬幣威力+1\n[WhenUse] 下回合使自身獲得2層迅捷 ",
           "coinlist": [
             {

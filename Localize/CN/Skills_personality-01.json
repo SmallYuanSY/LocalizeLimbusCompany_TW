@@ -405,6 +405,222 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "id": 1010701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "穿刺",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "穿刺",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "穿刺",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "重複穿刺",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n若自身的呼吸法 強度不低於5級，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "重複穿刺",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n若自身的呼吸法 強度不低於5級，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 重複使用本幣（最多1次）"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "重複穿刺",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n若自身的呼吸法 強度不低於5級，則使本技能的拼點威力+3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 重複使用本幣（最多3次）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "突擊",
+          "desc": "[WhenUse] 使自身增加5級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身獲得2層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加4層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "突擊",
+          "desc": "[WhenUse] 使自身增加5級呼吸法 強度\n若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加6層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "閃避",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    } 
   ]
 }

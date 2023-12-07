@@ -527,6 +527,22 @@
     {
       "id": "10507_getCondition_gacksung",
       "content": "中指 幼弟 默爾索 3階段同步完成"
+    },
+    {
+      "id": "10707_getCondition_normal",
+      "content": "取得裴廓德號 魚叉手 希斯克利夫"
+    },
+    {
+      "id": "10707_getCondition_gacksung",
+      "content": "裴廓德號 魚叉手 希斯克利夫 3階段同步完成"
+    },
+    {
+      "id": "10107_getCondition_normal",
+      "content": "取得裴廓德號 大副 李箱"
+    },
+    {
+      "id": "10107_getCondition_gacksung",
+      "content": "裴廓德號 大副 李箱 3階段 同步完成"
     }
   ]
 }

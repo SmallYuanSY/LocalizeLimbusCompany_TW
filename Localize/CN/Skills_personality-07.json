@@ -1,0 +1,221 @@
+{
+  "dataList": [
+    {
+      "id": 1070701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "追蹤獵物",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "追蹤獵物",
+          "desc": "[WhenUse] 使自身獲得3層呼吸法 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "追蹤獵物",
+          "desc": "[WhenUse] 使自身獲得4層呼吸法 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "捕鯨叉",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加與其流血 強度1/4相同的流血 層數（最多10層）"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "捕鯨叉",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 目標每帶有3級流血 強度，使自身增加1級呼吸法 強度（最多10級）",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加與其流血 強度1/4相同的流血 層數（最多10層）"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "捕鯨叉",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 目標每帶有3級流血 強度，使自身增加1級呼吸法 強度（最多10級）",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加與其流血 強度1/3相同的流血 層數（最多10層）"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "切斷繩結",
+          "desc": "若嫉妒共鳴數不低於3，則使本技能的拼點威力+1\n若嫉妒共鳴數不低於4，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於50%，則使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於50%，則使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣暴擊時造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "切斷繩結",
+          "desc": "若嫉妒共鳴數不低於3，則使本技能的拼點威力+1\n若嫉妒共鳴數不低於4，則使本技能的硬幣威力+1\n若嫉妒完全共鳴 數不低於6，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於75%，則使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於50%，則使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於75%，則使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於50%，則使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣暴擊時造成的傷害+50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "償還",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值+2\n[StartBattle] 自身每帶有1級[Breath]強度，使自身獲得1層[DefenseUp]（最多10層） ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "償還",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值+5\n[StartBattle] 自身每帶有1級[Breath]強度，使自身獲得1層[DefenseUp]（最多10層） ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

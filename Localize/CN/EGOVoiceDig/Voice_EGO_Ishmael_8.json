@@ -8,7 +8,7 @@
     {
       "id": "battle_awaken_20801_2",
       "desc": "E.G.O覺醒",
-      "dlg": "我已找到我自己航行的方式…"
+      "dlg": "我已找到了，屬於我自己航行的方式…"
     },
     {
       "id": "battle_special_1",
@@ -19,6 +19,11 @@
       "id": "battle_special_2",
       "desc": "E.G.O覺醒",
       "dlg": "希望你，追尋自己的道路。"
+    },
+    {
+      "id": "battle_special_3",
+      "desc": "E.G.O觉醒",
+      "dlg": "(이스마엘 추가대사)"
     },
     {
       "id": "battle_awaken_20802_1",

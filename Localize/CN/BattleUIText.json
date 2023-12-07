@@ -598,6 +598,10 @@
     {
       "id": "Ahab_NotTarget_Thrice",
       "content": "有時，想要前進\n必須先看清身邊的事物…"
+    },
+    {
+      "id": "show_BattleUnitAblityUI",
+      "content": "戰鬥中顯示效果UI"
     }
   ]
 }

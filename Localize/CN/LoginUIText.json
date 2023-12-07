@@ -167,6 +167,10 @@
     {
        "id": "serverstate_blocking_endpoint",
        "content": "該功能正在維護。"
-     }
+     },
+    {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "該請求已被處理。\n請重啟遊戲，以進行同步。"
+    }
   ]
 }
