@@ -19,6 +19,14 @@
     {
       "id": "mirrordungeon_name_2_1",
       "content": "鏡中之鏡 - 困難"
+    },
+    {
+      "id": "mirrordungeon_name_3",
+      "content": "大湖之鏡"
+    },
+    {
+      "id": "mirrordungeon_name_3_0",
+      "content": "大湖之鏡 - 普通"
     }
   ]
 }

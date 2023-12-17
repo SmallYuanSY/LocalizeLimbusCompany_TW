@@ -1,0 +1,104 @@
+{
+  "dataList": [
+    {
+      "id": "ADDITIONAL_START_COST",
+      "description": "[通用]\n\n取得 {0}初始經費"
+    },
+    {
+      "id": "ADDITIONAL_BATTLE_WIN_COST_RATE",
+      "description": "[通用]\n\n戰鬥勝利後獲得的經費增加 {0}%"
+    },
+    {
+      "id": "ADDITIONAL_EGO_GIFT_CHANCE",
+      "description": "[通用]\n\n額外出現3個E.G.O飾品"
+    },
+    {
+      "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_CHANCE",
+      "description": "[初始E.G.O飾品]\n\n低機率出現3級的E.G.O飾品"
+    },
+    {
+      "id": "ADDITIONAL_START_EGO_GIFT_SLOT",
+      "description": "[初始E.G.O飾品]\n\n各項目中出現的E.G.O飾品數量+{0}"
+    },
+    {
+      "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
+      "description": "[初始E.G.O飾品]\n\n可選擇E.G.O飾品數量+{0}"
+    },
+    {
+      "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
+      "description": "[商店]\n\n展出的E.G.O飾品等級提升，且低機率出現4級以上的E.G.O飾品"
+    },
+    {
+      "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
+      "description": "[商店]\n\n商店裡展出的E.G.O飾品數量 +{0}"
+    },
+    {
+      "id": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE",
+      "description": "[商店]\n\n刷新費用減少{0}%"
+    },
+    {
+      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE",
+      "description": "[商店]\n\n購買E.G.O飾品所需經費減少{0}%"
+    },
+    {
+      "id": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE",
+      "description": "[商店]\n\n售賣E.G.O飾品時獲得的經費增加{0}%"
+    },
+    {
+      "id": "REDUCE_UPGRADE_EGO_GIFT_COST",
+      "description": "[休息點]\n\n強化E.G.O飾品所需經費減少{0}%"
+    },
+    {
+      "id": "AttackLevelAdder",
+      "description": "攻擊等級+{0}"
+    },
+    {
+      "id": "AttackLevelMultiply",
+      "description": "攻擊等級+{0}%"
+    },
+    {
+      "id": "DefenseLevelAdder",
+      "description": "防禦等級+{0}"
+    },
+    {
+      "id": "DefenseLevelMultiply",
+      "description": "防禦等級+{0}%"
+    },
+    {
+      "id": "MaxHpAdder",
+      "description": "體力上限+{0}"
+    },
+    {
+      "id": "MaxHpMultiply",
+      "description": "體力上限+{0}%"
+    },
+    {
+      "id": "MaxSpeedUpAdder",
+      "description": "速度值上限+{0}"
+    },
+    {
+      "id": "AttackDamageAdder",
+      "description": "造成的傷害+{0}"
+    },
+    {
+      "id": "AttackDamageMultiply",
+      "description": "造成的傷害+{0}%"
+    },
+    {
+      "id": "TakeAttackDamageReducer",
+      "description": "受到的傷害-{0}"
+    },
+    {
+      "id": "TakeAttackDamageMultipliedReducer",
+      "description": "受到的傷害-{0}%"
+    },
+    {
+      "id": "StickCoinHeadAndTailToMaxPer",
+      "description": "每{0}回合，依照友方單位所使用的技能硬幣種類，使硬幣全部為正面或反面"
+    },
+    {
+      "id": "RemoveBreakSection",
+      "description": "友方單位的第一個混亂門檻無效"
+    }
+  ]
+}

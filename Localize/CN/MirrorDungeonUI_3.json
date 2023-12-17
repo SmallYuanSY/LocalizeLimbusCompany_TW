@@ -1,0 +1,236 @@
+{
+  "dataList": [
+    {
+      "id": "dungeon_shop_ego_gift_upgrade",
+      "content": "強化飾品"
+    },
+    {
+      "id": "dungeon_shop_ego_gift_composite",
+      "content": "合成飾品"
+    },
+    {
+      "id": "dungeon_shop_ego_gift_sell",
+      "content": "售賣飾品"
+    },
+    {
+      "id": "dungeon_shop_refresh",
+      "content": "刷新"
+    },
+    {
+      "id": "mirror_dungeon_selected_ego_gift",
+      "content": "選擇E.G.O飾品"
+    },
+    {
+      "id": "ego_gift_upgrade_ui_title",
+      "content": "強化E.G.O飾品"
+    },
+    {
+      "id": "ego_gift_upgrade_confirm_format",
+      "content": "是否消耗<color=#F8C200>{0}</color>經費進行強化？"
+    },
+    {
+      "id": "ego_gift_upgrade_not_enough_cost_format",
+      "content": "您需要<color=#990000>{0}</color>額外經費進行強化。"
+    },
+    {
+      "id": "ego_gift_combine_ui_title",
+      "content": "合成E.G.O飾品"
+    },
+    {
+      "id": "combine",
+      "content": "合成"
+    },
+    {
+      "id": "selected_gift",
+      "content": "選擇E.G.O飾品"
+    },
+    {
+      "id": "expectation",
+      "content": "預想"
+    },
+    {
+      "id": "ego_gift_combine_ui_main_text",
+      "content": "是否合成E.G.O飾品"
+    },
+    {
+      "id": "mirror_dungeon3_normal_reward_info",
+      "content": "普通"
+    },
+    {
+      "id": "mirror_dungeon3_hard_reward_info",
+      "content": "困難"
+    },
+    {
+      "id": "mirror_dungeon3_current_explore",
+      "content": "探索現狀"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_button_formation",
+      "content": "罪人"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_button_start_buff",
+      "content": "初始增益"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_hard_hint_before_release",
+      "content": "通關第4章後解鎖\n(12/21 (KST) 定期更新後)"
+    },
+    {
+      "id": "mirror_dungeon3_start_buff_summary_detail",
+      "content": "概要/詳情"
+    },
+    {
+      "id": "mirror_dungeon3_start_buff_summary",
+      "content": "詳情"
+    },
+    {
+      "id": "mirror_dungeon3_start_buff_detail",
+      "content": "詳情"
+    },
+    {
+      "id": "ego_gift_sell_ui_title",
+      "content": "售賣E.G.O飾品"
+    },
+    {
+      "id": "sell",
+      "content": "售賣"
+    },
+    {
+      "id": "guided_sell_ego_gift",
+      "content": "請選擇販售的E.G.O飾品"
+    },
+    {
+      "id": "ego_gift_sell_confirm_format",
+      "content": "是否以{1}點經費的售價出售[{0}]？"
+    },
+    {
+      "id": "mirror_dungeon_3_start_buff_name",
+      "content": "開局增益 - 星位里程碑"
+    },
+    {
+      "id": "mirror_dungeon_3_purchase_start_buff",
+      "content": "錒星"
+    },
+    {
+      "id": "mirror_dungeon_give_up_getting_ego_gift_with_enemy_buff",
+      "content": "若不選擇E.G.O飾品，則會隨機選擇敵方層數增益。"
+    },
+    {
+      "id": "mirror_dungeon_shop_could_not_refresh",
+      "content": "無法刷新"
+    },
+    {
+      "id": "mirror_dungeon_shop_change_formation_count",
+      "content": "編隊伍人數"
+    },
+    {
+      "id": "mirror_dungeon_exploring",
+      "content": "! 探索中 !"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_before",
+      "content": "入場前"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_3_normal",
+      "content": "普通難度第{0}層"
+    },
+    {
+      "id": "normal_difficulty_simple",
+      "content": "普通"
+    },
+    {
+      "id": "hard_difficulty_simple",
+      "content": "困難"
+    },
+    {
+      "id": "starchip_ui_difficulty_ratio_format",
+      "content": "※ 難度： {0} [x{1}]"
+    },
+    {
+      "id": "number_of_cleared_floors",
+      "content": "已通過層數"
+    },
+    {
+      "id": "number_of_cleared_nodes",
+      "content": "已通過節點數"
+    },
+    {
+      "id": "number_of_starlight_nodes",
+      "content": "星芒節點數"
+    },
+    {
+      "id": "number_of_battles",
+      "content": "戰鬥次數"
+    },
+    {
+      "id": "number_of_acquired_ego_gift",
+      "content": "已取得E.G.O飾品數量"
+    },
+    {
+      "id": "choose_starting_ego_gift",
+      "content": "選擇初始E.G.O飾品"
+    },
+    {
+      "id": "rest_gauge",
+      "content": "休息獎勵"
+    },
+    {
+      "id": "starlight_reward",
+      "content": "星芒獎勵"
+    },
+    {
+      "id": "battlepass_progress_reward",
+      "content": "通行證經驗值獎勵"
+    },
+    {
+      "id": "side_title_unable_ego_gift_upgrade",
+      "content": "無法強化"
+    },
+    {
+      "id": "side_content_not_have_any_ego_gift",
+      "content": "暫未持有E.G.O飾品。"
+    },
+    {
+      "id": "side_content_ego_gift_is_not_upgradeable",
+      "content": "該E.G.O飾品無法強化。"
+    },
+    {
+      "id": "side_content_ego_gift_is_maximum_upgraded",
+      "content": "該E.G.O飾品已達強化極限。"
+    },
+    {
+      "id": "side_title_unable_ego_gift_combine",
+      "content": "無法合成"
+    },
+    {
+      "id": "side_content_need_more_ego_gift",
+      "content": "需要至少2個E.G.O飾品."
+    },
+    {
+      "id": "side_content_need_lower_tier_ego_gift",
+      "content": "只可選擇3級以下的E.G.O飾品。"
+    },
+    {
+      "id": "side_title_unable_ego_gift_sell",
+      "content": "無法販賣"
+    },
+    {
+      "id": "side_content_ego_gift_is_not_for_sale",
+      "content": "該E.G.O飾品無法販售。"
+    },
+    {
+      "id": "mirror_dungeon_already_participated",
+      "content": "參與中"
+    },
+    {
+      "id": "mirror_dungeon_acquire_ego_gift_desc",
+      "content": "獲得E.G.O飾品"
+    },
+    {
+      "id": "mirror_dungeon_acquire_enemy_buff",
+      "content": "額外難度"
+    }
+  ]
+}

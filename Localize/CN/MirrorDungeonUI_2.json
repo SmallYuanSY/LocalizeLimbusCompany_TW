@@ -18,7 +18,7 @@
     },
     {
       "id": "start_buffs",
-      "content": "初始增益"
+      "content": "當前效果"
     },
     {
       "id": "enter_normal_difficulty",
@@ -511,6 +511,54 @@
     {
       "id": "mirrordungeon_hard_no_reward_desc",
       "content": "<color=#ff0000>您已經獲得了此獎勵的內容，因此無法獲得獎勵。</color>"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_1",
+      "content": "旅程伊始"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_2",
+      "content": "把握時機"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_3",
+      "content": "有備無患"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_4",
+      "content": "勞動果實"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_5",
+      "content": "豐碩成果"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_6",
+      "content": "新發現"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_7",
+      "content": "戰利品"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_8",
+      "content": "多多益善"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_9",
+      "content": "穩固信任"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_10",
+      "content": "精雕細琢"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_11",
+      "content": "名副其實"
+    },
+    {
+      "id": "mirror_dungeon_3_buffs_title_12",
+      "content": "豐功偉業"
     }
   ]
 }

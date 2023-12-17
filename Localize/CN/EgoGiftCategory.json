@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "Combustion",
+      "name": "燒傷"
+    },
+    {
+      "id": "Laceration",
+      "name": "流血"
+    },
+    {
+      "id": "Vibration",
+      "name": "震顫"
+    },
+    {
+      "id": "Burst",
+      "name": "破裂"
+    },
+    {
+      "id": "Sinking",
+      "name": "沉淪"
+    },
+    {
+      "id": "Breath",
+      "name": "呼吸法"
+    },
+    {
+      "id": "Charge",
+      "name": "充能"
+    },
+    {
+      "id": "Random",
+      "name": "隨機"
+    }
+  ]
+}

@@ -226,7 +226,7 @@
     },
     {
       "id": "mainui_next",
-      "content": "下一個"
+      "content": "下一頁"
     },
     {
       "id": "mainui_ego_list",
@@ -1559,6 +1559,30 @@
     {
       "id": "open_after_clear_node",
       "content": "通關{0}-{1}後解鎖"
+    },
+    {
+      "id": "effect_list_to_applied_level",
+      "content": "當前等級效果"
+    },
+    {
+      "id": "choice_event_effect",
+      "content": "事件效果"
+    },
+    {
+      "id": "ego_gift_effect_format",
+      "content": "E.G.O飾品 “{0}”效果"
+    },
+    {
+      "id": "mainui_previous",
+      "content": "上一頁"
+    },
+    {
+      "id": "formation_force_abstain",
+      "content": "人格無法出戰"
+    },
+    {
+      "id": "formation_view_detail",
+      "content": "查看詳情"
     }
   ]
 }

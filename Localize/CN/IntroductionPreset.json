@@ -787,6 +787,14 @@
     {
       "id": "introduce_sentence_99",
       "content": "……一旦此次{0}駛向盡頭。"
+    },
+    {
+      "id": "introduce_word_100",
+      "content": "執行"
+    },
+    {
+      "id": "introduce_sentence_100",
+      "content": "因我將遵從那位所書寫的內容，盡數{0}。"
     }
   ]
 }

@@ -306,7 +306,7 @@
     },
     {
       "id": "WaterPocket",
-      "name": "水囊",
+      "name": "液囊",
       "desc": "恢復{0}x20點體力",
       "summary": "額外體力恢復"
     },
