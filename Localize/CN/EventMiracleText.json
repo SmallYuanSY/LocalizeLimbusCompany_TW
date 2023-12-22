@@ -1,0 +1,44 @@
+{
+   "dataList": [
+     {
+       "id": "miracle_stagebutton_not_clear_cp4",
+       "content": "先通關章節V！"
+     },
+     {
+       "id": "miracle_stagebutton_normal",
+       "content": "快想想辦法阿！鐘錶頭！"
+     },
+     {
+       "id": "miracle_stagebutton_end_event",
+       "content": "你遲到了！活動結束了！"
+     },
+     {
+       "id": "miracle_storybutton_before_start",
+       "content": "通關5.5-1解鎖"
+     },
+     {
+       "id": "miracle_storybutton_normal",
+       "content": "再次體驗你的冒險！"
+     },
+     {
+       "id": "miracle_exchange_scrap",
+       "content": "禮物包裹箱"
+     },
+     {
+       "id": "miracle_scrap_guide_title",
+       "content": "巨大禮物包"
+     },
+     {
+       "id": "miracle_scrap_guide_desc",
+       "content": "通關活動或主線故事的關卡和迷宮會能以低機率獲得<color=#f8c200>[巨大禮物包裹]</color>。\n\n<color=#f8c200>[巨大禮物包裹 ]</color>會轉換為？？<color=#f8c200>[禮物包]</color>。"
+     },
+     {
+       "id": "miracle_rewardpage_desc",
+       "content": "通關活動或主線故事的關卡和迷宮可以獲得<color=#f8c200>[禮物包裹]</color>。\n\n根據獲得的<color=#f8c200>[禮物包裹]</ color>的數量，可在<color=#f8c200>[禮物交換]</color>中換取獎勵。"
+     },
+     {
+       "id": "miracle_scrap_counter_label",
+       "content": "禮物包裹已收集"
+     }
+   ]
+}

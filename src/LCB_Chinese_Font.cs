@@ -196,6 +196,9 @@ namespace LimbusLocalize
             tm._dungeonStartBuffs.Init(romoteLocalizeFileList.DungeonStartBuffs);
             tm._railwayDungeonBuffText.Init(romoteLocalizeFileList.RailwayDungeonBuff);
             tm._buffAbilityList.Init(romoteLocalizeFileList.buffAbilities);
+            tm._egoGiftCategory.Init(romoteLocalizeFileList.egoGiftCategory);
+            tm._mirrorDungeonEgoGiftLockedDescList.Init(romoteLocalizeFileList.MirrorDungeonEgoGiftLockedDesc);
+            tm._mirrorDungeonEnemyBuffDescList.Init(romoteLocalizeFileList.MirrorDungeonEnemyBuffDesc);
 
             tm._abnormalityEventCharDlg.AbEventCharDlgRootInit(romoteLocalizeFileList.abnormalityCharDlgFilePath);
 
@@ -290,8 +293,8 @@ namespace LimbusLocalize
             TextDataManager.LocalizeFileList localizeFileList = JsonUtility.FromJson<TextDataManager.LocalizeFileList>(Resources.Load<TextAsset>("Localize/LocalizeFileList").ToString());
             tm._loginUIList.Init(localizeFileList.LoginUIFilePaths);
             tm._fileDownloadDesc.Init(localizeFileList.FileDownloadDesc);
-            tm._battleHint.Init(localizeFileList.BattleHint);
             tm._battleHint._dic.Clear();
+            tm._battleHint.Init(localizeFileList.BattleHint);
             return false;
         }
         [HarmonyPatch(typeof(TextDataManager), nameof(TextDataManager.LoadRemote))]

@@ -1923,7 +1923,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -1937,7 +1937,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -3080,7 +3080,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -3508,7 +3508,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 ；對其施加1層打擊易損 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ；對其施加1層打擊易損 "
                 }
               ]
             }
@@ -4116,7 +4116,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             },
@@ -4151,7 +4151,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             },
@@ -5188,7 +5188,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加2層打擊易損 "
@@ -5205,10 +5205,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆震顫時，若目標的震顫 強度不低於5級，則下回合使自身獲得2層守護 "
+                  "desc": "[OnSucceedAttack] 震顫引爆時，若目標的震顫 強度不低於5級，則下回合使自身獲得2層守護 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加2層打擊易損 "
@@ -8335,7 +8335,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -8349,7 +8349,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
                   "desc": "若目標的尖釘 層數不高於5層，則本硬幣造成的傷害+20%"
@@ -8366,7 +8366,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
                   "desc": "若目標的尖釘 層數不低於5層，則使本硬幣造成的傷害+30%"
@@ -8564,8 +8564,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度\n若自身的充能 層數不低於3層，且本硬幣的朝向為正面，重複使用本硬幣(至多2次)\n本硬幣第2次重複使用時，在使目標增加震顫 強度後引爆震顫 ，而後使目標的震顫 層數減少1層",
-                  "summary": "[OnSucceedAttack] 引爆目標的震顫 。滿足條件時重複使用本硬幣。重複使用時，使目標額外增加2級震顫 強度。第2次重複使用時，引爆震顫 ，而後使目標的震顫 層數減少"
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度\n若自身的充能 層數不低於3層，且本硬幣的朝向為正面，重複使用本硬幣(至多2次)\n本硬幣第2次重複使用時，在使目標增加震顫 強度後震顫引爆 ，而後使目標的震顫 層數減少1層",
+                  "summary": "[OnSucceedAttack] 使目標震顫引爆 。滿足條件時重複使用本硬幣。重複使用時，使目標額外增加2級震顫 強度。第2次重複使用時，震顫引爆 ，而後使目標的震顫 層數減少"
                 }
               ]
             }
@@ -8586,8 +8586,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度\n若自身的充能 層數不低於3層，且本硬幣的朝向為正面，重複使用本硬幣(至多2次)\n本硬幣第2次重複使用時，在使目標增加震顫 強度後引爆震顫 ，而後使目標的震顫 層數減少1層",
-                  "summary": "[OnSucceedAttack] 引爆目標的震顫 。滿足條件時重複使用本硬幣。重複使用時，使目標額外增加2級震顫 強度。第2次重複使用時，引爆震顫 ，而後使目標的震顫 層數減少"
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度\n若自身的充能 層數不低於3層，且本硬幣的朝向為正面，重複使用本硬幣(至多2次)\n本硬幣第2次重複使用時，在使目標增加震顫 強度後震顫引爆 ，而後使目標的震顫 層數減少1層",
+                  "summary": "[OnSucceedAttack] 使目標震顫引爆 。滿足條件時重複使用本硬幣。重複使用時，使目標額外增加2級震顫 強度。第2次重複使用時，震顫引爆 ，而後使目標的震顫 層數減少"
                 }
               ]
             }
@@ -8608,8 +8608,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度\n若自身的充能 層數不低於3層，且本硬幣的朝向為正面，重複使用本硬幣(至多2次)\n本硬幣重複使用時，使目標額外增加2級震顫 強度\n本硬幣第2次重複使用時，在使目標增加震顫 強度後引爆震顫 ，而後使目標的震顫 層數減少1層",
-                  "summary": "[OnSucceedAttack] 引爆目標的震顫 。滿足條件時重複使用本硬幣。重複使用時，使目標額外增加2級震顫 強度。第2次重複使用時，引爆震顫 ，而後使目標的震顫 層數減少"
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度\n若自身的充能 層數不低於3層，且本硬幣的朝向為正面，重複使用本硬幣(至多2次)\n本硬幣重複使用時，使目標額外增加2級震顫 強度\n本硬幣第2次重複使用時，在使目標增加震顫 強度後震顫引爆 ，而後使目標的震顫 層數減少1層",
+                  "summary": "[OnSucceedAttack] 使目標震顫引爆 。滿足條件時重複使用本硬幣。重複使用時，使目標額外增加2級震顫 強度。第2次重複使用時，震顫引爆 ，而後使目標的震顫 層數減少"
                 }
               ]
             }
@@ -8638,14 +8638,14 @@
                   "desc": "[OnSucceedAttackHead] 使目標增加2級震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 \n引爆震顫 時，使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n震顫引爆 時，使目標的震顫 層數減少1層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 \n引爆震顫 時，使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n震顫引爆 時，使目標的震顫 層數減少1層"
                 },
                 {
                   "desc": "[OnSucceedAttack] 如果目標陷入混亂狀態，追加傷害量25%的傷害"
@@ -8837,8 +8837,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 \n引爆震顫 時，使目標的震顫 層數減少3層。消耗所有充能 並使震顫 引爆時混亂閾值的前移量增加(消耗的充能 層數×5)%（至多50%）",
-                  "summary": "[OnSucceedAttack] 引爆震顫 ，而後使目標的震顫 層數減少3層。消耗充能 並使混亂閾值的前移量增加"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n震顫引爆 時，使目標的震顫 層數減少3層。消耗所有充能 並使震顫 引爆時混亂閾值的前移量增加(消耗的充能 層數×5)%（至多50%）",
+                  "summary": "[OnSucceedAttack] 震顫引爆 ，而後使目標的震顫 層數減少3層。消耗充能 並使混亂閾值的前移量增加"
                 }
               ]
             }
@@ -8882,8 +8882,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。\n引爆震顫 時，使目標的震顫 層數減少3層。消耗所有充能 ，並使震顫 引爆時混亂閾值的前移量增加(所消耗充能 層數×5)%（至多50%）",
-                  "summary": "[OnSucceedAttack] 引爆目標的震顫 。引爆震顫 時，使目標的震顫 層數減少3層。消耗充能 ，並使混亂閾值的前移量增加"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。\n震顫引爆 時，使目標的震顫 層數減少3層。消耗所有充能 ，並使震顫 引爆時混亂閾值的前移量增加(所消耗充能 層數×5)%（至多50%）",
+                  "summary": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆 時，使目標的震顫 層數減少3層。消耗充能 ，並使混亂閾值的前移量增加"
                 }
               ]
             }
@@ -9024,7 +9024,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。引爆震顫 時使目標的震顫 層數減少2層。消耗4層充能 ，根據消耗的充能 層數額外施加相應層數的破裂 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆 時使目標的震顫 層數減少2層。消耗4層充能 ，根據消耗的充能 層數額外施加相應層數的破裂 "
                 }
               ]
             },
@@ -9058,7 +9058,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。引爆震顫 時使目標的震顫 層數減少2層。\n消耗最多4層充能 ，根據消耗的充能 層數對目標施加相應層數的破裂 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆 時使目標的震顫 層數減少2層。\n消耗最多4層充能 ，根據消耗的充能 層數對目標施加相應層數的破裂 "
                 }
               ]
             },
@@ -9193,7 +9193,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttackTail] 使目標震顫引爆 "
                 }
               ]
             }
@@ -9225,7 +9225,7 @@
                   "desc": "消耗5級沉淪 強度使本技能的傷害+20%"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttackTail] 使目標震顫引爆 "
                 }
               ]
             }
@@ -9257,7 +9257,7 @@
                   "desc": "消耗5級沉淪 強度並使本硬幣造成的傷害+20%"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttackTail] 使目標震顫引爆 "
                 }
               ]
             }
@@ -9720,7 +9720,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。\n引爆震顫 時，使目標的震顫 層數減少4層。使目標增加5級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。\n震顫引爆 時，使目標的震顫 層數減少4層。使目標增加5級破裂 強度"
                 }
               ]
             }
@@ -9734,7 +9734,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。\n引爆震顫 時，使目標的震顫 層數減少4層。使目標增加5級破裂 強度。"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。\n震顫引爆 時，使目標的震顫 層數減少4層。使目標增加5級破裂 強度。"
                 }
               ]
             }

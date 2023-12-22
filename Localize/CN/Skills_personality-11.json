@@ -72,7 +72,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則引爆目標的震顫 。使目標的震顫 層數減少1層"
+                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則使目標震顫引爆 。使目標的震顫 層數減少1層"
                  }
                ]
              }
@@ -100,7 +100,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則引爆目標的震顫 。使目標的震顫 層數減少1層"
+                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則使目標震顫引爆 。使目標的震顫 層數減少1層"
                  }
                ]
              }
@@ -128,7 +128,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則引爆目標的震顫 。使目標的震顫 層數減少1層"
+                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則使目標震顫引爆 。使目標的震顫 層數減少1層"
                  }
                ]
              }
@@ -157,21 +157,21 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttackHead] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                   "desc": "[OnSucceedAttackHead] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                  }
                ]
              },
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttackHead] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                   "desc": "[OnSucceedAttackHead] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                  }
                ]
              },
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttackHead] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                   "desc": "[OnSucceedAttackHead] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                  }
                ]
              }
@@ -195,21 +195,21 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                   "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                  }
                ]
              },
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                   "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                  }
                ]
              },
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                   "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                  }
                ]
              }
@@ -232,6 +232,208 @@
            "level": 4,
            "name": "醉酒",
            "desc": "[WhenUse] 丟棄 自身所有行動槽中等級最低的1個技能",
+           "coinlist": [
+             {}
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1110601,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "前進",
+           "desc": "[WhenUse] 下回合使自己獲得2層迅捷 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身獲得1層呼吸法 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身獲得1層呼吸法 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "前進",
+           "desc": "[WhenUse] 下回合使自身獲得2層迅捷 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "前進",
+           "desc": "[WhenUse] 下回合使自身獲得2層迅捷 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1110602,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "懲罰",
+           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "懲罰",
+           "desc": "若自身的速度值高於目標，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法\n[WhenUse] 下回合使本技能對應行動槽的挑釁 值+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "懲罰",
+           "desc": "若自身的速度值高於目標，則使本技能的硬幣威力+2\n[WhenUse] 使自身獲得2層呼吸法\n[WhenUse] 下回合使本技能對應行動槽的挑釁 值+4",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1110603,
+       "levelList": [
+         {
+           "level": 3,
+           "name": "騰躍長刺",
+           "desc": "若自身的呼吸法 強度不低於7級，則使本技能的最終威力+2\n[WinDuel] 根據拼點次數，相應使自身增加呼吸法 強度（最多10級）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加決鬥宣告-奧提斯 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使速度值最低的2名友方單位在下回合獲得1層迅捷 "
+                 },
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 使本硬幣暴擊時造成的傷害+50%"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "騰躍長刺",
+           "desc": "若自身的呼吸法 強度不低於7級，則使本技能的最終威力+4\n[WinDuel] 根據拼點次數，相應使自身增加呼吸法 強度（最多10級）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加決鬥宣告-奧提斯 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使速度值最低的2名友方單位在下回合獲得2層迅捷 "
+                 },
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 讓本硬幣暴擊時造成的傷害+70%"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1110604,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "撤退",
+           "desc": "若自身的速度值高於目標，則使本技能的硬幣威力+1\n[OnSucceedEvade] 使自身增加1級呼吸法 強度（最多5級）",
+           "coinlist": [
+             {}
+           ]
+         },
+         {
+           "level": 4,
+           "name": "撤退",
+           "desc": "若自身的速度值高於目標，則每相差1點，使本技能的硬幣威力+1（最多+3）\n[OnSucceedEvade] 使自身增加1級呼吸法強度（最多10級 ）",
            "coinlist": [
              {}
            ]

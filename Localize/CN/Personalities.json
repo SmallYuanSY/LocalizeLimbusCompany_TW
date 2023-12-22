@@ -559,6 +559,20 @@
       "name": "李箱",
       "nameWithTitle": "李箱",
       "desc": "李箱的第7人格"
+    },
+    {
+      "id": 11008,
+      "title": "Cinq協會\n南部4科科長",
+      "name": "辛克萊",
+      "nameWithTitle": "辛克萊",
+      "desc": "辛克萊的第8人格"
+    },
+    {
+      "id": 11106,
+      "title": "Cinq協會\n南部4科",
+      "name": "奧提斯",
+      "nameWithTitle": "奧提斯",
+      "desc": "奧提斯的第6人格"
     }
   ]
 }

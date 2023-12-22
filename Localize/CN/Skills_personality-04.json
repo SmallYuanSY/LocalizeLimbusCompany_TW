@@ -407,7 +407,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度並對目標施加1層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 "
                 }
               ]
             }
@@ -447,7 +447,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }

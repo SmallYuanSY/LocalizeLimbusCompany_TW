@@ -230,7 +230,63 @@
     },
     {
       "id": "mirror_dungeon_acquire_enemy_buff",
-      "content": "額外難度"
+      "content": "額外難度提升"
+    },
+    {
+     "id": "mirror_dungeon3_entrance_hard_hint_after_release",
+     "content": "<解鎖條件>\n通關 4-54\n通關 大湖之鏡 難易度：普通"
+    },
+    {
+     "id": "mirror_dungeon_reload_select_ego_gift_category",
+     "content": "刷新（1次）"
+    },
+    {
+     "id": "mirror_dungeon_select_chip_effect",
+     "content": "星星的願望"
+    },
+    {
+     "id": "mirror_dungeon_select_chip_effect_desc_selected",
+     "content": "消耗{0}星芒，啟動適用於本次鏡像迷宮探索過程中的效果。\n在取消選擇或消耗完所有星芒之前，選擇的效果在開始時自動適用。"
+    },
+    {
+     "id": "mirror_dungeon_select_chip_effect_desc_not_selected",
+     "content": "消耗擁有的星芒，可適用於本次鏡像迷宮探索過程中的特殊效果。"
+    },
+    {
+     "id": "mirror_dungeon_atart_buff_activation",
+     "content": "啟動"
+    },
+    {
+     "id": "mirror_dungeon_atart_buff_diactivation",
+     "content": "非啟動"
+    },
+    {
+     "id": "mirrordungeon_unable_to_change_activation_buffs_when_running_dungeon",
+     "content": "鏡像迷宮進行中，初始增益的啟動狀態不可變更。"
+    },
+    {
+     "id": "mirrordungeon_edit_start_buff_activation",
+     "content": "快速編輯"
+    },
+    {
+     "id": "mirror_dungeon_progress_text_3_hard",
+     "content": "困難{0}層"
+    },
+    {
+     "id": "mirror_dungeon_unable_to_modify_activation_of_start_buff_during_running",
+     "content": "鏡像迷宮進行中，初始增益的啟動狀態不可變更。"
+    },
+    {
+     "id": "add_enemy_level",
+     "content": "敵方等級增加"
+    },
+    {
+     "id": "mirrordungeon_unable_to_change_activation_buffs_when_parent_buff_off",
+     "content": "主要增益非啟動狀態時，次要增益無法啟動。"
+    },
+    {
+     "id": "mirrordungeon_purchase_buffs_when_parent_buff_off",
+     "content": "主要增益非啟動狀態時，次級增益無法錒星。"
     }
   ]
 }

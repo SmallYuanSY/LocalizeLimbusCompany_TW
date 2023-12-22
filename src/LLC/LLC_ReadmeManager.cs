@@ -24,6 +24,17 @@ namespace LimbusLocalize
         {
             InitReadmeList();
             InitReadmeSprites();
+            ReadmeActions = new()
+            {
+                {
+                    "Action_Issues",()=>
+                    {
+                        LCB_LLCMod.CopyLog();
+                        LCB_LLCMod.OpenGamePath();
+                        Application.OpenURL(LCB_LLCMod.LLCLink + "/issues?q=is:issue");
+                    }
+                }
+            };
         }
         public static void UIInitialize()
         {

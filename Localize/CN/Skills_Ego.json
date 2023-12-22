@@ -637,7 +637,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 造成15點理智傷害"
@@ -655,7 +655,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 造成25點理智傷害"
@@ -676,7 +676,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 造成25點理智傷害"
@@ -1085,7 +1085,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 "
                 }
               ]
             }
@@ -1100,7 +1100,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -1120,7 +1120,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 "
                 }
               ]
             }
@@ -1135,7 +1135,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -1539,7 +1539,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆"
                 }
               ]
             }
@@ -1942,7 +1942,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
@@ -1960,7 +1960,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "引爆目標的震顫"
+                  "desc": "使目標震顫引爆"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
@@ -1978,7 +1978,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "引爆目標的震顫"
+                  "desc": "使目標震顫引爆"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
@@ -2004,7 +2004,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加4層沉淪 "
@@ -2022,7 +2022,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加6層沉淪 "
@@ -2040,7 +2040,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加10級沉淪 強度"
@@ -2528,7 +2528,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "引爆目標的震顫 "
+                  "desc": "使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
@@ -2549,7 +2549,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "引爆目標的震顫"
+                  "desc": "使目標震顫引爆"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加6級震顫 強度"
@@ -3316,7 +3316,7 @@
                   "desc": "[OnSucceedAttack] 根據目標擁有的燒傷 強度，相應增加震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。震顫 被引爆時，消耗目標的3層震顫 。若被引爆震顫 的目標陷入混亂，則隨機對5名敵方單位施加1層燒傷 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫 被引爆時，消耗目標的3層震顫 。若被震顫引爆 的目標陷入混亂，則隨機對5名敵方單位施加1層燒傷 "
                 }
               ]
             }
@@ -3340,7 +3340,7 @@
                   "desc": "[OnSucceedAttack] 隨機使5名敵方單位增加2級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。震顫 被引爆時，消耗目標的3層震顫 。若被引爆震顫 的目標陷入混亂，則隨機對5名敵方單位施加2層燒傷 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫 被引爆時，消耗目標的3層震顫 。若被震顫引爆 的目標陷入混亂，則隨機對5名敵方單位施加2層燒傷 "
                 }
               ]
             }
@@ -3364,7 +3364,7 @@
                   "desc": "[OnSucceedAttack] 隨機使5名敵方單位增加3級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。引爆震顫 時，使目標的震顫 層數減少2層。若目標因引爆震顫 而陷入混亂，則隨機對5名敵方單位施加3層燒傷 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆 時，使目標的震顫 層數減少2層。若目標因震顫引爆 而陷入混亂，則隨機對5名敵方單位施加3層燒傷 "
                 }
               ]
             }
@@ -3390,7 +3390,7 @@
                   "desc": "[OnSucceedAttack] 根據目標擁有的燒傷強度 ，相應增加震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。引爆震顫時，消耗目標的3層震顫 。被引爆震顫 的目標陷入混亂時，隨機對5個單位施加2層燒傷 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆時，消耗目標的3層震顫 。被震顫引爆 的目標陷入混亂時，隨機對5個單位施加2層燒傷 "
                 }
               ]
             }
@@ -3414,7 +3414,7 @@
                   "desc": "[OnSucceedAttack] 隨機使任意5個單位增加2級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。引爆震顫時，消耗目標2層震顫 。被引爆震顫 的目標陷入混亂時，隨機對5個單位施加3層燒傷 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆時，消耗目標2層震顫 。被震顫引爆 的目標陷入混亂時，隨機對5個單位施加3層燒傷 "
                 }
               ]
             }
@@ -3438,7 +3438,7 @@
                   "desc": "[OnSucceedAttack] 隨機使任意5個單位增加3級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。引爆震顫 時，使目標的震顫 層數減少2層 。若目標因引爆震顫 而陷入混亂，則隨機對5個單位施加4層燒傷 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆 時，使目標的震顫 層數減少2層 。若目標因震顫引爆 而陷入混亂，則隨機對5個單位施加4層燒傷 "
                 }
               ]
             }
@@ -3505,7 +3505,7 @@
                   "desc": "[OnSucceedAttack] 使目標失去7點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。震顫 被引爆時，消耗目標的2層震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫 被引爆時，消耗目標的2層震顫 "
                 }
               ]
             }
@@ -3526,7 +3526,7 @@
                   "desc": "[OnSucceedAttack] 使目標失去15點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 。震顫 被引爆時，消耗目標的2層震顫 。被引爆震顫 的目標陷入混亂時，隨機使任意3個單位增加2級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫 被引爆時，消耗目標的2層震顫 。被震顫引爆 的目標陷入混亂時，隨機使任意3個單位增加2級燒傷 強度"
                 }
               ]
             }
@@ -3549,7 +3549,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[CriticalOnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -3570,7 +3570,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 引爆目標的震顫 並對目標施加2層沉淪 "
+                  "desc": "[CriticalOnSucceedAttack] 使目標震顫引爆 並對目標施加2層沉淪 "
                 }
               ]
             }
@@ -3591,7 +3591,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 引爆目標的震顫 並對目標施加3層沉淪 "
+                  "desc": "[CriticalOnSucceedAttack] 使目標震顫引爆 並對目標施加3層沉淪 "
                 }
               ]
             }
@@ -3614,7 +3614,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[CriticalOnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -3638,7 +3638,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 引爆目標的震顫 並對目標施加2層沉淪 與2層破裂 "
+                  "desc": "[CriticalOnSucceedAttack] 使目標震顫引爆 並對目標施加2層沉淪 與2層破裂 "
                 }
               ]
             }
@@ -3662,7 +3662,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 引爆目標的震顫 並對目標施加3層沉淪 與3層破裂 "
+                  "desc": "[CriticalOnSucceedAttack] 使目標震顫引爆 並對目標施加3層沉淪 與3層破裂 "
                 }
               ]
             }

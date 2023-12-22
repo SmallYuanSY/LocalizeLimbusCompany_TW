@@ -72,7 +72,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則引爆目標的震顫 。使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則使目標震顫引爆 。使目標的震顫 層數減少1層"
                 }
               ]
             }
@@ -100,7 +100,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則引爆目標的震顫 。使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則使目標震顫引爆 。使目標的震顫 層數減少1層"
                 }
               ]
             }
@@ -128,7 +128,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則引爆目標的震顫 。使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於6層，則使目標震顫引爆 。使目標的震顫 層數減少1層"
                 }
               ]
             }
@@ -157,21 +157,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                 }
               ]
             }
@@ -195,21 +195,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 ，並使目標的震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少1層"
                 }
               ]
             }

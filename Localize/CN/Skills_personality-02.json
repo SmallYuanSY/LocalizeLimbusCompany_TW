@@ -347,21 +347,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 \n對目標造成最終混亂閾值前移量20%的暴怒傷害（最多13點）"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量20%的暴怒傷害（最多13點）"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 \n對目標造成最終混亂閾值前移量20%的暴怒傷害（最多13點）"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量20%的暴怒傷害（最多13點）"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 \n對目標造成最終混亂閾值前移量20%的暴怒傷害（最多13點）\n使目標的震顫 層數減少3層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量20%的暴怒傷害（最多13點）\n使目標的震顫 層數減少3層"
                 }
               ]
             }
@@ -375,21 +375,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 \n對目標造成最終混亂閾值前移量30%的暴怒傷害（最多20點）"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量30%的暴怒傷害（最多20點）"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 \n對目標造成最終混亂閾值前移量30%的暴怒傷害（最多20點）"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量30%的暴怒傷害（最多20點）"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 \n對目標造成最終混亂閾值前移量30%的暴怒傷害（最多20點）\n使目標的震顫 層數減少3層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量30%的暴怒傷害（最多20點）\n使目標的震顫 層數減少3層"
                 }
               ]
             }

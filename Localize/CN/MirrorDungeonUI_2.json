@@ -559,6 +559,382 @@
     {
       "id": "mirror_dungeon_3_buffs_title_12",
       "content": "豐功偉業"
+    },
+    {
+     "id": "mirror_dungeon_3_buffs_title_13",
+     "content": "權利"
+    },
+    {
+     "id": "mirror_dungeon_3_buffs_title_14",
+     "content": "衣錦還鄉"
+    },
+    {
+     "id": "mirror_dungeon_3_buffs_title_15",
+     "content": "目標"
+    },
+    {
+     "id": "mirror_dungeon_3_buffs_title_16",
+     "content": "準備狀態"
+    },
+    {
+     "id": "mirror_dungeon_3_buffs_title_17",
+     "content": "銳意進取"
+    },
+    {
+     "id": "mirror_dungeon_3_buffs_title_18",
+     "content": "體力訓練"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_101",
+     "content": "出現3級飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1011",
+     "content": "出現燒傷類飾品的機率提高"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1012",
+     "content": "出現流血類飾品的機率提高"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1013",
+     "content": "出現震顫類飾品的機率提高"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1014",
+     "content": "出現破裂類飾品的機率提高"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1015",
+     "content": "出現沉淪類飾品的機率提高"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1016",
+     "content": "出現呼吸法類飾品的機率提高"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1017",
+     "content": "出現充能類飾品的機率提高"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1018",
+     "content": "出現隨機飾品的機率提高"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_102",
+     "content": "出現4級以上飾品&出現飾品等級提高"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1021",
+     "content": "出現飾品等級上升"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1022",
+     "content": "出現飾品等級上升"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1023",
+     "content": "出現飾品等級上升"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_103",
+     "content": "出現的飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1031",
+     "content": "出現的飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_104",
+     "content": "出現的飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1041",
+     "content": "出現的燒傷類飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1042",
+     "content": "出現的流血類飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1043",
+     "content": "出現的震顫類飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1044",
+     "content": "出現的破裂類飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1045",
+     "content": "出現的沉淪類飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1046",
+     "content": "出現的呼吸法類飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1047",
+     "content": "出現的充能類飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1048",
+     "content": "出現的隨機飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_105",
+     "content": "獲得50點初始經費"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1051",
+     "content": "初始經費+50"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1052",
+     "content": "初始經費+50"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1053",
+     "content": "初始經費+50"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_106",
+     "content": "追加出現3件飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1061",
+     "content": "追加出現2件燒傷類飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1062",
+     "content": "追加出現2件流血類飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1063",
+     "content": "追加出現2件震顫類飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1064",
+     "content": "追加出現2件破裂類飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1065",
+     "content": "追加出現2款沉淪類飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1066",
+     "content": "追加出現2件呼吸法類飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1067",
+     "content": "追加出現2件充能類飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_107",
+     "content": "在戰鬥中獲得的經費增加"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1071",
+     "content": "在常規遭遇戰中獲得的經費增加"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1072",
+     "content": "在集中遭遇戰中獲得的經費增加"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1073",
+     "content": "在危險遭遇戰中獲得的經費增加"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1074",
+     "content": "在階層BOSS戰中獲得的經費增加"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_108",
+     "content": "可選擇飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_109",
+     "content": "刷新所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1091",
+     "content": "刷新所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1092",
+     "content": "較低機率免費進行刷新"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1093",
+     "content": "技能替換所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1094",
+     "content": "技能替換所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_110",
+     "content": "強化所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1101",
+     "content": "較低機率免費進行強化"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1102",
+     "content": "強化燒傷類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1103",
+     "content": "強化流血類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1104",
+     "content": "強化震顫類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1105",
+     "content": "強化破裂類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1106",
+     "content": "強化沉淪類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1107",
+     "content": "強化呼吸法類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1108",
+     "content": "強化充能類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_111",
+     "content": "販賣飾品可獲得的經費增加"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1111",
+     "content": "販賣飾品可獲得的經費增加"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_112",
+     "content": "購買飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1121",
+     "content": "購買燒傷類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1122",
+     "content": "購買流血類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1123",
+     "content": "購買震顫類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1124",
+     "content": "購買破裂類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1125",
+     "content": "購買沉淪類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1126",
+     "content": "購買呼吸法類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1127",
+     "content": "購買充能類飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1128",
+     "content": "購買泛用型飾品所需經費減少"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_151",
+     "content": "可選擇E.G.O飾品數量+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_152",
+     "content": "初始經費+250"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_153",
+     "content": "額外獲得初始階段所選項目的4級隨機E.G.O飾品"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_121",
+     "content": "所有罪孽碎片+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1211",
+     "content": "所有罪孽碎片+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1212",
+     "content": "速度值上限+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1213",
+     "content": "速度值上限+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_122",
+     "content": "造成的傷害+3%"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1221",
+     "content": "造成的傷害+3%"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1222",
+     "content": "攻擊等級+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1223",
+     "content": "攻擊等級+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1224",
+     "content": "斬擊傷害+4%"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1225",
+     "content": "突刺傷害+4%"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1226",
+     "content": "打擊傷害+4%"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_123",
+     "content": "受到的傷害-3%"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1231",
+     "content": "受到的傷害-3%"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1232",
+     "content": "防禦等級+1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1233",
+     "content": "防禦等級+2"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1234",
+     "content": "斬擊耐性0.1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1235",
+     "content": "突刺耐性-0.1"
+    },
+    {
+     "id": "md3_buffs_summaryDesc_1236",
+     "content": "打擊耐性-0.1"
     }
   ]
 }

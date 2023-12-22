@@ -423,7 +423,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據目標的震顫 層數，相應引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 根據目標的震顫 層數，相應使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 消耗目標所有的震顫 層數"
@@ -489,7 +489,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -840,7 +840,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據目標的震顫 層數，相應引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 根據目標的震顫 層數，相應使目標震顫引爆 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 消耗目標所有的震顫 層數"
@@ -906,7 +906,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -1814,7 +1814,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目標的震顫"
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆"
                 }
               ]
             }

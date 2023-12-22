@@ -238,7 +238,7 @@
     },
     {
       "id": "dungeon_encounter_hard_battle",
-      "content": "危險的遭遇戰"
+      "content": "危險遭遇戰"
     },
     {
       "id": "dungeon_encounter_event",
@@ -417,7 +417,7 @@
     },
     {
       "id": "dungeon_encounter_type_hard_battle",
-      "content": "危險的遭遇戰"
+      "content": "危險遭遇戰"
     },
     {
       "id": "dungeon_encounter_type_event",

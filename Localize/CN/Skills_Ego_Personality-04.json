@@ -184,7 +184,7 @@
            "level": 1,
            "name": "盲目",
            "abName": "噬夢的濁流",
-           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身增加4級呼吸法強度。消耗2層充能並使自身增加1級呼吸法強度（最多增加10級）\n[ EndBattle] 每擊殺1名單位，使自身獲得4層充能",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身增加4級呼吸法強度。消耗2層充能並使自身增加1級呼吸法強度（最多增加10級）\n [EndBattle] 每擊殺1名單位，使自身獲得4層充能",
            "coinlist": [
              {
                "coindescs": [
@@ -199,7 +199,7 @@
            "level": 3,
            "name": "盲目",
            "abName": "噬夢的濁流",
-           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身增加4級呼吸法強度。消耗2層充能並使自身增加1級呼吸法強度（最多增加10級）\n[ EndBattle] 每擊殺1名單位，使自身獲得4層充能",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身增加4級呼吸法強度。消耗2層充能並使自身增加1級呼吸法強度（最多增加10級）\n [EndBattle] 每擊殺1名單位，使自身獲得4層充能",
            "coinlist": [
              {
                "coindescs": [
@@ -214,7 +214,7 @@
            "level": 4,
            "name": "盲目",
            "abName": "噬夢的濁流",
-           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身增加4級呼吸法強度。消耗2層充能並使自身增加1級呼吸法強度（最多增加10級）\n[ EndBattle] 每擊殺1名單位，使自身獲得4層充能",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身增加4級呼吸法強度。消耗2層充能並使自身增加1級呼吸法強度（最多增加10級）\n [EndBattle] 每擊殺1名單位，使自身獲得4層充能",
            "coinlist": [
              {
                "coindescs": [

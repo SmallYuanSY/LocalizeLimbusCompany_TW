@@ -393,7 +393,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                   "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                  },
                  {
                    "desc": "[OnSucceedAttack] 使目標的震顫 層數減少2層"

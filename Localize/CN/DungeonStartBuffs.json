@@ -6,7 +6,7 @@
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE",
-      "description": "[通用]\n\n戰鬥勝利後獲得的經費增加 {0}%"
+      "description": "[通用]\n\n戰鬥勝利後獲得的經費增加 {0}% （不受開局增益與其他E.G.O飾品的影響）"
     },
     {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE",
@@ -23,6 +23,10 @@
     {
       "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
       "description": "[初始E.G.O飾品]\n\n可選擇E.G.O飾品數量+{0}"
+    },
+    {
+     "id": "ACQUIRE_4_TIER_START_EGO_GIFT",
+     "description": "[初始E.G.O飾品]\n\n額外獲得在開始階段選擇的項目的4級隨機E.G.O飾品。"
     },
     {
       "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
@@ -99,6 +103,258 @@
     {
       "id": "RemoveBreakSection",
       "description": "友方單位的第一個混亂門檻無效"
+    },
+    {
+     "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_COMBUSTION",
+     "description": "[初始E.G.O飾品]\n\n提升燒傷項目中出現更高等級E.G.O飾品的機率"
+    },
+    {
+     "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_LACERATION",
+     "description": "[初始E.G.O飾品]\n\n提升流血項目中出現更高等級E.G.O飾品的機率"
+    },
+    {
+     "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_VIBRATION",
+     "description": "[初始E.G.O飾品]\n\n提升震顫專案中出現較高等級E.G.O飾品的機率"
+    },
+    {
+     "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_BURST",
+     "description": "[初始E.G.O飾品]\n\n提升破裂項目中出現更高等級E.G.O飾品的機率"
+    },
+    {
+     "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_SINKING",
+     "description": "[初始E.G.O飾品]\n\n提升沈淪專案中出現更高等級E.G.O飾品的機率"
+    },
+    {
+     "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_BREATH",
+     "description": "[初始E.G.O飾品]\n\n提升呼吸法項目中出現更高等級E.G.O飾品的機率"
+    },
+    {
+     "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_CHARGE",
+     "description": "[初始E.G.O飾品]\n\n提升充能項目中出現更高等級E.G.O飾品的機率"
+    },
+    {
+     "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_RANDOM",
+     "description": "[初始E.G.O飾品]\n\n提升隨機項目中出現更高等級E.G.O飾品的機率"
+    },
+    {
+     "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S1",
+     "description": "[商店]\n\n提升出現更高等級E.G.O飾品的機率（提升率與其他連接的增益相同）"
+    },
+    {
+     "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S2",
+     "description": "[商店]\n\n提升出現更高等級E.G.O飾品的機率（提升率與其他連接的增益相同）"
+    },
+    {
+     "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S3",
+     "description": "[商店]\n\n提升出現更高等級E.G.O飾品的機率（提升率與其他連接的增益相同）"
+    },
+    {
+     "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT_NESTING",
+     "description": "[商店]\n\n商店裡展出的E.G.O飾品數量 +1"
+    },
+    {
+     "id": "ADDITIONAL_START_EGO_GIFT_SLOT_COMBUSTION",
+     "description": "[初始E.G.O飾品]\n\n燒傷項目中出現的E.G.O飾品數量+1"
+    },
+    {
+     "id": "ADDITIONAL_START_EGO_GIFT_SLOT_LACERATION",
+     "description": "[初始E.G.O飾品]\n\n流血項目中出現的E.G.O飾品數量+1"
+    },
+    {
+     "id": "ADDITIONAL_START_EGO_GIFT_SLOT_VIBRATION",
+     "description": "[初始E.G.O飾品]\n\n震顫項目中出現的E.G.O飾品數量+1"
+    },
+    {
+     "id": "ADDITIONAL_START_EGO_GIFT_SLOT_BURST",
+     "description": "[初始E.G.O飾品]\n\n破裂項目中出現的E.G.O飾品數量+1"
+    },
+    {
+     "id": "ADDITIONAL_START_EGO_GIFT_SLOT_SINKING",
+     "description": "[初始E.G.O飾品]\n\n沉淪項目中出現的E.G.O飾品數量+1"
+    },
+    {
+     "id": "ADDITIONAL_START_EGO_GIFT_SLOT_BREATH",
+     "description": "[初始E.G.O飾品]\n\n呼吸法項目中出現的E.G.O飾品數量+1"
+    },
+    {
+     "id": "ADDITIONAL_START_EGO_GIFT_SLOT_CHARGE",
+     "description": "[初始E.G.O飾品]\n\n充能項目中出現的E.G.O飾品數量+1"
+    },
+    {
+     "id": "ADDITIONAL_START_EGO_GIFT_SLOT_RANDOM",
+     "description": "[初始E.G.O飾品]\n\n隨機項目中出現的E.G.O飾品數量+1"
+    },
+    {
+     "id": "ADDITIONAL_START_COST_ADD_S1",
+     "description": "[通用]\n\n追加獲得50初始經費"
+    },
+    {
+     "id": "ADDITIONAL_START_COST_ADD_S2",
+     "description": "[通用]\n\n追加獲得50初始經費"
+    },
+    {
+     "id": "ADDITIONAL_START_COST_ADD_S3",
+     "description": "[通用]\n\n追加獲得50初始經費"
+    },
+    {
+     "id": "ADDITIONAL_EGO_GIFT_CHANCE_COMBUSTION",
+     "description": "[通用]\n\n額外出現2個燒傷E.G.O飾品"
+    },
+    {
+     "id": "ADDITIONAL_EGO_GIFT_CHANCE_LACERATION",
+     "description": "[通用]\n\n額外出現2個流血E.G.O飾品"
+    },
+    {
+     "id": "ADDITIONAL_EGO_GIFT_CHANCE_VIBRATION",
+     "description": "[通用]\n\n額外出現2個震顫E.G.O飾品"
+    },
+    {
+     "id": "ADDITIONAL_EGO_GIFT_CHANCE_BURST",
+     "description": "[通用]\n\n額外出現2個破裂E.G.O飾品"
+    },
+    {
+     "id": "ADDITIONAL_EGO_GIFT_CHANCE_SINKING",
+     "description": "[通用]\n\n額外出現2個沉淪E.G.O飾品"
+    },
+    {
+     "id": "ADDITIONAL_EGO_GIFT_CHANCE_BREATH",
+     "description": "[通用]\n\n額外出現2個呼吸法E.G.O飾品"
+    },
+    {
+     "id": "ADDITIONAL_EGO_GIFT_CHANCE_CHARGE",
+     "description": "[通用]\n\n額外出現2個充能E.G.O飾品"
+    },
+    {
+     "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_NORMAL",
+     "description": "[通用]\n\n一般戰鬥勝利後獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
+    },
+    {
+     "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_ABNORMALITY",
+     "description": "[通用]\n\n集中戰鬥勝利後獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
+    },
+    {
+     "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_HARD",
+     "description": "[通用]\n\n危險遭遇戰勝利後獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
+    },
+    {
+     "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_BOSS",
+     "description": "[通用]\n\n在階層Boss戰勝利後獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
+    },
+    {
+     "id": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE_NESTING",
+     "description": "[商店]\n\n刷新費用減少20%"
+    },
+    {
+     "id": "FREE_SHOP_REFRESH_EGO_GIFT_COST_RATE",
+     "description": "[商店]\n\n刷新時有20%的機率不消耗經費"
+    },
+    {
+     "id": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE",
+     "description": "[商店]\n\n技能替換費用減少20%"
+    },
+    {
+     "id": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE_NESTING",
+     "description": "[商店]\n\n技能替換費用減少20%"
+    },
+    {
+     "id": "FREE_UPGRADE_EGO_GIFT_COST",
+     "description": "[休息點]\n\n強化時有20%的機率不消耗經費"
+    },
+    {
+     "id": "REDUCE_UPGRADE_EGO_GIFT_COST_COMBUSTION",
+     "description": "[休息點]\n\n擁有燒傷關鍵字的E.G.O飾品強化費用減少20%"
+    },
+    {
+     "id": "REDUCE_UPGRADE_EGO_GIFT_COST_LACERATION",
+     "description": "[休息點]\n\n擁有流血關鍵字的E.G.O飾品強化費用減少20%"
+    },
+    {
+     "id": "REDUCE_UPGRADE_EGO_GIFT_COST_VIBRATION",
+     "description": "[休息點]\n\n擁有震顫關鍵字的E.G.O飾品強化費用減少20%"
+    },
+    {
+     "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BURST",
+     "description": "[休息點]\n\n擁有破裂關鍵字的E.G.O飾品強化費用減少20%"
+    },
+    {
+     "id": "REDUCE_UPGRADE_EGO_GIFT_COST_SINKING",
+     "description": "[休息點]\n\n擁有沉淪關鍵字的E.G.O飾品強化費用減少20%"
+    },
+    {
+     "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BREATH",
+     "description": "[休息點]\n\n擁有呼吸法關鍵字的E.G.O飾品強化費用減少20%"
+    },
+    {
+     "id": "REDUCE_UPGRADE_EGO_GIFT_COST_CHARGE",
+     "description": "[休息點]\n\n擁有充能關鍵字的E.G.O飾品強化費用減少20%"
+    },
+    {
+     "id": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE_NESTING",
+     "description": "[商店]\n\n售賣E.G.O飾品時獲得的經費增加20%"
+    },
+    {
+     "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_COMBUSTION",
+     "description": "[商店]\n\n販賣擁有燒傷關鍵字的E.G.O飾品時獲得的經費增加15%"
+    },
+    {
+     "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_LACERATION",
+     "description": "[商店]\n\n售賣擁有流血關鍵字的E.G.O飾品時獲得的經費增加15%"
+    },
+    {
+     "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_VIBRATION",
+     "description": "[商店]\n\n販賣擁有震顫關鍵字的E.G.O飾品時獲得的經費增加15%"
+    },
+    {
+     "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BURST",
+     "description": "[商店]\n\n售賣擁有破裂關鍵字的E.G.O飾品時獲得的經費增加15%"
+    },
+    {
+     "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_SINKING",
+     "description": "[商店]\n\n售賣擁有沉淪關鍵字的E.G.O飾品時獲得的經費增加15%"
+    },
+    {
+     "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BREATH",
+     "description": "[商店]\n\n售賣擁有呼吸法關鍵字的E.G.O飾品時獲得的經費增加15%"
+    },
+    {
+     "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_CHARGE",
+     "description": "[商店]\n\n售賣擁有充能關鍵字的E.G.O飾品時獲得的經費增加15%"
+    },
+    {
+     "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_NONE",
+     "description": "[商店]\n\n售賣不擁有關鍵字的E.G.O飾品時獲得的經費增加15%"
+    },
+    {
+     "id": "SlashAttackDamageMultiply",
+     "description": "斬擊傷害量增加{0}%"
+    },
+    {
+     "id": "PenetrateAttackDamageMultiply",
+     "description": "突刺傷害量增加{0}%"
+    },
+    {
+     "id": "HitAttackDamageMultiply",
+     "description": "打擊傷害量增加{0}%"
+    },
+    {
+     "id": "SlashResistReducer",
+     "description": "斬擊耐性減少{0}"
+    },
+    {
+     "id": "PenetrateResistReducer",
+     "description": "突刺耐性減少{0}"
+    },
+    {
+     "id": "HitResistReducer",
+     "description": "打擊耐性減少{0}"
+    },
+    {
+     "id": "ADDITIONAL_ALLTYPE_EGOSTOCK",
+     "description": "[戰鬥]\n\n獲得所有罪惡碎片+{0}"
+    },
+    {
+     "id": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING",
+     "description": "[戰鬥]\n\n獲得所有罪惡碎片+{0}"
     }
   ]
 }

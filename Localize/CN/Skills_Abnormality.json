@@ -2728,7 +2728,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆"
                 }
               ]
             }
@@ -2773,7 +2773,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆"
                 }
               ]
             }
@@ -3520,7 +3520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據目標的震顫 層數，相應引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 根據目標的震顫 層數，相應使目標震顫引爆 "
                 }
               ]
             }
@@ -4671,7 +4671,7 @@
                   "desc": "[OnSucceedAttack] 根據目標帶有的破裂 強度，相應使其增加震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目標的震顫 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }

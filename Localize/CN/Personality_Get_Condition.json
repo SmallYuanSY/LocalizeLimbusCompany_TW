@@ -543,6 +543,22 @@
     {
       "id": "10107_getCondition_gacksung",
       "content": "裴廓德號 大副 李箱 3階段 同步完成"
+    },
+    {
+      "id": "11008_getCondition_normal",
+      "content": "取得Cinq協會 南部4科科長 辛克萊"
+    },
+    {
+      "id": "11008_getCondition_gacksung",
+      "content": "Cinq協會 南部4科科長 辛克萊 3階段同步完成"
+    },
+    {
+      "id": "11106_getCondition_normal",
+      "content": "取得Cinq協會 南部4科 奧提斯"
+    },
+    {
+      "id": "11106_getCondition_gacksung",
+      "content": "Cinq協會 南部4科 奧提斯 3階段同步完成"
     }
   ]
 }
