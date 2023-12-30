@@ -811,6 +811,22 @@
     {
      "id": "introduce_sentence_102",
      "content": "我的{0}，在哪裡！"
+    },
+    {
+      "id": "introduce_word_103",
+      "content": "禮物"
+    },
+    {
+      "id": "introduce_sentence_103",
+      "content": "哈，能做個好{0}吧！"
+    },
+    {
+      "id": "introduce_word_104",
+      "content": "暴怒"
+    },
+    {
+      "id": "introduce_sentence_104",
+      "content": "我會帶著你短暫的{0}……將禮物傾倒出去。"
     }
   ]
 }

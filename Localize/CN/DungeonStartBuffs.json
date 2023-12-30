@@ -262,31 +262,31 @@
     },
     {
      "id": "REDUCE_UPGRADE_EGO_GIFT_COST_COMBUSTION",
-     "description": "[休息點]\n\n擁有燒傷關鍵字的E.G.O飾品強化費用減少20%"
+     "description": "[休息點]\n\n擁有燒傷關鍵字的E.G.O飾品強化費用額外減少20%"
     },
     {
      "id": "REDUCE_UPGRADE_EGO_GIFT_COST_LACERATION",
-     "description": "[休息點]\n\n擁有流血關鍵字的E.G.O飾品強化費用減少20%"
+     "description": "[休息點]\n\n擁有流血關鍵字的E.G.O飾品強化費用額外減少20%"
     },
     {
      "id": "REDUCE_UPGRADE_EGO_GIFT_COST_VIBRATION",
-     "description": "[休息點]\n\n擁有震顫關鍵字的E.G.O飾品強化費用減少20%"
+     "description": "[休息點]\n\n擁有震顫關鍵字的E.G.O飾品強化費用額外減少20%"
     },
     {
      "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BURST",
-     "description": "[休息點]\n\n擁有破裂關鍵字的E.G.O飾品強化費用減少20%"
+     "description": "[休息點]\n\n擁有破裂關鍵字的E.G.O飾品強化費用額外減少20%"
     },
     {
      "id": "REDUCE_UPGRADE_EGO_GIFT_COST_SINKING",
-     "description": "[休息點]\n\n擁有沉淪關鍵字的E.G.O飾品強化費用減少20%"
+     "description": "[休息點]\n\n擁有沉淪關鍵字的E.G.O飾品強化費用額外減少20%"
     },
     {
      "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BREATH",
-     "description": "[休息點]\n\n擁有呼吸法關鍵字的E.G.O飾品強化費用減少20%"
+     "description": "[休息點]\n\n擁有呼吸法關鍵字的E.G.O飾品強化費用額外減少20%"
     },
     {
      "id": "REDUCE_UPGRADE_EGO_GIFT_COST_CHARGE",
-     "description": "[休息點]\n\n擁有充能關鍵字的E.G.O飾品強化費用減少20%"
+     "description": "[休息點]\n\n擁有充能關鍵字的E.G.O飾品強化費用額外減少20%"
     },
     {
      "id": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE_NESTING",
@@ -294,27 +294,27 @@
     },
     {
      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_COMBUSTION",
-     "description": "[商店]\n\n販賣擁有燒傷關鍵字的E.G.O飾品時獲得的經費增加15%"
+     "description": "[商店]\n\n購買擁有燒傷關鍵字的E.G.O飾品時花費的經費額外減少15%"
     },
     {
      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_LACERATION",
-     "description": "[商店]\n\n售賣擁有流血關鍵字的E.G.O飾品時獲得的經費增加15%"
+     "description": "[商店]\n\n購買擁有流血關鍵字的E.G.O飾品時花費的經費額外減少15%"
     },
     {
      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_VIBRATION",
-     "description": "[商店]\n\n販賣擁有震顫關鍵字的E.G.O飾品時獲得的經費增加15%"
+     "description": "[商店]\n\n購買擁有震顫關鍵字的E.G.O飾品時花費的經費額外減少15%"
     },
     {
      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BURST",
-     "description": "[商店]\n\n售賣擁有破裂關鍵字的E.G.O飾品時獲得的經費增加15%"
+     "description": "[商店]\n\n購買擁有破裂關鍵字的E.G.O飾品時花費的經費額外減少15%"
     },
     {
      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_SINKING",
-     "description": "[商店]\n\n售賣擁有沉淪關鍵字的E.G.O飾品時獲得的經費增加15%"
+     "description": "[商店]\n\n購買擁有沉淪關鍵字的E.G.O飾品時花費的經費額外減少15%"
     },
     {
      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BREATH",
-     "description": "[商店]\n\n售賣擁有呼吸法關鍵字的E.G.O飾品時獲得的經費增加15%"
+     "description": "[商店]\n\n購買擁有呼吸法關鍵字的E.G.O飾品時花費的經費額外減少15%"
     },
     {
      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_CHARGE",
@@ -355,6 +355,14 @@
     {
      "id": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING",
      "description": "[戰鬥]\n\n獲得所有罪惡碎片+{0}"
+    },
+    {
+      "id": "ADDITIONAL_ALLTYPE_EGOSTOCK",
+      "description": "[戰鬥]\n\n獲得所有罪孽碎片+{0}"
+    },
+    {
+      "id": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING",
+    "description": "[戰鬥]\n\n獲得所有罪孽碎片+{0}"
     }
   ]
 }

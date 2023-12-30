@@ -1,0 +1,141 @@
+{
+  "dataList": [
+    {
+      "id": 811301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "成為歡樂",
+          "desc": "[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "成為安寧",
+          "desc": "[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層呼吸法 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 自身每帶有1級呼吸法 強度，使自身增加1級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層呼吸法 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "這是禮物",
+          "desc": "若目標帶有束縛 ，且自身的速度值高於目標，則根據速度值之差，相應使本技能的拼點威力增加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標失去5點理智值"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度並獲得3層呼吸法 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加3層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "來包裝吧",
+          "desc": "若自身帶有[AaCeSeBa],則使本技能的硬幣效果增加“下回合對目標施加1層麻痺 ”\n指定速度值最低的單位\n[EndBattle] 消耗所有充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據自身的呼吸法 強度，相應追加額外傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得3層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層某種隨機效果，該效果可能為守護 、強壯 、易損 或麻痺 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據自身的充能 層數，使目標失去相應的理智值"
+                },
+                {
+                  "desc": "[EnemyKill] 使全體敵方單位失去10點理智值"
+                },
+                {
+                  "desc": "[EnemyKillFail] 下回合對自身施加2層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "是時候準備禮物了",
+          "desc": "若消耗了所有護盾體力，則下回合使自身陷入混亂。\n若仍帶有護盾體力，則下回合使自身獲得2層強壯 ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

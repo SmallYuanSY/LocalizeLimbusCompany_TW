@@ -2105,6 +2105,82 @@
      {
        "id": "tutorial_mirrordungeon03_page_14_desc_02",
        "content": "獎勵將基於已通關的層數進行發放，可以透過使用每週額外獎勵次數獲得更加豐厚的獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_01_title",
+       "content": "20區的奇蹟"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_01_title_01",
+       "content": "解鎖20區的奇蹟"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_01_desc_01",
+       "content": "[20區的奇蹟活動頁面]在通關主線故事5-36後開放。您可以透過車窗或駕駛席上的活動橫幅進入。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_02_title_01",
+       "content": "活動持續時間"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_02_desc_01",
+       "content": "活動結束之後，您可以從駕駛席的[外傳]和[其他劇情]內回顧故事劇情。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_03_title_01",
+       "content": "活動戰鬥"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_03_desc_01",
+       "content": "20區的奇蹟包括劇情關卡在內共有13關。\n這些關卡均有[裝飾品包裹]作為首次通關獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_03_desc_02",
+       "content": "與主線故事相比，您可以從20區的奇蹟活動關卡中獲得更多[裝飾品包裹]。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_04_title_01",
+       "content": "活動加成物件"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_04_desc_01",
+       "content": "在隊伍中編入20區的奇蹟的活動加成E.G.O後清剿活動關卡及迷宮，能夠提升[裝飾品包裹]的獲取量。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_05_title_01",
+       "content": "交換禮物"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_05_desc_01",
+       "content": "基於您獲得的[裝飾品包裝]數量，您可以在交換禮物頁面兌換多種獎勵。\n您最多能收集4000[裝飾品包裹]。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_06_desc_01",
+       "content": "在[交換禮物]中可以獲得各類資源，活動限定人格及E.G.O。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_06_desc_02",
+       "content": "此處顯示了[交換禮物]的開放時間。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_07_title_01",
+       "content": "活動關卡"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_07_desc_01",
+       "content": "20區的奇蹟活動並不包含迷宮關卡。作為替代，將會有供您反覆進入並獲得大量裝飾品包裹的特殊關卡。特殊關卡將消耗腦啡肽模組。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_08_title_01",
+       "content": "裝飾品包裹"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_08_desc_01",
+       "content": "您有小機率從戰鬥獎勵中獲得巨大裝飾品包裝。巨大裝飾品包裝將會自動轉換為20裝飾品包裝。"
+     },
+     {
+       "id": "tutorial_mainui_24_miracle_02_desc_01",
+       "content": "活動結束之後，您可以從駕駛席的[外傳]和[其他劇情]內回顧故事劇情。"
      }
   ]
 }

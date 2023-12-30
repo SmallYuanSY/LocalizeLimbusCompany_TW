@@ -118,7 +118,7 @@
     },
     {
       "id": "guestlogin_failed_try_newguest",
-      "content": "沒有檢測到遊客帳戶。\n要建立新帳戶嗎？"
+      "content": "遊客帳戶登入失敗。\n該帳戶或許已被鏈結,或該帳戶不存在。\n要建立新帳戶嗎？"
     },
     {
       "id": "secession_remain_days",
