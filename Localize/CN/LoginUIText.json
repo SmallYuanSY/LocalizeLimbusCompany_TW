@@ -171,6 +171,18 @@
     {
       "id": "serverstate_verify_invaliduuid",
       "content": "該請求已被處理。\n請重啟遊戲，以進行同步。"
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "本劇情包含主線章節{0}以後的內容。請問是否繼續？"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_105",
+      "content": "5"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_9105",
+      "content": "5.5"
     }
   ]
 }

@@ -602,6 +602,42 @@
     {
       "id": "show_BattleUnitAblityUI",
       "content": "戰鬥中顯示效果UI"
+    },
+    {
+      "id": "LobotomyStartTypo_Title_1",
+      "content": "綠色的黎明"
+    },
+    {
+      "id": "LobotomyStartTypo_Name_1",
+      "content": "疑問"
+    },
+    {
+      "id": "LobotomyStartTypo_Desc_1",
+      "content": "有一天，我想到一個問題：我們從何而來？我們被給予了生命，卻又被不負責任地拋棄。"
+    },
+    {
+      "id": "LobotomyStartTypo_KillCountTitle_1",
+      "content": "鎮壓狀態"
+    },
+    {
+      "id": "LobotomyClearTypo_Title_1",
+      "content": "綠色的黎明"
+    },
+    {
+      "id": "LobotomyClearTypo_Name_1",
+      "content": "疑問"
+    },
+    {
+      "id": "LobotomyClearTypo_Desc_1",
+      "content": "生命，充滿了痛苦。"
+    },
+    {
+      "id": "LobotomyEndTypo_Title",
+      "content": "達到鎮壓時間限制"
+    },
+    {
+      "id": "LobotomyEndTypo_Desc",
+      "content": "剩餘的考驗實體： {0}"
     }
   ]
 }

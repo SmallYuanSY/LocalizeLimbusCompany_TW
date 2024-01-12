@@ -573,6 +573,20 @@
       "name": "奧提斯",
       "nameWithTitle": "奧提斯",
       "desc": "奧提斯的第6人格"
+    },
+    {
+      "id": 11107,
+      "title": "腦葉公司E.G.O::魔彈",
+      "name": "奧提斯",
+      "nameWithTitle": "奧提斯",
+      "desc": "奧提斯的第7個人格"
+    },
+    {
+      "id": 10307,
+      "title": "腦葉公司E.G.O::提燈",
+      "name": "唐吉訶德",
+      "nameWithTitle": "唐吉訶德",
+      "desc": "唐吉訶德的第7個人格"
     }
   ]
 }

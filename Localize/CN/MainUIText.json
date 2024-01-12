@@ -1094,7 +1094,7 @@
     },
     {
       "id": "appearance_probability",
-      "content": "稀有度"
+      "content": "提取機率"
     },
     {
       "id": "Individual_appearance_probability",
@@ -1238,7 +1238,7 @@
     },
     {
       "id": "announcer_selection_description",
-      "content": "※ 當您同時選擇兩個或更多的戰場播報時，所選的播報將會被隨機播放。(最多同時選擇5個)"
+      "content": "※ 當您同時選擇兩個或更多的播報員時，所選的播報員的對話將會被隨機播放。(最多同時選擇5個)"
     },
     {
       "id": "panic_type",
@@ -1591,6 +1591,38 @@
     {
       "id": "first_time",
       "content": "第一次"
+    },
+    {
+      "id": "formation_Announcer_fixed",
+      "content": "固定編隊"
+    },
+    {
+      "id": "gacha_rate_info_wa1",
+      "content": "★ 紡錘箱"
+    },
+    {
+      "id": "gacha_rate_info_wa2",
+      "content": "重複獲得已有播報員時，將轉換為紡錘箱。\n\n獲得的紡錘箱將被原封不動地繼承至下個賽季。"
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "本劇情包含主線章節{0}以後的內容。請問是否繼續？"
+    },
+    {
+      "id": "notice_of_pity_point_already_have_announcer",
+      "content": "您已擁有所選播報員。請問是否要用200[理想]兌換50紡錘箱？"
+    },
+    {
+      "id": "gacha_rate_info_announcer1",
+      "content": "根據上表的提取機率，可以獲得下表所述的人格、E.G.O、以及播報員。\n\n可以獲得的人格、E.G.O、以及播音員可能會根據特定的賽季作出變更， 在這種情況下，將會在變更前提前通知。"
+    },
+    {
+      "id": "mainui_battleresult_ordeal_victory",
+      "content": "鎮壓成功"
+    },
+    {
+      "id": "mainui_battleresult_ordeal_defeat",
+      "content": "鎮壓失敗"
     }
   ]
 }

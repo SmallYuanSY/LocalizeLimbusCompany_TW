@@ -559,6 +559,22 @@
     {
       "id": "11106_getCondition_gacksung",
       "content": "Cinq協會 南部4科 奧提斯 3階段同步完成"
+    },
+    {
+      "id": "11107_getCondition_normal",
+      "content": "取得腦葉公司E.G.O::魔彈 奧提斯"
+    },
+    {
+      "id": "11107_getCondition_gacksung",
+      "content": "腦葉公司E.G.O::魔彈 奧提斯 3階段同步完成"
+    },
+    {
+      "id": "10307_getCondition_normal",
+      "content": "拿腦葉公司E.G.O::提燈 唐吉訶德"
+    },
+    {
+      "id": "10307_getCondition_gacksung",
+      "content": "腦葉公司E.G.O::提燈 唐吉訶德 3階段同步完成"
     }
   ]
 }

@@ -163,6 +163,10 @@
     {
       "id": "TurnStartBattle",
       "name": "[回合開始時]"
+    },
+    {
+      "id": "EndSkillAll",
+      "name": "[技能結束時]"
     }
   ]
 }

@@ -1,0 +1,132 @@
+{
+   "dataList": [
+     {
+       "id": "announcer_cheer_10_1",
+       "dlg": "愉快的一天又開始了，不是嗎？…嗯，稍等我檢查一下音量。我聽不到您的回覆。"
+     },
+     {
+       "id": "announcer_cheer_10_2",
+       "dlg": "大家仔細聽好！我來幫忙了！"
+     },
+     {
+       "id": "announcer_specialcheer_10_1",
+       "dlg": "狀況不妙。出現了大量傷員。不過沒關係！控制部有能力處理好這些事情的，對吧？"
+     },
+     {
+       "id": "announcer_specialcheer_10_2",
+       "dlg": "我明白大家都在掙扎。但我也堅信，各位希望盡自己的最大努力，為此賭上了性命！"
+     },
+     {
+       "id": "announcer_enemy_break_10_1",
+       "dlg": "鎮壓目標陷入混亂。啊，抓住機會讓它徹底動彈不得吧！"
+     },
+     {
+       "id": "announcer_enemy_break_10_2",
+       "dlg": "敵方單位的狀態看起來很糟糕。就現在一勞永逸地鎮壓它吧！"
+     },
+     {
+       "id": "announcer_ally_break_10_1",
+       "dlg": "出現失誤再正常不過了。我以前也常常摸摸索索，然後把自己學到的都記在筆記本上。不要就此變得軟弱！"
+     },
+     {
+       "id": "announcer_ally_break_10_2",
+       "dlg": "如果有員工在抱怨他們做不到…就告訴我，好嗎？"
+     },
+     {
+       "id": "announcer_killenemy_10_1",
+       "dlg": "哇啊，成功了！看吧？敵方單位已經靜止不動了。讓我們就此讓剩下的也不再動彈吧。"
+     },
+     {
+       "id": "announcer_ally_dead_10_1",
+       "dlg": "有一名員工已經動彈不得了。咦？大家的那種表情是怎麼回事？現在的員工已經如此軟弱了嗎？就因為這種程度？"
+     },
+     {
+       "id": "announcer_enemy_adv_10_1",
+       "dlg": "敵人佔了上風。沒準我們應該再組織幾天的跨部門聯合訓練？大家在接受訓練之後…都有所改變！"
+     },
+     {
+       "id": "announcer_ally_adv_10_1",
+       "dlg": "我們正佔上風！但別現在就放鬆了。作為控制部，我們就應該從頭到尾都完美無缺，難道不是嗎？"
+     },
+     {
+       "id": "announcer_danger_10_1",
+       "dlg": "沒關係，我在我的筆記上都記下來這種情況該怎麼做了。我們也許得做一些必要的犧牲！"
+     },
+     {
+       "id": "announcer_enemy_specialskill_10_1",
+       "dlg": "一次強力的攻擊要來了。我已經提醒過了，最好別讓我看到有員工躲不開！"
+     },
+     {
+       "id": "announcer_enemy_specialgimmick_10_1",
+       "dlg": "看起來敵方單位正在準備一次特殊的攻擊。我們能應付的，對吧？"
+     },
+     {
+       "id": "announcer_advatk_physical_10_1",
+       "dlg": "真是一記漂亮的進攻！努力保持下去！"
+     },
+     {
+       "id": "announcer_disadvatk_physical_10_1",
+       "dlg": "那次攻擊不怎麼有效。讓我想想，你們中是不是有人沒好好提前閱讀手冊？"
+     },
+     {
+       "id": "announcer_advatk_attr_10_1",
+       "dlg": "是有效的攻擊。但還不夠，我們下次要做的更好！"
+     },
+     {
+       "id": "announcer_disadvatk_attr_10_1",
+       "dlg": "看到了嗎？那不是有效的攻擊方式。到底是因為失誤…還是根本就沒有努力？"
+     },
+     {
+       "id": "announcer_enemy_specialbuff_10_1",
+       "dlg": "看起來對方稍佔優勢。但這都沒什麼好擔心的，我們依然要盡力而為！"
+     },
+     {
+       "id": "announcer_enemy_specialdebuff_10_1",
+       "dlg": "對方稍顯劣勢。抓住機會改變戰局吧。"
+     },
+     {
+       "id": "announcer_ally_specialbuff_10_1",
+       "dlg": "現在我們更佔優勢。太棒了！"
+     },
+     {
+       "id": "announcer_ally_specialdebuff_10_1",
+       "dlg": "有人的狀況似乎不太好。別因為這點小事削弱他的意志，我們得互相幫助！"
+     },
+     {
+       "id": "announcer_enemy_destroy_10_1",
+       "dlg": "破壞了一個部位。這樣下去，我們就能逐漸把它都破壞掉！"
+     },
+     {
+       "id": "announcer_enemy_destroy_10_2",
+       "dlg": "看到了嗎？有個部位被破壞了。我們得再接再厲，繼續把它們都破壞、撕碎，應該就能鎮壓它了。"
+     },
+     {
+       "id": "announcer_enemy_destroy_10_3",
+       "dlg": "你破壞了它的某個部位。讓它緩慢而痛苦的死去吧，這樣如何？"
+     },
+     {
+       "id": "announcer_round_takebigdmg_10_1",
+       "dlg": "哇，那看起來很痛苦。讓我們把這樣的痛苦和憎恨原封不動地一一奉還吧？"
+     },
+     {
+       "id": "announcer_round_takebigdmg_10_2",
+       "dlg": "我們的很多人都受傷了，但沒關係。我指揮下的控制部不會失敗。…失敗是不可接受的。"
+     },
+     {
+       "id": "announcer_round_givebigdmg_10_1",
+       "dlg": "敵方受到了很大傷害。你能感受到他們有多痛苦嗎？好，再接再厲吧。"
+     },
+     {
+       "id": "announcer_round_givebigdmg_10_2",
+       "dlg": "我們造成了致命一擊。對方已經足夠虛弱，現在該幹掉它了！"
+     },
+     {
+       "id": "announcer_multikillenemy_10_1",
+       "dlg": "哇，真是漂亮的一擊！主管肯定能給我們不錯的評價的。"
+     },
+     {
+       "id": "announcer_equip_10_1",
+       "dlg": "大家好，我是腦葉公司控制部部長，Malkuth！只要照我說的去做，那就一定能完美成功！"
+     }
+   ]
+}

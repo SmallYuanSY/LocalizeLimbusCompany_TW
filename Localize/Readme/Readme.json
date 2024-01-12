@@ -34,6 +34,16 @@
       "id": 3035,
       "version": 0,
       "type": 0,
+      "startDate": "2024-01-12T08:00:00.000Z",
+      "endDate": "2025-06-30T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Mod V0.6.20",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.18\\n- 漢化內容更新\\n  - 01月12日 瓦爾普吉斯之夜漢化內容 更新\\n 翻譯\\n 漢化內容將按照《上》、《下》兩部分更新\\n  - 其他內容少量更進\"}]}"
+    },
+    {
+      "id": 3035,
+      "version": 0,
+      "type": 0,
       "startDate": "2023-12-30T08:00:00.000Z",
       "endDate": "2024-12-31T23:00:00.000Z",
       "sprNameList": [],

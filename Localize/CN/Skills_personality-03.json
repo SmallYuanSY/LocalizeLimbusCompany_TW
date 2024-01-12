@@ -335,6 +335,242 @@
            ]
          }
        ]
+     },
+     {
+       "id": 1030701,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "吾當嚙！",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 施加2層對目標破裂 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "吾當嚙！",
+           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "吾當嚙！",
+           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1030702,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "閃爍誘餌",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "閃爍誘餌",
+           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的破裂 層數不高於2層，則對其施加2層破裂 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "閃爍誘餌",
+           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +4\n[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的破裂 層數不高於2層，則對其施加3層破裂 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1030703,
+       "levelList": [
+         {
+           "level": 3,
+           "name": "嚼嚼旋風！",
+           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                 }
+               ]
+             },
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復10點體力"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 根據目標帶有的破裂 強度，相應增加恢復的體力（每1級破裂 強度額外恢復1點體力，最多20點）"
+                 },
+                 {
+                   "desc": "若現存體力不高於體力上限的50%，則重複使用本硬幣1次"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "嚼嚼旋風！",
+           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                 }
+               ]
+             },
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復15點體力。本硬幣重複使用時額外恢復50%的體力"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 根據目標帶有的破裂 強度，相應增加恢復的體力（每1級破裂 強度額外恢復2點體力，最多40點）"
+                 },
+                 {
+                   "desc": "若現存體力不高於體力上限的50%，則重複使用本硬幣1次"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1030704,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "臼齒霍霍",
+           "desc": "[EndBattle] 根據自身剩餘的護盾，使自身恢復對應的體力（每回合最多1次。最大體力恢復量：體力上限的10%）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "臼齒霍霍",
+           "desc": "[WhenUse] 若目標的破裂強度不低於6級，則使本技能的最終威力+3\n[EndBattle] 根據自身剩餘的護盾，使自身恢復相應的體力（每回合最多 1次。最大體力恢復量：體力上限的10%）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
      }
    ]
 }

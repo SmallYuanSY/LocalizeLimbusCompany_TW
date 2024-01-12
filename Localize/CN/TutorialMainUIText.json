@@ -2124,7 +2124,7 @@
      },
      {
        "id": "tutorial_mainui_24_miracle_02_desc_01",
-       "content": "活動結束之後，您可以從駕駛席的[外傳]和[其他劇情]內回顧故事劇情。"
+       "content": "此處顯示了20區的奇蹟活動的持續時間。 活動過程中，您可以透過通關活動或主線關卡以及鏡像迷宮來取得[裝飾品包裝]。 \n※ 您無法從採礦關卡中取得[裝飾品包裹]。"
      },
      {
        "id": "tutorial_mainui_24_miracle_03_title_01",
@@ -2179,8 +2179,84 @@
        "content": "您有小機率從戰鬥獎勵中獲得巨大裝飾品包裝。巨大裝飾品包裝將會自動轉換為20裝飾品包裝。"
      },
      {
-       "id": "tutorial_mainui_24_miracle_02_desc_01",
+       "id": "tutorial_mainui_24_miracle_09_desc_01",
        "content": "活動結束之後，您可以從駕駛席的[外傳]和[其他劇情]內回顧故事劇情。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_01_title",
+       "content": "第二次瓦爾普吉斯之夜 - 綠色的黎明"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_01_title_01",
+       "content": "解鎖第二次瓦爾普吉斯之夜 - 綠色的黎明"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_01_desc_01",
+       "content": "[第二次瓦爾普吉斯之夜 - 綠色的黎明] 不論您的主線故事進度，都將解鎖。請通過車窗或駕駛席的活動橫幅進入活動。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_02_title_01",
+       "content": "活動期限"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_02_desc_01",
+       "content": "此處顯示了第二次瓦爾普吉斯之夜- 綠色的黎明活動的開放時間。在活動中，您可完成綠色的黎明考驗普通及困難難度下的各類任務，並獲取 獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_03_title_01",
+       "content": "普通難度戰鬥"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_03_desc_01",
+       "content": "選擇這扇門以進入綠色的黎明考驗，完成綠色的黎明考驗需要消耗腦啡肽模組。普通難度下，您部署的40級以下的人格等級將被自動提升至40。不過 ，人格的同步進度與E.G.O異想解析進度將保持不變。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_03_title_02",
+       "content": "困難難戰"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_03_desc_02",
+       "content": "透過綠色的黎明考驗普通難度，將解鎖其困難難度。在困難難度下，人格的等級、同步進度與E.G.O異想解析進度將保持不變。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_04_title_01",
+       "content": "特殊播報員"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_04_desc_01",
+       "content": "綠色的黎明考驗期間，您的播報員將固定為一位特殊播報員。因此，您無法在此活動關卡中選擇自己的播報員。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_04_title_02",
+       "content": "控制部隊長 效果"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_04_desc_02",
+       "content": "以第一順位進入關卡的罪人將被賦予「控制部隊長」效果。擁有「控制部隊長」效果的罪人將在綠色的黎明戰鬥中獲得額外技能槽，其技能數量也會 產生變動。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_05_title_01",
+       "content": "任務清單"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_05_desc_01",
+       "content": "透過[任務清單]介面，能夠查看需要完成的任務，以及任務獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_06_desc_01",
+       "content": "[任務清單]介面將顯示獎勵領取期限。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_06_desc_02",
+       "content": "能夠分別確認普通任務及困難任務。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_06_desc_03",
+       "content": "完成任務可在[任務清單]領取多樣化獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_25_walpu2_07_desc_01",
+       "content": "活動結束後，您可在駕駛座和放映室-[其他劇情]頁面重溫戰鬥或重覽劇情。"
      }
   ]
 }
