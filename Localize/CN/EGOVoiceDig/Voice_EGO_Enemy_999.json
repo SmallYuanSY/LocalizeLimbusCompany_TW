@@ -29,6 +29,26 @@
        "id": "battle_selection2_8105_1",
        "desc": "技能發動",
        "dlg": "我是亞哈船長，我永遠都是亞哈…！"
+     },
+     {
+       "id": "battle_sacrifice_8106_1",
+       "desc": "階段開始",
+       "dlg": "來，削割你自己吧！"
+     },
+     {
+       "id": "battle_sacrifice_8106_2",
+       "desc": "階段開始",
+       "dlg": "船員們，時機到了！"
+     },
+     {
+       "id": "battle_order_attack_8106",
+       "desc": "掩護攻擊",
+       "dlg": "掩護我！"
+     },
+     {
+       "id": "battle_order_defence_8106",
+       "desc": "掩護防禦",
+       "dlg": "來，為我防禦！"
      }
   ]
 }

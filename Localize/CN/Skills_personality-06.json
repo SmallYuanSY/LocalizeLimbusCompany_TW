@@ -425,6 +425,176 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1060801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "知識消耗",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層沉淪 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "知識消耗",
+          "desc": "[WhenUse] 丟棄自身所有行動槽中級別最高的1個技能\n[WhenUse] 若自身的所解真知 層數不低於3層，則使本技能的拼點威力+1" ,
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層沉淪 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的所解真知 層數不低於3層，則重複使用本硬幣1次"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "知識消耗",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 使本技能的拼點威力+（自身的所解真知 層數-1）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層沉淪 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 重複使用本硬幣（自身的所解真知 層數-1）次"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "入匙解封",
+          "desc": "[WhenUse] 依技能等級由低到高隨機丟棄 自身所有行動槽中的2個技能",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "入匙解封",
+          "desc": "[WhenUse] 依技能等級由低到高隨機丟棄自身所有行動槽中的2個技能\n[WhenUse] 若自身的所解真知 層數不低於3層，則使本技能的 硬幣威力+1",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "入匙解封",
+          "desc": "[WhenUse] 依技能等級由低到高隨機丟棄自身所有行動槽中的2個技能\n[WhenUse] 使本技能的硬幣威力+（自身的所解真知 層數-1）" ,
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "循環的知識",
+          "desc": "[WhenUse] 若自身的所解真知 層數不低於2層，則使本技能的硬幣威力+（自身的所解真知 層數）\n[WhenUse] 目標每帶有1級 沉淪強度，使本技能造成的傷害+1.5%（最多+15%）",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                },
+                {
+                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則使自身恢復10點理智值"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "循環的知識",
+          "desc": "[WhenUse] 若自身的所解真知 層數不低於2層，則使本技能的硬幣威力+（自身的所解真知 層數）\n[WhenUse] 目標每帶有1級 沉淪強度，使本技能造成的傷害+3%（最多+30%）",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層沉淪 "
+                },
+                {
+                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則使自身恢復10點理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "引導步驟",
+          "desc": "[WhenUse] 依技能等級由低到高隨機丟棄 自身所有行動槽中的2個技能",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "引導步驟",
+          "desc": "[WhenUse] 依技能等級由低到高隨機丟棄 自身所有行動槽中的2個技能",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

@@ -683,13 +683,6 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則下回合對目標施加1層束縛 "
-                }
-              ]
             }
           ]
         }
@@ -757,16 +750,6 @@
           "name": "消化",
           "desc": "[StartBattle] 使所有部位獲得3層守護 。",
           "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] 目標每帶有1級流血 強度，使自身恢復體力上限1%的體力"
-                },
-                {
-                  "desc": "[OnSucceedAttack] 消耗目標1層流血 "
-                }
-              ]
-            },
             {
               "coindescs": [
                 {

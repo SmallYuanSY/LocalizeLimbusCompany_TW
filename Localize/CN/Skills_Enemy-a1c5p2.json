@@ -11,14 +11,14 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttackTail] 使目標失去2點理智值"
+                   "desc": "[OnSucceedAttackTail] 對目標造成2點理智傷害"
                  }
                ]
              },
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttackTail] 使目標失去2點理智值"
+                   "desc": "[OnSucceedAttackTail] 對目標造成2點理智傷害"
                  }
                ]
              }
@@ -32,7 +32,7 @@
          {
            "level": 1,
            "name": "銘記恐懼",
-           "desc": "[WinDuel] 使目標失去5點理智值，並使自身恢復10點體力",
+           "desc": "[WinDuel] 對目標造成5點理智傷害，並使自身恢復10點體力",
            "coinlist": [
              {
                "coindescs": [
@@ -56,7 +56,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttackTail] 使目標失去3點理智值"
+                   "desc": "[OnSucceedAttackTail] 對目標造成3點理智傷害"
                  },
                  {
                    "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
@@ -66,7 +66,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttackTail] 使目標失去3點理智值"
+                   "desc": "[OnSucceedAttackTail] 對目標造成3點理智傷害"
                  },
                  {
                    "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
@@ -234,7 +234,7 @@
          {
            "level": 1,
            "name": ".-.. -",
-           "desc": "[WinDuel] 除自身以外每有1名蒼白的友方單位存活，使目標失去1點理智值",
+           "desc": "[WinDuel] 除自身以外每有1名蒼白的友方單位存活，對目標造成1點理智傷害",
            "coinlist": [
              {
                "coindescs": [
@@ -369,7 +369,7 @@
          {
            "level": 1,
            "name": "-... .-",
-           "desc": "[WhenUse] 下回合隨機使1名其他友方單位獲得1層守護 。若該單位為蒼白的單位，則使其額外獲得1層守護 ",
+           "desc": "[WhenUse] 下回合隨機使除自身以外的1名友方單位獲得1層守護 。若該單位為蒼白的單位，則使其額外獲得1層守護 ",
            "coinlist": [
              {
                "coindescs": [
@@ -509,7 +509,7 @@
          {
            "level": 1,
            "name": "--. . ...-",
-           "desc": "若目標帶有蒼白的噪音 ，除自身以外每有1名友方單位存活，使目標失去1點理智值",
+           "desc": "若目標帶有蒼白的噪音 ，除自身以外每有1名友方單位存活，對目標造成1點理智傷害",
            "coinlist": [
              {
                "coindescs": [
@@ -780,7 +780,7 @@
        "levelList": [
          {
            "level": 1,
-           "name": "雕刻準備",
+           "name": "銘刻準備",
            "desc": "[EndBattle] 若自身帶有護盾，則下回合使自身獲得1層強壯 ",
            "coinlist": [
              {
@@ -866,7 +866,7 @@
        "levelList": [
          {
            "level": 1,
-           "name": "雕刻！",
+           "name": "銘刻！",
            "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
            "coinlist": [
              {
@@ -918,7 +918,7 @@
        "levelList": [
          {
            "level": 1,
-           "name": "雕刻準備",
+           "name": "銘刻準備",
            "desc": "消耗自身全部護盾，下回合使自身獲得1層強壯 ",
            "coinlist": [
              {

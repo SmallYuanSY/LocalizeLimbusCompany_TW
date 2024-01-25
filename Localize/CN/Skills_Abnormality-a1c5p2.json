@@ -11,14 +11,14 @@
               {
                 "coindescs": [
                   {
-                    "desc": "[OnSucceedAttack] 打擊傷害 +3"
+                    "desc": "[OnSucceedAttack] 額外造成3點打擊傷害"
                   }
                 ]
               },
               {
                 "coindescs": [
                   {
-                    "desc": "[OnSucceedAttack] 打擊傷害 +3"
+                    "desc": "[OnSucceedAttack] 額外造成3點打擊傷害"
                   }
                 ]
               },
@@ -44,14 +44,14 @@
               {
                 "coindescs": [
                   {
-                    "desc": "[OnSucceedAttack] 打擊傷害 +5"
+                    "desc": "[OnSucceedAttack] 額外造成5點打擊傷害"
                   }
                 ]
               },
               {
                 "coindescs": [
                   {
-                    "desc": "[OnSucceedAttack] 打擊傷害 +5"
+                    "desc": "[OnSucceedAttack] 額外造成5點打擊傷害"
                   }
                 ]
               },

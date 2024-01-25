@@ -575,6 +575,22 @@
     {
       "id": "10307_getCondition_gacksung",
       "content": "腦葉公司E.G.O::提燈 唐吉訶德 3階段同步完成"
+    },
+    {
+      "id": "10608_getCondition_normal",
+      "content": "取得Dieci協會 南部4科 鴻璐"
+    },
+    {
+      "id": "10608_getCondition_gacksung",
+      "content": "Dieci協會 南部4科 鴻璐 3階段同步完成"
+    },
+    {
+      "id": "10108_getCondition_normal",
+      "content": "取得Dieci協會 南部4科 李箱"
+    },
+    {
+      "id": "10108_getCondition_gacksung",
+      "content": "Dieci協會 南部4科 李箱 3階段同步完成"
     }
   ]
 }

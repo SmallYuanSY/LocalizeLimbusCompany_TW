@@ -1,120 +1,120 @@
 {
-   "dataList": [
-     {
-       "id": "announcer_cheer_11_1",
-       "dlg": "傑克~菜刀都磨好了嘛？嗯，準備好了。"
-     },
-     {
-       "id": "announcer_cheer_11_2",
-       "dlg": "哇，快看！食材在走路？等那些傢伙把他們全收拾掉，咱們就能輕輕鬆鬆地帶回去了。"
-     },
-     {
-       "id": "announcer_specialcheer_11_1",
-       "dlg": "一副搖搖晃晃的樣子。他們離死不遠了。傑克，等他們死了之後就全拿去做食材吧？"
-     },
-     {
-       "id": "announcer_specialcheer_11_2",
-       "dlg": "你們啊~再這樣可要被剁成肉醬咯？沒關係，皮埃爾。他們就這麼被剁碎的話反而替我們省事了。"
-     },
-     {
-       "id": "announcer_enemy_break_11_1",
-       "dlg": "哦，現在的狀態正適合綁架啊。傑克就是這樣運作的嗎？"
-     },
-     {
-       "id": "announcer_ally_break_11_1",
-       "dlg": "哎呀？大意啦？那樣會死的。"
-     },
-     {
-       "id": "announcer_killenemy_11_1",
-       "dlg": "食材準備好了。就是有點亂。那肯定啦~連骨頭都一起剁碎了可很難做成派誒。"
-     },
-     {
-       "id": "announcer_ally_dead_11_1",
-       "dlg": "去尋找食材，結果卻變成了食材…完全就是外行人。對吧，皮埃爾？"
-     },
-     {
-       "id": "announcer_enemy_adv_11_1",
-       "dlg": "啊，不行不行！在變成肉醬之前趕快逃走比較好吧。"
-     },
-     {
-       "id": "announcer_ally_adv_11_1",
-       "dlg": "我想他們最終會贏的…但是兩邊的肉質都太壞了…嘖嘖，我們可不能賣這個。"
-     },
-     {
-       "id": "announcer_danger_11_1",
-       "dlg": "我很懷疑是否必須這麼做才能得到食材。傑克，如果你遇到這種情況，最好馬上逃跑，好嗎？"
-     },
-     {
-       "id": "announcer_enemy_specialskill_11_1",
-       "dlg": "食材們好像在掙扎。他們越是活蹦亂跳，肉質就會越鮮嫩。好極了！"
-     },
-     {
-       "id": "announcer_enemy_specialgimmick_11_1",
-       "dlg": "嗯？他們在準備什麼…這種時候應該躲起來。"
-     },
-     {
-       "id": "announcer_advatk_physical_11_1",
-       "dlg": "切得漂亮。這真是一塊完美的肉！"
-     },
-     {
-       "id": "announcer_disadvatk_physical_11_1",
-       "dlg": "哦，你真的要這麼做嗎…這會使肉質變硬的。"
-     },
-     {
-       "id": "announcer_advatk_attr_11_1",
-       "dlg": "削肉以刀，剔骨以鋸子！同意，皮埃爾。"
-     },
-     {
-       "id": "announcer_disadvatk_attr_11_1",
-       "dlg": "選用的工具很奇怪呀。唷…他們所做的只會讓他們的武器被磨鈍。"
-     },
-     {
-       "id": "announcer_enemy_specialbuff_11_1",
-       "dlg": "食材們看起來特別有活力？似乎做了藥物處理。"
-     },
-     {
-       "id": "announcer_enemy_specialdebuff_11_1",
-       "dlg": "他們看起來很累。這正是你需要好好料理的時候，這樣肉質就不會變硬了~"
-     },
-     {
-       "id": "announcer_ally_specialbuff_11_1",
-       "dlg": "你們看起來確實精力充沛。是你為他們做了手工肉派還是什麼嗎，皮埃爾？真是豐盛。"
-     },
-     {
-       "id": "announcer_ally_specialdebuff_11_1",
-       "dlg": "一定是吃了不新鮮的東西。對吧…他們看起來心情非常不好。"
-     },
-     {
-       "id": "announcer_enemy_destroy_11_1",
-       "dlg": "哇~一個新鮮的部位掉下來了啊？嗯，好像是非常高級的部位。"
-     },
-     {
-       "id": "announcer_enemy_destroy_11_2",
-       "dlg": "剛才切下來的部位，我可以拿走嗎？肯定沒問題的對吧？拜託了，傑克~"
-     },
-     {
-       "id": "announcer_round_takebigdmg_11_1",
-       "dlg": "啊，唔…看著就疼，那個。應該讓材料無法反抗才對的。"
-     },
-     {
-       "id": "announcer_round_takebigdmg_11_2",
-       "dlg": "你們…真的能帶材料來嗎？關於供應合同，我得檢查一下。皮埃爾。"
-     },
-     {
-       "id": "announcer_round_givebigdmg_11_1",
-       "dlg": "用力過頭了吧？對哦！這樣輕輕地~小心別把骨頭也敲碎了，不然派裡會有骨渣的！"
-     },
-     {
-       "id": "announcer_round_givebigdmg_11_2",
-       "dlg": "你們打破的那些肉，要先好好處理過再交出去對吧？雖然能吃的部位好像沒剩多少了…"
-     },
-     {
-       "id": "announcer_multikillenemy_11_1",
-       "dlg": "一下就處理完好幾份的備菜工作了呢……傑、傑克！你也學著點呀！"
-     },
-     {
-       "id": "announcer_equip_11_1",
-       "dlg": "這裡是皮埃爾喲~這裡是傑克。今天要做什麼料理呢？"
-     }
-   ]
+  "dataList": [
+    {
+      "id": "announcer_cheer_11_1",
+      "dlg": "傑克~菜刀都磨好了嘛？嗯，準備好了。"
+    },
+    {
+      "id": "announcer_cheer_11_2",
+      "dlg": "哇，快看！食材在走路誒？等那些傢伙把他們全收拾掉，咱們就能輕輕鬆鬆地帶回去了。"
+    },
+    {
+      "id": "announcer_specialcheer_11_1",
+      "dlg": "一副搖搖晃晃的樣子。他們離死不遠了。傑克，等他們死了之後就全拿去做食材吧？"
+    },
+    {
+      "id": "announcer_specialcheer_11_2",
+      "dlg": "你們啊~再這樣可要被剁成肉醬咯？沒關係，皮埃爾。他們就這麼被剁碎的話反而替我們省事了。"
+    },
+    {
+      "id": "announcer_enemy_break_11_1",
+      "dlg": "哦，現在的狀態正適合綁架啊。傑克也是這樣運作的嗎？"
+    },
+    {
+      "id": "announcer_ally_break_11_1",
+      "dlg": "哎呀？大意啦？那樣會死的。"
+    },
+    {
+      "id": "announcer_killenemy_11_1",
+      "dlg": "食材準備好了。就是有點亂。那肯定啦~連骨頭都一起剁碎了可很難做成派誒。"
+    },
+    {
+      "id": "announcer_ally_dead_11_1",
+      "dlg": "去尋找食材，結果卻變成了食材…完全就是外行人。對吧，皮埃爾？"
+    },
+    {
+      "id": "announcer_enemy_adv_11_1",
+      "dlg": "啊，不行不行！在變成肉醬之前趕快逃走比較好吧。"
+    },
+    {
+      "id": "announcer_ally_adv_11_1",
+      "dlg": "雖然總算快贏了…但兩邊的肉質都被嚴重破壞了…嘖，失去了作為商品的價值啊。"
+    },
+    {
+      "id": "announcer_danger_11_1",
+      "dlg": "有必要為了獲取食材做出如此大的犧牲嗎？傑克，如果你遇到這種情況就馬上逃跑，好嗎？"
+    },
+    {
+      "id": "announcer_enemy_specialskill_11_1",
+      "dlg": "食材們好像在垂死掙扎。他們越是活蹦亂跳，肉質就會越鮮嫩。好極了！"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_11_1",
+      "dlg": "嗯？他們在準備做什麼奇怪的事情…這種時候應該躲起來吧。"
+    },
+    {
+      "id": "announcer_advatk_physical_11_1",
+      "dlg": "切得漂亮。這真是一塊完美的肉！"
+    },
+    {
+      "id": "announcer_disadvatk_physical_11_1",
+      "dlg": "騙人，要，這麼做嗎…？肉質會變硬的。"
+    },
+    {
+      "id": "announcer_advatk_attr_11_1",
+      "dlg": "削肉以刀，剔骨以鋸子！同意，皮埃爾。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_11_1",
+      "dlg": "選用的工具很奇怪呀。呼，他們所做的只會讓武器被磨鈍。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_11_1",
+      "dlg": "食材們看起來特別有活力？似乎做了藥物處理。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_11_1",
+      "dlg": "他們看起來很累。這時候不進行食材處理，肉質就會變硬的~"
+    },
+    {
+      "id": "announcer_ally_specialbuff_11_1",
+      "dlg": "你們看起來怎麼這麼有精神？是給他們做了手工年糕餡的派了嗎，皮埃爾？吃了那個就渾身有力氣。"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_11_1",
+      "dlg": "看起來是吃了不新鮮的東西。是啊…他們看起來很不舒服。"
+    },
+    {
+      "id": "announcer_enemy_destroy_11_1",
+      "dlg": "哇~！有一個新鮮的部位掉下來了啊？嗯，好像是非常高級的部位。"
+    },
+    {
+      "id": "announcer_enemy_destroy_11_2",
+      "dlg": "剛剛切下來的部位，我可以拿過來吧？肯定沒問題啊~拜託了，傑克~"
+    },
+    {
+      "id": "announcer_round_takebigdmg_11_1",
+      "dlg": "啊，唔…看著就疼，那個。應該讓材料無法反抗才對的。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_11_2",
+      "dlg": "你們…真的能帶材料來嗎？關於供應合同，我得檢查一下。皮埃爾。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_11_1",
+      "dlg": "用力過頭了吧？就是啊！要溫柔一點~不然派裡會有骨頭渣的！"
+    },
+    {
+      "id": "announcer_round_givebigdmg_11_2",
+      "dlg": "你們打破的那些肉，要先好好處理過再交出去對吧？雖然能吃的部位好像沒剩多少了…"
+    },
+    {
+      "id": "announcer_multikillenemy_11_1",
+      "dlg": "一下就完成了好幾份的備菜工作了呢…傑、傑克！你也學著點呀！"
+    },
+    {
+      "id": "announcer_equip_11_1",
+      "dlg": "這裡是皮埃爾喲~這裡是傑克。今天要做什麼料理呢？"
+    }
+  ]
 }
