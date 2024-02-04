@@ -323,7 +323,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[CriticalOnSucceedAttack] 本技能暴擊時不消耗呼吸法 層數。自身每帶有1級呼吸法 強度，額外造成1點打擊傷害"
+                   "desc": "[CriticalOnSucceedAttack] 本硬幣暴擊時不消耗呼吸法 層數。自身每帶有1級呼吸法 強度，額外造成1點打擊傷害"
                  }
                ]
              }

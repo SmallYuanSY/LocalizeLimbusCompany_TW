@@ -2925,7 +2925,7 @@
         {
           "level": 3,
           "name": "碎屍萬段",
-          "desc": "[EnemyKill] 再次使用本技能",
+          "desc": "[EnemyKill] 重複使用本技能",
           "coinlist": [
             {
               "coindescs": [
@@ -2942,7 +2942,7 @@
         {
           "level": 4,
           "name": "碎屍萬段",
-          "desc": "[EnemyKill] 再次使用本技能",
+          "desc": "[EnemyKill] 重複使用本技能",
           "coinlist": [
             {
               "coindescs": [
@@ -10120,7 +10120,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗5層符咒 ，並對目標施加7層符咒 "
+                  "desc": "[OnSucceedAttack] 消耗5層符咒 ，並對目標施加5層符咒 "
                 }
               ]
             },

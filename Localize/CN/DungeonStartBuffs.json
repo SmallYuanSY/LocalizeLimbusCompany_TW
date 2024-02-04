@@ -318,11 +318,11 @@
     },
     {
      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_CHARGE",
-     "description": "[商店]\n\n售賣擁有充能關鍵字的E.G.O飾品時獲得的經費增加15%"
+     "description": "[商店]\n\n購買擁有充能類關鍵字的E.G.O飾品時獲得的經費增加15%"
     },
     {
      "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_NONE",
-     "description": "[商店]\n\n售賣不擁有關鍵字的E.G.O飾品時獲得的經費增加15%"
+     "description": "[商店]\n\n購買泛用性的E.G.O飾品時獲得的經費增加15%"
     },
     {
      "id": "SlashAttackDamageMultiply",

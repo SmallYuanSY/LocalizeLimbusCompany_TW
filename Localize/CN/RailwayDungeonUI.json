@@ -163,6 +163,18 @@
     {
       "id": "final_clear_accumulated_round",
       "content": "累計清剿巡迴數"
+    },
+    {
+      "id": "railway_clear_date",
+      "content": "紀錄日期"
+    },
+    {
+      "id": "railway_clear_turn_count",
+      "content": "累計通關回合數"
+    },
+    {
+      "id": "railway_clear_turn_count_by_stage",
+      "content": "各站點通關回合數"
     }
   ]
 }

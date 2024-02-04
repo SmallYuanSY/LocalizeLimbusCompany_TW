@@ -1,0 +1,52 @@
+{
+   "dataList": [
+     {
+       "id": "railway_dungeon_save_formation",
+       "content": "保存編隊"
+     },
+     {
+       "id": "railway_dungeon_init_saved_stage_data",
+       "content": "重置"
+     },
+     {
+       "id": "railway_dungeon_init_saved_stage_data_desc",
+       "content": "是否重置目前網站的進度\n並回到入場前？"
+     },
+     {
+       "id": "railway_dungeon_3_reward_condition_special_ticket",
+       "content": "※ <color=#003c3e>第3季一路順風</color>期間內，以總計回合數<color=#cd5e00>{0}</color>以下通關折射軌道3號線的終點 站時獲得。"
+     },
+     {
+       "id": "railway_dungeon_3_banner_reward_condition_1",
+       "content": "折射軌道3號線 通過終點站時獲得"
+     },
+     {
+       "id": "railway_dungeon_3_banner_reward_condition_2",
+       "content": "第3季 一路順風期間內，以總計回合數{0}以下通關折射軌道3號線的終點站時獲得。"
+     },
+     {
+       "id": "railway_dungeon_before_enter_past_node_change_formation",
+       "content": "編隊保存時，選擇的休息站以後的編組記錄\n將被完全初始化。\n\n要保存編隊嗎？"
+     },
+     {
+       "id": "railway_dungeon_3_retry_popup_init",
+       "content": "返回"
+     },
+     {
+       "id": "railway_dungeon_3_boss_accumulated_turn",
+       "content": "最終累計回合"
+     },
+     {
+       "id": "railway_dungeon_3_unit_recovered",
+       "content": "體力與理智值已恢復。"
+     },
+     {
+       "id": "railway_dungeon_3_formation_saved",
+       "content": "你的編隊已被保存。"
+     },
+     {
+       "id": "railway_dungeon_before_enter_past_node_battle",
+       "content": "重新挑戰一個已清除網站時，\n自該網站以來所取得的任何記錄\n將被完全重置。\n\n再次挑戰所選網站嗎？"
+     }
+   ]
+}

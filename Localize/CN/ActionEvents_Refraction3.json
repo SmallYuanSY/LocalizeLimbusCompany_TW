@@ -1,0 +1,89 @@
+{
+    "dataList": [
+      {
+        "id": 858501,
+        "name": "",
+        "subDesc": "",
+        "desc": "能感受到似乎想傳達什麼的強烈視線。",
+        "options": [
+          {
+            "message": "銳利的視線撕裂一切。",
+            "messageDesc": "",
+            "result": [
+              "那銳利的視線甚至能撕裂它自身。"
+            ]
+          },
+          {
+            "message": "銳利的視線貫穿一切。",
+            "messageDesc": "",
+            "result": [
+              "那銳利的視線甚至能貫穿它自身。"
+            ]
+          },
+          {
+            "message": "銳利的視線粉碎一切。",
+            "messageDesc": "",
+            "result": [
+              "那銳利的視線甚至能粉碎它自身。"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 858502,
+        "name": "",
+        "desc": "強烈的視線不知不覺間轉變成了別樣的凝視。",
+        "options": [
+          {
+            "message": "那凝視似乎燃盡一切。",
+            "messageDesc": "",
+            "result": [
+              ""
+            ]
+          },
+          {
+            "message": "那凝視似乎折磨一切。",
+            "messageDesc": "",
+            "result": [
+              ""
+            ]
+          },
+          {
+            "message": "那凝視似乎目見一切。",
+            "messageDesc": "",
+            "result": [
+              ""
+            ]
+          },
+          {
+            "message": "那凝視似乎吞噬一切。",
+            "messageDesc": "",
+            "result": [
+              ""
+            ]
+          },
+          {
+            "message": "那凝視似乎停滯一切。",
+            "messageDesc": "",
+            "result": [
+              ""
+            ]
+          },
+          {
+            "message": "那凝視似乎蔑視一切。",
+            "messageDesc": "",
+            "result": [
+              ""
+            ]
+          },
+          {
+            "message": "那凝視似乎嫉妒一切。",
+            "messageDesc": "",
+            "result": [
+              ""
+            ]
+          }
+        ]
+      }
+    ]
+ }

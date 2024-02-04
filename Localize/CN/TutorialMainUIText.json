@@ -2257,6 +2257,174 @@
      {
        "id": "tutorial_mainui_25_walpu2_07_desc_01",
        "content": "活動結束後，您可在駕駛座和放映室-[其他劇情]頁面重溫戰鬥或重覽劇情。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_title_01",
+       "content": "折射軌道 3號線"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_01_title_01",
+       "content": "入場方式"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_01_desc_01",
+       "content": "選擇已啟動的路線入場。進入折射軌道不消耗任何道具。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_02_title_01",
+       "content": "編隊"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_02_desc_01",
+       "content": "入場時，您可以選擇所擁有的人格與E.G.O來組成隊伍。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_03_title_01",
+       "content": "3號線的站台"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_03_desc_01",
+       "content": "折射軌道3號線由13個站點組成，其中10個站點會進行戰鬥。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_03_desc_02",
+       "content": "在不進行戰鬥的第4站、第8站、第12站中，可進行人格的恢復、復活、以及編隊替換。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_04_desc_01",
+       "content": "選擇網站入場。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_04_desc_02",
+       "content": "通關某網站時，可透過失物認領處獲得的報酬會顯示在下方。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_05_title_01",
+       "content": "編隊"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_05_desc_01",
+       "content": "戰鬥最多可編入6人。但是，6人以下的人格入場時，即使回合數增漲，行動槽數量也不會增加。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_06_title_01",
+       "content": "戰鬥"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_06_desc_01",
+       "content": "所有戰鬥都將以友方技能直接與敵人技能對應的集中戰鬥的方式進行。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_07_title_01",
+       "content": "圖鑑"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_07_desc_01",
+       "content": "透過主線章節迷宮的戰鬥，獲得的異想體觀察階段，將會反映在異想體圖鑑中並可以從中進行確認。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_07_desc_02",
+       "content": "但是，根據觀察階段的傷害強化效果不會被適用。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_07_desc_03",
+       "content": "折射軌道3號線中，即使在戰鬥中選擇放棄，戰鬥中更新的圖鑑內容也會原封不動地被保存下來。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_08_desc_01",
+       "content": "戰鬥後剩餘的罪惡碎片可在下一站中使用。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_08_desc_02",
+       "content": "通關某站點的總回合數，以及從初始站累計的回合數將顯示於站點上方。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_08_desc_03",
+       "content": "編隊的人格、體力、理智值、死亡狀態將顯示於此。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_09_desc_01",
+       "content": "在戰鬥失敗後，您可以選擇回到進入該網站之前的狀態，也可以選擇使用您存活的其他人格繼續戰鬥。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_09_desc_02",
+       "content": "如果您選擇繼續，敵人目前的生命值將被保留。其剩餘生命值將以百分比形式顯示在網站上方。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_10_desc_01",
+       "content": "若點擊重置按鈕，您將回到進入該網站前的狀態。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_11_title_01",
+       "content": "記錄更新"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_11_desc_01",
+       "content": "在探索期間，您可以選擇從先前已通過的網站重新開始戰鬥。若您選擇這樣做，則您在該網站重新開始戰鬥時，罪人的狀態和罪孽碎片持有量將恢復到 您首次進入該網站時的狀態，並且在該網站之後您通過的所有網站的完成進度都將被重設。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_12_title_01",
+       "content": "休息站"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_12_desc_01",
+       "content": "當到達休息站點第4站、第8站、第12站時，全體友方的體力將恢復，並復活所有死亡的人格。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_12_desc_02",
+       "content": "理智高於0的人格將保留其理智，而理智低於0的人格的理智將被恢復至0。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_12_desc_03",
+       "content": "您也可在休息站點更改您的參戰隊伍構成。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_13_desc_01",
+       "content": "進入終點站後將無法回到先前的站點，請慎重選擇。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_13_desc_02",
+       "content": "通關終點站是折射軌道3號線的最終目標。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_14_title_01",
+       "content": "橫幅取得條件"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_14_desc_01",
+       "content": "可以確認折射軌道3號線橫幅的取得條件。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_14_desc_02",
+       "content": "取得條件越苛刻，獲得的橫幅越豪華。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_14_desc_03",
+       "content": "獲得橫幅時，最佳記錄的累積回合數將顯示在橫幅上。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_15_title_01",
+       "content": "失物招領"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_15_desc_01",
+       "content": "在活動期間第一次通關某個網站時，其獎勵將會發放至失物認領處。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_15_desc_02",
+       "content": "第一次透過失物認領處領取獎勵時，需要使用特定數量的腦啡肽模組。而之後再領取獎勵將不再需要消耗腦啡肽模組。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_16_title_01",
+       "content": "累計記錄"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_16_desc_01",
+       "content": "通關最後關卡後，折射軌道的遊玩記錄將被保存，記錄的最大保存數為20。"
+     },
+     {
+       "id": "tutorial_mainui_railway3_page_16_desc_02",
+       "content": "超過20筆記錄的情況下，累積回合數最多的記錄將會被刪除。"
      }
   ]
 }
