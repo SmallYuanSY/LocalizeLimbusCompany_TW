@@ -859,6 +859,22 @@
     {
       "id": "introduce_sentence_108",
       "content": "正如{0}所寫。"
+    },
+    {
+      "id": "introduce_word_109",
+      "content": "鯨"
+    },
+    {
+      "id": "introduce_sentence_109",
+      "content": "全部都是{0}的錯！"
+    },
+    {
+      "id": "introduce_word_110",
+      "content": "石頭"
+    },
+    {
+      "id": "introduce_sentence_110",
+      "content": "來，祈禱吧！祈禱這些{0}能命中你！"
     }
   ]
 }

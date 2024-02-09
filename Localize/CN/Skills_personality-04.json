@@ -398,7 +398,7 @@
                   "desc": "消耗1發彈藥 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 對目標施加的震顫 與破裂 的強度和層數翻倍"
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣對目標施加的震顫 與破裂 的強度和層數翻倍"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對目標施加1層震顫 "
@@ -438,7 +438,7 @@
                   "desc": "消耗1發彈藥 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 對目標施加的震顫 與破裂 的強度和層數翻倍"
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣對目標施加的震顫 與破裂 的強度和層數翻倍"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度並對目標施加2層震顫 "

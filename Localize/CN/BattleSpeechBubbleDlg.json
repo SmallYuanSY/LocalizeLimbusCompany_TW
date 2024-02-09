@@ -1,0 +1,14 @@
+{
+  "dataList": [
+    {
+      "id": "battle_speechbubble_cromer_1",
+      "desc": "特殊對話＿克羅默",
+      "dlg": "啊啊……難道……你是……\n我的辛克萊……？！"
+    },
+    {
+      "id": "battle_speechbubble_10808_1",
+      "desc": "特殊對話_裴廓德號 船長 以實瑪利",
+      "dlg": "“都是我的錯”嗎……不對，\n都是我的功勞。"
+    }
+  ]
+}

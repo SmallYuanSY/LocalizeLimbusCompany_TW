@@ -34,6 +34,16 @@
       "id": "battle_erosion_20304_1",
       "desc": "E.G.O侵蝕",
       "dlg": "嘔嘔……吃，吃完再走……"
+    },
+    {
+      "id": "battle_awaken_20305_1",
+      "desc": "E.G.O覺醒",
+      "dlg": ""
+    },
+    {
+      "id": "battle_erosion_20305_1",
+      "desc": "E.G.O侵蝕",
+      "dlg": ""
     }
   ]
 }

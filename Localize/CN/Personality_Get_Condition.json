@@ -570,7 +570,7 @@
     },
     {
       "id": "10307_getCondition_normal",
-      "content": "拿腦葉公司E.G.O::提燈 唐吉訶德"
+      "content": "取得腦葉公司E.G.O::提燈 唐吉訶德"
     },
     {
       "id": "10307_getCondition_gacksung",
@@ -591,6 +591,14 @@
     {
       "id": "10108_getCondition_gacksung",
       "content": "Dieci協會 南部4科 李箱 3階段同步完成"
+    },
+    {
+      "id": "10808_getCondition_normal",
+      "content": "取得裴廓德號 船長 以實瑪利"
+    },
+    {
+      "id": "10808_getCondition_gacksung",
+      "content": "裴廓德號 船長 以實瑪利 3階段同步完成"
     }
   ]
 }
