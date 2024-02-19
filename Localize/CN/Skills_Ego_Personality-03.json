@@ -5,29 +5,62 @@
       "levelList": [
         {
           "level": 1,
-          "name": "",
-          "abName": "",
+          "name": "祈願石",
+          "abName": "繞佛塔",
           "desc": "",
           "coinlist": [
-            {}
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
+                }
+              ]
+            }
           ]
         },
         {
           "level": 3,
-          "name": "",
-          "abName": "",
+          "name": "祈願石",
+          "abName": "繞佛塔",
           "desc": "",
           "coinlist": [
-            {}
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痺 "
+                }
+              ]
+            }
           ]
         },
         {
           "level": 4,
-          "name": "",
-          "abName": "",
+          "name": "祈願石",
+          "abName": "繞佛塔",
           "desc": "",
           "coinlist": [
-            {}
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痺 "
+                }
+              ]
+            }
           ]
         }
       ]
@@ -37,29 +70,74 @@
       "levelList": [
         {
           "level": 1,
-          "name": "",
-          "abName": "",
-          "desc": "",
+          "name": "祈願石",
+          "abName": "繞佛塔",
+          "desc": "[CantIdentify]\n隨機指定目標\n",
           "coinlist": [
-            {}
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少2層"
+                }
+              ]
+            }
           ]
         },
         {
           "level": 3,
-          "name": "",
-          "abName": "",
-          "desc": "",
+          "name": "祈願石",
+          "abName": "繞佛塔",
+          "desc": "[CantIdentify]\n隨機指定目標\n",
           "coinlist": [
-            {}
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加6級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少2層"
+                }
+              ]
+            }
           ]
         },
         {
           "level": 4,
-          "name": "",
-          "abName": "",
-          "desc": "",
+          "name": "祈願石",
+          "abName": "繞佛塔",
+          "desc": "[CantIdentify]\n隨機指定目標\n",
           "coinlist": [
-            {}
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加8級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少2層"
+                }
+              ]
+            }
           ]
         }
       ]

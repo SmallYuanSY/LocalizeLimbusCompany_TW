@@ -63,7 +63,7 @@
     {
       "id": 1011,
       "panicName": "失控",
-      "lowMoraleDescription": "回合開始時，獲得2層<sprite name=\"Enhancement\"><color=#e30000><u><link=\"Enhancement\">強壯</color></link></u> 並施加3層<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">強壯</color></link></u>束縛 ",
+      "lowMoraleDescription": "回合開始時，獲得2層<sprite name=\"Enhancement\"><color=#e30000><u><link=\"Enhancement\">強壯</color></link></u> 並施加3層<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u> ",
       "panicDescription": "回合開始時：陷入混亂"
     },
     {

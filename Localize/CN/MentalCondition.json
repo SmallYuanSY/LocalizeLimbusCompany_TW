@@ -7,13 +7,13 @@
     },
     {
       "id": "OnKillEnemyAsLevelRatioMultiply",
-      "add": "若友方單位擊殺的敵方單位等級高於自身等級，則增加{0}",
-      "min": "若擊敗友方單位的敵方單位等級低於自身，則增加{0}"
+      "add": "擊殺敵方單位時，若擊殺的敵方單位等級高於自身，則增加{0}",
+      "min": "擊殺敵方單位時，若擊殺的敵方單位等級高於自身，則減少{0}"
     },
     {
       "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
       "add": "若友方單位擊殺的敵方單位等級高於自身等級，則增加{0}",
-      "min": "若擊敗友方單位的敵方單位等級低於自身，則增加{0}"
+      "min": "若友方單位擊殺的敵方單位等級高於自身等級，則減少{0}"
     },
     {
       "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
@@ -43,7 +43,7 @@
     {
       "id": "OnKillEnemyByOtherAllyExceptSupportiveAction",
       "add": "若友方單位擊殺的敵方單位等級高於自身等級，則增加{0}",
-      "min": "若友方單位擊殺的敵方單位等級高於自身等級，則減少{0}。獲得援護攻擊效果的友方單位及殺敵方單位時將不會減少。"
+      "min": "若友方單位擊殺的敵方單位等級高於自身等級，則減少{0}。獲得援護攻擊效果的友方單位擊殺敵方單位時將不會減少。"
     }
   ]
 }

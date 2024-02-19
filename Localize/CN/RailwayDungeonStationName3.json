@@ -5,7 +5,7 @@
        "nameList": [
          {
            "id": "0",
-           "content": "3號線 進入前面"
+           "content": "3號線 車站"
          },
          {
            "id": "1",
@@ -44,13 +44,13 @@
          },
          {
            "id": "8",
-           "content": "第4站 - 定時",
+           "content": "第8站 - 定時",
            "shortName": "第8站"
          },
          {
            "id": "9",
-           "content": "第7站 - 白化",
-           "shortName": "第8站"
+           "content": "第9站 - 白化",
+           "shortName": "第9站"
          },
          {
            "id": "10",
