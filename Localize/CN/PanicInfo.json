@@ -95,6 +95,12 @@
       "panicName": "蒼白恐慌",
       "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] +2",
       "panicDescription": "回合結束時，對自身施加2層<sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">束縛</color></link ></u>。\n自身所有硬幣的朝向都必定是反面。"
+    },
+    {
+      "id": 1016,
+      "panicName": "怨恨",
+      "lowMoraleDescription": "回合開始時使自身獲得2層[AttackDmgUp]，並對自身施加3層[DefenseDown]",
+      "panicDescription": "回合開始時使自身獲得1層[Enhancement]，並對自身施加5層[DefenseDown]"
     }
   ]
 }

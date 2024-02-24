@@ -1,0 +1,556 @@
+{
+  "dataList": [
+    {
+      "id": 9011001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "一刀兩斷",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斂在鞘鞘",
+          "desc": "若目標的流血 強度不低於7級，則使本技能的硬幣威力+1\n[WinDuel] 下回合使自身獲得1層斬擊傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標帶有流血 ，則使本硬幣造成的傷害+50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "黑雲散亂",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WinDuel] 下回合使自身獲得1層斬擊強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標帶有流血 ，則使本硬幣造成的傷害+20%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標帶有流血 ，則使本硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標帶有流血 ，則使本硬幣造成的傷害+40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避",
+          "desc": "[OnSucceedEvade] 下回合使自身獲得1層斬擊傷害強化 （每回合最多1層）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "揮砍",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "割裂",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標帶有流血，則使本硬幣造成的傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "銳利之舞",
+          "desc": "[WinDuel] 下回合使自身獲得1層斬擊傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標帶有流血 ，則使本硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標帶有流血 ，則使本硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標帶有流血 ，則使本硬幣造成的傷害+20%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避",
+          "desc": "[OnSucceedEvade] 下回合使自身獲得1層斬擊傷害強化 （每回合最多1層）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "縱斬",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "回斬",
+          "desc": "[WinDuel] 下回合對目標施加1層麻痺 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斂芒在鞘",
+          "desc": "[WinDuel] 下回合使自身獲得1層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "[StartBattle] 使自己獲得1層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "透斬",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "銳利一擊",
+          "desc": "若目標的流血 強度不低於7級，則使本技能的硬幣威力+1\n[WinDuel] 下回合使自身獲得1層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斂在鞘鞘",
+          "desc": "若目標的流血強度不低於5級，則使本技能的硬幣威力+1\n[StartBattle] 使自身獲得1層守護\n[WinDuel]下回合使自身獲得1層守護" ,
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "[StartBattle] 使自己獲得2層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "墨雲",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能造成的傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加1層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血中振納刀",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層斬擊易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層斬擊易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "雲斬",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "鋒芒畢現",
+          "desc": "[StartBattle] 使包括自身在內的全體友方單位獲得2層斬擊傷害強化 \n[StartBattle] 使自身獲得2層斬擊強壯 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斬破長空",
+          "desc": "[StartBattle] 若目標的流血強度不低於10級，則使本技能的攻擊容量+1\n[StartBattle]若本回合自身使用的攻擊技能不低於5個，則使本 技能的最終威力+5\n[WinDuel]使全體友方單位恢復10點理智值\n若目標的流血強度不低於7級，則使本技能造成的傷害+30%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標的流血 強度不低於7級，則使本硬幣造成的傷害+50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加10層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "後巷規矩",
+          "desc": "[WhenUse] 除自身以外每有1名友方單位存活，使本技能額外增加1枚硬幣（最多3次）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[EnemyKill] 使全體友方單位恢復20點理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

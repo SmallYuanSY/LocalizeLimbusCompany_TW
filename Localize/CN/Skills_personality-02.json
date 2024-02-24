@@ -417,6 +417,225 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1020801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "月下舞劍",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層紅梅 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "月下舞劍",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層紅梅 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "月下舞劍",
+          "desc": "若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層紅梅 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "穿刺劍法",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加2層紅梅 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "穿刺劍法",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                },
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加2層紅梅 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "穿刺劍法",
+          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                },
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加2層紅梅 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "紅梅散華",
+          "desc": "目標每帶有1層紅梅 ，使本技能造成的傷害+3%\n[WinDuel] 消耗自身一半的呼吸法 層數並使自身增加相應的呼吸法 強度（最多10級） ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加5層紅梅 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加5層紅梅 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "紅梅散華",
+          "desc": "目標每帶有1層紅梅 ，使本技能造成的傷害+3%\n自身每帶有7級呼吸法 強度，使本技能的硬幣威力+1（最多+3）\n [WinDuel] 消耗自身一半的呼吸法 層數並使自身增加相應的呼吸法強度 （最多10級）\n本技能暴擊時不消耗目標的紅梅 層數",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加5層紅梅 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 若目標帶有10層紅梅 ，則對其施加1層斬擊易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加5層紅梅 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 若目標帶有10層紅梅 ，則對其施加1層斬擊易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "以柔克剛",
+          "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1（最多+3）",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "以柔克剛",
+          "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1（最多+5）",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1623,6 +1623,66 @@
     {
       "id": "mainui_battleresult_ordeal_defeat",
       "content": "鎮壓失敗"
+    },
+    {
+      "id": "remain_exchange_count",
+      "content": "剩餘兌換次數"
+    },
+    {
+      "id": "remains",
+      "content": "剩餘"
+    },
+    {
+      "id": "everyday",
+      "content": "每日"
+    },
+    {
+      "id": "for_n_days",
+      "content": "第{0}日"
+    },
+    {
+      "id": "all_personalities",
+      "content": "全人格"
+    },
+    {
+      "id": "leap_up_ticket_title",
+      "content": "請選擇要跳躍的人格"
+    },
+    {
+      "id": "leap_up_able_uptie_tier_and_level",
+      "content": "可提升同步階段，等級"
+    },
+    {
+      "id": "leap_up_able_uptie_tier",
+      "content": "可提升同步階段"
+    },
+    {
+      "id": "leap_up_able_level",
+      "content": "可提升等級"
+    },
+    {
+      "id": "leap_up_confim_title",
+      "content": "選擇人格"
+    },
+    {
+      "id": "leap_up_confim_main",
+      "content": "人格[{0}]的同步階段和等級將變更為如下所示。"
+    },
+    {
+      "id": "leap_up_confim_caution_uptie",
+      "content": "所選人格的同步階段無法繼續提升。"
+    },
+    {
+      "id": "leap_up_confim_caution_level",
+      "content": "所選人格的等級無法繼續提升。"
+    },
+    {
+      "id": "leap_up_confim_last_question",
+      "content": "要使用<color=#F8C200>{0}</color>嗎？"
+    },
+    {
+      "id": "expiration_date",
+      "content": "有效期限"
     }
   ]
 }

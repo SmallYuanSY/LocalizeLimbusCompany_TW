@@ -199,6 +199,10 @@
     {
       "id": "battle_pass_package_purchase_popup_desc_in_box",
       "content": "- 邊獄巴士禮包 特殊裝飾橫幅\n- 人格等級直升券IV"
+    },
+    {
+      "id": "until_season_4_finished",
+      "content": "~ 直到第四賽季更新前"
     }
   ]
 }

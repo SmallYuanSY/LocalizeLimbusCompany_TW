@@ -239,6 +239,287 @@
            ]
          }
        ]
+     },
+     {
+       "id": 1050801,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "寒芒出鞘",
+           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "寒芒出鞘",
+           "desc": "[StartBattle] 按速度值由低到高使除自身以外隸屬於劍契組的（最大完全共鳴數）名友方單位獲得1層[BladeResultUpTier1]（最多2次）\n[WhenUse ] 使自身獲得2層呼吸法",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "寒芒出鞘",
+           "desc": "[StartBattle_Force] 按速度值由低到高使除自身以外隸屬於劍契組的（最大完全共鳴數）名友方單位獲得1層[BladeResultUpTier1]（最多2次）\n[WhenUse] 使自身獲得2層呼吸法",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "寒芒出鞘",
+           "desc": "若自身的呼吸法強度不低於5級，則使本技能的硬幣威力+1\n[StartBattle] 按速度值由低到高使除自身以外隸屬於劍契組的（最大 完全共鳴數）名友方單位獲得1層[BladeResultUpTier1]（最多2次）\n- 若參戰的隸屬於劍契組的友方單位不低於6名，則改為獲得2層\n[WhenUse] 使自身獲得2層呼吸法",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050802,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "穿刺劍法",
+           "desc": "[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身增加3級呼吸法 強度"
+                 }
+               ]
+             },
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "使本硬幣暴擊時造成的傷害+30%"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "穿刺劍法",
+           "desc": "[StartBattle] 按速度值由低到高使除自身以外隸屬於劍契組的（最大完全共鳴數）名友方單位獲得1層[BladeResultUpTier2]（最多2次）\n[WhenUse] 使自身獲得2層呼吸法\n[WinDuel] 下回合使自身獲得1層斬擊強壯",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                 }
+               ]
+             },
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "使本硬幣暴擊時造成的傷害+40%"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "穿刺劍法",
+           "desc": "[StartBattle_Force] 按速度值由低到高使除自身以外隸屬於劍契組的（最大完全共鳴數）名友方單位獲得1層[BladeResultUpTier2]（最多2次）\n[WhenUse] 使自身獲得2層呼吸法\n[WinDuel] 下回合使自身獲得1層斬擊強壯",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                 }
+               ]
+             },
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "使本硬幣暴擊時造成的傷害+40%"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "穿刺劍法",
+           "desc": "若自身的呼吸法強度不低於7級，則使本技能的硬幣威力+1\n[StartBattle] 按速度值由低到高使除自身以外隸屬於劍契組的（最大 完全共鳴數）名友方單位獲得1層[BladeResultUpTier2]（最多2次）\n- 若參戰的隸屬於劍契組的友方單位不低於6名，則改為獲得2層\n[WhenUse] 使自身獲得3層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊強壯",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                 }
+               ]
+             },
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "使本硬幣暴擊時造成的傷害+60%"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050803,
+       "levelList": [
+         {
+           "level": 3,
+           "name": "舍吾皮肉",
+           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 直到本技能結束，自身不會因為受到傷害而陷入混亂\n[WinDuel] 使自身增加5級 呼吸法 強度\n[DefeatDuel] 受到攻擊後，使用技能「斷汝筋骨」 \n[CriticalActivated] 自身每帶有1級呼吸法 強度，使本技能暴擊時造成的傷害+2%（最多+50%）\n使本技能暴擊 時造成的傷害+15%\n自身每失去1%的體力，使本技能造成的傷害+0.5%（最多+25%）",
+           "coinlist": [
+             {}
+           ]
+         },
+         {
+           "level": 4,
+           "name": "舍吾皮肉",
+           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 直到本技能結束，自身不會因為受到傷害而陷入混亂\n[WinDuel] 使自身增加5級 呼吸法 強度\n[DefeatDuel] 受到攻擊後，使用技能「斷汝筋骨」 \n[CriticalActivated] 自身每帶有1級呼吸法 強度，使本技能暴擊時造成的傷害+3%（最多+75 %）\n使本技能暴擊時造成的傷害+30%\n自身每失去1%的體力，使本技能造成的傷害+0.5%（最多+25%）",
+           "coinlist": [
+             {}
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050804,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "弒主妖劍",
+           "desc": "[WhenUse] 下回合使自身獲得1層斬擊強壯 （最多1層）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "弒主妖劍",
+           "desc": "[WhenUse] 下回合使自身獲得1層斬擊強壯 （最多1層）\n自身每失去1%體力，造成的傷害+0.5%（最多25%）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050805,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "斷汝筋骨",
+           "desc": "[BeforeAttack] 若自身的呼吸法 強度不低於10級，則使本技能的攻擊容量+1\n[WhenUse] 直到本技能結束，自身不會因為受到傷害而陷入混亂\n [WhenUse] 自身每帶有1級呼吸法 強度，使本技能暴擊時造成的傷害+2%（最多+50%）\n使本技能暴擊時造成的傷害+20%\n自身每失去 1%的體力，使本技能造成的傷害+0.5%（最多+25%）",
+           "coinlist": [
+             {},
+             {},
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痺 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "斷汝筋骨",
+           "desc": "[BeforeAttack] 自身每帶有7級呼吸法 強度，使本技能的攻擊容量+1（最多+2）\n[WhenUse] 直到本技能結束，自身不會因為受到傷害而陷入混亂 \n[WhenUse] 自身每帶有1級呼吸法 強度，使本技能暴擊時造成的傷害+2%（最多+50%）\n使本技能暴擊時造成的傷害+30%\n自身 每失去1%的體力，使本技能造成的傷害+0.5%（最多+25%）\n若本技能僅指定1個單位，則使本技能造成的傷害+100%（若是集中遭遇戰，則 改為1個部位）",
+           "coinlist": [
+             {},
+             {},
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痺 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
      }
    ]
 }

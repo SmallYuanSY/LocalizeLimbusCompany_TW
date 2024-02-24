@@ -2425,6 +2425,82 @@
      {
        "id": "tutorial_mainui_railway3_page_16_desc_02",
        "content": "超過20筆記錄的情況下，累積回合數最多的記錄將會被刪除。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_01_title",
+       "content": "肉斬骨斷"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_01_title_01",
+       "content": "肉斬骨斷 開放"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_01_desc_01",
+       "content": "[肉斬骨斷活動頁面]在通過主線故事5.5-12後開放。\n\n您可以透過車窗或駕駛席上的活動橫幅進入。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_02_title_01",
+       "content": "活動期間"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_02_desc_01",
+       "content": "此處展示了肉斬骨斷活動的持續時間。\n\n通關活動關卡、迷宮可獲取[染血劍鞘]。除此之外，首次通關主線關卡、迷宮，通關鏡像 迷宮也可取得[染血劍鞘]。\n\n※ 採掘關卡與折射軌道中無法取得[染血劍鞘]。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_03_title_01",
+       "content": "活動遭遇戰"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_03_desc_01",
+       "content": "肉斬骨斷的戰鬥，包括劇情關卡在內共有12關。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_03_desc_02",
+       "content": "從肉斬骨斷活動關卡中獲得的[染血劍鞘]將遠多於主線劇情關卡。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_04_title_01",
+       "content": "活動獎勵人格"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_04_desc_01",
+       "content": "肉斬骨斷活動期間，在隊伍中編入活動加成人格後通關活動關卡及迷宮，[染血劍鞘]的獲取量將提升。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_05_title_01",
+       "content": "獎勵兌換"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_05_desc_01",
+       "content": "在[獎勵兌換]窗口中花費[染血劍鞘]可獲得各種獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_06_desc_01",
+       "content": "此處展示了領取獎勵的期限。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_06_desc_02",
+       "content": "可從這裡獲得各種道具及活動限定人格。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_07_title_01",
+       "content": "活動關卡"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_07_desc_01",
+       "content": "肉斬骨斷最後的戰鬥，將以鏡像迷宮的形式進行。\n\n入場時，將消耗腦啡肽模組。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_08_title_01",
+       "content": "怨恨劍鞘"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_08_desc_01",
+       "content": "戰鬥勝利後，有低機率獲得[怨恨劍鞘]。\n\n[怨恨劍鞘]將會自動轉換為20個染血劍鞘。"
+     },
+     {
+       "id": "tutorial_mainui_26_ycgd_09_desc_01",
+       "content": "活動結束後，可在駕駛席 - [外傳故事]及放映室 - [其他故事]中，重溫肉斬骨斷的戰鬥和劇情。"
      }
   ]
 }

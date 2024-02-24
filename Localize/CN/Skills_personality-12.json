@@ -437,6 +437,241 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1120801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "雲渦撕裂",
+          "desc": "[WinDuel] 使目標增加1級流血 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "雲渦撕裂",
+          "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1\n[WinDuel] 使目標增加1級流血 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "雲渦撕裂",
+          "desc": "[WhenUse_Force] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1\n[WinDuel] 使目標增加1級流血 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "雲渦撕裂",
+          "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+2\n[WinDuel] 使目標增加1級流血 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "墨雲",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則下回合對其施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "墨雲",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則下回合對其施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "墨雲",
+          "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於7級，則下回合對其施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "墨雲崩裂",
+          "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於7級，則下回合對其施加1層攻擊等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於7級，則下回合對其施加1層攻擊等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則下回合對其施加1層加算硬幣弱化 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "墨雲崩裂",
+          "desc": "[WhenUse] 若目標的流血強度不低於7級，則使本技能的拼點威力+1\n[WhenUse] 若目標的流血強度不低於10級，則使本技能的 硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於7級，則下回合對其施加1層攻擊等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於7級，則下回合對其施加1層攻擊等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於7級，則下回合對其施加1層加算硬幣弱化 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "防禦",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

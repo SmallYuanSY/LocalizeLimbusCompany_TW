@@ -2136,6 +2136,98 @@
       "bottomYPos": 10,
       "portraitSpritePath": "StoryLog_Heathcliff",
       "nameTagColor": "#4e3076"
+    },
+    {
+      "name": "흑운회조직원1",
+      "krname": "黑雲會組員1",
+      "fileName": "Kuro_A",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Kuro_A"
+    },
+    {
+      "name": "흑운회조직원2",
+      "krname": "黑雲會組員2",
+      "fileName": "Kuro_B",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Kuro_B"
+    },
+    {
+      "name": "검계조직원1",
+      "krname": "劍契組員1",
+      "fileName": "Blade_A",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Blade_A"
+    },
+    {
+      "name": "앵두",
+      "krname": "櫻桃",
+      "fileName": "Blade_Cherry",
+      "nameTagColor": "#202B4D",
+      "nameFontColor": "F8FCFF",
+      "scale": 1,
+      "bottomYPos": -20,
+      "portraitSpritePath": "StoryLog_Blade_Cherry"
+    },
+    {
+      "name": "김삿갓",
+      "krname": "金笠",
+      "fileName": "normal_KSG",
+      "nameTagColor": "#202B4D",
+      "nameFontColor": "F8FCFF",
+      "scale": 0.8,
+      "bottomYPos": 200,
+      "portraitSpritePath": "StoryLog_normal_KSG"
+    },
+    {
+      "name": "최종김삿갓",
+      "krname": "最終金笠",
+      "fileName": "Angry_KSG",
+      "nameTagColor": "#202B4D",
+      "nameFontColor": "F8FCFF",
+      "scale": 0.8,
+      "bottomYPos": 70,
+      "portraitSpritePath": "StoryLog_Angry_KSG"
+    },
+    {
+      "name": "쥰",
+      "krname": "俊",
+      "fileName": "Kuro_Jyun",
+      "nameTagColor": "#DEDEDE",
+      "nameFontColor": "#161616",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Kuro_Jyun"
+    },
+    {
+      "name": "시계쥰",
+      "krname": "時鐘俊",
+      "fileName": "Kuro_Jyun_Clock",
+      "nameTagColor": "#DEDEDE",
+      "nameFontColor": "#161616",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Kuro_Jyun_Clock"
+    },
+    {
+      "name": "LCA특작팀",
+      "krname": "LCA特別行動小組",
+      "fileName": "LCA_SOT",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_LCA_SOT"
+    },
+    {
+      "name": "카이만",
+      "krname": "凱爾曼",
+      "fileName": "LCCA_Caiman",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_LCCA_Caiman"
     }
   ]
 }

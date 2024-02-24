@@ -90,7 +90,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P11102",
-      "content": "劍契組 封口人：奧提斯的故事"
+      "content": "劍契組 殺手：奧提斯的故事"
     },
     {
       "id": "MirrorWorld_Story_Title_P11103",
@@ -295,6 +295,22 @@
      {
        "id": "MirrorWorld_Story_Title_P10108",
        "content": "Dieci協會 南部4科：李箱的故事"
+     },
+     {
+       "id": "MirrorWorld_Story_Title_P10508",
+       "content": "劍契組 頭領：默爾索的故事"
+     },
+     {
+       "id": "MirrorWorld_Story_Title_P10208",
+       "content": "劍契組 殺手：浮士德的故事"
+     },
+     {
+       "id": "MirrorWorld_Story_Title_P11208",
+       "content": "黑雲會 副會長"
+     },
+     {
+       "id": "MirrorWorld_Story_Title_P10308",
+       "content": "劍契組 殺手：唐吉訶德的故事"
      }
   ]
 }

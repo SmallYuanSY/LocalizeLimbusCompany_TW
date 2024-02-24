@@ -227,6 +227,14 @@
     {
       "id": "enkephalin_module_count_max_desc",
       "content": "無法製作模塊；您的庫存已滿。"
+    },
+    {
+      "id": "mainui_shop_lunacy_package_tab",
+      "content": "組合禮包商店2"
+    },
+    {
+      "id": "mainui_shop_until_season_finished",
+      "content": "至第4賽季更新前"
     }
   ]
 }

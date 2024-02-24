@@ -571,6 +571,245 @@
            ]
          }
        ]
+     },
+     {
+       "id": 1030801,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "寒芒出鞘",
+           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "寒芒出鞘",
+           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "寒芒出鞘",
+           "desc": "若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1030802,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "劍跡",
+           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使自身增加2級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 強度最低的1名友方單位增加2級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "劍跡",
+           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 強度最低的1名友方單位增加2級呼吸法 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "劍跡",
+           "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法或呼吸法強度最低的1名友方單位增加2級呼吸法強度\n若該友方單位隸屬於劍契組，則使其額外增加2 級呼吸法強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1030803,
+       "levelList": [
+         {
+           "level": 3,
+           "name": "永別了！",
+           "desc": "[WhenUse] 使自身增加5級呼吸法 強度",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 層數最低的2名友方單位獲得2層呼吸法 "
+                 },
+                 {
+                   "desc": "[EndSkill] 若擊殺目標，則下回合使自身獲得1層斬擊傷害強化 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "永別了！",
+           "desc": "若自身的呼吸法 強度不低於10級，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加5級呼吸法 強度",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "使本硬幣暴擊時造成的傷害+30%"
+                 },
+                 {
+                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法或呼吸法層數最低的2名友方單位獲得2層呼吸法\n若該友方單位隸屬於劍契組，則使其額外獲得2 層呼吸法 "
+                 },
+                 {
+                   "desc": "[EndSkill] 若擊殺目標，則下回合隨機使除自身以外的1名友方單位與自身獲得1層斬擊傷害強化 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1030804,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "閃避",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "閃避",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
      }
    ]
 }

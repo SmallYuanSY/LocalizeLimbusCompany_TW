@@ -291,6 +291,10 @@
     {
       "id": "side_content_already_owned_tier_ego_gift",
       "content": "現在在休息點不能再合成該等級的E.G.O飾品了。"
+    },
+    {
+      "id": "side_content_ego_gift_is_unable_combine",
+      "content": "該E.G.O飾品無法合成。"
     }
   ]
 }

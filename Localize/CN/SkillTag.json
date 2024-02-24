@@ -122,7 +122,7 @@
     },
     {
       "id": "CriticalOnSucceedAttack",
-      "name": "[暴擊時]"
+      "name": "[暴擊命中時]"
     },
     {
       "id": "StartDuel",
@@ -153,6 +153,10 @@
       "name": "[拼點勝利後命中]"
     },
     {
+      "id": "CriticalActivated",
+      "name": "[爆擊發動時]"
+    },
+    {
       "id": "CriticalEndSkill",
       "name": "[暴擊結束後]"
     },
@@ -167,6 +171,14 @@
     {
       "id": "EndSkillAll",
       "name": "[技能結束時]"
+    },
+    {
+      "id": "WhenUse_Force",
+      "name": "<color=#26cfff>[使用時]</color>"
+    },
+    {
+      "id": "StartBattle_Force",
+      "name": "<color=#93f13e>[戰鬥開始]</color>"
     }
   ]
 }

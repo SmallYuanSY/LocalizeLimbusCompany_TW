@@ -178,11 +178,11 @@
     },
     {
       "id": "11102_getCondition_normal",
-      "content": "獲得劍契組 封口人 奧提斯"
+      "content": "獲得劍契組 殺手 奧提斯"
     },
     {
       "id": "11102_getCondition_gacksung",
-      "content": "劍契組 封口人 奧提斯 3階段同步完成"
+      "content": "劍契組 殺手 奧提斯 3階段同步完成"
     },
     {
       "id": "11103_getCondition_normal",
@@ -599,6 +599,38 @@
     {
       "id": "10808_getCondition_gacksung",
       "content": "裴廓德號 船長 以實瑪利 3階段同步完成"
+    },
+    {
+      "id": "10508_getCondition_normal",
+      "content": "獲得劍契組 頭領 默爾索"
+    },
+    {
+      "id": "10508_getCondition_gacksung",
+      "content": "劍契組 頭領 默爾索 3階段同步完成"
+    },
+    {
+      "id": "10208_getCondition_normal",
+      "content": "獲得劍契組 殺手 浮士德"
+    },
+    {
+      "id": "10208_getCondition_gacksung",
+      "content": "劍契組 殺手 浮士德 3階段同步完成"
+    },
+    {
+      "id": "11208_getCondition_normal",
+      "content": "獲得黑雲會 副會長 格里高爾"
+    },
+    {
+      "id": "11208_getCondition_gacksung",
+      "content": "黑雲會 副會長 格里高爾 3階段同步完成"
+    },
+    {
+      "id": "10308_getCondition_normal",
+      "content": "拿劍契組 殺手 唐吉訶德"
+    },
+    {
+      "id": "10308_getCondition_gacksung",
+      "content": "劍契組 殺手 唐吉訶德 3階段同步完成"
     }
   ]
 }

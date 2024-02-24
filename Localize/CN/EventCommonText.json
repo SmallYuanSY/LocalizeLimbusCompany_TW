@@ -15,6 +15,10 @@
     {
       "id": "event_bonus_description_ego",
       "content": "將活動人格與E.G.O編入隊伍\n以提升[{0}]獲取量！"
+    },
+    {
+      "id": "event_bonus_preview_personality",
+      "content": "將活動人格編入隊伍\n以提升[{0}]獲取量！"
     }
   ]
 }
