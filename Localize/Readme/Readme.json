@@ -37,7 +37,17 @@
       "startDate": "2024-02-24T08:00:00.000Z",
       "endDate": "2025-06-30T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "Mod V0.6.25",
+      "title_KR": "Mod V0.6.27",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.27\\n- 漢化內容更新\\n  - 5.5章 肉斬骨斬 的內容更新\\n  - 3月04日 模組累積更新\\n 翻譯\\n  - 其他內容更新\"}]}"
+    },
+    {
+      "id": 3040,
+      "version": 0,
+      "type": 0,
+      "startDate": "2024-02-24T08:00:00.000Z",
+      "endDate": "2025-06-30T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Mod V0.6.26",
       "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.26\\n- 漢化內容更新\\n  - 5.5章 肉斬骨斬 的內容更新\\n  - 2月23日 模組累積更新\\n 翻譯\\n  - 其他內容更新\"}]}"
     },
     {
