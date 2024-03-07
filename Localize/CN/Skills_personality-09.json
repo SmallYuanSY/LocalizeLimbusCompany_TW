@@ -1,185 +1,456 @@
 {
-   "dataList": [
-     {
-       "id": 1090701,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "啟明無知",
-           "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的3%）點護盾",
-           "coinlist": [
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身的混亂閾值後移5"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "啟明無知",
-           "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的4%）點護盾\n[WhenUse] 若自身的所解真知層數不低於2層， 則使本技能的硬幣威力+（所解真知層數-1）",
-           "coinlist": [
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身的混亂閾值後移8"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "啟明無知",
-           "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的5%）點護盾\n[WhenUse] 若自身的所解真知層數不低於2層， 則使本技能的硬幣威力+（所解真知層數-1）",
-           "coinlist": [
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身的混亂閾值後移10"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1090702,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "知識的重量",
-           "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的5%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的1個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+2",
-           "coinlist": [
-             {},
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "知識的重量",
-           "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的8%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的1個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+3",
-           "coinlist": [
-             {},
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "知識的重量",
-           "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的10%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的1個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+5\n[WhenUse] 若目標的沉淪強度不低於5級，則使本技能的拼點威力+2",
-           "coinlist": [
-             {},
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1090703,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "苦痛的啟蒙",
-           "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的15%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的2個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+3",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加4層沉淪 "
-                 }
-               ]
-             },
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "苦痛的啟蒙",
-           "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的20%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的2個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+5\n[WhenUse] 若目標的沉淪強度不低於7級，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加4層沉淪 "
-                 }
-               ]
-             },
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1090704,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "求索",
-           "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
-           "coinlist": [
-             {}
-           ]
-         },
-         {
-           "level": 4,
-           "name": "求索",
-           "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     }
-   ]
+  "dataList": [
+    {
+      "id": 1090701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "啟明無知",
+          "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的3%）點護盾",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "啟明無知",
+          "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的4%）點護盾\n[WhenUse] 若自身的所解真知層數不低於2層， 則使本技能的硬幣威力+（所解真知層數-1）",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "啟明無知",
+          "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的5%）點護盾\n[WhenUse] 若自身的所解真知層數不低於2層， 則使本技能的硬幣威力+（所解真知層數-1）",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "知識的重量",
+          "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的5%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的1個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+2",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "知識的重量",
+          "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的8%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的1個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+3",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "知識的重量",
+          "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的10%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的1個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+5\n[WhenUse] 若目標的沉淪強度不低於5級，則使本技能的拼點威力+2",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "苦痛的啟蒙",
+          "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的15%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的2個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加4層沉淪 "
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "苦痛的啟蒙",
+          "desc": "若本技能被丟棄，則使自身獲得（所解真知 層數×體力上限的20%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最低的2個技能\n [WhenUse] 下回合使本技能對應行動槽的挑釁值+5\n[WhenUse] 若目標的沉淪強度不低於7級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加4層沉淪 "
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090704,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "求索",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "求索",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "熾焰拳擊",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "熾焰拳擊",
+          "desc": "若目標燒傷 強度不低於3級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "熾焰拳擊",
+          "desc": "目標每帶有3級燒傷 強度，使本技能的硬幣威力+1（最多+2）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "熾焰手刀-燃",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標的燒傷 層數不低於6層，則使未帶有燒傷 或燒傷 層數最低的2名敵方單位增加3級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "熾焰手刀-燃",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層燒傷 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 層數不低於6層，則使未帶有燒傷 或燒傷 層數最低的2名敵方單位增加3級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "熾焰手刀-燃",
+          "desc": "目標每帶有6級燒傷 強度，使本技能的硬幣威力+1（最多+2）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層燒傷 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 層數不低於6層，則使未帶有燒傷 或燒傷 層數最低的2名敵方單位增加3級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "一點突破",
+          "desc": "若目標的燒傷 強度與燒傷 層數均不低於6，則使本技能造成的傷害+30%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其燒傷 強度點暴怒傷害（最多20點），並使目標的燒傷 層數減少2層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "一點突破",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1\n若目標的燒傷 強度與燒傷 層數均不低於6，則使本技能造成的傷害+ 30%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其燒傷 強度點暴怒傷害（最多30點），並使目標的燒傷 層數減少2層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反擊",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "反擊",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -475,6 +475,253 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1040701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "全面戰爭",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "全面戰爭",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "全面戰爭",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1\n若目標的燒傷 強度不低於10級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "熾焰手刀",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則使本硬幣造成的傷害+20%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "熾焰手刀",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則使本硬幣造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "熾焰手刀",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1\n若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則使本硬幣造成的傷害+50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "炎絕",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於10級，則使本硬幣造成的傷害+20%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "炎絕",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1\n若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於10級，則使本硬幣造成的傷害+40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "防禦",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

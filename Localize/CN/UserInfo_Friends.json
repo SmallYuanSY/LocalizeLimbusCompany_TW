@@ -267,6 +267,14 @@
     {
       "id": "IntroduceSort_Acquisition",
       "content": "獲得順序"
+    },
+    {
+      "id": "SimilarBanner",
+      "content": "類似 橫幅"
+    },
+    {
+      "id": "SimilarTicket",
+      "content": "類似 券"
     }
   ]
 }
