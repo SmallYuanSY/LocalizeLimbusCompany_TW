@@ -1,1839 +1,1844 @@
 {
-  "dataList": [
-    {
-      "id": "tutorial_mainui_01_selection",
-      "content": "編隊"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_01_desc_01",
-      "content": "你可以用12名罪人的人格組建一個編隊。"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_02_title_01",
-      "content": "人格替換"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_02_desc_01",
-      "content": "點擊罪人時，能夠展示所選罪人的人格列表，並進行人格的替換。"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_03_title_01",
-      "content": "選擇播報員"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_03_desc_01",
-      "content": "選擇後能夠展示播報員一覽。"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_03_desc_02",
-      "content": "可以在此處更改戰鬥中使用的播報員。"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_04_title_01",
-      "content": "編隊列表"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_04_desc_01",
-      "content": "總計能夠組建20個編隊。"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_05_title_01",
-      "content": "E.G.O資源"
-    },
-    {
-      "id": "tutorial_mainui_01_selection_page_05_desc_01",
-      "content": "能夠確認該編隊在戰鬥中所能獲取的E.G.O資源的種類與數量。"
-    },
-    {
-      "id": "tutorial_mainui_02_identityandegolist",
-      "content": "人格及E.G.O列表"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist",
-      "content": "人格列表"
-    },
-    {
-      "id": "tutorial_mainui_02_egolist",
-      "content": "E.G.O列表"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_01_desc_01",
-      "content": "展示可以選入編隊的罪人的人格一覽。可以確認人格的同步階段，等級以及所屬罪人。"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_02_title_01",
-      "content": "編隊情況"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_02_desc_01",
-      "content": "能夠同時確認編隊中的人格以及E.G.O。於每個解析等級均可裝備一種E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_03_title_01",
-      "content": "編隊情況"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_03_desc_01",
-      "content": "點擊該列按鈕時，能夠切換到可選中的E.G.O列表。"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_04_desc_01",
-      "content": "能夠確認E.G.O的異想體解析等級，主要屬性以及名稱。"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_05_title_01",
-      "content": "助戰列表"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_05_title_02",
-      "content": "助戰按鈕"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_05_desc_01",
-      "content": "選擇後，將會顯示好友的助戰人格列表。"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_05_desc_02",
-      "content": "能夠展示好友選擇的助戰人格及E.G.O一覽。"
-    },
-    {
-      "id": "tutorial_mainui_02_identitylist_page_06_desc_01",
-      "content": "能夠借用好友的助戰人格及E.G.O。但同一編隊中僅能編入一名助戰人格。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo",
-      "content": "人格介紹"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_01_title_01",
-      "content": "能力值"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_01_desc_01",
-      "content": "顯示該人格的體力，速度數值範以及防禦等級。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_01_title_02",
-      "content": "物理抗性"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_01_desc_02",
-      "content": "顯示該人格對於斬擊，突刺，打擊的抗性數值。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_title_01",
-      "content": "人格故事"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_desc_01",
-      "content": "能夠閱讀該人格的故事。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_title_02",
-      "content": "更改插畫"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_desc_02",
-      "content": "能夠更改人格的插畫。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_title_03",
-      "content": "放大插畫"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_desc_03",
-      "content": "能夠將當前插畫全屏顯示。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_03_title_01",
-      "content": "同步階段"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_03_desc_01",
-      "content": "同步階段越高，就能夠獲得越強力的技能。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_03_title_02",
-      "content": "等級"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_03_desc_02",
-      "content": "等級越高，人格就越強。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_04_title_01",
-      "content": "技能"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_04_desc_01",
-      "content": "每個人格都擁有不同的技能。在此處可以確認技能的詳細信息。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_05_title_01",
-      "content": "攻擊類型"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_05_desc_01",
-      "content": "分為斬擊，突刺，打擊三類。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_05_title_02",
-      "content": "硬幣個數"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_05_desc_02",
-      "content": "顯示技能所持硬幣的個數。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_05_title_03",
-      "content": "數量"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_05_desc_03",
-      "content": "顯示該人格在其技能列表中擁有多少該技能。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_05_title_04",
-      "content": "罪孽屬性"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_05_desc_04",
-      "content": "分為暴怒、色欲、怠惰、暴食、憂鬱、傲慢、嫉妒，且通過各自的顏色加以區分。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_06_title_01",
-      "content": "攻擊等級"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_06_desc_01",
-      "content": "攻擊技能等級與被攻擊一方的防禦技能等級間的等級差距越大，傷害量的增減越為明顯。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_06_title_02",
-      "content": "技能威力"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_06_desc_02",
-      "content": "顯示技能的基本威力。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_06_title_03",
-      "content": "硬幣威力"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_06_desc_03",
-      "content": "顯示硬幣的數值及其生效時的演算方法，演算方法分為加算，減算，乘算。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_06_title_04",
-      "content": "攻擊容量"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_06_desc_04",
-      "content": "攻擊等級與人格等級成比例增長。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_07_title_01",
-      "content": "技能效果"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_07_desc_01",
-      "content": "滿足一定條件時將會發動的技能效果。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_07_title_02",
-      "content": "硬幣效果"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_07_desc_02",
-      "content": "滿足硬幣條件時將會發動的效果。拼點判定失敗的硬幣效果將無法發動。"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo",
-      "content": "E.G.O信息"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_01_title_01",
-      "content": "罪孽抗性"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_01_desc_01",
-      "content": "顯示E.G.O對於暴怒，色欲，怠惰，暴食，憂鬱，傲慢，嫉妒屬性的抗性數值。"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_01_title_02",
-      "content": "放大插畫"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_01_desc_02",
-      "content": "能夠將當前插畫全屏顯示。"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_02_title_01",
-      "content": "資源消耗"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_02_desc_01",
-      "content": "顯示使用E.G.O技能時需要消耗的理智值以及罪孽碎片的種類和數量。"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_03_title_01",
-      "content": "E.G.O異想解析階段"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_03_desc_01",
-      "content": "E.G.O異想解析階段越高，所獲得的技能越為強力。"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_03_title_02",
-      "content": "技能"
-    },
-    {
-      "id": "tutorial_mainui_04_egoinfo_page_03_desc_02",
-      "content": "每個E.G.O都擁有不同的技能。可以確認技能詳情。"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_04_title_01",
-      "content": "攻擊類型"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_04_desc_01",
-      "content": "分為斬擊，突刺，打擊三類。"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_04_title_02",
-      "content": "硬幣個數"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_04_desc_02",
-      "content": "顯示（技能所持）硬幣的個數。"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_04_title_03",
-      "content": "花費"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_04_desc_03",
-      "content": "顯示使用E.G.O技能時所需花費的資源。"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_04_title_04",
-      "content": "罪孽屬性"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_04_desc_04",
-      "content": "分為暴怒，色欲，怠惰，暴食，憂鬱，傲慢，嫉妒，且通過各自的顏色加以區分。"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_05_title_01",
-      "content": "攻擊等級"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_05_desc_01",
-      "content": "攻擊技能等級與被攻擊一方的防禦技能等級間的等級差距越大，傷害量的增減越為明顯。E.G.O的攻擊等級由人格等級決定。"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_05_title_02",
-      "content": "技能威力"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_05_desc_02",
-      "content": "顯示技能的基本威力。"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_05_title_03",
-      "content": "硬幣威力"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_05_desc_03",
-      "content": "顯示硬幣的數值及其生效時的計算方法，計算方法分為加算，減算，乘算。"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_06_title_01",
-      "content": "技能效果"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_06_desc_01",
-      "content": "滿足一定條件時將會發動的技能效果。"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_06_title_02",
-      "content": "硬幣效果"
-    },
-    {
-      "id": "tutorial_mainui_04_identityinfo_page_06_desc_02",
-      "content": "滿足硬幣條件時將會發動的效果。判定失敗的硬幣效果將無法發動。"
-    },
-    {
-      "id": "tutorial_mainui_05_storymain",
-      "content": "主線故事"
-    },
-    {
-      "id": "tutorial_mainui_05_storymain_page_01_title_01",
-      "content": "選擇章節"
-    },
-    {
-      "id": "tutorial_mainui_05_storymain_page_01_desc_01",
-      "content": "能夠在推進關卡的同時重複閱讀主線故事。可以選擇故事章節。"
-    },
-    {
-      "id": "tutorial_mainui_05_storymain_page_02_title_01",
-      "content": "主線故事列表"
-    },
-    {
-      "id": "tutorial_mainui_05_storymain_page_02_desc_01",
-      "content": "能夠選擇故事並進行觀看。"
-    },
-    {
-      "id": "tutorial_mainui_05_storymain_page_03_title_01",
-      "content": "故事位置"
-    },
-    {
-      "id": "tutorial_mainui_05_storymain_page_03_desc_01",
-      "content": "能夠確認所選故事出現的關卡。"
-    },
-    {
-      "id": "tutorial_mainui_06_storyidentity",
-      "content": "人格故事"
-    },
-    {
-      "id": "tutorial_mainui_06_storyidentity_page_01_title_01",
-      "content": "選擇罪人"
-    },
-    {
-      "id": "tutorial_mainui_06_storyidentity_page_01_desc_01",
-      "content": "能夠閱讀邊獄公司罪人們的故事和信息。選擇罪人。"
-    },
-    {
-      "id": "tutorial_mainui_06_storyidentity_page_02_title_01",
-      "content": "選擇人格"
-    },
-    {
-      "id": "tutorial_mainui_06_storyidentity_page_02_desc_01",
-      "content": "能夠展示罪人的人格一覽。"
-    },
-    {
-      "id": "tutorial_mainui_06_storyidentity_page_03_title_01",
-      "content": "人格故事"
-    },
-    {
-      "id": "tutorial_mainui_06_storyidentity_page_03_desc_01",
-      "content": "能夠閱讀該人格的故事。"
-    },
-    {
-      "id": "tutorial_mainui_06_storyidentity_page_04_title_01",
-      "content": "語音台詞"
-    },
-    {
-      "id": "tutorial_mainui_06_storyidentity_page_04_desc_01",
-      "content": "能夠閱讀並試聽人格的語音台詞。"
-    },
-    {
-      "id": "tutorial_mainui_07_storymirror",
-      "content": "鏡像世界"
-    },
-    {
-      "id": "tutorial_mainui_07_storymirror_page_01_title_01",
-      "content": "鏡像世界"
-    },
-    {
-      "id": "tutorial_mainui_07_storymirror_page_01_desc_01",
-      "content": "選擇後，將會切換為鏡像世界一覽表。"
-    },
-    {
-      "id": "tutorial_mainui_07_storymirror_page_01_title_02",
-      "content": "鏡像世界列表"
-    },
-    {
-      "id": "tutorial_mainui_07_storymirror_page_01_desc_02",
-      "content": "鏡像世界根據不同的人格故事分為不同的類別。能夠確認不同的鏡像世界以及世界中登場的團體。"
-    },
-    {
-      "id": "tutorial_mainui_07_storymirror_page_02_title_01",
-      "content": "鏡像故事"
-    },
-    {
-      "id": "tutorial_mainui_07_storymirror_page_02_desc_01",
-      "content": "能夠閱讀以鏡像世界為基礎的人格故事。"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain",
-      "content": "主線關卡"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_01_title_01",
-      "content": "關卡"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_01_desc_01",
-      "content": "能夠選擇關卡併入場。"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_02_desc_01",
-      "content": "戰鬥勝利後會顯示關卡通關。"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_02_desc_02",
-      "content": "達成EX通關條件時將會顯示EX通關，並獲得額外獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_03_title_01",
-      "content": "關卡故事"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_03_desc_01",
-      "content": "能夠閱讀該關卡的劇情故事。"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_03_title_02",
-      "content": "關卡說明"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_03_desc_02",
-      "content": "能夠確認關於該關卡的說明及關卡故事。"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_03_title_03",
-      "content": "敵方情報"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_03_desc_03",
-      "content": "能夠確認關於敵人的信息。對於部分強力敵人，需要遭遇後才能確認信息。"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_04_title_01",
-      "content": "EX通關條件"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_04_desc_01",
-      "content": "顯示EX通關所需條件。"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_04_title_02",
-      "content": "入場"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_04_desc_02",
-      "content": "進入戰鬥關卡時需要消耗腦啡肽。"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_05_title_01",
-      "content": "選擇戰鬥成員"
-    },
-    {
-      "id": "tutorial_mainui_08_stagemain_page_05_desc_01",
-      "content": "進入關卡的人數有所限制。"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon",
-      "content": "故事迷宮"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_01_title_01",
-      "content": "故事迷宮信息窗口"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_01_desc_01",
-      "content": "在各章節的最後關卡將會出現迷宮。入場時將消耗腦啡肽模塊。"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_02_title_01",
-      "content": "迷宮探索"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_02_desc_01",
-      "content": "能夠通過選擇與當前節點相鄰的節點來推進探索。在各個節點將會遭遇不同的戰鬥或事件。"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_03_title_01",
-      "content": "罪人體力情況"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_03_desc_01",
-      "content": "迷宮探索期間，罪人的體力，理智值以及陣亡狀態將會延續。"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_03_title_02",
-      "content": "存檔點"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_03_desc_02",
-      "content": "到達存檔點後，全體罪人的體力與理智值將得到恢復。"},
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_04_title_01",
-      "content": "E.G.O飾品"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_04_desc_01",
-      "content": "隨著迷宮推進，將會獲得E.G.O飾品。獲得的E.G.O飾品是適用於迷宮的，能夠給予強力效果的道具。"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_04_title_02",
-      "content": "進入下一層"
-    },
-    {
-      "id": "tutorial_mainui_09_stagedungeon_page_04_desc_02",
-      "content": "迷宮由數個階層構成，通關本層最後的節點後，能夠移動至下一層。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon",
-      "content": "鏡像迷宮"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_01_title_01",
-      "content": "鏡像迷宮列表"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_01_desc_01",
-      "content": "能夠在眾多鏡像迷宮中選擇其一入場。入場時需要消耗腦啡肽模塊。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_02_title_01",
-      "content": "E.G.O飾品列表"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_02_desc_01",
-      "content": "能夠確認在鏡像迷宮中出現的E.G.O飾品，部分E.G.O擁有特殊的解鎖條件。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_03_title_01",
-      "content": "初始E.G.O飾品選擇"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_03_desc_01",
-      "content": "進入鏡像迷宮時，將會隨機選出幾個E.G.O飾品。從中選擇一個後，在推進鏡像迷宮時能夠獲得特殊效果。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_04_title_01",
-      "content": "組建隊伍"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_04_desc_01",
-      "content": "能夠從全體罪人中選擇三名並組成編隊。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_05_title_01",
-      "content": "選擇人格"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_05_desc_01",
-      "content": "能夠編輯所選罪人的人格。鏡像迷宮中使用了不同的強化方式，所有人格在編輯階段都將是10級。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_06_title_01",
-      "content": "選擇E.G.O"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_06_desc_01",
-      "content": "能夠給所選罪人裝備E.G.O。在最初的編輯階段只能選擇ZAYIN級的E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_07_title_01",
-      "content": "鏡像迷宮探索"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_07_desc_01",
-      "content": "鏡像迷宮中，將會隨機生成入場後的節點以及道路。選擇與當前節點相鄰的節點並推進後，在各個節點將會隨機生成不同類型的戰鬥及事件。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_08_title_01",
-      "content": "E.G.O飾品"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_01",
-      "content": "隨著迷宮推進，將會獲得E.G.O飾品。獲得的E.G.O飾品是適用於迷宮的，能夠給予強力效果的道具。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_08_title_02",
-      "content": "罪人體力情況"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_02",
-      "content": "迷宮探索期間，罪人的體力，理智值以及陣亡狀態將會延續。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_09_title_01",
-      "content": "選擇罪人"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_01",
-      "content": "通過部分事件，能夠追加罪人編入隊伍中。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_09_title_02",
-      "content": "升級"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_02",
-      "content": "鏡像迷宮中使用了不同的強化方式。通過戰鬥或是事件能夠升級並追加裝備E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_10_title_01",
-      "content": "鏡像迷宮獎勵"
-    },
-    {
-      "id": "tutorial_mainui_10_mirrordungeon_page_10_desc_01",
-      "content": "通關鏡像迷宮後將會獲得獎勵。每週能夠領取固定次數的額外獎勵。獎勵數目與通關的節點數量成比例。"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction",
-      "content": "提取"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_01_title_01",
-      "content": "提取類型"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_01_desc_01",
-      "content": "能夠選擇常規提取或是定向提取"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_01_title_02",
-      "content": "提取"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_01_desc_02",
-      "content": "能夠使用狂氣提取人格及E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_02_title_01",
-      "content": "定向提取期"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_02_desc_01",
-      "content": "能夠確認定向提取的持續時間。"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_02_title_02",
-      "content": "定向提取對象"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_02_desc_02",
-      "content": "能夠確認概率提升的人格及E.G.O的詳細信息。"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_03_title_01",
-      "content": "提取歷史"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_03_desc_01",
-      "content": "能夠確認提取歷史。"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_03_title_02",
-      "content": "詳細概率"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_03_desc_02",
-      "content": "能夠確認人格及E.G.O被提取出的概率。"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_04_title_01",
-      "content": "自我碎片"
-    },
-    {
-      "id": "tutorial_mainui_11_extraction_page_04_desc_01",
-      "content": "當獲得重複的人格時，將會根據人格等級（星級）獲得自我碎片。"
-    },{
-      "id": "tutorial_mainui_12_vendingmachine",
-      "content": "售貨機"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_01_title_01",
-      "content": "售貨機商品列表"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_01_desc_01",
-      "content": "能夠使用自我碎片購買未擁有的人格及E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_02_title_01",
-      "content": "售貨機種類"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_02_desc_01",
-      "content": "能夠購買常駐或是特定季度的人格及E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_03_title_01",
-      "content": "選擇售貨機商品"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_03_desc_01",
-      "content": "想要購買人格或E.G.O，需要擁有該罪人的自我碎片。"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_04_title_01",
-      "content": "購買紡錘"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_04_desc_01",
-      "content": "能夠使用自我碎片購買紡錘。"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_04_title_02",
-      "content": "紡錘"
-    },
-    {
-      "id": "tutorial_mainui_12_vendingmachine_page_04_desc_02",
-      "content": "紡錘可以用於人格同步或是E.G.O異想解析。"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_manager",
-      "content": "經理介紹"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_01_title_01",
-      "content": "玩家信息列表"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_01_desc_01",
-      "content": "能夠確認玩家信息，助戰角色及好友信息。"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_02_title_01",
-      "content": "玩家信息"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_02_desc_01",
-      "content": "顯示玩家ID及帳戶等級。"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_02_title_02",
-      "content": "橫幅"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_02_desc_02",
-      "content": "能夠設定裝飾橫幅。"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_03_title_01",
-      "content": "設定罪人代表"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_03_desc_01",
-      "content": "能夠從已有罪人中設定罪人代表的插畫。"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_04_title_01",
-      "content": "插畫列表"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_04_desc_01",
-      "content": "能夠確認已有人格及E.G.O的插畫。"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_05_title_01",
-      "content": "簡介"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_05_desc_01",
-      "content": "能夠通過組合固定的文本，來設定自己的簡介。"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_06_title_01",
-      "content": "簡介設定"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_06_desc_01",
-      "content": "能夠通過組合句子和單詞，來設定自己的簡介。"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_company",
-      "content": "公司"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_07_title_01",
-      "content": "助戰人格列表"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_07_desc_01",
-      "content": "能夠設定助戰的人格及E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_friend",
-      "content": "好友"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_08_title_01",
-      "content": "好友列表"
-    },
-    {
-      "id": "tutorial_mainui_13_userinfo_page_08_desc_01",
-      "content": "能夠確認好友的ID，橫幅，簡介，登陸日期，以及添加好友。"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_title",
-      "content": "戰鬥通行證"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_01_title_01",
-      "content": "戰鬥通行證獎勵"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_01_desc_01",
-      "content": "能夠確認及領取每級免費及付費通行證的獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_02_title_01",
-      "content": "戰鬥通行證持續時間及名稱"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_02_desc_01",
-      "content": "能夠確認戰鬥通行證持續的時間及季度名稱。"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_02_title_02",
-      "content": "戰鬥通行證等級及進度"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_02_desc_02",
-      "content": "能夠確認戰鬥通行證的進度。"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_03_title_01",
-      "content": "戰鬥通行證任務"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_03_desc_01",
-      "content": "任務列表中顯示了完成後將會獲得的通行證進度。分為日常，周常及季度任務。"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_04_title_01",
-      "content": "戰鬥通行證超額獎勵"
-    },
-    {
-      "id": "tutorial_mainui_14_battlepass_page_04_desc_01",
-      "content": "當戰鬥通行證等級超出獎勵等級後再次升級，將會獲得超額獎勵。購買了付費通行證後，將會獲得更多的超額獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_15_exp_dungeon_title",
-      "content": "經驗副本"
-    },
-    {
-      "id": "tutorial_mainui_15_exp_dungeon_page_01_title_01",
-      "content": "經驗副本列表"
-    },
-    {
-      "id": "tutorial_mainui_15_exp_dungeon_page_01_desc_01",
-      "content": "能夠從符合推薦等級的經驗副本中選擇其一入場。入場時需要消耗腦啡肽模塊。"
-    },
-    {
-      "id": "tutorial_mainui_15_exp_dungeon_page_02_title_01",
-      "content": "有效屬性"
-    },
-    {
-      "id": "tutorial_mainui_15_exp_dungeon_page_02_desc_01",
-      "content": "在經驗副本中出現的敵人均擁有特殊的物理抗性及屬性抗性。在對應關卡中將會標明有效屬性。"
-    },
-    {
-      "id": "tutorial_mainui_15_exp_dungeon_page_03_title_01",
-      "content": "經驗副本 獎勵"
-    },
-    {
-      "id": "tutorial_mainui_15_exp_dungeon_page_03_desc_01",
-      "content": "通關經驗副本後將會獲得戰鬥經驗及人格訓練券，且每日可以獲得一定次數的額外獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_16_thread_dungeon_title",
-      "content": "紡錘副本"
-    },
-    {
-      "id": "tutorial_mainui_16_thread_dungeon_01_title_01",
-      "content": "紡錘副本列表"
-    },
-    {
-      "id": "tutorial_mainui_16_thread_dungeon_page_01_desc_01",
-      "content": "所開放的異想體戰鬥根據星期不同而變化。進入戰鬥關卡時需要消耗腦啡肽。"
-    },
-    {
-      "id": "tutorial_mainui_16_thread_dungeon_page_02_title_01",
-      "content": "有效屬性"
-    },
-    {
-      "id": "tutorial_mainui_16_thread_dungeon_page_02_desc_01",
-      "content": "在紡錘副本中出現的敵人均擁有特殊的物理抗性及屬性抗性。在對應關卡中將會標明有效的罪惡屬性。"
-    },
-    {
-      "id": "tutorial_mainui_16_thread_dungeon_page_03_title_01",
-      "content": "選擇等級。"
-    },
-    {
-      "id": "tutorial_mainui_16_thread_dungeon_page_03_desc_01",
-      "content": "能夠從符合推薦等級的紡錘副本中選擇其一入場。"
-    },
-    {
-      "id": "tutorial_mainui_16_thread_dungeon_page_04_title_01",
-      "content": "紡錘副本 獎勵"
-    },
-    {
-      "id": "tutorial_mainui_16_thread_dungeon_page_04_desc_01",
-      "content": "通關紡錘副本後將會獲得紡錘，且每日可以獲得一定次數的額外獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_title",
-      "content": "折射軌道"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_01_title_01",
-      "content": "折射軌道 開放"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_01_desc_01",
-      "content": "折射軌道運行期間，會出現可以進入的線路。\n您可以選擇路線，且不消耗任何資源自由入場。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_02_title_01",
-      "content": "運行期間"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_02_desc_01",
-      "content": "折射軌道運行時間將會顯示在線路旁邊。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_03_desc_01",
-      "content": "進入關卡前，您可以選擇所擁有的人格與E.G.O來組建隊伍。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_04_desc_01",
-      "content": "與其他戰鬥方式不同，編隊完成且進入關卡後所進行的人格同步或異想解析，將不會反饋進此編隊中。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_05_desc_01",
-      "content": "戰鬥中更無法更改編隊。\n如果想要反饋人格及E.G.O的升級情況，或是更換成其他人格、E.G.O後重新進入關卡，需要從第一關開始重新挑戰。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_06_title_01",
-      "content": "折射軌道 主界面"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_06_desc_01",
-      "content": "折射軌道一共由13個關卡構成。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_07_title_01",
-      "content": "戰鬥"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_07_desc_01",
-      "content": "折射軌道中的所有戰鬥皆與異想體戰鬥相同，友方單位的所有技能均能夠直接對應敵方行動槽。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_08_title_01",
-      "content": "現有E.G.O資源"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_08_desc_01",
-      "content": "通關本場戰鬥後剩餘的E.G.O資源在到下場戰鬥依舊能夠使用。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_08_title_02",
-      "content": "人格狀態"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_08_desc_02",
-      "content": "能夠表示編隊中人格的體力，理智值以及陣亡狀態。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_09_title_01",
-      "content": "通關回合數與累計通關回合數"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_09_desc_01",
-      "content": "通關關卡後，將會記錄下通關本次關卡所消耗的回合數，以及從第一關開始累計消耗的回合數。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_10_title_01",
-      "content": "人格狀態"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_10_desc_01",
-      "content": "能夠表示編隊中人格的體力，理智值以及陣亡狀態。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_11_title_01",
-      "content": "橫幅獲取條件"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_11_desc_01",
-      "content": "能夠確認活動橫幅的獲取條件。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_11_desc_02",
-      "content": "獲取條件越為苛刻，所能獲得的裝飾橫幅越為特別。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_12_title_01",
-      "content": "失物認領處"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_12_desc_01",
-      "content": "第一次通關關卡時，該關卡的獎勵將會記錄進失物認領處。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_12_desc_02",
-      "content": "活動期間，初次通關獎勵將會累計存放在失物認領處。\n初次在失物認領處領取獎勵，需要消耗一定量的腦啡肽模塊。\n在此之後，無須消耗更多腦啡肽模塊，可以隨時領取獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_13_title_01",
-      "content": "累計記錄"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_13_desc_01",
-      "content": "在您通過最終關卡後，本次探索的成績將會被記錄，最多記錄20次。\n記錄數量超出20次時，新記錄會優先覆蓋消耗回合數最多的記錄。\n有多個消耗回合數相同的記錄時，人格陣亡數最多的記錄將被覆蓋。\n若人格陣亡數依然相同，則會覆蓋比較舊的一方。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_14_title_01",
-      "content": "休息"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_14_desc_01",
-      "content": "參加戰鬥的人格的體力和精神力在參加下一階段戰鬥時保持不變。\n相反，如果該人格在不參加下一階段戰鬥的情況下休息，則進入下一階段時，體力將完全恢復，精神力將重置為0。\n但是，如果精神力為0以上，則不會初始化為0。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_15_title_01",
-      "content": "記錄更新"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_15_desc_01",
-      "content": "挑戰期間，可以回到已通關的特定關卡並重新開始挑戰。\n重新挑戰時，會以挑戰該關卡時的人格狀態及所持的E.G.O資源數量開始戰鬥。在此之後的通關記錄將會被重置。"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_16_title_01",
-      "content": "折射軌道 特殊裝飾橫幅"
-    },
-    {
-      "id": "tutorial_mainui_17_railway_page_16_desc_01",
-      "content": "折射軌道運行結束後，在所獲得的橫幅上將會記錄自己排名最高的通關累計回合數記錄。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_title",
-      "content": "地獄雞"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_01_title_01",
-      "content": "地獄雞開放"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_01_desc_01",
-      "content": "[地獄雞活動頁面]在通關主線故事3-22後開放"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_02_title_01",
-      "content": "活動時間"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_02_desc_01",
-      "content": "此處顯示地獄雞活動持續時間。地獄雞活動期間，可以通過活動關卡及迷宮獲得[小鳳玩偶]。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_02_desc_02",
-      "content": "※鏡像迷宮，副本，折射軌道將無法獲得[小鳳玩偶]。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_03_title_01",
-      "content": "活動關卡"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_03_desc_01",
-      "content": "地獄雞共有 8 個普通關卡和 2 個迷宮。\n[小鳳玩偶]除了地獄雞的通關獎勵外，EX通關獎勵也會獲得。(限1次)"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_03_desc_02",
-      "content": "通關地獄雞迷宮所獲得的[小鳳玩偶]數量遠大於普通關卡。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_04_title_01",
-      "content": "活動加成角色"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_04_desc_01",
-      "content": "在隊伍中編入地獄雞活動加成角色與E.G.O後清剿活動關卡及迷宮，能夠提升[小鳳玩偶]的獲取量。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_05_title_01",
-      "content": "獎券兌換"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_05_desc_01",
-      "content": "您可以在[獎券兌換處]根據所持有的[小鳳玩偶]數量兌換多樣化獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_06_title_01",
-      "content": "獎券兌換"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_06_desc_01",
-      "content": "在[獎券兌換處]中可以獲得各類資源，活動限定人格及E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_06_desc_02",
-      "content": "此處展示了[獎券兌換處]的開放時間。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_07_title_01",
-      "content": "活動迷宮"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_07_desc_01",
-      "content": "地獄雞迷宮的探索方式與鏡像迷宮相同。\n地獄雞迷宮分為兩種難度，特徵區別如下。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_08_title_01",
-      "content": "選擇E.G.O飾品"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_08_desc_01",
-      "content": "鏡像迷宮中的部分E.G.O飾品會出現在Hell's Chicken迷宮中。\n此類E.G.O飾品將會對人格及E.G.O進行有效輔助。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_09_title_01",
-      "content": "活動迷宮編隊"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_09_desc_01",
-      "content": "在Hell's Chicken迷宮中，你以5個人格編隊開始探險。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_09_title_02",
-      "content": "使用預先配置"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_09_desc_02",
-      "content": "在Hell's Chicken迷宮中，添加了提高便利性的功能。\n通過預先配置按鍵，您可以迅速以上一次所使用的編隊來進行探索。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_10_title_01",
-      "content": "活動迷宮構成"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_10_desc_01",
-      "content": "進入Hell's Chicken地牢時，將與鏡像迷宮類似，隨機生成節點及線路。\nHell's Chicken地牢僅由一層組成，最終節點將會出現固定的boss。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_11_title_01",
-      "content": "Hell's Chicken專屬事件"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_11_desc_01",
-      "content": "在Hell's Chicken迷宮中將會遇到特殊事件及E.G.O飾品。\nHell's Chicken迷宮專屬事件可以通過節點下方的標識來輕鬆識別。"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_12_title_01",
-      "content": "活動結束"
-    },
-    {
-      "id": "tutorial_mainui_18_hells_chicken_12_desc_01",
-      "content": "活動結束後，您也依然可以通過駕駛席-[外傳故事]及放映室-[其他故事]，隨時重溫Hell's Chicken的關卡和故事。"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_title",
-      "content": "賽季介紹"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_01_title_01",
-      "content": "賽季期間"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_01_desc_01",
-      "content": "當新賽季開始時，會有全新的戰鬥通行證上線。\n戰鬥通行證頁面能確認當前賽季的持續時間。"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_02_title_01",
-      "content": "戰鬥通行證獎勵"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_02_desc_01",
-      "content": "在戰鬥通行證頁面能確認當前賽季的資源和E.G.O。"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_03_title_01",
-      "content": "人格·E.G.O的賽季信息"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_03_desc_01",
-      "content": "人格信息或是E.G.O信息的名字下方有賽季情報標識。\n沒有賽季情報標識人格或E.G.O劃分至[標準]。"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_04_title_01",
-      "content": "活動人格・E.G.O的賽季情報"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_04_desc_01",
-      "content": "活動人格和E.G.O會在賽季情報標識旁額外註明[EVENT]。"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_05_title_01",
-      "content": "自我碎片"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_05_desc_01",
-      "content": "自我碎片可在規定賽季期間使用。\n\n當新賽季開始時，上一賽季的自我碎片總數的一半將轉移至下一賽季。(向上取整)\n\n過去多個賽季未轉換的自我碎片的轉換率將在下一賽季中減半。\n\n其餘的自我碎片會被轉換為紡錘。"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_06_title_01",
-      "content": "隨機自我碎片箱·自選自我碎片箱"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_06_desc_01",
-      "content": "同理，自我碎片箱可在規定賽季期間使用。\n\n當新賽季開始時，上一賽季的自我碎片箱總數的一半將轉移至下一賽季。\n\n過去多個賽季中未轉換的自我碎片箱的轉換率將在下一賽季減半。\n\n其餘的自我碎片箱將會被轉換為紡錘箱。"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_07_title_01",
-      "content": "提取"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_07_desc_01",
-      "content": "當新賽季開始時，提取列表將追加新賽季人格和E.G.O。\n即使賽季變更，過去賽季的人格會保留在提取列表中，供您提取獲得。"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_08_title_01",
-      "content": "售貨機"
-    },
-    {
-      "id": "tutorial_manual_1_season_information_08_desc_01",
-      "content": "與提取同理，當新賽季開始時，售貨機列表也將追加新賽季人格和E.G.O。\n此外，您也能交換先前賽季戰鬥通行證中的人格與E.G.O。\n\n不過，前一賽季的可提取人格不會出現在售貨機列表中。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon",
-      "content": "鏡像迷宮"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_01",
-      "content": "鏡像迷宮列表"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_01",
-      "content": "能夠從列表中選擇一個鏡像迷宮進入。 \n每次僅能探索一個鏡像迷宮，如果您想在探險過程中進入另一個迷宮，您必須先清除或放棄正在進行的鏡像迷宮。\n每個鏡像迷宮分為兩個難度：簡單和困難。起始之鏡不包含困難模式。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_02",
-      "content": "每週額外獎勵"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_02",
-      "content": "鏡像迷宮每週會提供3次額外的獎勵，在結束時使用則可收穫獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_03",
-      "content": "解鎖條件"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_03",
-      "content": "每個鏡像迷宮都存在開放條件。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_04",
-      "content": "E.G.O飾品圖鑑"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_04",
-      "content": "能夠查看在鏡像迷宮中出現過的E.G.O飾品。\n在鏡像迷宮中，未獲得過的E.G.O飾品將顯示為“無數據”"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_05",
-      "content": "初始E.G.O飾品選擇"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_05",
-      "content": "進入鏡像迷宮時，將會隨機選出幾個E.G.O飾品。從中選擇一個後，在推進鏡像迷宮時能夠獲得特殊效果。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_06",
-      "content": "選擇罪人"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_06",
-      "content": "能夠選擇參與鏡像迷宮探索的罪人。\n每個鏡像迷宮初始可編排的最大罪人數固定的。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_07",
-      "content": "所持E.G.O飾品列表"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_07",
-      "content": "能夠查看當前擁有的E.G.O飾品。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_08",
-      "content": "使用預先配置"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_08",
-      "content": "使用預設，能夠加載之前用於鏡像迷宮的人格和E.G.O設置。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_09",
-      "content": "經費"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_09",
-      "content": "能夠在此處查看您所持有的經費。\n經費可用於在商店處購買E.G.O飾品，也可以在商店處或休息區購買新的人格和E.G.O飾品。\n在普通難度下，不會獲得初始經費，但初始編隊不需要任何經費。\n在困難模式下，提供一定初始經費，並且初始編隊需要消耗經費。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_10",
-      "content": "選擇人格"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_10",
-      "content": "能夠選擇罪人的人格。\n在鏡像迷宮中，所有人格將自動應用每個鏡像副本的人格等級。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_11",
-      "content": "選擇E.G.O"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_11",
-      "content": "為所選罪人選擇E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_12",
-      "content": "進入鏡像迷宮"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_12",
-      "content": "完成初始人格設置後，按“確認”能夠進入鏡像迷宮。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_13",
-      "content": "鏡像迷宮探索"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_13",
-      "content": "每次進入鏡像迷宮中，將會隨機生成節點和路徑。\n可以移動至與當前節點相鄰的節點，在各節點中將會隨機觸發各種戰鬥與事件。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_14",
-      "content": "E.G.O飾品"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_14",
-      "content": "在探索迷宮的過程中，將會獲得E.G.O飾品。\n獲得的E.G.O飾品是適用於迷宮的，能夠給予強力效果的道具。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_15",
-      "content": "罪人體力情況"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_15",
-      "content": "迷宮探索期間，罪人的體力，理智值以及陣亡狀態將會延續。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_16",
-      "content": "關卡有利屬性"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_16",
-      "content": "在鏡像迷宮的戰鬥節點下方會顯示對敵人的有利屬性。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_17",
-      "content": "休息點"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_17",
-      "content": "鏡像迷宮中的休息點能夠免費治療友方單位，或花費經費來追加人格或購買E.G.O飾品。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_18",
-      "content": "商店"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_18",
-      "content": "鏡像迷宮中的商店，能夠通過消耗戰鬥中獲得的經費購買E.G.O飾品，治療友方單位，追加人格與E.G.O，強化所顯示的人格。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_19",
-      "content": "鏡像迷宮獎勵"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_19",
-      "content": "在探險結束後，能夠花費腦啡肽模塊來領取獎勵。\n如果使用每週3次的額外獎勵次數，可以獲得大量的戰鬥通行證經驗和定量狂氣。\n獎勵數量根據通關節點的數量發放。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_20",
-      "content": "困難難度 獎勵"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_20",
-      "content": "當鏡像迷宮的困難難度被解鎖時，困難難度獎勵計數將顯示在上方。\n困難模式中，能夠獲得更多的戰鬥通行證經驗值，但每週只能領取3次獎勵。\n困難難度獎勵和每週獎勵相互獨立。您可以通過將每週獎勵應用於困難難度獎勵來最大限度地提高您獲取獎勵的效率。"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_title_21",
-      "content": "開局增益"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_21",
-      "content": "從鏡中之鏡開始，可以激活初始增益。"
-    },
-    {
-      "id":"tutorial_mainui_19_mirrordungeon_title_22",
-      "content": "開局增益效果"
-    },
-    {
-      "id": "tutorial_mainui_19_mirrordungeon_desc_22",
-      "content": "初始增益可以通過“星光”系統激活，它為您的迷宮探險提供各種增益效果。\n星光可以通過通關鏡像迷宮獲得。到達更深的地牢會獲得更多星光。\n在特定的鏡像迷宮中，初始增益同時適用於普通模式和困難模式，但不會影響其他鏡像迷宮。\n在特定的鏡像迷宮中獲得的星光無法用於激活其他鏡像副本的初始增益。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_title",
-      "content": "去・海・邊"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_01_title_01",
-      "content": "去・海・邊 開放"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_01_desc_01",
-      "content": "[去・海・邊活動頁面]在通關主線故事4-54後開放。\n您可以通過車窗或駕駛席上的活動橫幅進入。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_02_title_01",
-      "content": "活動時間"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_02_desc_01",
-      "content": "此處顯示去・海・邊活動持續時間。去・海・邊活動期間，您可以通過活動關卡以及主線故事中的關卡與迷宮來獲得巴士改造廢料。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_02_desc_02",
-      "content": "※鏡像迷宮，副本，折射軌道將無法獲得[巴士改造廢料]。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_03_title_01",
-      "content": "活動關卡"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_03_desc_01",
-      "content": "去・海・邊包括劇情關卡在內共有12關。\n[巴士改造廢料]除了去・海・邊的通關獎勵外，EX通關獎勵也會獲得。(限1次) "
-    },
-    {
-      "id": "tutorial_mainui_20_umida_03_desc_02",
-      "content": "通關去・海・邊活動關卡所獲得的[巴士改造廢料]數量遠大於主線故事關卡。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_04_title_01",
-      "content": "活動加成角色"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_04_desc_01",
-      "content": "在隊伍中編入去・海・邊活動加成角色與E.G.O後清剿活動關卡及迷宮，能夠提升[巴士改造廢料]的獲取量。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_05_title_01",
-      "content": "廢料回收箱"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_05_desc_01",
-      "content": "您可以在[廢料收集箱]根據所持有的[巴士改造廢料]數量兌換多樣化獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_06_title_01",
-      "content": "廢料回收箱"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_06_desc_01",
-      "content": "在[廢料收集箱]中可以獲得各類資源，活動限定人格及E.G.O。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_06_desc_02",
-      "content": "此處展示了[廢料收集箱]的開放時間。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_07_title_01",
-      "content": "活動關卡"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_07_desc_01",
-      "content": "去・海・邊沒有迷宮；由一個你可以獲取更多[巴士改造廢料]的特殊關卡作為替代。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_07_desc_02",
-      "content": "這個特殊關卡通過消耗腦啡肽模塊來進入。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_08_title_01",
-      "content": "含有稀有馬蹄鐵的巴士改造廢料"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_08_desc_01",
-      "content": "戰鬥勝利後，有小概率獲得[含有稀有馬蹄鐵的巴士改造廢料]。\n所獲得的[含有稀有馬蹄鐵的巴士改造廢料]將自動轉化為20個[巴士改造廢料]。"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_09_title_01",
-      "content": "活動結束"
-    },
-    {
-      "id": "tutorial_mainui_20_umida_09_desc_01",
-      "content": "活動結束後，您也依然可以通過駕駛席-[外傳故事]及放映室-[其他故事]，隨時重溫去・海・邊的關卡和故事。 "
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_01_title_01",
-      "content": "如何進入戰鬥"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_01_desc_01",
-      "content": "進入折射軌道2號線時無需消耗任何資源。選擇路線即可入場。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_02_title_01",
-      "content": "編隊"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_02_desc_01",
-      "content": "進入關卡時，您可以選擇所擁有的人格與E.G.O來組建隊伍。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_03_desc_01",
-      "content": "戰鬥中更無法更改編隊，且與其他戰斗方式不同，編隊完成並進入關卡後所進行的人格同步或異想解析，將不會反饋進此編隊中"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_04_title_01",
-      "content": "2號線站點"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_04_desc_01",
-      "content": "折射軌道2號線一共由9個關卡構成。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_05_desc_01",
-      "content": "選擇站點並進入戰鬥"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_05_desc_02",
-      "content": "通關站點後所獲得的獎勵將會顯示在本關下方。部分站點的獎勵需要達到一定巡迴數才會解鎖。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_06_title_01",
-      "content": "戰鬥編隊"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_06_desc_01",
-      "content": "戰鬥最多可編入7人。但若在不滿7人的情況下進入戰鬥，人格的行動槽並不會隨著回合數增加。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_07_title_01",
-      "content": "戰鬥"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_07_desc_01",
-      "content": "所有戰鬥皆與集中戰鬥相同，友方單位的所有技能均能夠直接對應敵方行動槽。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_07_desc_02",
-      "content": "通關關卡後，參與戰鬥的人格及其體力、理智值，儀錶盤上的技能、各個人格已使用的技能及剩餘技能將會保存。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_08_desc_01",
-      "content": "通關本場戰鬥後剩餘的罪孽碎片在下一站依舊能夠使用。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_08_desc_02",
-      "content": "能夠顯示巡迴數，以及到達目前站點的總計回合數。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_08_desc_03",
-      "content": "能夠表示編隊中人格的體力，理智值以及陣亡狀態。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_09_desc_01",
-      "content": "進入下一站時將會讀取上一站時所保存的數據。\n敵我雙方的速度值將在進站時被保存。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_09_desc_02",
-      "content": "敵我雙方的速度值將在進站時進行保存。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_10_desc_01",
-      "content": "放棄關卡時，會回到進入此站之前的狀態。\n以往關卡開始時人格的體力、理智值、速度值、儀錶盤上的技能、各人格的技能使用狀態，敵方單位的速度值將不會發生變化。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_10_desc_02",
-      "content": "關卡重開時人格的體力、理智值、速度值、儀錶盤上的技能、各人格的技能使用狀態，敵方單位的速度值將不再發生變化。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_11_desc_01",
-      "content": "關卡攻略失敗時，可以回到進站前的狀態或是以剩下的人格繼續戰鬥。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_11_desc_02",
-      "content": "繼續進行戰鬥時，不會刷新敵方單位的剩餘體力，並將在站點上方顯示剩餘體力的比例條。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_12_title_01",
-      "content": "巡迴"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_12_desc_01",
-      "content": "通關了線路上已開放的所有站點後，可以前往第一站（起點站）並進行巡迴。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_12_desc_02",
-      "content": "選擇進行巡迴時，將會增加1點巡迴數。部分站點會基於巡迴數開放。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_13_title_01",
-      "content": "選擇BUFF"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_13_desc_01",
-      "content": "每當進行巡迴時都可以選擇1個友方BUFF與1個敵方BUFF。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_13_desc_02",
-      "content": "您選擇的所有效果都會在以後的戰鬥中激活並累積下去。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_14_desc_01",
-      "content": "選擇1種友方BUFF。無法選擇在以往的巡迴中選擇過的效果。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_15_desc_01",
-      "content": "選擇1種敵方BUFF。無法選擇在以往的巡迴中選擇過的效果。\n但是如果已經將所有效果都選過了1遍，則會刷新選擇機會並可以再次選擇您想要的效果。\n除了可以直接選擇的BUFF以外，每次巡迴時都會額外激活1個固定的BUFF。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_15_desc_03",
-      "content": "除了可以直接選擇的BUFF以外，每次巡迴時都會額外激活1個固定的BUFF。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_16_desc_01",
-      "content": "每5次巡迴可以復活1個陣亡的人格。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_17_title_01",
-      "content": "終點站"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_17_desc_01",
-      "content": "進行巡迴時（巡迴數不小於1時）路線中央的終點站將會被激活。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_17_desc_02",
-      "content": "終點站被激活後不論身處哪一站都可以隨時進入終點站。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_18_desc_01",
-      "content": "進入終點站後將再也無法回到以往的站點，請您慎重考慮。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_18_desc_02",
-      "content": "折射軌道2號線的最終目標是通關終點站，通關後將會記錄巡迴數、累計回合數、參與的人格與E.G.O以及BUFF列表。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_19_title_01",
-      "content": "橫幅獲取條件"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_19_desc_01",
-      "content": "可以在此確認活動橫幅的獲取條件。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_19_desc_02",
-      "content": "條件越困難，便會獲得更為特殊的橫幅。\n獲得橫幅後，會在上面顯示巡迴數與累計回合數的最大值。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_19_desc_03",
-      "content": "獲得橫幅後，會在上面顯示巡迴數與累計回合數的最大值。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_20_title_01",
-      "content": "失物認領處"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_20_desc_01",
-      "content": "初次通關關卡或是滿足特定的條件後，相關的獎勵將會在失物認領所被激活。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_20_desc_02",
-      "content": "為了領取失物認領處中的獎勵，最初需要支付一定數量的腦啡肽模塊。後續領取獎勵無需額外消耗腦啡肽模塊，並且可以隨時獲取已激活的獎勵。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_21_title_01",
-      "content": "累計記錄"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_21_desc_01",
-      "content": "通過最終關卡時將會保存摺射軌道的遊玩記錄，最多可以瀏覽20個記錄。"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_21_desc_02",
-      "content": "記錄超過20個時，將會優先刪除巡迴數較少的記錄，而在巡迴數相同的情況下將會優先刪除累計回合數較多的記錄。"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_1_title_01",
-      "content": "路線移動鍵"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_1_desc_01",
-      "content": "通關了路線上已開放的所有站點後將會出現可以前往下一個路線的按鍵。"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_2_title_01",
-      "content": "巡迴"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_2_desc_01",
-      "content": "可以通過路線前往第一站（起點站）"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_2_desc_02",
-      "content": "在此過程中巡迴數將會+1，並且將要選擇今後的戰鬥中將被激活的友方BUFF與敵方BUFF。"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_3_title_01",
-      "content": "選擇BUFF"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_3_desc_01",
-      "content": "每當進行巡迴時都可以選擇1個友方BUFF與1個敵方BUFF。"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_3_desc_02",
-      "content": "您選擇的所有效果都會在以後的戰鬥中激活並累積下去。"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_4_desc_01",
-      "content": "選擇1種友方BUFF。無法選擇在以往的巡迴中選擇過的效果。"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_5_desc_02",
-      "content": "但是如果已經將所有效果都選過了1遍，則會刷新選擇機會並可以再次選擇您想要的效果。"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_5_desc_03",
-      "content": "除了可以直接選擇的BUFF以外，每次巡迴時都會額外激活1個固定的BUFF。"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_6_title_01",
-      "content": "終點站移動鍵"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_6_desc_01",
-      "content": "完成按鍵選擇後將通過路線前往第一站（起點站）。部分站點將會基於巡迴數額外開放。"
-    },
-    {
-      "id": "tutorial_mainui_22_railway2_page_6_desc_02",
-      "content": "進行巡迴後路線中央的終點站將被激活，並出現可以前往終點站的按鍵。"
-    },
-    {
-      "id": "tutorial_mainui_23_railway2_page_1_desc_01",
-      "content": "進入終點站後將再也無法回到以往的站點，請您慎重考慮。"
-    },
-    {
-      "id": "tutorial_mainui_23_railway2_page_1_desc_02",
-      "content": "折射軌道2號線的最終目標是通關終點站，通關後將會記錄巡迴數、累計回合數、參與的人格與E.G.O以及BUFF列表。"
-    },
-    {
-      "id": "tutorial_mainui_railway2_mainTitle",
-      "content": "折射軌道2號線"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_08_title_01",
-      "content": "終點站移動鍵"
-    },
-    {
-      "id": "tutorial_mainui_21_railway2_page_04_desc_02",
-      "content": "每次入場時之後開放至第3站，第4站至第8站將會基於巡迴數依次開放。"
-    },
+   "dataList": [
+     {
+       "id": "tutorial_mainui_01_selection",
+       "content": "編隊"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_01_desc_01",
+       "content": "你可以用12名罪人的人格組成一個編隊。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_02_title_01",
+       "content": "編隊伍（罪人介面）"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_02_desc_01",
+       "content": "在罪人介面選擇罪人後，將會顯示該罪人的人格清單並取代編隊內人格。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_03_title_01",
+       "content": "編隊伍（戰鬥內容）"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_03_desc_01",
+       "content": "在各戰鬥內容相關的編隊視窗中，選擇人格影像的上半部將顯示該罪人的人格列表，並從中替換編隊人格。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_04_desc_01",
+       "content": "在各戰鬥內容相關的編隊視窗中，選擇人格影像的下半部將使該人格參與戰鬥。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_04_desc_02",
+       "content": "這裡顯示可以參加戰鬥的最大罪人數。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_05_desc_01",
+       "content": "在部分無法更改編隊伍的戰鬥內容中，選擇對應人格即可使該人格參與戰鬥。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_06_title_01",
+       "content": "編隊伍-人格資訊"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_06_desc_01",
+       "content": "在所有編隊視窗中，長摁人格立繪會顯示人格訊息，可以查看當前人格和E.G.O的詳細資料。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_07_title_01",
+       "content": "選擇播報員"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_07_desc_01",
+       "content": "選擇後能夠展示播報員一覽。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_07_desc_02",
+       "content": "可以更改戰鬥中使用的播報員。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_08_title_01",
+       "content": "編輯編隊"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_08_desc_01",
+       "content": "透過組合提示的關鍵字來命名編隊。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_08_desc_02",
+       "content": "總計能夠組建20個編隊。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_09_title_01",
+       "content": "編隊資訊"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_09_desc_01",
+       "content": "可以查看編隊中所有人格技能的攻擊類型、罪惡屬性和裝備中的E.G.O列表。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_10_title_01",
+       "content": "罪孽碎片"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_10_desc_01",
+       "content": "能夠確認該編隊在戰鬥中所能獲取的罪孽碎片的種類與數量。"
+     },
+     {
+       "id": "tutorial_mainui_01_selection_page_10_desc_02",
+       "content": "點擊此處，可以查看所選E.G.O的人格和使用E.G.O所消耗的罪孽碎片。"
+     },
+     {
+       "id": "tutorial_mainui_02_identityandegolist",
+       "content": "人格及E.G.O列表"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist",
+       "content": "人格列表"
+     },
+     {
+       "id": "tutorial_mainui_02_egolist",
+       "content": "E.G.O列表"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_01_desc_01",
+       "content": "展示可以選入編隊的罪人的人格一覽。可以確認人格的同步階段，等級以及所屬罪人。"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_02_title_01",
+       "content": "編隊狀況"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_02_desc_01",
+       "content": "能夠同時確認編隊中的人格以及E.G.O。於每個解析等級均可裝備一種E.G.O."
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_03_title_01",
+       "content": "編隊狀況"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_03_desc_01",
+       "content": "點擊該列按鈕時，能夠切換到可選中的E.G.O清單。"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_04_desc_01",
+       "content": "能夠確認E.G.O的異想體解析等級，主要屬性以及名稱。"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_05_title_01",
+       "content": "助戰列表"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_05_title_02",
+       "content": "助戰按鈕"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_05_desc_01",
+       "content": "選擇後，會顯示好友的助戰人格清單。"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_05_desc_02",
+       "content": "能夠展現好友選擇的助戰人格及E.G.O一覽。"
+     },
+     {
+       "id": "tutorial_mainui_02_identitylist_page_06_desc_01",
+       "content": "你能夠借用好友的助戰人格及其攜帶的E.G.O。但同一編隊中只能編入一名助戰人格。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo",
+       "content": "人格介紹"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_01_title_01",
+       "content": "等級"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_01_desc_01",
+       "content": "等級越高，人格能力值越得以強化。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_01_title_02",
+       "content": "同步階段"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_01_desc_02",
+       "content": "同步階段越高，人格技能效果越得以強化，也能獲得新的技能。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_02_title_01",
+       "content": "能力值"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_02_desc_01",
+       "content": "顯示該人格的體力，速度值範圍以及防禦等級及變動值。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_02_title_02",
+       "content": "抗性資訊"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_02_desc_02",
+       "content": "能夠顯示人格的抗性訊息。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_03_title_01",
+       "content": "人格資訊縮寫"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_03_desc_01",
+       "content": "能夠確認人格裝備的E.G.O以及所持技能。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_04_title_01",
+       "content": "技能"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_04_desc_01",
+       "content": "每個人格都擁有不同的技能。在此處可以確認技能的詳細資訊。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_05_desc_01",
+       "content": "參與戰鬥的人格能夠使用戰鬥被動技能。每回合開始時，若滿足條件則會觸發相應戰鬥被動技能。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_06_desc_01",
+       "content": "未參與戰鬥的人格能夠使用支援被動技能。每回合開始時，若滿足條件則會觸發相應支援被動技能。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_07_title_01",
+       "content": "技能圖示"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_07_desc_01",
+       "content": "透過技能圖示的顏色可以區分其罪惡屬性。罪惡屬性被分為暴怒，色欲，怠惰，暴食，憂鬱，傲慢，嫉妒七種顏色。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_08_desc_01",
+       "content": "技能圖示底部顯示攻擊類型。攻擊類型分為斬擊、突刺和打擊。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_08_desc_02",
+       "content": "技能圖示左側顯示技能的基礎威力。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_08_desc_03",
+       "content": "技能圖示頂部顯示硬幣威力。硬幣威力的計算方式分別為加算、減算、乘算。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_09_desc_01",
+       "content": "顯示技能硬幣總數。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_09_desc_02",
+       "content": "顯示技能名稱和人格擁有的技能數量。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_09_desc_03",
+       "content": "顯示技能攻擊等級變動值。技能攻擊等級與目標防禦等級差距過大時，傷害將大幅提升或降低。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_10_desc_01",
+       "content": "顯示技能的攻擊容量。技能的攻擊容量與目標的行動槽容量相對應。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_11_title_01",
+       "content": "技能效果"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_11_desc_01",
+       "content": "滿足一定條件便能發動的技能效果。"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_11_title_02",
+       "content": "硬幣效果"
+     },
+     {
+       "id": "tutorial_mainui_03_identityinfo_page_11_desc_02",
+       "content": "該硬幣滿足條件便能發動的效果。判定失敗後無法發動硬幣效果。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo",
+       "content": "E.G.O訊息"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_01_title_01",
+       "content": "異想解析階段"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_01_desc_01",
+       "content": "異想解析階段越高，技能效果越得以強化。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_02_title_01",
+       "content": "抗性資訊"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_02_desc_01",
+       "content": "能夠顯示E.G.O的抗性訊息。人格使用E.G.O技能後，該人格的罪孽抗性會被替換為E.G.O的罪孽抗性。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_02_title_02",
+       "content": "理性消耗量"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_02_desc_02",
+       "content": "使用E.G.O技能時消耗的理智值。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_02_title_03",
+       "content": "罪孽碎片消耗量"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_02_desc_03",
+       "content": "顯示使用E.G.O技能所消耗的罪惡碎片。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_03_title_01",
+       "content": "E.G.O技能"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_03_desc_01",
+       "content": "E.G.O擁有強大的技能效果與力量。能夠確認E.G.O技能的詳細資料。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_04_desc_01",
+       "content": "當人格在理智值較低的情況下使用E.G.O技能時，有機率引發E.G.O侵蝕，技能威力和技能效果會更強。\n但是無法控制其攻擊的目標，甚至可能會攻擊友 方單位。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_05_desc_01",
+       "content": "生成E.G.O技能時，可以消耗1.5倍的理智值與罪孽碎片來強制使用E.G.O侵蝕，這稱為E.G.O超頻。\n在戰鬥中選擇E.G.O技能時，可以長摁E.G.O來使用E.G.O超頻 。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_05_desc_02",
+       "content": "使用E.G.O超頻時，如果罪惡碎片充足，則使用穩定超頻，使其可選擇攻擊目標。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_05_desc_03",
+       "content": "如果罪惡碎片不足，則使用不穩定超頻，無法選取攻擊目標。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_06_desc_01",
+       "content": "使用E.G.O技能將啟動E.G.O的被動技能效果。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_07_title_01",
+       "content": "技能圖示"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_07_desc_01",
+       "content": "透過技能圖示的顏色可以區分其罪惡屬性。罪惡屬性被分為暴怒，色欲，怠惰，暴食，憂鬱，傲慢，嫉妒七種顏色。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_08_desc_01",
+       "content": "技能圖示底部顯示攻擊類型。攻擊類型分為斬擊、突刺和打擊。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_08_desc_02",
+       "content": "技能圖示左側顯示技能的基礎威力。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_08_desc_03",
+       "content": "技能圖示頂部顯示硬幣威力。硬幣威力的計算方式分別為加算、減算、乘算。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_09_desc_01",
+       "content": "顯示技能硬幣總數。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_09_desc_02",
+       "content": "顯示技能攻擊等級變動值。技能攻擊等級與目標防禦等級差距過大時，傷害將大幅提升或降低。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_09_desc_03",
+       "content": "顯示技能的攻擊容量。技能的攻擊容量與目標的行動槽容量相對應。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_10_title_01",
+       "content": "技能效果"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_10_desc_01",
+       "content": "滿足一定條件便能發動的技能效果。"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_10_title_02",
+       "content": "硬幣效果"
+     },
+     {
+       "id": "tutorial_mainui_04_egoinfo_page_10_desc_02",
+       "content": "該硬幣滿足條件便能發動的效果。判定失敗後無法發動硬幣效果。"
+     },
+     {
+       "id": "tutorial_mainui_05_storymain",
+       "content": "主線故事"
+     },
+     {
+       "id": "tutorial_mainui_05_storymain_page_01_title_01",
+       "content": "選擇章節"
+     },
+     {
+       "id": "tutorial_mainui_05_storymain_page_01_desc_01",
+       "content": "能夠在推進關卡的同時重複閱讀主線故事。可以選擇故事章節。"
+     },
+     {
+       "id": "tutorial_mainui_05_storymain_page_02_title_01",
+       "content": "主線故事列表"
+     },
+     {
+       "id": "tutorial_mainui_05_storymain_page_02_desc_01",
+       "content": "能夠選擇故事並進行觀看。"
+     },
+     {
+       "id": "tutorial_mainui_05_storymain_page_03_title_01",
+       "content": "故事位置"
+     },
+     {
+       "id": "tutorial_mainui_05_storymain_page_03_desc_01",
+       "content": "能夠確認所選故事出現的關卡。"
+     },
+     {
+       "id": "tutorial_mainui_06_storyidentity",
+       "content": "人格故事"
+     },
+     {
+       "id": "tutorial_mainui_06_storyidentity_page_01_title_01",
+       "content": "選擇罪人"
+     },
+     {
+       "id": "tutorial_mainui_06_storyidentity_page_01_desc_01",
+       "content": "能夠閱讀邊獄公司罪人們的故事和訊息。選擇罪人。"
+     },
+     {
+       "id": "tutorial_mainui_06_storyidentity_page_02_title_01",
+       "content": "選擇人格"
+     },
+     {
+       "id": "tutorial_mainui_06_storyidentity_page_02_desc_01",
+       "content": "能夠展現罪人的人格一覽。"
+     },
+     {
+       "id": "tutorial_mainui_06_storyidentity_page_03_title_01",
+       "content": "人格故事"
+     },
+     {
+       "id": "tutorial_mainui_06_storyidentity_page_03_desc_01",
+       "content": "能夠閱讀該人格的故事。"
+     },
+     {
+       "id": "tutorial_mainui_06_storyidentity_page_04_title_01",
+       "content": "語音台詞"
+     },
+     {
+       "id": "tutorial_mainui_06_storyidentity_page_04_desc_01",
+       "content": "能夠閱讀並試聽人格的語音台詞。"
+     },
+     {
+       "id": "tutorial_mainui_07_storymirror",
+       "content": "鏡像世界"
+     },
+     {
+       "id": "tutorial_mainui_07_storymirror_page_01_title_01",
+       "content": "鏡像世界"
+     },
+     {
+       "id": "tutorial_mainui_07_storymirror_page_01_desc_01",
+       "content": "選擇後，將會切換為鏡像世界一覽表。"
+     },
+     {
+       "id": "tutorial_mainui_07_storymirror_page_01_title_02",
+       "content": "鏡像世界列表"
+     },
+     {
+       "id": "tutorial_mainui_07_storymirror_page_01_desc_02",
+       "content": "鏡像世界根據不同的人格故事分為不同的類別。能夠確認不同的鏡像世界以及世界中登場的團體。"
+     },
+     {
+       "id": "tutorial_mainui_07_storymirror_page_02_title_01",
+       "content": "鏡像故事"
+     },
+     {
+       "id": "tutorial_mainui_07_storymirror_page_02_desc_01",
+       "content": "能夠閱讀以鏡像世界為基礎的人格故事。"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain",
+       "content": "主線關卡"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_01_title_01",
+       "content": "關卡"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_01_desc_01",
+       "content": "能夠選擇關卡並入場。"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_02_desc_01",
+       "content": "戰鬥勝利後會顯示關卡通關。"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_02_desc_02",
+       "content": "達成EX通關條件時將會顯示EX通關，並獲得額外獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_03_title_01",
+       "content": "關卡故事"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_03_desc_01",
+       "content": "能夠閱讀該關卡的劇情故事。"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_03_title_02",
+       "content": "關卡說明"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_03_desc_02",
+       "content": "能夠確認關於該關卡的說明及關卡故事。"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_03_title_03",
+       "content": "敵方情報"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_03_desc_03",
+       "content": "能夠確認關於敵人的資訊。對於部分強力敵人，需要遭遇後才能確認訊息。"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_04_title_01",
+       "content": "EX通關條件"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_04_desc_01",
+       "content": "顯示EX通關所需條件。"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_04_title_02",
+       "content": "進入戰鬥"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_04_desc_02",
+       "content": "進入戰鬥關卡時需要消耗腦啡肽。"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_05_title_01",
+       "content": "戰鬥參與人數"
+     },
+     {
+       "id": "tutorial_mainui_08_stagemain_page_05_desc_01",
+       "content": "進入關卡的人數有所限制。"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon",
+       "content": "故事迷宮"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_01_title_01",
+       "content": "故事迷宮訊息視窗"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_01_desc_01",
+       "content": "在各章節的最後關卡將會出現迷宮。入場時將消耗腦啡肽模組。"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_02_title_01",
+       "content": "迷宮探索"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_02_desc_01",
+       "content": "能夠透過選擇與目前節點相鄰的節點來推進探索。在各個節點將會遭遇不同的戰鬥或事件。"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_03_title_01",
+       "content": "罪人體力量狀況"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_03_desc_01",
+       "content": "迷宮探索期間，罪人的體力，理智值以及陣亡狀態將會延續。"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_03_title_02",
+       "content": "存檔點"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_03_desc_02",
+       "content": "到達存檔點後，全體罪人的體力與理智值將得到回應。"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_04_title_01",
+       "content": "E.G.O飾品"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_04_desc_01",
+       "content": "隨著迷宮推進，將會獲得E.G.O飾品。獲得的E.G.O飾品是適用於迷宮的，能夠給予強力效果的道具。"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_04_title_02",
+       "content": "進入下一層"
+     },
+     {
+       "id": "tutorial_mainui_09_stagedungeon_page_04_desc_02",
+       "content": "迷宮由數個階層構成，通關本層最後的節點後，能夠移動至下一層。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon",
+       "content": "鏡像迷宮"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_01_title_01",
+       "content": "鏡像迷宮清單"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_01_desc_01",
+       "content": "能夠在眾多鏡像迷宮中選擇其一入場。需要消耗腦啡肽模組來獲得獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_02_title_01",
+       "content": "E.G.O飾品列表"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_02_desc_01",
+       "content": "能夠確認鏡像迷宮中出現的E.G.O飾品，部分E.G.O擁有特殊的解鎖條件。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_03_title_01",
+       "content": "初始E.G.O飾品選擇"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_03_desc_01",
+       "content": "進入鏡像迷宮時，將會隨機選出幾個E.G.O飾品。從中選擇一個後，在推進鏡像迷宮時能夠獲得特殊效果。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_04_title_01",
+       "content": "選擇罪人"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_04_desc_01",
+       "content": "能夠從全體罪人中選擇三名並組成編隊。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_05_title_01",
+       "content": "選擇人格"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_05_desc_01",
+       "content": "能夠編輯所選罪人的人格。鏡像迷宮中使用了不同的強化方式，所有人格在編輯階段都將是10級。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_06_title_01",
+       "content": "選擇E.G.O"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_06_desc_01",
+       "content": "能夠為所選罪人裝備E.G.O。在最初的編輯階段只能選擇ZAYIN級的E.G.O。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_07_title_01",
+       "content": "鏡像迷宮探索"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_07_desc_01",
+       "content": "鏡像迷宮中，將會隨機產生入場後的節點以及道路。選擇與當前節點相鄰的節點並推進後，在各個節點將會隨機生成不同類型的戰鬥及事件。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_08_title_01",
+       "content": "E.G.O飾品"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_01",
+       "content": "隨著迷宮推進，將會獲得E.G.O飾品。獲得的E.G.O飾品是適用於迷宮的，能夠給予強力效果的道具。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_08_title_02",
+       "content": "罪人體力量狀況"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_02",
+       "content": "迷宮探索期間，罪人的體力，理智值以及陣亡狀態將會延續。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_09_title_01",
+       "content": "選擇罪人"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_01",
+       "content": "透過部分事件，能夠追加罪人編入隊伍中。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_09_title_02",
+       "content": "升級"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_02",
+       "content": "鏡像迷宮中使用了不同的強化方式。透過戰鬥或是事件能夠升級並追加裝備E.G.O。"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_10_title_01",
+       "content": "鏡像迷宮獎勵"
+     },
+     {
+       "id": "tutorial_mainui_10_mirrordungeon_page_10_desc_01",
+       "content": "通關鏡像迷宮後將會獲得獎勵。每週能夠領取固定次數的額外獎勵。獎勵數目與通關的節點數量成比例。"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction",
+       "content": "提取"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_01_title_01",
+       "content": "提取型別"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_01_desc_01",
+       "content": "能夠選擇常規提取或是定向提取"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_01_title_02",
+       "content": "提取"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_01_desc_02",
+       "content": "能夠使用狂氣提取人格及E.G.O."
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_02_title_01",
+       "content": "定向提取期"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_02_desc_01",
+       "content": "能夠確認定向提取的持續時間。"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_02_title_02",
+       "content": "定向提取物件"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_02_desc_02",
+       "content": "能夠確認機率提升的人格及E.G.O的詳細資料。"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_03_title_01",
+       "content": "提取歷史"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_03_desc_01",
+       "content": "能夠確認提取歷史。"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_03_title_02",
+       "content": "詳細機率"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_03_desc_02",
+       "content": "能夠確認人格及E.G.O被提取出的機率。"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_04_title_01",
+       "content": "自我碎片"
+     },
+     {
+       "id": "tutorial_mainui_11_extraction_page_04_desc_01",
+       "content": "當獲得重複的人格時，將會根據人格等級（星級）獲得自我片段。"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine",
+       "content": "售貨機"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_01_title_01",
+       "content": "售貨機商品列表"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_01_desc_01",
+       "content": "能夠使用自我碎片購買未擁有的人格及E.G.O。"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_02_title_01",
+       "content": "售貨機種類"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_02_desc_01",
+       "content": "能夠購買常駐或是特定季度的人格及E.G.O。"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_03_title_01",
+       "content": "選擇販賣機商品"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_03_desc_01",
+       "content": "想要購買人格或E.G.O，需要擁有該罪人的自我片段。"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_04_title_01",
+       "content": "購買紡錘"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_04_desc_01",
+       "content": "能夠使用自我碎片購買紡錘。"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_04_title_02",
+       "content": "紡錘"
+     },
+     {
+       "id": "tutorial_mainui_12_vendingmachine_page_04_desc_02",
+       "content": "紡錘可以用於人格同步或是E.G.O異想解析。"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_manager",
+       "content": "經理介紹"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_01_title_01",
+       "content": "玩家資訊清單"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_01_desc_01",
+       "content": "能夠確認玩家訊息，助戰角色及好友訊息。"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_02_title_01",
+       "content": "玩家資訊"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_02_desc_01",
+       "content": "顯示玩家ID及帳戶等級。"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_02_title_02",
+       "content": "橫幅"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_02_desc_02",
+       "content": "能夠設定裝飾橫幅。"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_03_title_01",
+       "content": "設定罪人代表"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_03_desc_01",
+       "content": "能夠從已有罪人設定罪人代表的插畫。"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_04_title_01",
+       "content": "插畫清單"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_04_desc_01",
+       "content": "能夠確認已有人格及E.G.O的插畫。"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_05_title_01",
+       "content": "簡介"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_05_desc_01",
+       "content": "能夠透過組合固定的文本，來設定自己的簡介。"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_06_title_01",
+       "content": "簡介設定"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_06_desc_01",
+       "content": "能夠透過組合句子和單字，來設定自己的簡介。"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_company",
+       "content": "公司"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_07_title_01",
+       "content": "助戰人格列表"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_07_desc_01",
+       "content": "能夠設定助戰的人格及E.G.O."
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_friend",
+       "content": "好友"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_08_title_01",
+       "content": "好友清單"
+     },
+     {
+       "id": "tutorial_mainui_13_userinfo_page_08_desc_01",
+       "content": "能夠確認好友的ID，橫幅，簡介，登陸日期，以及新增好友。"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_title",
+       "content": "戰鬥通行證"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_01_title_01",
+       "content": "戰鬥通行證獎勵"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_01_desc_01",
+       "content": "能夠確認及領取每等級免費及付費通行證的獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_02_title_01",
+       "content": "戰鬥通行證持續時間及名稱"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_02_desc_01",
+       "content": "能夠確認戰鬥通行證持續的時間及季度名稱。"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_02_title_02",
+       "content": "戰鬥通行證等級及進度"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_02_desc_02",
+       "content": "能夠確認戰鬥通行證的進度。"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_03_title_01",
+       "content": "戰鬥通行證任務"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_03_desc_01",
+       "content": "任務清單中顯示了完成後將會獲得的通行證進度。分為日常，週常及季度任務。"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_04_title_01",
+       "content": "戰鬥通行證超額獎勵"
+     },
+     {
+       "id": "tutorial_mainui_14_battlepass_page_04_desc_01",
+       "content": "當戰鬥通行證等級超出獎勵等級後再次升級，將會獲得超額獎勵。購買了付費通行證後，將會獲得更多的超額獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_15_exp_dungeon_title",
+       "content": "經驗採掘"
+     },
+     {
+       "id": "tutorial_mainui_15_exp_dungeon_page_01_title_01",
+       "content": "經驗採掘清單"
+     },
+     {
+       "id": "tutorial_mainui_15_exp_dungeon_page_01_desc_01",
+       "content": "能夠從符合推薦等級的經驗採掘中選擇其一入場。入場時需要消耗腦啡肽模組。"
+     },
+     {
+       "id": "tutorial_mainui_15_exp_dungeon_page_02_title_01",
+       "content": "有效屬性"
+     },
+     {
+       "id": "tutorial_mainui_15_exp_dungeon_page_02_desc_01",
+       "content": "在經驗採掘中出現的敵人均擁有特殊的物理抗性及屬性抗性。在對應關卡中將會標示有效屬性。"
+     },
+     {
+       "id": "tutorial_mainui_15_exp_dungeon_page_03_title_01",
+       "content": "經驗採掘 獎勵"
+     },
+     {
+       "id": "tutorial_mainui_15_exp_dungeon_page_03_desc_01",
+       "content": "通關經驗採掘後將會獲得戰鬥經驗及人格訓練券，且每日可以獲得一定次數的額外獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_16_thread_dungeon_title",
+       "content": "紡錘採掘"
+     },
+     {
+       "id": "tutorial_mainui_16_thread_dungeon_01_title_01",
+       "content": "紡錘採掘清單"
+     },
+     {
+       "id": "tutorial_mainui_16_thread_dungeon_page_01_desc_01",
+       "content": "所開放的異想體戰鬥根據星期不同而變化。進入戰鬥關卡時需要消耗腦啡肽模組。"
+     },
+     {
+       "id": "tutorial_mainui_16_thread_dungeon_page_02_title_01",
+       "content": "有效屬性"
+     },
+     {
+       "id": "tutorial_mainui_16_thread_dungeon_page_02_desc_01",
+       "content": "在紡錘採掘中出現的敵人均擁有特殊的物理抗性及屬性抗性。在對應關卡中將會標示有效的罪惡屬性。"
+     },
+     {
+       "id": "tutorial_mainui_16_thread_dungeon_page_03_title_01",
+       "content": "選擇等級。"
+     },
+     {
+       "id": "tutorial_mainui_16_thread_dungeon_page_03_desc_01",
+       "content": "能夠從符合推薦等級的紡錘採掘中選擇其一入場。"
+     },
+     {
+       "id": "tutorial_mainui_16_thread_dungeon_page_04_title_01",
+       "content": "紡錘採掘 獎勵"
+     },
+     {
+       "id": "tutorial_mainui_16_thread_dungeon_page_04_desc_01",
+       "content": "通關紡錘採掘後將會獲得紡錘，且每日可以獲得一定次數的額外獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_title",
+       "content": "折射軌道"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_01_title_01",
+       "content": "折射軌道 開放"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_01_desc_01",
+       "content": "折射軌道運行期間，會出現可以進入的線路。\n您可以選擇路線，且不消耗任何資源自由入場。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_02_title_01",
+       "content": "運行期間"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_02_desc_01",
+       "content": "折射軌道運行時間將會顯示在線路旁。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_03_desc_01",
+       "content": "進入關卡前，您可以選擇所擁有的人格與E.G.O來組成隊伍。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_04_desc_01",
+       "content": "與其他戰鬥方式不同，編隊完成且進入關卡後所進行的人格同步或異想解析，將不會反饋進此編隊中。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_05_desc_01",
+       "content": "戰鬥中更無法更改編隊伍。\n如果想要回饋人格及E.G.O的升級情況，或更換成其他人格、E.G.O後重新進入關卡，需要從第一關開始重新挑戰。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_06_title_01",
+       "content": "折射軌道 主介面"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_06_desc_01",
+       "content": "折射軌道總共由13個關卡構成。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_07_title_01",
+       "content": "戰鬥"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_07_desc_01",
+       "content": "折射軌道中的所有戰鬥皆與集中遭遇戰相同，友方單位的所有技能均能夠直接對應敵方行動槽。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_08_title_01",
+       "content": "現有罪孽碎片"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_08_desc_01",
+       "content": "通關本場戰鬥後剩餘的罪孽碎片在到下場戰鬥依舊能夠使用。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_08_title_02",
+       "content": "人格狀態"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_08_desc_02",
+       "content": "能夠表示編隊中人格的體力，理智值以及陣亡狀態。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_09_title_01",
+       "content": "通關回合數與累計通關回合數"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_09_desc_01",
+       "content": "通關關卡後，將會記錄通關本次關卡所消耗的回合數，以及從第一關開始累積消耗的回合數。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_10_title_01",
+       "content": "人格狀態"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_10_desc_01",
+       "content": "能夠表示編隊中人格的體力，理智值以及陣亡狀態。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_11_title_01",
+       "content": "橫幅取得條件"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_11_desc_01",
+       "content": "能夠確認活動橫幅的取得條件。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_11_desc_02",
+       "content": "取得條件越為苛刻，所能獲得的裝飾橫幅越為特別。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_12_title_01",
+       "content": "失物招領"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_12_desc_01",
+       "content": "第一次通關關卡時，該關卡的獎勵將會記錄進失物招領。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_12_desc_02",
+       "content": "活動期間，初次通關獎勵將會累計存放在失物招領。\n初次在失物招領領取獎勵，需要消耗一定量的腦啡肽模組。\n在此之後，無須消耗更多腦啡 肽模組，可以隨時領取獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_13_title_01",
+       "content": "累計記錄"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_13_desc_01",
+       "content": "在您通過最終關卡後，本次探索的成績將會被記錄，最多記錄20次。\n記錄數量超出20次時，新記錄會優先覆蓋消耗回合數最多的記錄。\n 有多個消耗回合數相同的記錄時，人格陣亡數最多的記錄將被覆蓋。\n若人格陣亡數依然相同，則會覆蓋比較舊的一方。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_14_title_01",
+       "content": "休息"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_14_desc_01",
+       "content": "參與戰鬥的人格的體力和精神力在參加下一階段戰鬥時保持不變。\n相反，如果該人格在不參加下一階段戰鬥的情況下休息，則進入下一階段時， 體力將完全恢復，精神力將重設為0。\n但是，如果精神力為0以上，則不會初始化為0。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_15_title_01",
+       "content": "記錄更新"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_15_desc_01",
+       "content": "挑戰期間，可以回到已通關的特定關卡並重新開始挑戰。\n重新挑戰時，會以挑戰該關卡時的人格狀態及所持的罪孽碎片數量開始戰鬥。在此之後的通關 記錄將會被重置。"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_16_title_01",
+       "content": "折射軌道 特殊裝飾橫幅"
+     },
+     {
+       "id": "tutorial_mainui_17_railway_page_16_desc_01",
+       "content": "折射軌道運行結束後，在所獲得的橫幅上將會記錄自己排名最高的通關累計回合數記錄。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_title",
+       "content": "地獄雞"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_01_title_01",
+       "content": "地獄雞開放"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_01_desc_01",
+       "content": "[地獄雞活動頁]通過主線故事3-22後開放"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_02_title_01",
+       "content": "活動時間"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_02_desc_01",
+       "content": "此處顯示地獄雞活動持續時間。地獄雞活動期間，可透過活動關卡及迷宮取得[小鳳玩偶]。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_02_desc_02",
+       "content": "※鏡像迷宮，採掘迷宮，折射軌道將無法取得[小鳳玩偶]。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_03_title_01",
+       "content": "活動關卡"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_03_desc_01",
+       "content": "地獄雞共有 8 個普通關卡和 2 個迷宮。\n[小鳳玩偶]除了地獄雞的通關獎勵外，EX通關獎勵也會獲得。(限1次)"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_03_desc_02",
+       "content": "通關地獄雞迷宮所獲得的[小鳳玩偶]數量遠大於一般關卡。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_04_title_01",
+       "content": "活動加成角色"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_04_desc_01",
+       "content": "在隊伍中編入地獄雞活動加成角色與E.G.O後清剿活動關卡及迷宮，能夠提升[小鳳玩偶]的獲取量。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_05_title_01",
+       "content": "獎券兌換"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_05_desc_01",
+       "content": "您可以在[獎金券兌換處]根據所持有的[小鳳玩偶]數量兌換多樣化獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_06_title_01",
+       "content": "獎券兌換"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_06_desc_01",
+       "content": "在[獎券兌換處]中可以獲得各類資源，活動限定人格及E.G.O。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_06_desc_02",
+       "content": "此處展示了[獎金券兌換處]的開放時間。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_07_title_01",
+       "content": "活動迷宮"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_07_desc_01",
+       "content": "地獄雞迷宮的探索方式與鏡像迷宮相同。\n地獄雞迷宮分為兩種難度，特徵區別如下。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_08_title_01",
+       "content": "選擇E.G.O飾品"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_08_desc_01",
+       "content": "鏡像迷宮中的部分E.G.O飾品會出現在Hell's Chicken迷宮中。\n此類E.G.O飾品將會對人格及E.G.O進行有效輔助。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_09_title_01",
+       "content": "活動迷宮編隊"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_09_desc_01",
+       "content": "在Hell's Chicken迷宮中，你以5個人格編隊開始探險。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_09_title_02",
+       "content": "使用預先設定"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_09_desc_02",
+       "content": "在Hell's Chicken迷宮中，增加了提升便利性的功能。\n透過預先配置按鍵，您可以迅速以上一次所使用的編隊來進行探索。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_10_title_01",
+       "content": "活動迷宮構成"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_10_desc_01",
+       "content": "進入Hell's Chicken迷宮時，將與鏡像迷宮類似，隨機生成節點及線路。\nHell's Chicken迷宮僅由一層組成，最終節點將會出現固定的boss。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_11_title_01",
+       "content": "Hell's Chicken專屬事件"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_11_desc_01",
+       "content": "在Hell's Chicken迷宮中將會遇到特殊事件及E.G.O飾品。\nHell's Chicken迷宮專屬事件可以透過節點下方的標誌輕鬆識別。"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_12_title_01",
+       "content": "活動結束"
+     },
+     {
+       "id": "tutorial_mainui_18_hells_chicken_12_desc_01",
+       "content": "活動結束後，您也仍然可以透過駕駛席-[外傳故事]及放映室-[其他故事]，隨時重溫Hell's Chicken的關卡和故事。"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_title",
+       "content": "賽季介紹"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_01_title_01",
+       "content": "賽季期間"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_01_desc_01",
+       "content": "當新賽季開始時，會有全新的戰鬥通行證上線。\n戰鬥通行證頁面能確認當前賽季的持續時間。"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_02_title_01",
+       "content": "戰鬥通行證獎勵"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_02_desc_01",
+       "content": "在戰鬥通行證頁面能確認當前賽季的資源和E.G.O。"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_03_title_01",
+       "content": "人格&E.G.O的賽季訊息"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_03_desc_01",
+       "content": "人格資訊或E.G.O訊息的名字下方有賽季情報標識。\n沒有賽季情報標識人格或E.G.O劃分至[標準]。"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_04_title_01",
+       "content": "活動人格&E.G.O的賽季資訊"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_04_desc_01",
+       "content": "活動人格和E.G.O會在賽季情報識別旁額外註明[EVENT]。"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_05_title_01",
+       "content": "自我碎片"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_05_desc_01",
+       "content": "自我碎片可在規定賽季期間使用。\n\n當新賽季開始時，上一季的自我碎片總數的一半將轉移至下一賽季。(向上取整)\n\n過去 多個賽季未轉換的自我碎片的轉換率將在下一賽季中減半。\n\n其餘的自我碎片將被轉換為紡錘。"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_06_title_01",
+       "content": "隨機自我碎片箱&自選自我碎片箱"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_06_desc_01",
+       "content": "同理，自我碎片箱可在規定賽季期間內使用。\n\n當新賽季開始時，上一賽季的自我碎片箱總數的一半將轉移至下一賽季。\n\n 過去多個賽季中未轉換的自我碎片箱的轉換率將在下一賽季減半。\n\n其餘的自我碎片箱將會被轉換為紡錘箱。"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_07_title_01",
+       "content": "提取"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_07_desc_01",
+       "content": "當新賽季開始時，提取列表將追加新賽季人格和E.G.O。\n即使賽季變更，過去賽季的人格會保留在提取列表中，供您提取獲得。"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_08_title_01",
+       "content": "售貨機"
+     },
+     {
+       "id": "tutorial_manual_1_season_information_08_desc_01",
+       "content": "與提取同理，當新賽季開始時，售貨機列表也將追加新賽季人格和E.G.O。\n此外，您也能交換先前賽季戰鬥通行證中的人格與E.G.O。\n\n 不過，前一季的可提取人格不會出現在售貨機列表中。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon",
+       "content": "鏡像迷宮"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_01",
+       "content": "鏡像迷宮清單"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_01",
+       "content": "能夠從清單中選擇一個鏡像迷宮進入。\n每次僅能探索一個鏡像迷宮，如果您想在探險過程中進入另一個迷宮，您必須先清除或放棄正在進行的鏡像迷宮。 \n每個鏡像迷宮分為兩個難度：簡單和困難。起始之鏡不包含困難模式。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_02",
+       "content": "每週額外獎勵"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_02",
+       "content": "鏡像迷宮每週會提供3次額外的獎勵，在結束時使用則可收穫獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_03",
+       "content": "解鎖條件"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_03",
+       "content": "每個鏡像迷宮都存在開放條件。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_04",
+       "content": "E.G.O飾品圖鑑"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_04",
+       "content": "能夠查看在鏡像迷宮中出現過的E.G.O飾品。\n在鏡像迷宮中，未獲得過的E.G.O飾品將顯示為“無數據”"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_05",
+       "content": "初始E.G.O飾品選擇"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_05",
+       "content": "進入鏡像迷宮時，將會隨機選出幾個E.G.O飾品。從中選擇一個後，在推進鏡像迷宮時能夠獲得特殊效果。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_06",
+       "content": "選擇罪人"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_06",
+       "content": "能夠選擇參與鏡像迷宮探索的罪人。\n每個鏡像迷宮初始可編排的最大罪人數固定的。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_07",
+       "content": "持有E.G.O飾品列表"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_07",
+       "content": "能夠查看目前擁有的E.G.O飾品。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_08",
+       "content": "使用預先設定"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_08",
+       "content": "使用預設時，可以載入在罪人介面設定的人格與E.G.O。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_09",
+       "content": "經費"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_09",
+       "content": "能夠在此處查看您所持有的經費。\n經費可用於在商店處購買E.G.O飾品，也可以在商店處或休息區購買新的人格和E.G.O飾品。\n在普通難度 下，不會獲得初始經費，但初始編隊不需要任何經費。\n在困難模式下，提供一定初始經費，並且初始編隊需要消耗經費。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_10",
+       "content": "選擇人格"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_10",
+       "content": "能夠選擇罪人的人格。\n在鏡像迷宮中，所有人格將自動應用每個鏡像迷宮的人格等級。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_11",
+       "content": "選擇E.G.O"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_11",
+       "content": "為所選罪人選擇E.G.O."
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_12",
+       "content": "進入鏡像迷宮"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_12",
+       "content": "完成初始人格設定後，按下「確認」能夠進入鏡像迷宮。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_13",
+       "content": "鏡像迷宮探索"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_13",
+       "content": "每次進入鏡像迷宮中，將會隨機產生節點和路徑。\n可以移動至與目前節點相鄰的節點，在各節點中將會隨機觸發各種戰鬥與事件。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_14",
+       "content": "E.G.O飾品"},
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_14",
+       "content": "在探索迷宮的過程中，將會獲得E.G.O飾品。\n獲得的E.G.O飾品是適用於迷宮的，能夠給予強力效果的道具。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_15",
+       "content": "罪人體力量狀況"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_15",
+       "content": "迷宮探索期間，罪人的體力，理智值以及陣亡狀態將會延續。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_16",
+       "content": "關卡有利屬性"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_16",
+       "content": "在鏡像迷宮的戰鬥節點下方會顯示對敵人的有利屬性。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_17",
+       "content": "休息點"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_17",
+       "content": "鏡像迷宮中的休息點能夠免費治療友方單位，或花費經費來追加人格或購買E.G.O飾品。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_18",
+       "content": "商店"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_18",
+       "content": "鏡像迷宮中的商店，能夠透過消耗戰鬥中獲得的經費購買E.G.O飾品，治療友方單位，追加人格與E.G.O，強化所顯示的人格。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_19",
+       "content": "鏡像迷宮獎勵"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_19",
+       "content": "在探險結束後，能夠花費腦啡肽模組來領取獎勵。\n如果使用每週3次的額外獎勵次數，可以獲得大量的戰鬥通行證經驗和定量狂氣。\n獎勵數量根據通關 節點的數量發放。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_20",
+       "content": "困難難度獎勵"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_20",
+       "content": "當鏡像迷宮的困難難度解鎖時，困難難度獎勵計數將顯示在上方。\n困難模式中能夠獲得更多的戰鬥通行證經驗值，但每週只能領取1次獎勵。\n困難難度獎勵和每週獎勵相互獨立。您可以透過將每週獎勵應用於困難難度獎勵來最大限度地提高您獲取獎勵的效率。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_21",
+       "content": "開局增益"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_21",
+       "content": "從鏡中之鏡開始，可以啟動開局增益。"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_title_22",
+       "content": "開局增益效果"
+     },
+     {
+       "id": "tutorial_mainui_19_mirrordungeon_desc_22",
+       "content": "開局增益可以透過「星芒」系統激活，它為您的迷宮探險提供各種增益效果。\n星芒可以透過通關鏡像迷宮獲得。到達更深的迷宮會獲得更多星芒。 \n在特定的鏡像迷宮中，開局增益同時適用於普通模式和困難模式，但不會影響其他鏡像迷宮。\n在特定的鏡像迷宮中獲得的星芒無法用於激活其他鏡像迷宮的開局增益 。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_title",
+       "content": "去・海・邊"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_01_title_01",
+       "content": "去・海・邊 開放"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_01_desc_01",
+       "content": "[去・海・邊活動頁面]在通過主線故事4-54後開放。\n您可以透過車窗或駕駛席上的活動橫幅進入。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_02_title_01",
+       "content": "活動時間"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_02_desc_01",
+       "content": "此處顯示去・海・邊活動持續時間。去・海・邊活動期間，您可以透過活動關卡以及主線故事中的關卡與迷宮來獲得巴士改造廢料。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_02_desc_02",
+       "content": "※鏡像迷宮，採掘迷宮，折射軌道將無法取得[巴士改造廢棄物]。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_03_title_01",
+       "content": "活動關卡"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_03_desc_01",
+       "content": "去・海・邊包括劇情關卡在內共有12關。\n[巴士改造廢料]除了去・海・邊的通關獎勵外，EX通關獎勵也會獲得。(限1次) "
+     },
+     {
+       "id": "tutorial_mainui_20_umida_03_desc_02",
+       "content": "通關去・海・邊活動關卡所獲得的[巴士改造廢料]數量遠大於主線故事關卡。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_04_title_01",
+       "content": "活動加成角色"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_04_desc_01",
+       "content": "在隊伍中編入去・海・邊活動加成角色與E.G.O後清剿活動關卡及迷宮，能夠提升[巴士改造廢料]的獲取量。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_05_title_01",
+       "content": "廢料回收箱"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_05_desc_01",
+       "content": "您可以在[廢料收集箱]根據所持有的[巴士改造廢料]數量兌換多樣化獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_06_title_01",
+       "content": "廢料回收箱"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_06_desc_01",
+       "content": "在[廢料收集箱]中可以獲得各類資源，活動限定人格及E.G.O."
+     },
+     {
+       "id": "tutorial_mainui_20_umida_06_desc_02",
+       "content": "此處展示了[廢料收集箱]的開放時間。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_07_title_01",
+       "content": "活動關卡"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_07_desc_01",
+       "content": "去・海・邊沒有迷宮；由一個你可以獲得更多[巴士改造廢料]的特殊關卡作為替代。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_07_desc_02",
+       "content": "這個特殊關卡是透過消耗腦啡肽模組來進入。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_08_title_01",
+       "content": "含有稀有馬蹄鐵的巴士改造廢料"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_08_desc_01",
+       "content": "戰鬥勝利後，有小概率獲得[含有稀有馬蹄鐵的巴士改造廢料]。\n所獲得的[含有稀有馬蹄鐵的巴士改造廢料]將自動轉化為20個[巴士改造廢料]。"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_09_title_01",
+       "content": "活動結束"
+     },
+     {
+       "id": "tutorial_mainui_20_umida_09_desc_01",
+       "content": "活動結束後，您也依然可以通過駕駛席-[外傳故事]及放映室-[其他故事]，隨時重溫去・海・邊的關卡和故事。 "
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_01_title_01",
+       "content": "如何進入戰鬥"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_01_desc_01",
+       "content": "進入折射軌道2號線時無需消耗任何資源。選擇路線即可入場。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_02_title_01",
+       "content": "編隊"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_02_desc_01",
+       "content": "進入關卡時，您可以選擇所擁有的人格與E.G.O來組成隊伍。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_03_desc_01",
+       "content": "戰鬥中更無法更改編隊，且與其他戰鬥方式不同，編隊完成並進入關卡後所進行的人格同步或異想解析，將不會反饋進此編隊中"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_04_title_01",
+       "content": "2號線站台"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_04_desc_01",
+       "content": "折射軌道2號線總共由9個關卡構成。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_05_desc_01",
+       "content": "選擇網站並進入戰鬥"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_05_desc_02",
+       "content": "通關網站後所獲得的獎勵將會顯示在本關下方。部分網站的獎勵需要達到一定巡迴數才會解鎖。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_06_title_01",
+       "content": "戰鬥編隊"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_06_desc_01",
+       "content": "戰鬥最多可編入7人。但若在不滿7人的情況下進入戰鬥，人格的行動槽並不會隨著回合數增加。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_07_title_01",
+       "content": "戰鬥"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_07_desc_01",
+       "content": "所有戰鬥皆與集中遭遇戰相同，友方單位的所有技能均能夠直接對應敵方行動槽。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_07_desc_02",
+       "content": "通關關卡後，參與戰鬥的人格及其體力、理智值，儀錶板上的技能、各個人格已使用的技能及剩餘技能將會保存。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_08_desc_01",
+       "content": "通關本場戰鬥後剩餘的罪孽碎片在下一站依舊能夠使用。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_08_desc_02",
+       "content": "能夠顯示巡迴數，以及到達目前站點的總計回合數。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_08_desc_03",
+       "content": "能夠表示編隊中人格的體力，理智值以及陣亡狀態。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_09_desc_01",
+       "content": "進入下一站時將會讀取上一站時所儲存的資料。\n敵我雙方的速度值將在進站時被儲存。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_09_desc_02",
+       "content": "敵我雙方的速度值將在進站時儲存。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_10_desc_01",
+       "content": "放棄關卡時，會回到進入此站之前的狀態。\n以往關卡開始時人格的體力、理智值、速度值、儀錶板上的技能、各人格的技能使用狀態，敵方 單位的速度值將不會改變。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_10_desc_02",
+       "content": "關卡重開時人格的體力、理智值、速度值、儀表板上的技能、各人格的技能使用狀態，敵方單位的速度值將不再改變。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_11_desc_01",
+       "content": "關卡攻略失敗時，可以回到進站前的狀態或是以剩下的人格繼續戰鬥。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_11_desc_02",
+       "content": "繼續進行戰鬥時，不會刷新敵方單位的現存體力，並將在站點上方顯示現存體力的比例條。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_12_title_01",
+       "content": "巡迴"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_12_desc_01",
+       "content": "通關了線路上已開放的所有站點後，可以前往第一站（起點站）並進行巡迴。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_12_desc_02",
+       "content": "選擇巡迴時，將會增加1點巡迴數。部分站會基於巡迴數開放。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_13_title_01",
+       "content": "選擇BUFF"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_13_desc_01",
+       "content": "每當進行巡迴時都可以選擇1個友方BUFF與1個敵方BUFF。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_13_desc_02",
+       "content": "您選擇的所有效果都會在以後的戰鬥中啟動並累積下去。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_14_desc_01",
+       "content": "選擇1種友方BUFF。無法選擇在以往的巡迴中選擇過的效果。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_15_desc_01",
+       "content": "選擇1種敵方BUFF。無法選擇在以往的巡迴中選擇過的效果。\n但是如果已經將所有效果都選過了1遍，則會刷新選擇機會並可以再次選擇您想 要的效果。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_15_desc_03",
+       "content": "除了可以直接選擇的BUFF以外，每次巡迴時都會額外啟動1個固定的BUFF。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_16_desc_01",
+       "content": "每5次巡迴可以復活1個陣亡的人格。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_17_title_01",
+       "content": "終點站"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_17_desc_01",
+       "content": "進行巡迴時（巡迴數不小於1時）路線中央的終點站將會啟動。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_17_desc_02",
+       "content": "終點站啟動後不論身處哪一站都可以隨時進入終點站。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_18_desc_01",
+       "content": "進入終點站後將再也無法回到以往的站點，請您慎重考慮。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_18_desc_02",
+       "content": "折射軌道2號線的最終目標是通關終點站，通關後將會記錄巡迴數、累計回合數、參與的人格與E.G.O以及BUFF列表。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_19_title_01",
+       "content": "橫幅取得條件"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_19_desc_01",
+       "content": "可以在此確認活動橫幅的取得條件。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_19_desc_02",
+       "content": "條件越困難，便會獲得更特殊的橫幅。\n獲得橫幅後，會在上面顯示巡迴數與累計回合數的最大值。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_19_desc_03",
+       "content": "獲得橫幅後，會在上面顯示巡迴數與累計回合數的最大值。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_20_title_01",
+       "content": "失物招領"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_20_desc_01",
+       "content": "初次通關關卡或是滿足特定的條件後，相關的獎勵將會在失物認領所被啟動。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_20_desc_02",
+       "content": "為了領取失物招領中的獎勵，最初需要支付一定數量的腦啡肽模組。後續領取獎勵無需額外消耗腦啡肽模組，並且可以隨時獲取已激活的獎勵。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_21_title_01",
+       "content": "累計記錄"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_21_desc_01",
+       "content": "透過最終關卡時將會儲存摺射軌道的遊玩記錄，最多可以瀏覽20個記錄。"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_21_desc_02",
+       "content": "記錄超過20個時，將會優先刪除巡迴數較少的記錄，而在巡迴數相同的情況下將會優先刪除累計回合數較多的記錄。"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_1_title_01",
+       "content": "路線移動鍵"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_1_desc_01",
+       "content": "通關了路線上已開放的所有站點後將會出現可以前往下一個路線的按鍵。"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_2_title_01",
+       "content": "巡迴"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_2_desc_01",
+       "content": "可以透過路線前往第一站（起點站）"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_2_desc_02",
+       "content": "在此過程中巡迴數將會+1，並且將要選擇今後的戰鬥中將被激活的友方BUFF與敵方BUFF。"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_3_title_01",
+       "content": "選擇BUFF"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_3_desc_01",
+       "content": "每當進行巡迴時都可以選擇1個友方BUFF與1個敵方BUFF。"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_3_desc_02",
+       "content": "您選擇的所有效果都會在以後的戰鬥中啟動並累積下去。"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_4_desc_01",
+       "content": "選擇1種友方BUFF。無法選擇在以往的巡迴中選擇過的效果。"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_5_desc_01",
+       "content": "選擇1種敵方BUFF。無法選擇在以往的巡迴中選擇過的效果。\n但是如果已經將所有效果都選過了1遍，則會刷新選擇機會並可以再次選擇您想 要的效果。"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_5_desc_03",
+       "content": "除了可以直接選擇的BUFF以外，每次巡迴時都會額外啟動1個固定的BUFF。"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_6_title_01",
+       "content": "終點站移動鍵"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_6_desc_01",
+       "content": "完成按鍵選擇後將透過路線前往第一站（起點站）。部分網站將會基於巡迴數額外開放。"
+     },
+     {
+       "id": "tutorial_mainui_22_railway2_page_6_desc_02",
+       "content": "進行巡迴後路線中央的終點站將被激活，並出現可以前往終點站的按鍵。"
+     },
+     {
+       "id": "tutorial_mainui_23_railway2_page_1_desc_01",
+       "content": "進入終點站後將再也無法回到以往的站點，請您慎重考慮。"
+     },
+     {
+       "id": "tutorial_mainui_23_railway2_page_1_desc_02",
+       "content": "折射軌道2號線的最終目標是通關終點站，通關後將會記錄巡迴數、累計回合數、參與的人格與E.G.O以及BUFF列表。"
+     },
+     {
+       "id": "tutorial_mainui_railway2_mainTitle",
+       "content": "折射軌道2號線"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_08_title_01",
+       "content": "終點站移動鍵"
+     },
+     {
+       "id": "tutorial_mainui_21_railway2_page_04_desc_02",
+       "content": "每次入場時之後開放至第3站，第4站至第8站將會基於巡迴數依序開放。"
+     },
      {
        "id": "tutorial_walpurgisnacht_extraction",
        "content": "瓦爾普吉斯之夜"
@@ -1912,7 +1917,7 @@
      },
      {
        "id": "tutorial_mirrordungeon03_page_03_desc_02",
-       "content": "能夠消耗通關鏡像迷宮時所獲得的星芒，來取得鏡像迷宮探索時的加成。"
+       "content": "能夠消耗通關鏡像迷宮時所獲得的星芒，來取得鏡像迷宮探索時的加成。 "
      },
      {
        "id": "tutorial_mirrordungeon03_page_03_title_03",
@@ -2008,7 +2013,7 @@
      },
      {
        "id": "tutorial_mirrordungeon03_page_08_desc_01",
-       "content": "完成人格與E.G.O設定後，按下「確認」即可進入鏡像迷宮。 "
+       "content": "完成人格與E.G.O設定後，按下「確認」即可進入鏡像迷宮。"
      },
      {
        "id": "tutorial_mirrordungeon03_page_08_desc_02",
@@ -2124,7 +2129,7 @@
      },
      {
        "id": "tutorial_mainui_24_miracle_02_desc_01",
-       "content": "此處顯示了20區的奇蹟活動的持續時間。 活動過程中，您可以透過通關活動或主線關卡以及鏡像迷宮來取得[裝飾品包裝]。 \n※ 您無法從採礦關卡中取得[裝飾品包裹]。"
+       "content": "此處顯示了20區的奇蹟活動的持續時間。活動過程中，您可以透過通關活動或主線關卡以及鏡像迷宮來獲取[裝飾品包裹]。\n※ 您無法從採掘關卡中 取得[裝飾品包裹]。"
      },
      {
        "id": "tutorial_mainui_24_miracle_03_title_01",
@@ -2180,7 +2185,7 @@
      },
      {
        "id": "tutorial_mainui_24_miracle_09_desc_01",
-       "content": "活動結束之後，您可以從駕駛席的[外傳]和[其他劇情]內回顧故事劇情。"
+       "content": "活動結束後，您可在駕駛座和放映室-[其他劇情]頁面重溫戰鬥或重覽劇情。"
      },
      {
        "id": "tutorial_mainui_25_walpu2_01_title",
@@ -2268,7 +2273,7 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_01_desc_01",
-       "content": "選擇已啟動的路線入場。進入折射軌道不消耗任何道具。"
+       "content": "選擇已啟動的線路即可入場。入場折射軌道時不消耗任何道具。"
      },
      {
        "id": "tutorial_mainui_railway3_page_02_title_01",
@@ -2276,7 +2281,7 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_02_desc_01",
-       "content": "入場時，您可以選擇所擁有的人格與E.G.O來組成隊伍。"
+       "content": "入場時，可以選擇所擁有的人格與E.G.O來進行組成隊伍。"
      },
      {
        "id": "tutorial_mainui_railway3_page_03_title_01",
@@ -2284,19 +2289,19 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_03_desc_01",
-       "content": "折射軌道3號線由13個站點組成，其中10個站點會進行戰鬥。"
+       "content": "折射軌道 3號線由13個站點組成，其中10個站點會進行戰鬥。"
      },
      {
        "id": "tutorial_mainui_railway3_page_03_desc_02",
-       "content": "在不進行戰鬥的第4站、第8站、第12站中，可進行人格的恢復、復活、以及編隊替換。"
+       "content": "在不進行戰鬥的第4站、第8站、第12站中，可進行人格的恢復、復活、以及更換隊伍組成。"
      },
      {
        "id": "tutorial_mainui_railway3_page_04_desc_01",
-       "content": "選擇網站入場。"
+       "content": "選擇網站進入關卡。"
      },
      {
        "id": "tutorial_mainui_railway3_page_04_desc_02",
-       "content": "通關某網站時，可透過失物認領處獲得的報酬會顯示在下方。"
+       "content": "通關該網站的報酬顯示在下方。報酬可於失物招領處領取獲得。"
      },
      {
        "id": "tutorial_mainui_railway3_page_05_title_01",
@@ -2304,7 +2309,7 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_05_desc_01",
-       "content": "戰鬥最多可編入6人。但是，6人以下的人格入場時，即使回合數增漲，行動槽數量也不會增加。"
+       "content": "戰鬥最多可編入6人。但是，當入場人格少於6人時，即使回合數增漲，行動槽數量也不會增加。"
      },
      {
        "id": "tutorial_mainui_railway3_page_06_title_01",
@@ -2312,7 +2317,7 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_06_desc_01",
-       "content": "所有戰鬥都將以友方技能直接與敵人技能對應的集中戰鬥的方式進行。"
+       "content": "所有戰鬥都將以友方技能直接與敵方技能相對應的集中遭遇戰的方式進行。"
      },
      {
        "id": "tutorial_mainui_railway3_page_07_title_01",
@@ -2320,15 +2325,15 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_07_desc_01",
-       "content": "透過主線章節迷宮的戰鬥，獲得的異想體觀察階段，將會反映在異想體圖鑑中並可以從中進行確認。"
+       "content": "從主線章節迷宮的戰鬥中獲得的異想體觀察等級，將會反映在異想體圖鑑中並可以從中進行確認。"
      },
      {
        "id": "tutorial_mainui_railway3_page_07_desc_02",
-       "content": "但是，根據觀察階段的傷害強化效果不會被適用。"
+       "content": "但是，基於觀察階段的傷害強化效果不會被適用。"
      },
      {
        "id": "tutorial_mainui_railway3_page_07_desc_03",
-       "content": "折射軌道3號線中，即使在戰鬥中選擇放棄，戰鬥中更新的圖鑑內容也會原封不動地被保存下來。"
+       "content": "折射軌道3號線中，即使在戰鬥中選擇放棄關卡，戰鬥中更新的圖鑑內容也會原封不動地被保存下來。"
      },
      {
        "id": "tutorial_mainui_railway3_page_08_desc_01",
@@ -2336,7 +2341,7 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_08_desc_02",
-       "content": "通關某站點的總回合數，以及從初始站累計的回合數將顯示於站點上方。"
+       "content": "通關某站點的回合數，以及從初始站累計的總回合數將顯示於站點上方。"
      },
      {
        "id": "tutorial_mainui_railway3_page_08_desc_03",
@@ -2344,15 +2349,15 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_09_desc_01",
-       "content": "在戰鬥失敗後，您可以選擇回到進入該網站之前的狀態，也可以選擇使用您存活的其他人格繼續戰鬥。"
+       "content": "在戰鬥失敗後，可以選擇回到進入該站點之前的狀態，也可以選擇使用存活的其他人格繼續戰鬥。"
      },
      {
        "id": "tutorial_mainui_railway3_page_09_desc_02",
-       "content": "如果您選擇繼續，敵人目前的生命值將被保留。其剩餘生命值將以百分比形式顯示在網站上方。"
+       "content": "如果選擇繼續，敵人目前的生命值將被保留。其剩餘生命值將以百分比形式顯示在網站上方。"
      },
      {
        "id": "tutorial_mainui_railway3_page_10_desc_01",
-       "content": "若點擊重置按鈕，您將回到進入該網站前的狀態。"
+       "content": "若點選重置按鈕，將回到進入該網站前的狀態。"
      },
      {
        "id": "tutorial_mainui_railway3_page_11_title_01",
@@ -2360,7 +2365,7 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_11_desc_01",
-       "content": "在探索期間，您可以選擇從先前已通過的網站重新開始戰鬥。若您選擇這樣做，則您在該網站重新開始戰鬥時，罪人的狀態和罪孽碎片持有量將恢復到 您首次進入該網站時的狀態，並且在該網站之後您通過的所有網站的完成進度都將被重設。"
+       "content": "在探索期間，可以選擇從先前已通過的站點重新開始戰鬥。若選擇這樣做，則在該站點重新開始戰鬥時，罪人的狀態和罪孽碎片持有量將恢復到首次進入該 站點時的狀態，並且在該站點之後通過的所有站點的完成進度都會被重置。"
      },
      {
        "id": "tutorial_mainui_railway3_page_12_title_01",
@@ -2376,7 +2381,7 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_12_desc_03",
-       "content": "您也可在休息站點更改您的參戰隊伍構成。"
+       "content": "也可在休息站點更改隊伍構成。"
      },
      {
        "id": "tutorial_mainui_railway3_page_13_desc_01",
@@ -2408,11 +2413,11 @@
      },
      {
        "id": "tutorial_mainui_railway3_page_15_desc_01",
-       "content": "在活動期間第一次通關某個網站時，其獎勵將會發放至失物認領處。"
+       "content": "在活動期間第一次通關某個網站時，其獎勵將會發放至失物招領處。"
      },
      {
        "id": "tutorial_mainui_railway3_page_15_desc_02",
-       "content": "第一次透過失物認領處領取獎勵時，需要使用特定數量的腦啡肽模組。而之後再領取獎勵將不再需要消耗腦啡肽模組。"
+       "content": "第一次透過失物招領領取獎勵時，需要使用特定數量的腦啡肽模組。而之後再領取獎勵將不再需要消耗腦啡肽模組。"
      },
      {
        "id": "tutorial_mainui_railway3_page_16_title_01",
@@ -2444,7 +2449,7 @@
      },
      {
        "id": "tutorial_mainui_26_ycgd_02_desc_01",
-       "content": "此處展示了肉斬骨斷活動的持續時間。\n\n通關活動關卡、迷宮可獲取[染血劍鞘]。除此之外，首次通關主線關卡、迷宮，通關鏡像 迷宮也可取得[染血劍鞘]。\n\n※ 採掘關卡與折射軌道中無法取得[染血劍鞘]。"
+       "content": "此處展示了肉斬骨斷活動的持續時間。 \n\n通關活動關卡、迷宮可取得[染血劍鞘]。 除此之外，首次通關主線關卡、迷宮，通關鏡像迷宮也可取得[染血劍鞘]。 \n\n※ 採掘關卡與折射軌道中無法取得[染血劍鞘]。 "
      },
      {
        "id": "tutorial_mainui_26_ycgd_03_title_01",
@@ -2502,5 +2507,5 @@
        "id": "tutorial_mainui_26_ycgd_09_desc_01",
        "content": "活動結束後，可在駕駛席 - [外傳故事]及放映室 - [其他故事]中，重溫肉斬骨斷的戰鬥和劇情。"
      }
-  ]
+   ]
 }

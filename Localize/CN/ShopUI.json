@@ -235,6 +235,10 @@
     {
       "id": "mainui_shop_until_season_finished",
       "content": "至第4賽季更新前"
+    },
+    {
+      "id": "mainui_shop_purchase",
+      "content": "購買"
     }
   ]
 }
