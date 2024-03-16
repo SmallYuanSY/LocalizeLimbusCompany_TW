@@ -83,6 +83,14 @@
     {
       "id": "link_error",
       "content": "帳戶數據集成失敗。\n您無法與同一平台帳戶或遊客帳戶繼承遊戲數據。"
+    },
+    {
+      "id": "input_unlink_account",
+      "content": "解除綁定帳號"
+    },
+    {
+      "id": "alarm_unlink_account",
+      "content": "確定解除綁定"
     }
   ]
 }

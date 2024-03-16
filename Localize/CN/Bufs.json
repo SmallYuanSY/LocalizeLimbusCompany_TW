@@ -1758,6 +1758,84 @@
       "name": "紅梅",
       "desc": "- 特殊流血\n- 最大值：10\n- 若本身為主要目標，被爆擊率+10%\n- 暴擊時使自身增加本效果一半層數流血強度並且受 暴擊傷害+({0}x3)%\n- 受到攻擊時本效果減少1層",
       "summary": "被爆擊率提升，暴擊傷害增加"
+    },
+    {
+      "id": "ShamrockResultUp",
+      "name": "暴食強壯",
+      "desc": "本回合內暴食技能的最終威力+{0}",
+      "summary": "暴食技能的最終威力+{0}"
+    },
+    {
+      "id": "ScarletResultUp",
+      "name": "色欲強壯",
+      "desc": "本回合內色欲技能的最終威力+{0}",
+      "summary": "色欲技能的最終威力+{0}"
+    },
+    {
+      "id": "AzureResultUp",
+      "name": "憂鬱強壯",
+      "desc": "本回合內憂鬱技能的最終威力+{0}",
+      "summary": "憂鬱技能的最終威力+{0}"
+    },
+    {
+      "id": "HitResultDown",
+      "name": "打擊虛弱",
+      "desc": "本回合內打擊技能的最終威力-{0}",
+      "summary": "打擊技能的最終威力-{0}"
+    },
+    {
+      "id": "PenetrateResultDown",
+      "name": "突刺虛弱",
+      "desc": "本回合內突刺技能的最終威力-{0}",
+      "summary": "突刺技能的最終威力-{0}"
+    },
+    {
+      "id": "SlashResultDown",
+      "name": "斬擊虛弱",
+      "desc": "本回合內斬擊技能的最終威力-{0}",
+      "summary": "斬擊技能的最終威力-{0}"
+    },
+    {
+      "id": "CrimsonResultDown",
+      "name": "暴怒虛弱",
+      "desc": "本回合內暴怒技能的最終威力-{0}",
+      "summary": "暴怒技能的最終威力-{0}"
+    },
+    {
+      "id": "ScarletResultDown",
+      "name": "色欲虛弱",
+      "desc": "本回合內色欲技能的最終威力-{0}",
+      "summary": "色欲技能的最終威力-{0}"
+    },
+    {
+      "id": "ShamrockResultDown",
+      "name": "暴食虛弱",
+      "desc": "本回合內暴食技能的最終威力-{0}",
+      "summary": "暴食技能的最終威力-{0}"
+    },
+    {
+      "id": "AmberResultDown",
+      "name": "怠惰虛弱",
+      "desc": "本回合內怠惰技能的最終威力-{0}",
+      "summary": "怠惰技能的最終威力-{0}"
+    },
+    {
+      "id": "AzureResultDown",
+      "name": "憂鬱虛弱",
+      "desc": "本回合內憂鬱技能的最終威力-{0}",
+      "summary": "憂鬱技能的最終威力-{0}"
+    },
+    {
+      "id": "IndigoResultDown",
+      "name": "傲慢軟弱",
+      "desc": "本回合內傲慢技能的最終威力-{0}",
+      "summary": "傲慢技能的最終威力-{0}"
+    },
+    {
+      "id": "VioletResultDown",
+      "name": "嫉妒虛弱",
+      "desc": "本回合內嫉妒技能的最終威力-{0}",
+      "summary": "嫉妒技能的最終威力-{0}"
     }
   ]
 }

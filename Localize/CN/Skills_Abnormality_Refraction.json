@@ -388,7 +388,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標造成(破裂 強度x破裂 層數)點傷害\n隨後解除目標的破裂效果"
+                  "desc": "[OnSucceedAttackHead] 對目標造成破裂 強度點傷害\n隨後解除目標的破裂效果"
                 }
               ]
             }
