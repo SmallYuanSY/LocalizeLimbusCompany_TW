@@ -91,6 +91,14 @@
     {
       "id": "alarm_unlink_account",
       "content": "確定解除綁定"
+    },
+    {
+      "id": "unlink_account_ask_title",
+      "content": "解除關聯"
+    },
+    {
+      "id": "unlink_account_ask_content",
+      "content": "解除該帳戶的關聯。\n解除關聯之日起，{0}日內無法再次解除。"
     }
   ]
 }

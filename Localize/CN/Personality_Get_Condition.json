@@ -647,6 +647,14 @@
     {
       "id": "10407_getCondition_gacksung",
       "content": "六個協會 南部4科 良秀 3階段同步完成"
+    },
+    {
+      "id": "10708_getCondition_normal",
+      "content": "取得Öufi協會 南部3科 希斯克利夫"
+    },
+    {
+      "id": "10708_getCondition_gacksung",
+      "content": "Öufi協會 南部3科 希斯克利夫 3階段同步完成"
     }
   ]
 }

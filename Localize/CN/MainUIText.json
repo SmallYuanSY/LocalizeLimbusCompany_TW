@@ -1683,6 +1683,38 @@
     {
       "id": "expiration_date",
       "content": "有效期限"
+    },
+    {
+      "id": "unlink_account_title",
+      "content": "選擇要解除綁定的帳號"
+    },
+    {
+      "id": "unlink_account_current_account",
+      "content": "目前帳號"
+    },
+    {
+      "id": "unlink_account_linked_account",
+      "content": "已綁定帳號"
+    },
+    {
+      "id": "unlink_account_desc",
+      "content": "解除綁定後，{0}日內無法再次解除。"
+    },
+    {
+      "id": "unlink_account_desc_unable_by_day",
+      "content": "{0}後可以再解除綁定。"
+    },
+    {
+      "id": "unlink_account_complete_title",
+      "content": "已解除綁定"
+    },
+    {
+      "id": "unlink_account_complete_desc",
+      "content": "成功解除綁定後，\n將傳回標題介面。"
+    },
+    {
+      "id": "mainui_stageinfo_effectiveAttribute",
+      "content": "有利屬性"
     }
   ]
 }
