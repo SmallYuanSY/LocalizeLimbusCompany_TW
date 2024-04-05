@@ -95,6 +95,10 @@
     {
       "id": "dungeon_encounter_guide_story",
       "content": "故事"
+    },
+    {
+      "id": "formation_ui_ask_to_use_saved_formation",
+      "content": "如果更換隊伍配置，則正在使用的隊伍配置會替換為該隊伍配置。\n確定要更隊伍換配置嗎？\n\n<size=80%>※ 更換後，無法恢復至 目前的隊伍配置。\n※ 劇情迷宮中隊伍配置的變更不影響罪人視窗的隊伍配置。</size>"
     }
   ]
 }

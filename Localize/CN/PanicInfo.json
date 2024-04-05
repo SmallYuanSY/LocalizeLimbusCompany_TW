@@ -38,7 +38,7 @@
     },
     {
       "id": 1007,
-      "panicName": "悲傷",
+      "panicName": "抑鬱",
       "lowMoraleDescription": "每回合開始時施加2層<sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">傷害弱化</color></link></u> 。",
       "panicDescription": "每回合開始時施加5層<sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">傷害弱化</color></link></u>  和2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u> 。"
     },

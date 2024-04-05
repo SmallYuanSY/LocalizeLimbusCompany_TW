@@ -1,0 +1,1196 @@
+{
+   "dataList": [
+     {
+       "id": 9012801,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "封鎖違規者",
+           "desc": "[WhenUse] 若目標帶有流血 ，則使自身恢復4點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9012802,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "規則執行",
+           "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9012803,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "執行違規者",
+           "desc": "[WinDuel] 若目標帶有流血 ，則下回合使自身獲得1層強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則對其追加本硬幣傷害量20%的傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則對其追加本硬幣傷害量20%的傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層防禦等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9012804,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "防禦",
+           "desc": "回合結束時若自身帶有護盾，則下回合使自身獲得2層傷害強化 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9012901,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "處理違規者",
+           "desc": "[WhenUse] 若目標帶有流血 ，則使自身恢復4點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9012902,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "規則履行",
+           "desc": "[WhenUse] 若目標的流血 層數不低於4層，則使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9012903,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "懲罰違規者",
+           "desc": "[WinDuel] 若目標帶有流血 ，則下回合使自身獲得1層強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 層數不低於4層，則對其追加本硬幣傷害量20%的傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 層數不低於4層，則對其追加本硬幣傷害量20%的傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層防禦等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9012904,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "防禦",
+           "desc": "回合結束時若自身帶有護盾，則下回合使自身獲得2層傷害強化 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013001,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "處罰執行",
+           "desc": "[WinDuel] 若目標的流血 強度不低於5級，則重複使用本技能（最多1次）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度並對其施加2層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013002,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "處決違規者",
+           "desc": "若目標的流血 強度不低於5級，則使本技能造成的傷害+30%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則下回合對其施加2層攻擊等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加相當於其(流血 強度/2)的破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復7點理智值"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013003,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "違反事項",
+           "desc": "目標每帶有3級流血強度，使本技能的硬幣威力+1（最多+3）\n[WinDuel] 若目標的流血強度不低於6級，則使本技能造成的傷害 +40%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加相當於其流血 強度的破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復10點理智值"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於5級，則重複使用本技能（最多1次）"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013004,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "閃避",
+           "desc": "[OnSucceedEvade] 使自身獲得1層強壯 （最多1層）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013101,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "速寫",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013102,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "筆觸",
+           "desc": "若目標的流血 強度不低於5級，則使本技能的基礎威力+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加相當於其流血 強度的破裂 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013103,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "血液描畫",
+           "desc": "[WinDuel] 若目標帶有流血 ，則下回合使自身獲得1層強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則對其追加本硬幣傷害量20%的傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則對其追加本硬幣傷害量20%的傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則重複使用本硬幣（最多1次）"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層防禦等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013104,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "防禦",
+           "desc": "回合結束時若自身帶有護盾，則下回合使自身獲得3層傷害強化 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013201,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "線稿",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013202,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "劃線",
+           "desc": "若目標的流血 強度不低於5級，則使本技能的基礎威力+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加相當於其流血 強度的破裂 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013203,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "血點畫",
+           "desc": "[WinDuel] 若目標帶有流血，則下回合使自身獲得1層強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 層數不低於4層，則對其追加本硬幣傷害量20%的傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 層數不低於4層，則對其追加本硬幣傷害量20%的傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加1層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 層數不低於4層，則重複使用本硬幣（最多1次）"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層防禦等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013204,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "防禦",
+           "desc": "回合結束時若自身帶有護盾，則下回合使自身獲得3層傷害強化 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013301,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "上色",
+           "desc": "[WinDuel] 若目標的流血 強度不低於5級，則在攻擊結束後隨機對1名敵方單位重複使用本技能（最多1次）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加4層流血 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013302,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "血點描畫",
+           "desc": "若目標的流血 強度不低於5級，則使本技能造成的傷害+30%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則下回合對其施加2層攻擊等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加3層攻擊等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加5級出血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加相當於其流血 強度的破裂 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013303,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "描畫",
+           "desc": "目標每帶有3級流血強度，使本技能的硬幣威力+1（最多+4）\n[WinDuel] 若目標的流血強度不低於6級，則使本技能造成的傷害 +40%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加10級流血 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加層數相當於其流血 層數的破裂 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加相當於其流血 強度的破裂 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013304,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "血滴花",
+           "desc": "[WinDuel] 若目標帶有流血 ，則下回合使自身獲得1層強壯 \n[WinDuel] 若目標的流血 強度不低於10級，則下回合使自身獲得1層強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則重複使用本硬幣（最多3次）"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標的流血 層數減少1層"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層防禦等級降低"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013305,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "閃避",
+           "desc": "[OnSucceedEvade] 使自身獲得1層強壯 （最多2層）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013501,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "基本攻擊1",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層攻擊等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層攻擊等級降低 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層麻痺 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013502,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "基本攻擊2",
+           "desc": "[WhenUse] 若目標帶有攻擊等級降低 ，則使本技能造成的傷害+20%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層打擊抗性弱化 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層打擊抗性弱化 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層打擊抗性弱化 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013503,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "基本攻擊3",
+           "desc": "[WhenUse] 若目標的攻擊等級降低 層數不低於2層，則使本技能的拼點威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+      },
+     {
+       "id": 9013504,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "基本攻擊4",
+           "desc": "指定負狀態最多的目標\n[WhenUse] 目標每帶有3層防禦等級降低 ，使本技能的拼點威力+1（最多+3）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 目標每帶有2層攻擊等級降低 ，使本硬幣造成的傷害+20%（最多+100%）"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 若目標帶有的負面狀態不低於3種，則重複使用本硬幣（最多1次）"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013505,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "反擊",
+           "desc": "若目標帶有易損 ，則使本技能的基礎威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101501,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "該死的賤民！",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101502,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "我會除掉你",
+           "desc": "[WinDuel] 讓本技能的基礎威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有攻擊等級降低 ，則對目標追加本硬幣傷害量20%的打擊傷害"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有攻擊等級降低 ，則對目標追加本硬幣傷害量20%的打擊傷害"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101503,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "重新扣好扣款",
+           "desc": "[WinDuel] 若目標的攻擊等級降低層數不低於2層，則使本技能的基礎威力+1\n[WhenUse] 若目標帶有攻擊等級降低，則使本技能造成的 傷害+30%",
+           "coinlist": [
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101504,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "碾碎",
+           "desc": "指定負面狀態最多的目標\n[WinDuel] 目標每帶有3層攻擊等級降低 使本技能的硬幣威力+1（最多+3）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 目標每帶有2層攻擊等級降低 ，使本硬幣造成的傷害+30%（最多+120%）"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 若目標帶有不低於3種負面狀態，則重複使用本硬幣（最多1次）"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101505,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "防禦",
+           "desc": "[StartBattle] 除自身以外每有1名友方單位存活，使自身額外獲得20點護盾",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101601,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "球棍痛毆",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101602,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "擊倒出局",
+           "desc": "[WinDuel] 下回合使自身獲得1層強壯 與1層傷害強化 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 根據目標帶有的破裂 強度，使其增加相應的流血 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101603,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "洩憤暴打",
+           "desc": "若目標的破裂強度不低於5級，則使本技能的拼點威力+1\n若目標的流血強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加3層破裂",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使本技能下一枚硬幣的威力+1"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使本技能下一枚硬幣的威力+2"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 對目標額外造成相當於其(流血 強度×流血 層數)點突刺傷害"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101604,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "防禦",
+           "desc": "[WhenUse] 下回合使自己獲得1層強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9101605,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "反擊",
+           "desc": "[WhenUse] 下回合使自己獲得1層強壯 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     }
+   ]
+}

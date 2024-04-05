@@ -938,7 +938,55 @@
     },
     {
       "id": "introduce_sentence_118",
-      "content": "又少了一個{0}。"
+      "content": "少了一個{0}。"
+    },
+    {
+      "id": "introduce_word_119",
+      "content": "午餐"
+    },
+    {
+      "id": "introduce_sentence_119",
+      "content": "我將在下一個{0}之前回來。"
+    },
+    {
+      "id": "introduce_word_120",
+      "content": "時間"
+    },
+    {
+      "id": "introduce_sentence_120",
+      "content": "我會帶走你剩下的{0}。"
+    },
+    {
+      "id": "introduce_word_121",
+      "content": "惡夢"
+    },
+    {
+      "id": "introduce_sentence_121",
+      "content": "又是那該死的{0}…"
+    },
+    {
+      "id": "introduce_word_122",
+      "content": "狩獵"
+    },
+    {
+      "id": "introduce_sentence_122",
+      "content": "遵照主人的命令，正在準備{0}。"
+    },
+    {
+      "id": "introduce_word_123",
+      "content": "不速之客"
+    },
+    {
+      "id": "introduce_sentence_123",
+      "content": "{0}請馬上離開，{0}…！"
+    },
+    {
+      "id": "introduce_word_124",
+      "content": "宅邸"
+    },
+    {
+      "id": "introduce_sentence_124",
+      "content": "請允許我來…為你介紹這{0}…"
     }
   ]
 }

@@ -520,6 +520,190 @@
            ]
          }
        ]
+     },
+     {
+       "id": 1050901,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "球棍痛毆",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "球棍痛毆",
+           "desc": "若目標的破裂 強度不低於5級，則使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "球棍痛毆",
+           "desc": "若目標的破裂 強度不低於5級，則使本技能的硬幣威力+2",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050902,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "擊倒出局",
+           "desc": "",
+           "coinlist": [
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於6級，則對其施加2層攻擊等級降低 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 2,
+           "name": "擊倒出局",
+           "desc": "[WinDuel] 對目標施加2層破裂 ",
+           "coinlist": [
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於6級，則對其施加2層攻擊等級降低 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "擊倒出局",
+           "desc": "[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層破裂 ",
+           "coinlist": [
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於4級，則對其施加2層攻擊等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050903,
+       "levelList": [
+         {
+           "level": 3,
+           "name": "宣洩",
+           "desc": "[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層攻擊等級降低 ",
+           "coinlist": [
+             {},
+             {},
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於6級，則下回合對其施加2層攻擊等級降低 "
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "宣洩",
+           "desc": "[WhenUse] 若目標的破裂強度不低於3級，則使本技能的拼點威力+1\n[WhenUse] 若目標的破裂強度不低於6級，則使本技能的 硬幣威力+1\n[WinDuel] 對目標施加2層攻擊等級降低",
+           "coinlist": [
+             {},
+             {},
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於6級，則下回合對其施加2層攻擊等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 1050904,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "反擊",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "反擊",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
      }
    ]
 }

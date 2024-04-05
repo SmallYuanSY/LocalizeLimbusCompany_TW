@@ -34,6 +34,16 @@
       "id": 3043,
       "version": 0,
       "type": 0,
+      "startDate": "2024-04-05T08:00:00.000Z",
+      "endDate": "2025-06-30T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Mod V0.6.31",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.31\\n- 漢化內容更新\\n  - 新賽季 的內容更新\\n  - 4月5日 模組累積更新\\n 翻譯\\n  - 其他內容更新\"}]}"
+    },
+    {
+      "id": 3043,
+      "version": 0,
+      "type": 0,
       "startDate": "2024-02-24T08:00:00.000Z",
       "endDate": "2025-06-30T23:00:00.000Z",
       "sprNameList": [],

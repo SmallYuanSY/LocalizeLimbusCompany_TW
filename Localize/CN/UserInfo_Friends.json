@@ -275,6 +275,10 @@
     {
       "id": "SimilarTicket",
       "content": "類似 券"
+    },
+    {
+      "id": "Choosing",
+      "content": "選擇中"
     }
   ]
 }

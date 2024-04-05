@@ -44,6 +44,21 @@
       "id": "battle_erosion_20705_1",
       "desc": "E.G.O侵蝕",
       "dlg": "快樂的！孩子們！理應收到！禮物！"
+    },
+    {
+      "id": "battle_overdrive_20701_1-1",
+      "desc": "E.G.O失控",
+      "dlg": "你所做的…踐踏我、把我和凱西分開的那一切…"
+    },
+    {
+      "id": "battle_overdrive_20701_1-2",
+      "desc": "E.G.O失控",
+      "dlg": "都會被我裝到這袋裡…不論天涯海角，一直拖去地獄盡頭…"
+    },
+    {
+      "id": "battle_overdrive_20701_1-3",
+      "desc": "E.G.O失控",
+      "dlg": "揮打到我力竭為止。"
     }
   ]
 }

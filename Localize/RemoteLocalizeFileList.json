@@ -53,7 +53,9 @@
         "RailwayDungeonUI_3",
         "EventYCGDText",
         "EventLimbus1stAnnivText",
-        "AssociationName"
+        "AssociationName",
+        "ReturnPolicy",
+        "AbEventsResultLog-a1c6p2"
     ],
     "character": [
         "Characters"
@@ -72,7 +74,9 @@
         "Enemies-a1c5p3",
         "Enemies-a1c951",
         "Enemies-walpu2",
-        "Enemies-ycgd"
+        "Enemies-ycgd",
+        "Enemies-a1c6p1",
+        "Enemies-a1c6p2"
     ],
     "ego": [
         "Egos"
@@ -124,7 +128,10 @@
         "Skills_Enemy-a1c951",
         "Skills_Abnormality-a1c951",
         "Skills_Enemy-walpu2",
-        "Skills_Enemy-ycgd"
+        "Skills_Enemy-ycgd",
+        "Skills_Abnormality-a1c6p2",
+        "Skills_Enemy-a1c6p1",
+        "Skills_Enemy-a1c6p2"
     ],
     "passive": [
         "Passives",
@@ -148,7 +155,10 @@
         "Passives_Abnormality-a1c951",
         "Passives_Enemy-a1c951",
         "Passive-walpu2",
-        "Passives-ycgd"
+        "Passives-ycgd",
+        "Passives_Abnormality-a1c6p2",
+        "Passives_Enemy-a1c6p1",
+        "Passives_Enemy-a1c6p2"
     ],
     "buf": [
         "Bufs",
@@ -159,13 +169,16 @@
         "Bufs-a1c5p3",
         "Bufs_Mirror3",
         "Bufs-a1c951",
-        "Bufs-ycgd"
+        "Bufs-ycgd",
+        "Bufs-a1c6p1",
+        "Bufs-a1c6p2"
     ],
     "buffAbilities": [
         "BuffAbilities"
     ],
     "item": [
-        "Items"
+        "Items",
+        "Items-a1c6"
     ],
     "keyword": [
         "BattleKeywords",
@@ -176,7 +189,8 @@
         "BattleKeywords-a1c5p3",
         "BattleKeywords_Mirror3",
         "BattleKeywords-a1c951",
-        "BattleKeywords-ycgd"
+        "BattleKeywords-ycgd",
+        "BattleKeywords-a1c6p2"
     ],
     "skillTag": [
         "SkillTag"
@@ -190,7 +204,8 @@
         "AbEvents-a1c5p2",
         "AbEvents-a1c5p3",
         "AbEvents_Mirror3",
-        "AbEvents_Ycgd"
+        "AbEvents_Ycgd",
+        "AbEvents-a1c6p2"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -217,7 +232,8 @@
         "AbnormalityGuides-a1c5p1",
         "AbnormalityGuides-a1c5p2",
         "AbnormalityGuides-a1c5p3",
-        "AbnormalityGuides-ycgd"
+        "AbnormalityGuides-ycgd",
+        "AbnormalityGuides-a1c6p2"
     ],
     "keywordDictionary": [
         "KeywordDictionary"
@@ -260,7 +276,9 @@
         "StageNode-a1c5p2",
         "StageNode-a1c5p3",
         "StageNode91-6",
-        "StageNode91-7"
+        "StageNode91-7",
+        "StageNode-a1c6p1",
+        "StageNode-a1c6p2"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -295,14 +313,16 @@
     "battlePass": [
         "BattlePass",
         "BattlePass_Banner",
-        "BattlePass_Banner_2"
+        "BattlePass_Banner_2",
+        "BattlePass_Banner-a1c6"
     ],
     "storyTheater": [
         "StoryTheaterMain",
         "StoryTheaterOther"
     ],
     "announcer": [
-        "Announcer"
+        "Announcer",
+        "Announcer-a1c6"        
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -411,7 +431,14 @@
         "Voice_Meursault_SwordGroup_10508",
         "Voice_Faust_SwordGroup_10208",
         "Voice_Gregor_Kurokumo_11208",
-        "Voice_Donquixote_SwordGroup_10308"
+        "Voice_Donquixote_SwordGroup_10308",
+        "Voice_Rodion_LiuAsso4_10908",
+        "Voice_Ryoshu_LiuAsso4_10407",
+        "Voice_Heathcliff_Oufi_10708",
+        "Voice_Outis_Butler_11108",
+        "Voice_Meursault_DeadRabbit_10509",
+        "Voice_Gregor_Linton_11209",
+        "Voice_Faust_Butler_10209"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -425,7 +452,8 @@
         "Announcer_Yuri_9",
         "Announcer_Malkuth_10",
         "Announcer_JackPierre_11",
-        "Announcer_Angela_12"
+        "Announcer_Angela_12",
+        "Announcer_Samjo_15"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -443,7 +471,8 @@
         "Voice_EGO_Enemy_999"
     ],
     "iapProduct": [
-        "IAPProduct"
+        "IAPProduct",
+        "IAPProduct-a1c6"
     ],
     "iapSticker": [
         "IAPSticker"
@@ -470,16 +499,20 @@
         "IntroduceCharacter"
     ],
     "userBanner": [
-        "UserBanner"
+        "UserBanner",
+        "UserBanner-a1c6"
     ],
     "userTicketL": [
-        "UserTicket-L"
+        "UserTicket-L",
+        "UserTicket-L-a1c6"
     ],
     "userTicketR": [
-        "UserTicket-R"
+        "UserTicket-R",
+        "UserTicket-R-a1c6"
     ],
     "userTicketEGOBg": [
-        "UserTicket-EGOBg"
+        "UserTicket-EGOBg",
+        "UserTicket-EGOBg-a1c6"
     ],
     "bgmLyrics": [
         "BgmLyrics_Credit",
@@ -511,17 +544,21 @@
         "StoryTheaterDanteNoteDetail_2",
         "StoryTheaterDanteNoteDetail_3",
         "StoryTheaterDanteNoteDetail_4",
-        "StoryTheaterDanteNoteDetail_5"
+        "StoryTheaterDanteNoteDetail_5",
+        "StoryTheaterDanteNoteDetail_6"
     ],
     "danteNoteCategoryKeyword": [
         "StoryTheaterDanteNote",
         "StoryTheaterDanteNote_2",
         "StoryTheaterDanteNote_3",
         "StoryTheaterDanteNote_4",
-        "StoryTheaterDanteNote_5"
+        "StoryTheaterDanteNote_5",
+        "StoryTheaterDanteNote_6"
     ],
     "panicInfo": [
-        "PanicInfo"
+        "PanicInfo",
+        "PanicInfo-a1c6p1",
+        "PanicInfo-a1c6p2"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs"

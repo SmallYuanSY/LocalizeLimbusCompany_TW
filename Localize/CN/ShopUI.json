@@ -234,7 +234,7 @@
     },
     {
       "id": "mainui_shop_until_season_finished",
-      "content": "至第4賽季更新前"
+      "content": "至第5賽季更新前"
     },
     {
       "id": "mainui_shop_purchase",
@@ -291,6 +291,18 @@
     {
       "id": "membership_remain_side_desc",
       "content": "{0}的使用時間還剩下{1}天。"
+    },
+    {
+      "id": "returnpolicy_table_battlePassPackge",
+      "content": "邊獄通行證禮包"
+    },
+    {
+      "id": "paid_runacy_lack",
+      "content": "付費狂氣不足，無法購買。"
+    },
+    {
+      "id": "membership_remain_side_desc_oneDay",
+      "content": "{0}已到期。"
     }
   ]
 }

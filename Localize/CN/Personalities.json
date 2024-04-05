@@ -507,9 +507,9 @@
     {
       "id": 10607,
       "title": "吊鉤事務所\n收尾人",
-      "name": "鴻溝",
-      "nameWithTitle": "鴻溝",
-      "desc": "鴻溝的第7人格"
+      "name": "鴻璐",
+      "nameWithTitle": "鴻璐",
+      "desc": "鴻璐的第7人格"
     },
     {
       "id": 10106,
@@ -591,8 +591,8 @@
     {
       "id": 10608,
       "title": "Dieci協會\n南部4科",
-      "name": "鴻溝",
-      "nameWithTitle": "鴻溝",
+      "name": "鴻璐",
+      "nameWithTitle": "鴻璐",
       "desc": "鴻璐的第8個人格"
     },
     {
@@ -657,6 +657,34 @@
       "name": "希斯克利夫",
       "nameWithTitle": "希斯克利夫",
       "desc": "希斯克利夫的第8人格"
+    },
+    {
+      "id": 11108,
+      "title": "呼嘯山莊\n首席管家",
+      "name": "奧提斯",
+      "nameWithTitle": "奧提斯",
+      "desc": "奧提斯的第8人格"
+    },
+    {
+      "id": 10509,
+      "title": "死兔幫\n老大",
+      "name": "默索",
+      "nameWithTitle": "默索",
+      "desc": "莫爾梭的第9人格"
+    },
+    {
+      "id": 11209,
+      "title": "埃德加家族\n繼承人",
+      "name": "格里高爾",
+      "nameWithTitle": "格里高爾",
+      "desc": "格里高爾的第9人格"
+    },
+    {
+      "id": 10209,
+      "title": "呼嘯山莊\n管家",
+      "name": "浮士德",
+      "nameWithTitle": "浮士德",
+      "desc": "浮士德的第9人格"
     }
   ]
 }
