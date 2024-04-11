@@ -14,7 +14,6 @@ namespace LimbusLocalize
         static readonly string Raw = "<bounce f=0.5>NOW LOADING...</bounce>";
         public static ConfigEntry<bool> RandomAllLoadCG = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "RandomAllLoadCG", true, "是否从所有已到达进度中随机选择载入CG ( true | false )");
         public static ConfigEntry<bool> RandomLoadText = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "RandomLoadText", true, "是否随机选择载入标语,即右下角的[NOW LOADING...] ( true | false )");
-        public static int ArchiveCGId;
         static LLC_LoadingManager() => InitLoadingTexts();
         public static void InitLoadingTexts()
         {

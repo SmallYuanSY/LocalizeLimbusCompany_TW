@@ -1,0 +1,25 @@
+{
+   "dataList": [
+     {
+       "id": "AaCfPcBe",
+       "name": "深切的失落感",
+       "desc": "攻擊結束後，對目標造成5點理智傷害。",
+       "summary": "",
+       "undefined": "-"
+     },
+     {
+       "id": "AaCfPcBf",
+       "name": "未能釋懷的悵惘",
+       "desc": "回合結束時，若本效果的層數不低於4層，則下回合陷入混亂並移除該狀態。",
+       "summary": "",
+       "undefined": "-"
+     },
+     {
+       "id": "AaCfPcBg",
+       "name": "洩憤對象",
+       "desc": "成為扭曲希斯克利夫的指定目標。\n陣亡時，將會被施加給其他人格。",
+       "summary": "",
+       "undefined": "-"
+     }
+   ]
+}

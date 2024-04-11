@@ -1,4 +1,4 @@
-﻿using Addressable;
+﻿﻿using Addressable;
 using HarmonyLib;
 using Il2CppSystem.Collections.Generic;
 using SimpleJSON;
@@ -200,6 +200,7 @@ namespace LimbusLocalize
             tm._mirrorDungeonEgoGiftLockedDescList.Init(romoteLocalizeFileList.MirrorDungeonEgoGiftLockedDesc);
             tm._mirrorDungeonEnemyBuffDescList.Init(romoteLocalizeFileList.MirrorDungeonEnemyBuffDesc);
             tm._iapStickerText.Init(romoteLocalizeFileList.IAPSticker);
+            tm._danteAbilityDataList.Init(romoteLocalizeFileList.DanteAbility);
 
             tm._abnormalityEventCharDlg.AbEventCharDlgRootInit(romoteLocalizeFileList.abnormalityCharDlgFilePath);
 

@@ -4036,7 +4036,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺"
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
                 }
               ]
             }
@@ -9330,7 +9330,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合對自身施加1層麻痺"
+                  "desc": "[OnSucceedAttackTail] 下回合對自身施加1層麻痺 "
                 }
               ]
             },
