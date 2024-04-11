@@ -24,7 +24,7 @@ namespace LimbusLocalize
         }
         static void CheckModUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/SmallYuanSY/LocalizeLimbusCompany/releases");
+            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/SmallYuanSY/LocalizeLimbusCompany_TW/releases");
             www.timeout = 4;
             www.SendWebRequest();
             while (!www.isDone)
