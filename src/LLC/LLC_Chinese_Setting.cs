@@ -1,4 +1,4 @@
-﻿using BepInEx.Configuration;
+﻿﻿using BepInEx.Configuration;
 using HarmonyLib;
 using LocalSave;
 using MainUI;
@@ -11,7 +11,7 @@ namespace LimbusLocalize
 {
     public static class LLC_Chinese_Setting
     {
-        public static ConfigEntry<bool> IsUseChinese = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "IsUseChinese", true, "是否使用汉化 ( true | false )");
+        public static ConfigEntry<bool> IsUseChinese = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "IsUseChinese", true, "是否使用漢化 ( true | false )");
         static bool _isusechinese;
         static Toggle Chinese_Setting;
         [HarmonyPatch(typeof(SettingsPanelGame), nameof(SettingsPanelGame.InitLanguage))]
@@ -74,6 +74,28 @@ namespace LimbusLocalize
                 __instance._lang = LOCALIZE_LANGUAGE.EN;
             else if (tgIdx == 2)
                 __instance._lang = LOCALIZE_LANGUAGE.JP;
+        }
+        [HarmonyPatch(typeof(DateUtil), nameof(DateUtil.TimeZoneOffset), MethodType.Getter)]
+        [HarmonyPrefix]
+        public static bool TimeZoneOffset(ref int __result)
+        {
+            if (IsUseChinese.Value)
+            {
+                __result = 8;
+                return false;
+            }
+            return true;
+        }
+        [HarmonyPatch(typeof(DateUtil), nameof(DateUtil.TimeZoneString), MethodType.Getter)]
+        [HarmonyPrefix]
+        public static bool TimeZoneString(ref string __result)
+        {
+            if (IsUseChinese.Value)
+            {
+                __result = "CST";
+                return false;
+            }
+            return true;
         }
     }
 }

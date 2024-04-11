@@ -1,4 +1,4 @@
-﻿﻿using Addressable;
+﻿using Addressable;
 using HarmonyLib;
 using Il2CppSystem.Collections.Generic;
 using SimpleJSON;
