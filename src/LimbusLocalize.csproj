@@ -36,24 +36,21 @@
     <PackageReference Include="HarmonyX" Version="2.5.2" IncludeAssets="compile" />
     <PackageReference Include="Il2CppInterop.Runtime" Version="1.0.0" />
   </ItemGroup>
-
-  <!-- ~~~~~ ASSEMBLY REFERENCES ~~~~~ -->
-  <!-- BepinEx -->
-  <ItemGroup Condition="'$(Configuration)'=='BIE'">
+  <ItemGroup>
     <Reference Include="Assembly-CSharp">
       <HintPath>..\lib\Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="BepInEx">
+    <Reference Include="BepInEx.Core">
       <HintPath>..\lib\BepInEx.Core.dll</HintPath>
     </Reference>
-    <Reference Include="BepInEx.IL2CPP">
+    <Reference Include="BepInEx.Unity.IL2CPP">
       <HintPath>..\lib\BepInEx.Unity.IL2CPP.dll</HintPath>
-    </Reference>
-    <Reference Include="Il2CppSystem">
-      <HintPath>..\lib\Il2CppSystem.dll</HintPath>
     </Reference>
     <Reference Include="Il2Cppmscorlib">
       <HintPath>..\lib\Il2Cppmscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2CppSystem">
+      <HintPath>..\lib\Il2CppSystem.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Core">
       <HintPath>..\lib\Il2CppSystem.Core.dll</HintPath>
@@ -76,6 +73,9 @@
     <Reference Include="UnityEngine.ImageConversionModule">
       <HintPath>..\lib\UnityEngine.ImageConversionModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\lib\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.JSONSerializeModule">
       <HintPath>..\lib\UnityEngine.JSONSerializeModule.dll</HintPath>
     </Reference>
@@ -91,13 +91,13 @@
     <Reference Include="UnityEngine.UIModule">
       <HintPath>..\lib\UnityEngine.UIModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.IMGUIModule">
-      <HintPath>..\lib\UnityEngine.IMGUIModule.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UnityWebRequestModule">
       <HintPath>..\lib\UnityEngine.UnityWebRequestModule.dll</HintPath>
     </Reference>
   </ItemGroup>
+
+  <!-- ~~~~~ ASSEMBLY REFERENCES ~~~~~ -->
+  <!-- BepinEx -->
   <Target Name="CopyFile" AfterTargets="build">
     <Message Text="Copying BIE files..." Importance="high" Condition="'$(Configuration)' == 'BIE'" />
     <Copy SourceFiles="$(OutputPath)$(AssemblyName).dll" DestinationFolder="$(OutputPath)BepInEx\plugins\LLC" Condition="'$(Configuration)' == 'BIE'" />
