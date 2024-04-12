@@ -117,6 +117,115 @@
             ]
           }
         ]
-      }
+      },
+     {
+       "id": 2050611,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "電子哀鳴",
+           "abName": "夢中的電子羊",
+           "desc": "[BeforeAttack] 使自身獲得8層充能\n[EndSkill] 使除自身以外充能層數最低的1名友方單位獲得8層充能\n- 額外使（最大嫉妒共鳴數 -2）名友方單位獲得上述效果（最多3名）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "電子哀鳴",
+           "abName": "夢中的電子羊",
+           "desc": "[BeforeAttack] 使自身獲得8層充能\n[EndSkill] 使除自身以外充能層數最低的1名友方單位獲得8層充能\n- 額外使（最大嫉妒共鳴數 -2）名友方單位獲得上述效果（最多4名）\n- 若最大嫉妒共鳴數不低於4，則使自身與該友方單位獲得1層嫉妒傷害強化",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "電子哀鳴",
+           "abName": "夢中的電子羊",
+           "desc": "[BeforeAttack] 使自身獲得12層充能\n[EndSkill] 使除自身以外充能層數最低的1名友方單位獲得8層充能\n- 額外使（最大嫉妒共鳴數 -2）名友方單位獲得上述效果（最多5名）\n- 若最大嫉妒共鳴數不低於4，則使自身與該友方單位獲得1層嫉妒傷害強化\n- 若最大嫉妒共鳴數 不低於6，則使自身與該友方單位獲得1層嫉妒傷害強化",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 2050621,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "電子哀鳴",
+           "abName": "夢中的電子羊",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+（最大嫉妒共鳴數-2）（最多+2）\n[BeforeAttack] 若自身的充能層數 不低於10層，則消耗至多20層充能，每消耗1層充能，使本技能造成的傷害+2%（最多+40%）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 3,
+           "name": "電子哀鳴",
+           "abName": "夢中的電子羊",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+（最大嫉妒共鳴數-2）（最多+3）\n[BeforeAttack] 若自身的充能層數 不低於10層，則消耗至多20層充能，每消耗1層充能，使本技能造成的傷害+2.5%（最多+50%）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         },
+         {
+           "level": 4,
+           "name": "電子哀鳴",
+           "abName": "夢中的電子羊",
+           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+（最大嫉妒共鳴數-2）（最多+3）\n[BeforeAttack] 若自身的充能層數 不低於10層，則使本技能命中時施加的狀態施加2次\n[BeforeAttack] 若自身的充能層數不低於10層，則消耗至多20層充能，每消耗1層充能 ，使本技能造成的傷害+3%（最多+60%）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     }
     ]
  }

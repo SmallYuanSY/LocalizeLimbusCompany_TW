@@ -1,0 +1,100 @@
+{
+   "dataList": [
+     {
+       "id": "816601_success_1",
+       "content": "<color=#ebcaa2>[{0}]</color>得到%{2} [{1}]/%"
+     },
+     {
+       "id": "816601_success_2",
+       "content": "<color=#ebcaa2>[{0}]</color>下回合獲得%{2} [{1}]/% "
+     },
+     {
+       "id": "816601_failure_1",
+       "content": "在下回合對<color=#ebcaa2>[{0}]</color>施加%{2} [{1}]/%"
+     },
+     {
+       "id": "816601_failure_2",
+       "content": "<color=#ebcaa2>[{0}]</color>受到{1}點理智值傷害"
+     },
+     {
+       "id": "816602_success_1",
+       "content": "<color=#ebcaa2>[{0}]</color>得到%{2} [{1}]/%"
+     },
+     {
+       "id": "816602_success_2",
+       "content": "<color=#ebcaa2>[{0}]</color>恢復{1}點體力與點{2}理智值"
+     },
+     {
+       "id": "816602_failure_1",
+       "content": "<color=#ebcaa2>[{0}]</color> 的本體和部位恢復{1}點體力"
+     },
+     {
+       "id": "816602_failure_2",
+       "content": "<color=#ebcaa2>[{0}]</color>受到{1}點理智值傷害"
+     },
+     {
+       "id": "817101_log_1_1",
+       "content": "對<color=#ebcaa2>[{0}]</color>施加%{2} [{1}]/%"
+     },
+     {
+       "id": "817101_log_1_2",
+       "content": "在下回合對<color=#ebcaa2>[{0}]</color>施加%{2} [{1}]/%"
+     },
+     {
+       "id": "817302_success_1",
+       "content": "<color=#ebcaa2>全體友方單位</color> 恢復{0}點理智值"
+     },
+     {
+       "id": "817302_success_2",
+       "content": "<color=#ebcaa2>[{0}]</color>在剩餘的遭遇戰期間，獲得%{1} {2}/% "
+     },
+     {
+       "id": "817302_success_3",
+       "content": "<color=#ebcaa2>本場戰鬥中的所有罪人</color>獲得%{0} {1}/% "
+     },
+     {
+       "id": "817302_failure_1",
+       "content": "<color=#ebcaa2>[{0}]</color>在剩餘的遭遇戰期間，獲得%{1} {2}/% "
+     },
+     {
+       "id": "817302_failure_2",
+       "content": "<color=#ebcaa2>本場戰鬥中的所有罪人</color>獲得{0} {1} "
+     },
+     {
+       "id": "817304_success_1",
+       "content": "<color=#ebcaa2>罪人[{0}]</color>恢復{1}點理智值"
+     },
+     {
+       "id": "817304_success_2",
+       "content": "[{0}]在{1}回合內獲得%{2} {3}/% "
+     },
+     {
+       "id": "817304_success_3",
+       "content": "所有的凱瑟琳的雙手在{0}回合內獲得%{1} {2}/%"
+     },
+     {
+       "id": "817304_success_4",
+       "content": "所有的凱瑟琳的雙手在{0}回合內獲得%{1} {2}/%"
+     },
+     {
+       "id": "817304_failure_2",
+       "content": "所有的凱瑟琳的雙手在{0}回合內獲得%{1} {2}/%"
+     },
+     {
+       "id": "817304_failure_1",
+       "content": "[{0}]在{1}回合內獲得%{2} {3}/% "
+     },
+     {
+       "id": "817305_1",
+       "content": "[{0}]<color=#80c9ff>恢復至理智值上限</color>"
+     },
+     {
+       "id": "817305_2",
+       "content": "<color=#ebcaa2>所有罪人</color> <color=#80c9ff>恢復{0}點理智值</color>"
+     },
+     {
+       "id": "817305_3",
+       "content": "[{0}]的{1}變成{2}"
+     }
+   ]
+}

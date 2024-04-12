@@ -1,0 +1,417 @@
+{
+   "dataList": [
+     {
+       "id": 9013601,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "…擊",
+           "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則對其施加1層攻擊等級降低 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013602,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "…時間",
+           "desc": "[WhenUse] 若目標的理智值不高於10點，則對其施加2層攻擊等級降低 \n[WinDuel] 對目標施加1層易損 ",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層加算硬幣弱化 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013603,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "之命…！",
+           "desc": "[WhenUse] 目標每帶有3級沉淪 強度，使本技能的基礎威力+1（最多+3）\n[WinDuel] 使全體友方單位恢復5點理智值",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加8級沉淪 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層沉淪 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加8級沉淪 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層沉淪 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加8級沉淪 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 對目標施加2層沉淪 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013604,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "…塵",
+           "desc": "[WhenUse] 目標每帶有6級沉淪強度，使本技能的基礎威力+1（最多+3）\n[WhenUse] 目標每帶有6級沉淪強度，使本技能造成的傷害 +10%（最多+30%）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 根據目標帶有的沉淪 強度，對其造成相應的憂鬱傷害。使其沉淪 層數減少1層"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 根據目標帶有的沉淪 強度，對其造成相應的憂鬱傷害。使其沉淪 層數減少1層"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 根據目標帶有的沉淪 強度，對其造成相應的憂鬱傷害"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標的沉淪 層數不低於3層，則重複使用本硬幣（最多2次）"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013605,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "…鼠輩",
+           "desc": "回合結束時若自身帶有護盾，則使自身的混亂閾值後移50",
+           "coinlist": [
+             {}
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013701,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "該死的賤…",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013702,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "我會除…",
+           "desc": "[WinDuel] 讓本技能的基礎威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有攻擊等級降低 ，則對目標造成本硬幣傷害量20%的打擊傷害"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有攻擊等級降低 ，則對目標造成本硬幣傷害量20%的打擊傷害"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013703,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "重新…",
+           "desc": "[WinDuel] 若目標的攻擊等級降低層數不低於2層，則使本技能的基礎威力+1\n[WhenUse] 若目標帶有防禦等級降低，則對目標追加本技能 傷害量30%的打擊傷害",
+           "coinlist": [
+             {},
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 使自身恢復4點理智值"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013704,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "…掉你",
+           "desc": "優先指定帶有最多負面狀態的目標\n[WinDuel] 目標每帶有3層防禦等級降低 ，使本技能的硬幣威力+1（最多+3）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 目標每帶有2層攻擊等級降低 ，使本硬幣造成的傷害+30%（最多+120%）"
+                 },
+                 {
+                   "desc": "[OnSucceedAttackHead] 若目標帶有不低於3種負面狀態，則重複使用本硬幣（1次）"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013705,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "防禦",
+           "desc": "[StartBattle] 每有1名友方單位存活，使自身額外獲得20點護盾",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013801,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "前…",
+           "desc": "",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013802,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "…刺",
+           "desc": "[WhenUse] 若目標帶有不低於2種負面狀態，則使本技能的基礎威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加3層防禦等級降低 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013803,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "雙…刺",
+           "desc": "[WhenUse] 若目標帶有不低於4種負面狀態，則使本技能的硬幣威力+1",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加1層突刺易損 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013804,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "正…刺",
+           "desc": "[WhenUse] 若目標帶有不低於5種負面狀態，則使本技能的基礎威力+2\n[WhenUse] 若目標帶有不低於5種負面狀態，則使本技能 造成的傷害+30%",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 對目標施加2層易損 "
+                 }
+               ]
+             },
+             {
+               "coindescs": [
+                 {
+                   "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 若目標帶有不低於5種負面狀態，則重複使用本硬幣（最多2次）"
+                 },
+                 {
+                   "desc": "[OnSucceedAttack] 隨機解除目標帶有的1種可解除的負面狀態"
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "id": 9013805,
+       "levelList": [
+         {
+           "level": 1,
+           "name": "…",
+           "desc": "[OnSucceedEvade] 使自身恢復5點理智值（最多2次）",
+           "coinlist": [
+             {
+               "coindescs": [
+                 {
+                   "desc": ""
+                 }
+               ]
+             }
+           ]
+         }
+       ]
+     }
+   ]
+}

@@ -685,6 +685,13 @@
       "name": "浮士德",
       "nameWithTitle": "浮士德",
       "desc": "浮士德的第9人格"
+    },
+    {
+      "id": 9999,
+      "title": "猩紅視線",
+      "name": "維吉里烏斯",
+      "nameWithTitle": "",
+      "desc": ""
     }
   ]
 }

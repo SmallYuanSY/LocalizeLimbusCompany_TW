@@ -141,6 +141,106 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2030611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "電子哀鳴",
+          "abName": "夢中的電子羊",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+（嫉妒共鳴數-2）（最多+1）\n[BeforeAttack] 若自身的充能層數不低於20層，則消耗20層充 能並使本技能造成的傷害+30%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "電子哀鳴",
+          "abName": "夢中的電子羊",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+（嫉妒共鳴數-2）（最多+2）\n[BeforeAttack] 使本技能造成的傷害+(嫉妒共鳴數-3)×5%（ 最多+15%）\n[BeforeAttack] 若自身的充能層數不低於20層，則消耗20層充能並使本技能造成的傷害+35%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "電子哀鳴",
+          "abName": "夢中的電子羊",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+（嫉妒共鳴數-2）（最多+3）\n[BeforeAttack] 使本技能造成的傷害+(嫉妒共鳴數-3)×10%（ 最多+30%）\n[BeforeAttack] 若自身的充能層數不低於20層，則消耗20層充能並使本技能造成的傷害+40%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "電子哀鳴",
+          "abName": "夢中的電子羊",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+（嫉妒共鳴數-2）（最多+1）\n[BeforeAttack] 使本技能造成的傷害+( 嫉妒共鳴數-3)×5%（最多+15%）\n[BeforeAttack] 若自身的充能層數低於20層，則每相差1層充能，消耗自身體力上限1.5%的體力以獲得 至20層充能\n[BeforeAttack] 消耗至多20層充能，每消耗1層充能，使本技能造成的傷害+2.5%（最多+50%）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] 使自身獲得3層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "電子哀鳴",
+          "abName": "夢中的電子羊",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+（嫉妒共鳴數-2）（最多+2）\n[BeforeAttack] 使本技能造成的傷害+( 嫉妒共鳴數-3)×8%（最多+24%）\n[BeforeAttack] 若自身的充能層數低於20層，則每相差1層充能，消耗自身體力上限1.5%的體力以獲得 至20層充能\n[BeforeAttack] 消耗至多20層充能，每消耗1層充能，使本技能造成的傷害+3.5%（最多+70%）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] 使自身獲得3層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "電子哀鳴",
+          "abName": "夢中的電子羊",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+（嫉妒共鳴數-2）（最多+3）\n[BeforeAttack] 使本技能造成的傷害+( 嫉妒共鳴數-3)×12%（最多+36%）\n[BeforeAttack] 若自身的充能層數低於20層，則每相差1層充能，消耗自身體力上限1%的體力以獲得 至20層充能\n[BeforeAttack] 消耗至多20層充能，每消耗1層充能，使本技能造成的傷害+5%（最多+100%）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] 使自身獲得3層充能 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

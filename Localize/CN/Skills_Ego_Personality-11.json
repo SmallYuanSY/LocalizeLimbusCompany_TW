@@ -141,6 +141,160 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2110611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "拘束",
+          "abName": "受縛之王",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+（最大傲慢或怠惰共鳴數-2）（最多+2）\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值" ,
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為[VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "拘束",
+          "abName": "受縛之王",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+（最大傲慢或怠惰共鳴數-2）（最多+2）\n使目標被震顫引爆時的混亂閾值前移量增加50%\n[ EndSkill] 3回合內，回合結束時使自身失去9點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為[VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "拘束",
+          "abName": "受縛之王",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+（最大傲慢或怠惰共鳴數-2）（最多+2）\n使目標被震顫引爆時的混亂閾值前移量增加100%\n[EndSkill] 3回合內，回合結束時使自身失去8點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加6級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為[VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "拘束",
+          "abName": "受縛之王",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+（最大傲慢或怠惰共鳴數-2）（最多+2）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為[VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "拘束",
+          "abName": "受縛之王",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+（最大傲慢或怠惰共鳴數-2）（最多+2）\n使目標被震顫引爆 時的混亂閾值前移量增加50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為[VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "拘束",
+          "abName": "受縛之王",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+（最大傲慢或怠惰共鳴數-2）（最多+2）\n使目標被震顫引爆 時的混亂閾值前移量增加50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加6級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為[VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

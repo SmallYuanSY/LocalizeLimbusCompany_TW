@@ -1,0 +1,489 @@
+{
+   "dataList": [
+     {
+       "id": 0,
+       "content": "<color=purple>我多麼渴望另一個</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 1,
+       "content": "<color=purple>更幸福、明朗的未來</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 2,
+       "content": "<color=purple>如今我立於此門前</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 3,
+       "content": "<color=purple>令人留戀的往昔啊</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 4,
+       "content": "<color=purple>我已下定決心</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 5,
+       "content": "<color=purple>我的怒氣讓你遭受多少苦感</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 6,
+       "content": "<color=purple>粗魯而笨拙的沉著</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 7,
+       "content": "你忽略了多少自身的美好",
+       "vocalid": 1
+     },
+     {
+       "id": 8,
+       "content": "直率而誠實的態度",
+       "vocalid": 1
+     },
+     {
+       "id": 9,
+       "content": "<color=purple>如今我們立於命運之地</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 10,
+       "content": "<color=purple>我將了結一切</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 11,
+       "content": "你會不會見證我的結局？",
+       "vocalid": 1
+     },
+     {
+       "id": 12,
+       "content": "<color=purple>喔</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 13,
+       "content": "<color=purple>我們轉啊轉</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 14,
+       "content": "<color=purple>懷抱苦痛</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 15,
+       "content": "<color=purple>被自我驅使</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 16,
+       "content": "<color=purple>未言說感情</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 17,
+       "content": "<color=purple>彼此的記憶交織</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 18,
+       "content": "<color=purple>而你永遠不會知道</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 19,
+       "content": "<color=purple>因我知道</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 20,
+       "content": "<color=purple>那定是歸咎於我</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 21,
+       "content": "<color=purple>使你不再露出笑顏</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 22,
+       "content": "<color=purple>剝奪了你眼中的盼望</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 23,
+       "content": "<color=purple>那定是歸咎於我</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 24,
+       "content": "<color=purple>使你吐這些謊言</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 25,
+       "content": "<color=purple>但願我不在身旁，你能過得更幸福</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 26,
+       "content": "<color=purple>叢叢盛放之紫已將訊息傳達</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 27,
+       "content": "<color=purple>不論我們多麼相違背</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 28,
+       "content": "<color=purple>你好</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 29,
+       "content": "晚安",
+       "vocalid": 1
+     },
+     {
+       "id": 30,
+       "content": "<color=purple>再見</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 31,
+       "content": "你好",
+       "vocalid": 1
+     },
+     {
+       "id": 32,
+       "content": "<color=purple>晚安</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 33,
+       "content": "我回來了",
+       "vocalid": 1
+     },
+     {
+       "id": 34,
+       "content": "<color=purple>再見</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 35,
+       "content": "等待著",
+       "vocalid": 1
+     },
+     {
+       "id": 36,
+       "content": "<color=purple>我們已至最後的機會</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 37,
+       "content": "<color=purple>與你攜手</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 38,
+       "content": "<color=purple>完成該做之事吧</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 39,
+       "content": "<color=purple>清除</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 40,
+       "content": "清除",
+       "vocalid": 1
+     },
+     {
+       "id": 41,
+       "content": "<color=purple>清除</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 42,
+       "content": "清除",
+       "vocalid": 1
+     },
+     {
+       "id": 43,
+       "content": "<color=purple>清除</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 44,
+       "content": "清除",
+       "vocalid": 1
+     },
+     {
+       "id": 45,
+       "content": "<color=purple>清除</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 46,
+       "content": "清除",
+       "vocalid": 1
+     },
+     {
+       "id": 47,
+       "content": "<color=purple>喔</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 48,
+       "content": "<color=purple>我們轉啊轉</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 49,
+       "content": "<color=purple>懷抱苦痛</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 50,
+       "content": "<color=purple>受自我驅使</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 51,
+       "content": "<color=purple>未言說感情</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 52,
+       "content": "<color=purple>彼此的記憶交織</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 53,
+       "content": "<color=purple>而你永遠不會知道</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 54,
+       "content": "<color=purple>我又如何知曉？</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 55,
+       "content": "<color=purple>那或許歸咎於我</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 56,
+       "content": "<color=purple>使你曾經善良溫和</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 57,
+       "content": "<color=purple>使我們的心意永遠相違背</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 58,
+       "content": "<color=purple>那定是源自於愛</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 59,
+       "content": "<color=purple>我仍相信這份謊言</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 60,
+       "content": "<color=purple>我不在身旁才是你的幸福</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 61,
+       "content": "<color=purple>叢叢盛放之紫已將訊息傳達</color>",
+       "vocalid": 0
+     },
+     {
+       "id": 909,
+       "content": "在命運之地",
+       "vocalid": 1
+     },
+     {
+       "id": 912,
+       "content": "喔",
+       "vocalid": 1
+     },
+     {
+       "id": 913,
+       "content": "我們轉啊轉",
+       "vocalid": 1
+     },
+     {
+       "id": 914,
+       "content": "懷抱苦痛",
+       "vocalid": 1
+     },
+     {
+       "id": 915,
+       "content": "受自我驅使",
+       "vocalid": 1
+     },
+     {
+       "id": 916,
+       "content": "未言說感情",
+       "vocalid": 1
+     },
+     {
+       "id": 917,
+       "content": "彼此的記憶交織",
+       "vocalid": 1
+     },
+     {
+       "id": 918,
+       "content": "而你將永遠不會知道",
+       "vocalid": 1
+     },
+     {
+       "id": 919,
+       "content": "因我知道",
+       "vocalid": 1
+     },
+     {
+       "id": 920,
+       "content": "那定是歸咎於我",
+       "vocalid": 1
+     },
+     {
+       "id": 921,
+       "content": "使你不再露出笑顏",
+       "vocalid": 1
+     },
+     {
+       "id": 922,
+       "content": "剝奪了你眼中的盼望",
+       "vocalid": 1
+     },
+     {
+       "id": 923,
+       "content": "那定是歸咎於我",
+       "vocalid": 1
+     },
+     {
+       "id": 924,
+       "content": "使你吐這些謊言",
+       "vocalid": 1
+     },
+     {
+       "id": 925,
+       "content": "但願即使我不在身旁，你也能獲得幸福",
+       "vocalid": 1
+     },
+     {
+       "id": 926,
+       "content": "叢叢盛放之紫已將訊息傳達",
+       "vocalid": 1
+     },
+     {
+       "id": 927,
+       "content": "不論我們多麼相悖",
+       "vocalid": 1
+     },
+     {
+       "id": 936,
+       "content": "我們已至最後的機會",
+       "vocalid": 1
+     },
+     {
+       "id": 937,
+       "content": "與你攜手",
+       "vocalid": 1
+     },
+     {
+       "id": 938,
+       "content": "完成該做之事吧",
+       "vocalid": 1
+     },
+     {
+       "id": 947,
+       "content": "喔",
+       "vocalid": 1
+     },
+     {
+       "id": 948,
+       "content": "我們轉啊轉",
+       "vocalid": 1
+     },
+     {
+       "id": 949,
+       "content": "懷抱苦痛",
+       "vocalid": 1
+     },
+     {
+       "id": 950,
+       "content": "受自我驅使",
+       "vocalid": 1
+     },
+     {
+       "id": 951,
+       "content": "未言說感情",
+       "vocalid": 1
+     },
+     {
+       "id": 952,
+       "content": "彼此的記憶交織",
+       "vocalid": 1
+     },
+     {
+       "id": 953,
+       "content": "而你將永遠不會知道",
+       "vocalid": 1
+     },
+     {
+       "id": 954,
+       "content": "我又如何知曉？",
+       "vocalid": 1
+     },
+     {
+       "id": 955,
+       "content": "那或許歸咎於我",
+       "vocalid": 1
+     },
+     {
+       "id": 956,
+       "content": "使你曾經善良溫和",
+       "vocalid": 1
+     },
+     {
+       "id": 957,
+       "content": "使我們的心意永遠相違背",
+       "vocalid": 1
+     },
+     {
+       "id": 958,
+       "content": "那定是源自於愛",
+       "vocalid": 1
+     },
+     {
+       "id": 959,
+       "content": "我仍相信這份謊言",
+       "vocalid": 1
+     },
+     {
+       "id": 960,
+       "content": "我不在身旁才是你的幸福",
+       "vocalid": 1
+     },
+     {
+       "id": 961,
+       "content": "叢叢盛放之紫已將訊息傳達",
+       "vocalid": 1
+     }
+   ]
+}

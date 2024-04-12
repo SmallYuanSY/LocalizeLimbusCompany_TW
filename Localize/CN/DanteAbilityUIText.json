@@ -1,0 +1,36 @@
+{
+   "dataList": [
+     {
+       "id": "danteAbility_UIPopup_Title",
+       "content": "選擇光之樹苗能力"
+     },
+     {
+       "id": "danteAbility_UIPopup_Remain",
+       "content": "剩餘次數"
+     },
+     {
+       "id": "dnateAbiltiy_Unlock_GoldenBranch_Resonance",
+       "content": "金枝 共鳴"
+     },
+     {
+       "id": "tutorial_battle_danteAbility_title",
+       "content": "光之樹苗能力"
+     },
+     {
+       "id": "tutorial_battle_danteAbility_01_desc_01",
+       "content": "點選右上方光之樹苗能力按鈕。"
+     },
+     {
+       "id": "tutorial_battle_danteAbility_02_desc_01",
+       "content": "選擇要使用的能力。"
+     },
+     {
+       "id": "tutorial_battle_danteAbility_03_desc_01",
+       "content": "按下確認按鈕將發動光之樹苗能力。\n光之樹苗使用次數有限。\n使用次數每天重置。"
+     },
+     {
+       "id": "ui_activated",
+       "content": "發動"
+     }
+   ]
+}

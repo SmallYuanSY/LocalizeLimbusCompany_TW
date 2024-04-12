@@ -1,0 +1,28 @@
+{
+   "dataList": [
+     {
+       "id": "816401_success_1",
+       "content": "<color=#ebcaa2>[{0}]</color>在剩餘的遭遇戰期間，得到%{1} {2}/%，%{3} {4}/%\n"
+     },
+     {
+       "id": "816401_success_2",
+       "content": "<color=#ebcaa2>全體友方單位在剩餘的遭遇戰期間</color>獲得%{1} {0}/%\n"
+     },
+     {
+       "id": "816401_success_3",
+       "content": "<color=#ebcaa2>[{0}]</color>受到混亂閾值前移、震顫引爆的效果變為2倍"
+     },
+     {
+       "id": "816401_failure_1",
+       "content": "<color=#ebcaa2>[{0}]</color>在剩餘的遭遇戰期間，得到%{1} {2}/%，%{3} {4}/%\n"
+     },
+     {
+       "id": "816401_failure_2",
+       "content": "<color=#ebcaa2>全體友方單位在剩餘的遭遇戰期間</color>獲得%{1} {0}/%\n"
+     },
+     {
+       "id": "816401_failure_3",
+       "content": "<color=#ebcaa2>[{0}]</color>受到混亂閾值前移、震顫引爆的效果變為2倍"
+     }
+   ]
+}

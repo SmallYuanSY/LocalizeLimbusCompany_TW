@@ -987,6 +987,38 @@
     {
       "id": "introduce_sentence_124",
       "content": "請允許我來…為你介紹這{0}…"
-    }
+    },
+     {
+       "id": "introduce_word_125",
+       "content": "火花"
+     },
+     {
+       "id": "introduce_sentence_125",
+       "content": "汝所見的{0}…是何種顏色！"
+     },
+     {
+       "id": "introduce_word_126",
+       "content": "電力"
+     },
+     {
+       "id": "introduce_sentence_126",
+       "content": "我只剩下這些{0}了…咕，連這些也要…！"
+     },
+     {
+       "id": "introduce_word_127",
+       "content": "權威"
+     },
+     {
+       "id": "introduce_sentence_127",
+       "content": "你竟敢…挑戰我的{0}？！"
+     },
+     {
+       "id": "introduce_word_128",
+       "content": "王座"
+     },
+     {
+       "id": "introduce_sentence_128",
+       "content": "我注定要被束縛在這{0}上，獨自進行統治…"
+     }
   ]
 }

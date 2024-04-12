@@ -1,0 +1,120 @@
+{
+   "dataList": [
+     {
+       "id": "announcer_cheer_13_1",
+       "dlg": "來來。列好隊，再確認一下餐具有沒有擦乾淨，檢查下著裝是不是整潔。接下來要開始大掃除了。"
+     },
+     {
+       "id": "announcer_cheer_13_2",
+       "dlg": "在主人到來前結束吧。給暖爐點火，備好餐食，做好迎接的準備。"
+     },
+     {
+       "id": "announcer_specialcheer_13_1",
+       "dlg": "記得吧？管家們不能展現出疲態。始終需要挺直腰桿，筆直站好。"
+     },
+     {
+       "id": "announcer_specialcheer_13_2",
+       "dlg": "看起來大家都累了。都沒忘記下午要準備晚餐吧？都記好了，要好好保存體力。"
+     },
+     {
+       "id": "announcer_enemy_break_13_1",
+       "dlg": "是時候給他們見識一下了。不像上次那樣熟睡可不行。這就送他們一個好覺吧。"
+     },
+     {
+       "id": "announcer_ally_break_13_1",
+       "dlg": "不行，還沒到你們睡覺時候呢。主人還沒入眠，我們可不能先閉上眼。"
+     },
+     {
+       "id": "announcer_killenemy_13_1",
+       "dlg": "很好。你讓他們陷入永眠了嗎？多安詳的表情啊。"
+     },
+     {
+       "id": "announcer_ally_dead_13_1",
+       "dlg": "一位管家的契約就此終止了。至今為止辛苦了…即使主人不知道…我也不會忘了你的犧牲。"
+     },
+     {
+       "id": "announcer_enemy_adv_13_1",
+       "dlg": "敵方稍微有些得意了，這種時候可不能消沉，而是要盯緊他們。讓他們見識我們威嚴而莊重的樣子。"
+     },
+     {
+       "id": "announcer_ally_adv_13_1",
+       "dlg": "我們取得優勢了。啊，也沒說讓你們取出餅乾吃啊…"
+     },
+     {
+       "id": "announcer_danger_13_1",
+       "dlg": "一位管家看起來搖搖晃晃的。來個人，幫人家按摩下肩膀。"
+     },
+     {
+       "id": "announcer_enemy_specialskill_13_1",
+       "dlg": "敵方似乎要在準備不同尋常的攻擊。大家都打開次元包準備好，有備無患。"
+     },
+     {
+       "id": "announcer_enemy_specialgimmick_13_1",
+       "dlg": "敵方正在準備奇怪的攻擊，但對經歷過大風大浪的我們來說也沒什麼了不起的吧？"
+     },
+     {
+       "id": "announcer_advatk_physical_13_1",
+       "dlg": "好，準確無誤地把灰塵都掃走了。那麼，接下來該打磨了吧？"
+     },
+     {
+       "id": "announcer_disadvatk_physical_13_1",
+       "dlg": "哎呀，好像是掃錯地方了。別太在意，再試一次吧。"
+     },
+     {
+       "id": "announcer_advatk_attr_13_1",
+       "dlg": "很好，我們準確發現了敵方討厭的食物。"
+     },
+     {
+       "id": "announcer_disadvatk_attr_13_1",
+       "dlg": "剛剛的攻擊似乎不怎麼有效。我不是再三叮囑過管家們要時刻關注對手嗎？"
+     },
+     {
+       "id": "announcer_enemy_specialbuff_13_1",
+       "dlg": "嗯？敵方的氣勢突然增強了？是在我們沒注意的時候悄悄喝了茶嗎？"
+     },
+     {
+       "id": "announcer_enemy_specialdebuff_13_1",
+       "dlg": "嗯，敵方變得灰頭土臉的。乾淨俐落地掃除掉吧。"
+     },
+     {
+       "id": "announcer_ally_specialbuff_13_1",
+       "dlg": "哇，好好利用這個肯定會對我們有利吧？"
+     },
+     {
+       "id": "announcer_ally_specialdebuff_13_1",
+       "dlg": "這種程度，對我們這些經歷過呼嘯山莊暴雨人來說完全不痛不癢。"
+     },
+     {
+       "id": "announcer_enemy_destroy_13_1",
+       "dlg": "很好，成功清除了一部分。掃除也該收尾了吧？"
+     },
+     {
+       "id": "announcer_enemy_destroy_13_2",
+       "dlg": "敵方的部位被破壞了。乾脆利索地全部收拾掉吧？"
+     },
+     {
+       "id": "announcer_round_takebigdmg_13_1",
+       "dlg": "有管家受到了致命傷。你不需要參加今天的晚餐準備了，所以再忍耐一下吧？"
+     },
+     {
+       "id": "announcer_round_takebigdmg_13_2",
+       "dlg": "一個兩個都這麼脆弱，怎麼自稱是管家？這次戰鬥結束之後，我要給你們示範示範。"
+     },
+     {
+       "id": "announcer_round_givebigdmg_13_1",
+       "dlg": "敵方就像是聞到食物香氣的客人一樣。要讓他們飽餐一頓嗎？"
+     },
+     {
+       "id": "announcer_round_givebigdmg_13_2",
+       "dlg": "敵方受到致命傷。好，大家挽起手臂！為了讓他們好好休息，來把床單鋪好吧。"
+     },
+     {
+       "id": "announcer_multikillenemy_13_1",
+       "dlg": "優秀的管家。不但有能力同時完成多種任務，甚至有時間規劃下次的下午茶。"
+     },
+     {
+       "id": "announcer_equip_13_1",
+       "dlg": "正如各位所知，我是呼嘯山莊的首席管家，耐莉。來，好好活動下四肢…我們出發吧？"
+     }
+   ]
+}
