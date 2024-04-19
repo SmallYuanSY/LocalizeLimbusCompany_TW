@@ -46,19 +46,19 @@
      },
      {
        "id": "817302_success_2",
-       "content": "<color=#ebcaa2>[{0}]</color>在剩餘的遭遇戰期間，獲得%{1} {2}/% "
+       "content": "<color=#ebcaa2>[{0}]</color>在剩餘的遭遇戰期間，獲得%{2} {1}/% "
      },
      {
        "id": "817302_success_3",
-       "content": "<color=#ebcaa2>本場戰鬥中的所有罪人</color>獲得%{0} {1}/% "
+       "content": "<color=#ebcaa2>本場戰鬥中的所有罪人</color>獲得%{1} {0}/% "
      },
      {
        "id": "817302_failure_1",
-       "content": "<color=#ebcaa2>[{0}]</color>在剩餘的遭遇戰期間，獲得%{1} {2}/% "
+       "content": "<color=#ebcaa2>[{0}]</color>在剩餘的遭遇戰期間，獲得%{2} {1}/% "
      },
      {
        "id": "817302_failure_2",
-       "content": "<color=#ebcaa2>本場戰鬥中的所有罪人</color>獲得{0} {1} "
+       "content": "<color=#ebcaa2>本場戰鬥中的所有罪人</color>獲得{1} {0} "
      },
      {
        "id": "817304_success_1",
@@ -66,23 +66,23 @@
      },
      {
        "id": "817304_success_2",
-       "content": "[{0}]在{1}回合內獲得%{2} {3}/% "
+       "content": "[{0}]在{1}回合內獲得%{3} {2}/% "
      },
      {
        "id": "817304_success_3",
-       "content": "所有的凱瑟琳的雙手在{0}回合內獲得%{1} {2}/%"
+       "content": "所有的凱瑟琳的雙手在{0}回合內獲得%{2} {1}/%"
      },
      {
        "id": "817304_success_4",
-       "content": "所有的凱瑟琳的雙手在{0}回合內獲得%{1} {2}/%"
+       "content": "所有的凱瑟琳的雙手在{0}回合內獲得%{2} {1}/%"
      },
      {
        "id": "817304_failure_2",
-       "content": "所有的凱瑟琳的雙手在{0}回合內獲得%{1} {2}/%"
+       "content": "所有的凱瑟琳的雙手在{0}回合內獲得%{2} {1}/%"
      },
      {
        "id": "817304_failure_1",
-       "content": "[{0}]在{1}回合內獲得%{2} {3}/% "
+       "content": "[{0}]在{1}回合內獲得%{3} {2}/% "
      },
      {
        "id": "817305_1",
@@ -90,7 +90,7 @@
      },
      {
        "id": "817305_2",
-       "content": "<color=#ebcaa2>所有罪人</color> <color=#80c9ff>恢復{0}點理智值</color>"
+       "content": "<color=#ebcaa2>所有罪人</color><color=#80c9ff>恢復{0}點理智值</color>"
      },
      {
        "id": "817305_3",

@@ -838,7 +838,7 @@
     },
     {
       "id": "middlefinger_meursault_profile",
-      "content": "莫爾索\n男\n9月23日\nA\n188CM\n82KG"
+      "content": "默爾索\n男\n9月23日\nA\n188CM\n82KG"
     },
     {
       "id": "middlefinger_meursault_analysis",
@@ -958,7 +958,7 @@
     },
     {
       "id": "blade_meursault_profile",
-      "content": "莫爾索\n男\n9月23日\nA\n188CM\n82KG"
+      "content": "默爾索\n男\n9月23日\nA\n188CM\n82KG"
     },
     {
       "id": "blade_meursault_analysis",
@@ -1083,6 +1083,30 @@
     {
       "id": "wuthering_faust_analysis",
       "content": "該罪人開發了邊獄公司的巴士－梅菲斯托費勒斯的引擎。她聲稱在都市中，沒有人能在智慧層面上與她相媲美，這話未必就是錯的 。也許在和經理您交談的時候，您會發現她的態度高高在上，而這樣的態度也許會敗壞您的心情。由於該罪人舉止傲慢，彷彿不在乎任何人，讓她有所改善可能性幾乎為零 。我們建議您只要應付一下，點點頭就行。雖然她才智異禀，但我們尚不清楚清楚如何利用她的才能。說不定，經理您能找到方法？"
+    },
+    {
+      "id": "P10408",
+      "content": "埃德加家族 首席管家：良秀的故事"
+    },
+    {
+      "id": "butler_ryoshu_profile",
+      "content": "良秀\n女\n9月23日\nA\n171CM\n58KG"
+    },
+    {
+      "id": "butler_ryoshu_analysis",
+      "content": "雖然說每一位罪人都有其獨特的信條，而尊重這些信條是經理應盡的義務。但…某些信條實在是令人費解。雖然該罪人平日里只是在一邊默默抽 著煙，唯有戰鬥時，她的眼中才會迸發出愉悅的神采。 由於該罪人有著我司也難以應付的背景，請盡量不要和她結下私仇。"
+    },
+    {
+      "id": "P10809",
+      "content": "埃德加家族 管家：以實瑪利的故事"
+    },
+    {
+      "id": "butler_ishmael_profile",
+      "content": "以實瑪利\n女\n9月23日\nA\n171CM\n57KG"
+    },
+    {
+      "id": "butler_ishmael_profile",
+      "content": "以實瑪利\n女\n9月23日\nA\n171CM\n57KG"
     }
   ]
 }

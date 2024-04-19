@@ -453,6 +453,257 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1080901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "掃開",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "掃開",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "掃開",
+          "desc": "若自身的速度值高於目標，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 下回合使自身獲得1層迅捷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1080902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "整理整頓",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "整理整頓",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 使自身增加2級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "整理整頓",
+          "desc": "若自身的速度值高於目標，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 使自身增加2級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1080903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "身體束縛法",
+          "desc": "[WhenUse] 使自身增加6級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層斬擊易損 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "身體束縛法",
+          "desc": "若自身的速度值高於目標，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加6級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                }
+              ]
+             },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層斬擊易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1080904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "閃避",
+          "desc": "[OnSucceedEvade] 使自身恢復5點理智值（每回合最多1次）",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

@@ -342,19 +342,19 @@
     },
     {
       "id": "Choice_90200502",
-      "content": "<color=#ebcaa2>判定失敗的罪人失去</color> <color=#e30000>15點體力</color><color=#ebcaa2>及</color><color=#fe4b48> 12點理智值</color><color=#ebcaa2>!</color>"
+      "content": "<color=#ebcaa2>判定失敗的罪人失去</color> <color=#e30000>15點體力</color><color=#ebcaa2>及</color><color=#fe4b48>12點理智值</color><color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90202001",
-      "content": "<color=#ebcaa2>技能組不包含</color><color=#61822b>暴食屬性攻擊技能</color><color=#ebcaa2>的友方單位失去</color><color =#fe4b48>5點體力</color><color=#ebcaa2>!</color>"
+      "content": "<color=#ebcaa2>技能組不包含</color><color=#61822b>暴食屬性攻擊技能</color><color=#ebcaa2>的友方單位失去</color><color=#fe4b48>5點體力</color><color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90202002",
-      "content": "<color=#ebcaa2>技能組不包含</color><color=#61822b>暴食屬性攻擊技能</color><color=#ebcaa2>的友方單位失去</color><color =#fe4b48>10點體力</color><color=#ebcaa2>!</color>"
+      "content": "<color=#ebcaa2>技能組不包含</color><color=#61822b>暴食屬性攻擊技能</color><color=#ebcaa2>的友方單位失去</color><color=#fe4b48>10點體力</color><color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_902021",
-      "content": "<color=#ebcaa2>技能組不包含</color><color=#306471>憂鬱屬性攻擊技能</color><color=#ebcaa2>的友方單位失去</color><color =#fe4b48>10點體力</color><color=#ebcaa2>!</color>"
+      "content": "<color=#ebcaa2>技能組不包含</color><color=#306471>憂鬱屬性攻擊技能</color><color=#ebcaa2>的友方單位失去</color><color=#fe4b48>10點體力</color><color=#ebcaa2>!</color>"
     }
   ]
 }

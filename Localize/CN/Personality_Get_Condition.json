@@ -687,6 +687,22 @@
     {
       "id": "10209_getCondition_gacksung",
       "content": "呼嘯山莊 管家 浮士德 3階段同步完成"
+    },
+    {
+      "id": "10408_getCondition_normal",
+      "content": "獲得埃德加家族 首席管家 良秀"
+    },
+    {
+      "id": "10408_getCondition_gacksung",
+      "content": "埃德加家族 首席管家 良秀 3階段同步完成"
+    },
+    {
+      "id": "10809_getCondition_normal",
+      "content": "取得埃德加家族 管家 以實瑪利"
+    },
+    {
+      "id": "10809_getCondition_gacksung",
+      "content": "埃德加家族 管家 以實瑪利 3階段同步完成"
     }
   ]
 }

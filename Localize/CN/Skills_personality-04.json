@@ -722,6 +722,249 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1040801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迎客道1式 狩獵",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "迎客道1式 狩獵",
+          "desc": "若自身的速度值高於目標至少3點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "迎客道1式 狩獵",
+          "desc": "若自身的速度值高於目標，則每相差2點，使本技能的拼點威力+1（最多+3）\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迎客之道第7式 捕捉",
+          "desc": "[StartBattle] 消耗6層呼吸法 並使本技能的攻擊容量+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "迎客之道第7式 捕捉",
+          "desc": "[StartBattle] 消耗6層呼吸法 並使本技能的攻擊容量+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "迎客之道第7式 捕捉",
+          "desc": "若自身的速度值高於目標，則每相差2點，使本技能的拼點威力+1（最多+3）\n[StartBattle] 消耗6層呼吸法 並使本技能的攻擊容量+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層[MarkOfButler]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "迎客之道第2式 折脖",
+          "desc": "若目標帶有[MarkOfButler]，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得7層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加5級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的20%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標陷入混亂，則使本硬幣暴擊時造成的傷害+20%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "迎客之道第2式 折脖",
+          "desc": "若目標帶有[MarkOfButler]，則使本技能的拼點威力+1\n若自身的速度值高於目標，則每相差2點，使本技能的硬幣威力+1（最多 +2）\n[WhenUse] 使自身獲得7層呼吸法",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加5級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的30%"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層[MarkOfButler]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標陷入混亂，則使本硬幣暴擊時造成的傷害+40%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MarkOfButler]"
+                },
+                {
+                  "desc": "[EnemyKill] 隨機對1名帶有[MarkOfButler]的目標重複使用本技能1次\n（重複使用時不生效，沒有目標帶有[MarkOfButler]時不生效）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "無能",
+          "desc": "[OnSucceedEvade] 使自身恢復3點理智值（每回合最多3次）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "無能",
+          "desc": "[OnSucceedEvade] 使自身恢復3點理智值（每回合最多5次）\n[OnSucceedEvade] 使自身獲得1層呼吸法 （每回合最多5次）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

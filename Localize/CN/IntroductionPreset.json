@@ -1019,6 +1019,22 @@
      {
        "id": "introduce_sentence_128",
        "content": "我注定要被束縛在這{0}上，獨自進行統治…"
+     },
+     {
+       "id": "introduce_word_129",
+       "content": "混蛋主人"
+     },
+     {
+       "id": "introduce_sentence_129",
+       "content": "按照{0}的意思，準備好了。"
+     },
+     {
+       "id": "introduce_word_130",
+       "content": "管家"
+     },
+     {
+       "id": "introduce_sentence_130",
+       "content": "畢竟我是相當能幹的{0}。"
      }
   ]
 }

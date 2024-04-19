@@ -130,7 +130,7 @@
        "levelList": [
          {
            "level": 1,
-           "name": "破碎的心",
+           "name": "碎裂的心",
            "desc": "[WinDuel] 下回合使自身獲得3層防禦等級提升 ",
            "coinlist": [
              {
@@ -169,17 +169,11 @@
                "coindescs": [
                  {
                    "desc": "[OnSucceedAttack] 對目標施加1層易損 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
                  }
                ]
              },
              {
                "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
-                 },
                  {
                    "desc": "[OnSucceedAttack] 下回合使自己獲得1層強壯 "
                  },
@@ -224,12 +218,12 @@
          {
            "level": 1,
            "name": "屍袋",
-           "desc": "[WhenUse] 目標每帶有4級流血強度，使本技能的基礎威力+1（最多+3）\n[WhenUse] 目標每帶有1種負面狀態，使本技能的拼點 威力+1（最多+2）\n[DefeatDuel] 對自身施加10層防禦等級降低\n[DefeatDuel] 對自身施加1層未能釋懷的悵惘",
+           "desc": "[WhenUse] 目標每帶有5級流血強度，使本技能的基礎威力+1（最多+3）\n[WhenUse] 目標每帶有1種負面狀態，使本技能的拼點 威力+1（最多+2）\n[DefeatDuel] 對自身施加10層防禦等級降低\n[DefeatDuel] 對自身施加1層未能釋懷的悵惘",
            "coinlist": [
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
                  },
                  {
                    "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於8級，則使本技能最後一枚硬幣造成的傷害+30%"
@@ -239,7 +233,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
                  },
                  {
                    "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於8級，則使本技能最後一枚硬幣造成的傷害+30%"
@@ -249,7 +243,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
                  },
                  {
                    "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於8級，則使本技能最後一枚硬幣造成的傷害+30%"
@@ -258,9 +252,6 @@
              },
              {
                "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標造成20點理智傷害"
-                 },
                  {
                    "desc": "[OnSucceedAttack] 若本技能所有硬幣朝向均為正面，則下回合對目標施加5層易損 "
                  }
@@ -276,7 +267,7 @@
          {
            "level": 1,
            "name": "狂亂之狼的狂氣",
-           "desc": "[WhenUse] 目標每帶有4級流血強度，使本技能的基礎威力+1（最多+4）\n[WhenUse] 目標每帶有1種負面狀態，使本技能的拼點 威力+1（最多+2）\n[DefeatDuel] 若目標帶有[AaCfPcBg]，則使自身的混亂閾值前移100。若自身未擁有混亂閾值，則在0點處生成1條混亂閾值",
+           "desc": "[WhenUse] 目標每帶有5級流血強度，使本技能的基礎威力+1（最多+4）\n[WhenUse] 目標每帶有1種負面狀態，使本技能的拼點 威力+1（最多+2）\n[DefeatDuel] 若目標帶有[AaCfPcBg]，則使自身的混亂閾值前移100。若自身未擁有混亂閾值，則在0點處生成1條混亂閾值",
            "coinlist": [
              {
                "coindescs": [
@@ -301,9 +292,6 @@
              },
              {
                "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標造成15點理智傷害"
-                 },
                  {
                    "desc": "[OnSucceedAttack] 若所有本技能的硬幣全部命中，則重複使用本硬幣（最多1次）"
                  }
@@ -1017,7 +1005,7 @@
          {
            "level": 1,
            "name": "魔王所經之處，唯餘悲傷哀鳴",
-           "desc": "[CantChangeTarget]",
+           "desc": "",
            "coinlist": [
              {
                "coindescs": [
@@ -1076,7 +1064,7 @@
          {
            "level": 1,
            "name": "徒勞",
-           "desc": "[StartBattle] 使自己獲得荊棘 ",
+           "desc": "",
            "coinlist": [
              {
                "coindescs": [
@@ -1220,7 +1208,7 @@
          {
            "level": 1,
            "name": "無意義的掙扎",
-           "desc": "[CantDuel]",
+           "desc": "",
            "coinlist": [
              {
                "coindescs": [
