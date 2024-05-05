@@ -445,7 +445,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有的醉意 層數不低於5層，本硬幣造成傷害為0。\n妖精紳士下回合陷入混亂"
+                  "desc": "[OnSucceedAttack] 若目標帶有的醉意 層數不低於5層，本硬幣造成傷害為0。\n精靈紳士下回合陷入混亂"
                 },
                 {
                   "desc": "[OnSucceedAttack] 消耗目標的所有醉意 。"
@@ -461,7 +461,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "想要這杯妖精酒嗎？",
+          "name": "想要這杯精靈酒嗎？",
           "desc": "[WhenUse] 下回合對自身施加3層束縛 ",
           "coinlist": [
             {
@@ -481,7 +481,7 @@
         {
           "level": 1,
           "name": "要來一杯嗎？",
-          "desc": "[StartBattle] 下回合召喚妖精酒\n[DefeatDuel] 妖精酒會以體力上限70%的體力被召喚",
+          "desc": "[StartBattle] 下回合召喚精靈酒\n[DefeatDuel] 精靈酒會以體力上限70%的體力被召喚",
           "coinlist": [
             {
               "coindescs": [
@@ -502,7 +502,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "甜美的妖精酒",
+          "name": "甜美的精靈酒",
           "desc": "被人格擊殺時，下回合對所有人格施加5層醉意 ",
           "coinlist": [
             {}
@@ -845,7 +845,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有的醉意 層數不低於5層，本硬幣造成傷害為0。\n妖精紳士下回合陷入混亂"
+                  "desc": "[OnSucceedAttack] 若目標帶有的醉意 層數不低於5層，本硬幣造成傷害為0。\n精靈紳士下回合陷入混亂"
                 },
                 {
                   "desc": "[OnSucceedAttack] 消耗目標的所有醉意 。"
@@ -861,7 +861,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "想要這杯妖精酒嗎？",
+          "name": "想要這杯精靈酒嗎？",
           "desc": "[WhenUse] 下回合使自身獲得3層束縛 ",
           "coinlist": [
             {
@@ -881,7 +881,7 @@
         {
           "level": 1,
           "name": "要來一杯嗎？",
-          "desc": "[StartBattle] 下回合召喚妖精酒\n[DefeatDuel] 妖精酒會以體力上限50%的體力被召喚",
+          "desc": "[StartBattle] 下回合召喚精靈酒\n[DefeatDuel] 精靈酒會以體力上限50%的體力被召喚",
           "coinlist": [
             {
               "coindescs": [
@@ -902,7 +902,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "甜美的妖精酒",
+          "name": "甜美的精靈酒",
           "desc": "被人格擊殺時，下回合對所有人格施加5層醉意 ",
           "coinlist": [
             {}
@@ -916,7 +916,7 @@
         {
           "level": 1,
           "name": "懸掛的誘餌",
-          "desc": "[CantDuel] 妖精存活時，攻擊容量增加。\n優先攻擊被魅惑的人格。",
+          "desc": "[CantDuel] 精靈存活時，攻擊容量增加。\n優先攻擊被魅惑的人格。",
           "coinlist": [
             {
               "coindescs": [
@@ -1023,7 +1023,7 @@
         {
           "level": 1,
           "name": "自我陶醉",
-          "desc": "攻擊妖精提燈時傷害為0。",
+          "desc": "攻擊精靈提燈時傷害為0。",
           "coinlist": [
             {
               "coindescs": [

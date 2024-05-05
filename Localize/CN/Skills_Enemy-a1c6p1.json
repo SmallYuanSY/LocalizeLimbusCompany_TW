@@ -24,7 +24,7 @@
        "levelList": [
          {
            "level": 1,
-           "name": "這會刺痛！",
+           "name": "這會很痛！",
            "desc": "[WhenUse] 若目標帶有震顫 ，則使本技能的硬幣威力+1",
            "coinlist": [
              {

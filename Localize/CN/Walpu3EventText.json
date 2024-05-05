@@ -1,0 +1,272 @@
+{
+  "dataList": [
+    {
+      "id": "Walpu3_reward_button",
+      "content": "任務列表"
+    },
+    {
+      "id": "Walpu3_story_theater_button",
+      "content": "跳轉至放映室"
+    },
+    {
+      "id": "Walpu3_normal_stage",
+      "content": "簡單難度"
+    },
+    {
+      "id": "Walpu3_hard_stage",
+      "content": "困難難度"
+    },
+    {
+      "id": "Walpu3_normal_stage_name",
+      "content": "精靈的呵護"
+    },
+    {
+      "id": "Walpu3_hard_stage_name",
+      "content": "獵食"
+    },
+    {
+      "id": "Walpu3_normal_stage_desc",
+      "content": "精靈們在保護員工。\n受到呵護的時候一切都會變得安穩。"
+    },
+    {
+      "id": "Walpu3_hard_stage_desc",
+      "content": "內臟和眼球像是被什麽啃食般失去了。另一邊，精靈們的嘴角上沾著某人的血和肉。"
+    },
+    {
+      "id": "Walpu3_hard_stage_unlock_condition",
+      "content": "通過簡單難度後解鎖"
+    },
+    {
+      "id": "EVENT_WALPU3_NORMAL",
+      "content": "簡單"
+    },
+    {
+      "id": "EVENT_WALPU3_HARD",
+      "content": "困難"
+    },
+    {
+      "id": "missionConditionTitle_10009",
+      "content": "精靈盛宴 鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10010",
+      "content": "10回合以內鎮壓精靈盛宴"
+    },
+    {
+      "id": "missionConditionTitle_10011",
+      "content": "全體友方單位存活的狀態下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10012",
+      "content": "全體友方單位的理智值未降至-45的條件下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10013",
+      "content": "歷史層司書受到未超過10次敵方單位攻擊技能的狀態下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10014",
+      "content": "單次戰鬥中成功破壞精靈女王的雙臂部位下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10015",
+      "content": "精靈女王沒有殺死精靈畸塊的情況下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10016",
+      "content": "單次戰鬥中精靈女王殺死了精靈畸塊"
+    },
+    {
+      "id": "missionConditionTitle_10017",
+      "content": "單次戰鬥中一回合內精靈女王殺死精靈畸塊"
+    },
+    {
+      "id": "missionConditionTitle_10018",
+      "content": "給單個異想體賦予燒傷，流血，破裂，沈淪其中一種效果的威力達到一定數值"
+    },
+    {
+      "id": "missionConditionTitle_10019",
+      "content": "單次戰鬥中使用燒傷，流血，破裂，沈淪傷害擊殺異想體"
+    },
+    {
+      "id": "missionConditionTitle_10020",
+      "content": "單次戰鬥中使用燒傷，流血，破裂，沈淪傷害擊殺精靈女王"
+    },
+    {
+      "id": "missionConditionTitle_20009",
+      "content": "精靈盛宴 鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20010",
+      "content": "10回合以內鎮壓精靈盛宴"
+    },
+    {
+      "id": "missionConditionTitle_20011",
+      "content": "全體友方單位存活的狀態下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20012",
+      "content": "全體友方單位的理智值未降至-45的條件下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20013",
+      "content": "歷史層司書未受到超過5次敵方單位攻擊技能的狀態下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20014",
+      "content": "單次戰鬥中成功破壞精靈女王的雙臂部位下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20015",
+      "content": "精靈女王沒有殺死精靈畸塊的情況下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20016",
+      "content": "單次戰鬥中精靈女王殺死了精靈畸塊"
+    },
+    {
+      "id": "missionConditionTitle_20017",
+      "content": "單次戰鬥中一回合內精靈女王殺死一定數量的精靈畸塊"
+    },
+    {
+      "id": "missionConditionTitle_20018",
+      "content": "給單個異想體賦予燒傷，流血，破裂，沈淪其中一種效果的威力達到一定數值"
+    },
+    {
+      "id": "missionConditionTitle_20019",
+      "content": "單次戰鬥中使用燒傷，流血，破裂，沈淪傷害擊殺異想體"
+    },
+    {
+      "id": "missionConditionTitle_20020",
+      "content": "單次戰鬥中使用燒傷，流血，破裂，沈淪傷害擊殺精靈女王"
+    },
+    {
+      "id": "missionConditionTitle_20021",
+      "content": "歷史層司書使用單個攻擊技能同時擊殺一定數量以上的異想體"
+    },
+    {
+      "id": "missionConditionTitle_30002",
+      "content": "完成簡單及困難難度的全部任務"
+    },
+    {
+      "id": "walpu3_reward_event_desc",
+      "content": "在簡單及困難難度下，鎮壓精靈盛宴並完成任務。\n\n完成任務後，您將獲得多種獎勵。"
+    },
+    {
+      "id": "walpu3_reward_normal_tab",
+      "content": "簡單"
+    },
+    {
+      "id": "walpu3_reward_hard_tab",
+      "content": "困難"
+    },
+    {
+      "id": "walpu3_modal_yes",
+      "content": "是"
+    },
+    {
+      "id": "walpu3_modal_no",
+      "content": "否"
+    },
+    {
+      "id": "walpu_modal_enterStage_10555",
+      "content": "要進入精靈盛宴之書嗎？"
+    },
+    {
+      "id": "walpu_modal_enterStage_10556",
+      "content": "要進入精靈盛宴之書嗎？"
+    },
+    {
+      "id": "walpu_battle_turn",
+      "content": "第{0}幕"
+    },
+    {
+      "id": "walpu_battle_1_wave",
+      "content": "歷史層 - 第{0}舞台"
+    },
+    {
+      "id": "walpu_battle_name_10555",
+      "content": "精靈盛宴"
+    },
+    {
+      "id": "walpu_battle_name_10556",
+      "content": "精靈盛宴"
+    },
+    {
+      "id": "walpu_battle_result_win",
+      "content": "{0} 鎮壓成功"
+    },
+    {
+      "id": "walpu_battle_result_lose",
+      "content": "{0} 鎮壓失敗"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_01_title",
+      "content": "第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_01_title_01",
+      "content": "第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_01_desc_01",
+      "content": "[第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]不論主線故事進度都將開放。可以通過玻璃窗或駕駛席上的活動橫幅進入。 "
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_02_title_01",
+      "content": "活動期間"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_02_desc_01",
+      "content": "[第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]的活動持續時間顯示在這里。活動期間內，完成簡單及困難難度的戰鬥任務，可以領取任務獎勵的報酬。"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_title_01",
+      "content": "簡單難度戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_desc_01",
+      "content": "選擇這扇門可進入簡單難度戰鬥。\n進入戰鬥時會消耗腦啡肽模組。\n簡單難度下，45級以下的人格等級將被自動提升至45。\n並且，人格同步進度3以下的話，\n將提升到3階段。\nE.G.O異想解析進度將保持不變。"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_title_02",
+      "content": "困難難度戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_desc_02",
+      "content": "通過簡單難度將解鎖困難難度。\n在困難難度下，人格的等級、同步進度與E.G.O異想解析進度將保持不變。"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_04_title_01",
+      "content": "歷史層司書 效果"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_04_desc_01",
+      "content": "編隊中以第一順位進入關卡的罪人將被賦予“歷史層司書”效果。“歷史層司書”效果在簡單/困難戰鬥中會發生變化，賦予效果的罪人將獲得額外技能槽，並獲得增益。"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_05_title_01",
+      "content": "任務列表"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_05_desc_01",
+      "content": "通過[任務列表]界面，能夠查看需要完成的任務，以及任務獎勵。"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_06_desc_01",
+      "content": "[任務列表]界面將顯示獎勵領取期限。"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_06_desc_02",
+      "content": "能夠分別確認簡單及困難任務。"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_06_desc_03",
+      "content": "完成任務可在[任務列表]領取多樣化獎勵。"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_07_desc_01",
+      "content": "活動結束後，通過駕駛席-[外傳故事]及放映室-[其他故事]，可隨時享受[第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]的關卡和故事。"
+    }
+  ]
+}

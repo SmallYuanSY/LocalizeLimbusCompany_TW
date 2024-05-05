@@ -245,7 +245,7 @@
         {
           "level": 1,
           "name": "請多多關照，親愛的鄰居",
-          "desc": "指定被禁錮的目標; 無法與該技能拼點",
+          "desc": "[CantDuel]\n指定被禁錮的目標",
           "coinlist": [
             {
               "coindescs": [
@@ -312,7 +312,7 @@
         {
           "level": 1,
           "name": "處理小鎮新移居申請",
-          "desc": "無法拼點; 無法改變拼點目標; 指定體力最高的目標\n[WhenUse] 消耗所有充能",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n指定體力最高的目標\n[WhenUse] 消耗所有充能",
           "coinlist": [
             {
               "coindescs": [

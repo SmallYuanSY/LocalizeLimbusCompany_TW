@@ -470,7 +470,7 @@
     },
     {
       "id": "introduce_word_60",
-      "content": "妖精酒"
+      "content": "精靈酒"
     },
     {
       "id": "introduce_sentence_60",
@@ -988,53 +988,77 @@
       "id": "introduce_sentence_124",
       "content": "請允許我來…為你介紹這{0}…"
     },
-     {
-       "id": "introduce_word_125",
-       "content": "火花"
-     },
-     {
-       "id": "introduce_sentence_125",
-       "content": "汝所見的{0}…是何種顏色！"
-     },
-     {
-       "id": "introduce_word_126",
-       "content": "電力"
-     },
-     {
-       "id": "introduce_sentence_126",
-       "content": "我只剩下這些{0}了…咕，連這些也要…！"
-     },
-     {
-       "id": "introduce_word_127",
-       "content": "權威"
-     },
-     {
-       "id": "introduce_sentence_127",
-       "content": "你竟敢…挑戰我的{0}？！"
-     },
-     {
-       "id": "introduce_word_128",
-       "content": "王座"
-     },
-     {
-       "id": "introduce_sentence_128",
-       "content": "我注定要被束縛在這{0}上，獨自進行統治…"
-     },
-     {
-       "id": "introduce_word_129",
-       "content": "混蛋主人"
-     },
-     {
-       "id": "introduce_sentence_129",
-       "content": "按照{0}的意思，準備好了。"
-     },
-     {
-       "id": "introduce_word_130",
-       "content": "管家"
-     },
-     {
-       "id": "introduce_sentence_130",
-       "content": "畢竟我是相當能幹的{0}。"
-     }
+    {
+      "id": "introduce_word_125",
+      "content": "火花"
+    },
+    {
+      "id": "introduce_sentence_125",
+      "content": "汝所見的{0}…是何種顏色！"
+    },
+    {
+      "id": "introduce_word_126",
+      "content": "電力"
+    },
+    {
+      "id": "introduce_sentence_126",
+      "content": "我只剩下這些{0}了…咕，連這些也要…！"
+    },
+    {
+      "id": "introduce_word_127",
+      "content": "權威"
+    },
+    {
+      "id": "introduce_sentence_127",
+      "content": "你竟敢…挑戰我的{0}？！"
+    },
+    {
+      "id": "introduce_word_128",
+      "content": "王座"
+    },
+    {
+      "id": "introduce_sentence_128",
+      "content": "我注定要被束縛在這{0}上，獨自進行統治…"
+    },
+    {
+      "id": "introduce_word_129",
+      "content": "混蛋主人"
+    },
+    {
+      "id": "introduce_sentence_129",
+      "content": "按照{0}的意思，準備好了。"
+    },
+    {
+      "id": "introduce_word_130",
+      "content": "管家"
+    },
+    {
+      "id": "introduce_sentence_130",
+      "content": "畢竟我是相當能幹的{0}。"
+    },
+    {
+      "id": "introduce_word_131",
+      "content": "悲傷"
+    },
+    {
+      "id": "introduce_sentence_131",
+      "content": "那麽……我會選擇與這{0}一同奮起。"
+    },
+    {
+      "id": "introduce_word_132",
+      "content": "腳踝"
+    },
+    {
+      "id": "introduce_sentence_132",
+      "content": "所以只要把你的{0}剁掉的話……！"
+    },
+    {
+      "id": "introduce_word_133",
+      "content": "肉"
+    },
+    {
+      "id": "introduce_sentence_133",
+      "content": "受了傷的{0}……並不美味。"
+    }
   ]
 }

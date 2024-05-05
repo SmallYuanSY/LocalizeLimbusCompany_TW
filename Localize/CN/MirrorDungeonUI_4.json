@@ -1,0 +1,908 @@
+{
+  "dataList": [
+    {
+      "id": "dungeon_selectable",
+      "content": "可選擇"
+    },
+    {
+      "id": "dungeon_battle_reawrd_card_selection",
+      "content": "選擇遭遇戰獎勵卡"
+    },
+    {
+      "id": "dungeon_opportunity_to_select_rewards_remaining",
+      "content": "仍有選擇獎勵的機會。\n要在不選擇獎勵的情況下繼續嗎？"
+    },
+    {
+      "id": "mirrordungeon_appear_able_theme_pack_title",
+      "content": "{0} - 主題卡包"
+    },
+    {
+      "id": "mirrordungeon_theme_pack_boss",
+      "content": "出現Boss"
+    },
+    {
+      "id": "mirrordungeon_theme_pack_ego_gift",
+      "content": "出現E.G.O飾品"
+    },
+    {
+      "id": "mirrordunge_theme_pack_history_button_label",
+      "content": "主題卡包圖鑒"
+    },
+    {
+      "id": "simulation_difficulty",
+      "content": "難易度：模擬"
+    },
+    {
+      "id": "ritournelle_difficulty",
+      "content": "難易度：Ritornello"
+    },
+    {
+      "id": "enter_simulation_difficulty",
+      "content": "進入模擬難度"
+    },
+    {
+      "id": "enter_ritournelle_difficulty",
+      "content": "進入Ritornello難度"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_4_normal",
+      "content": "模擬第{0}層"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_4_hard",
+      "content": "Ritornello第{0}層"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_before_exploration",
+      "content": "探索前"
+    },
+    {
+      "id": "mirror_dungeon4_entrance_hard_hint_after_release",
+      "content": "<解鎖條件>\n通關主線故事5-36\n通關 呼嘯之鏡 難易度：模擬"
+    },
+    {
+      "id": "dungeon_encounter_guide_elite_battle",
+      "content": "精銳遭遇戰"
+    },
+    {
+      "id": "purchase_ego_gift",
+      "content": "購買E.G.O飾品"
+    },
+    {
+      "id": "purchase_personality_skill_desc",
+      "content": "是否消耗<color=#F8C200>{0}</color>經費進行技能替換？"
+    },
+    {
+      "id": "mirror_dungeon_4_start_buff_name",
+      "content": "星之歸路"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_1",
+      "content": "風暴眼"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_2",
+      "content": "霹靂"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_3",
+      "content": "刺骨寒風"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_4",
+      "content": "順風"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_5",
+      "content": "雷瀑"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_6",
+      "content": "聚集的風暴"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_7",
+      "content": "龍卷風"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_8",
+      "content": "除夕夜的鈴聲"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_9",
+      "content": "朦朧暮色"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_10",
+      "content": "漆黑極夜"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_11",
+      "content": "寂靜黎明"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_12",
+      "content": "冰冷拂曉"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_13",
+      "content": "不夜城"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_14",
+      "content": "羊雲"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_15",
+      "content": "浩浩雲海"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_16",
+      "content": "山風"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_17",
+      "content": "洶洶疾風"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_18",
+      "content": "西風歸路"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_19",
+      "content": "上升氣流"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_19_1",
+      "content": "夜雨"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_20",
+      "content": "落雷饗宴"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_21",
+      "content": "緊隨的雷鳴"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_22",
+      "content": "濃厚迷霧"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_23",
+      "content": "陣雨"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_24",
+      "content": "無盡的對流"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_25",
+      "content": "事件的地平線"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_26",
+      "content": "銀河"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_27",
+      "content": "逼近的彗星"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_100",
+      "content": "[限定]\n鐫星時，獲得200星芒（僅限最初1次，不受激活影響）"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_101",
+      "content": "[初始E.G.O飾品]\n初始E.G.O飾品列表中新增7種E.G.O飾品"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1011",
+      "content": "[初始E.G.O飾品]\n解鎖燒傷E.G.O飾品類別"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1012",
+      "content": "[初始E.G.O飾品]\n流血E.G.O飾品類別開放"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1013",
+      "content": "[初始E.G.O飾品]\n震顫E.G.O飾品類別開放"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1014",
+      "content": "[初始E.G.O飾品]\n破裂E.G.O飾品類別開放"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1015",
+      "content": "[初始E.G.O飾品]\n沈淪E.G.O飾品類別開放"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1016",
+      "content": "[初始E.G.O飾品]\n呼吸法E.G.O飾品類別開放"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1017",
+      "content": "[初始E.G.O飾品]\n充能E.G.O飾品類別開放"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_102",
+      "content": "[初始E.G.O飾品]\n初始E.G.O飾品列表中新增6種E.G.O飾品"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1021",
+      "content": "[初始E.G.O飾品]\n斬擊E.G.O飾品類別開放"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1022",
+      "content": "[初始E.G.O飾品]\n突刺E.G.O飾品類別開放"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1023",
+      "content": "[初始E.G.O飾品]\n打擊E.G.O飾品類別開放"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1024",
+      "content": "(未使用)"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_103",
+      "content": "[通用]\n獲得50點初始經費"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1031",
+      "content": "[通用]\n初始經費+50"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1032",
+      "content": "[通用]\n初始經費+50"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1033",
+      "content": "[通用]\n初始經費+50"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_104",
+      "content": "[通用]\n商店、合成、戰鬥報酬追加16種2級E.G.O飾品"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1041",
+      "content": "[初始E.G.O飾品]\n燒傷E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1042",
+      "content": "[初始E.G.O飾品]\n流血E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1043",
+      "content": "[初始E.G.O飾品]\n震顫E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1044",
+      "content": "[初始E.G.O飾品]\n破裂E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1045",
+      "content": "[初始E.G.O飾品]\n沈淪E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1046",
+      "content": "[初始E.G.O飾品]\n呼吸法E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1047",
+      "content": "[初始E.G.O飾品]\n充能E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_105",
+      "content": "[通用]\n商店、合成、戰鬥報酬追加28種3~4級E.G.O飾品"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1051",
+      "content": "[初始E.G.O飾品]\n斬擊E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1052",
+      "content": "[初始E.G.O飾品]\n突刺E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1053",
+      "content": "[初始E.G.O飾品]\n打擊E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1054",
+      "content": "[初始E.G.O飾品]\n隨機E.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_106",
+      "content": "[商店]\n可選擇的E.G.O飾品數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_111",
+      "content": "[商店]\n出現E.G.O飾品等級上升"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1111",
+      "content": "[商店]\n出現E.G.O飾品等級上升"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1112",
+      "content": "[商店]\n出現E.G.O飾品等級上升"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1113",
+      "content": "[商店]\n出現E.G.O飾品等級上升"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_112",
+      "content": "[商店]\n出現E.G.O飾品數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1121",
+      "content": "[商店]\n刷新經費 -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1122",
+      "content": "[商店]\n刷新經費 -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_113",
+      "content": "[商店]\n購買E.G.O飾品所需經費減少 -5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1131",
+      "content": "[商店]\n1級E.G.O飾品的購買經費 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1132",
+      "content": "[商店]\n2級E.G.O飾品的購買經費 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1133",
+      "content": "[商店]\n3級E.G.O飾品的購買經費 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1134",
+      "content": "[商店]\n4級E.G.O飾品的購買經費 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_114",
+      "content": "[商店]\n購買E.G.O飾品所需經費減少 -5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1141",
+      "content": "[商店]\n購買燒傷E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1142",
+      "content": "[商店]\n購買流血E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1143",
+      "content": "[商店]\n購買震顫E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1144",
+      "content": "[商店]\n購買破裂E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1145",
+      "content": "[商店]\n購買沈淪E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1146",
+      "content": "[商店]\n購買呼吸法E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1147",
+      "content": "[商店]\n購買充能E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_115",
+      "content": "[商店]\n購買E.G.O飾品所需經費減少 -5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1151",
+      "content": "[商店]\n購買斬擊E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1152",
+      "content": "[商店]\n購買突刺E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1153",
+      "content": "[商店]\n購買打擊E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1154",
+      "content": "[商店]\n購買無關鍵詞E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_116",
+      "content": "[商店]\nE.G.O飾品出現數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1161",
+      "content": "[商店]\n1級E.G.O飾品的售賣經費 +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1162",
+      "content": "[商店]\n2級E.G.O飾品的售賣經費 +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1163",
+      "content": "[商店]\n3級E.G.O飾品的售賣經費 +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1164",
+      "content": "[商店]\n4級E.G.O飾品的售賣經費 +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1165",
+      "content": "[商店]\n技能替換經費 -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1166",
+      "content": "[商店]\n技能替換經費 -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_121",
+      "content": "[休息點]\n強化E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1211",
+      "content": "[休息點]\n強化1級E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1212",
+      "content": "[休息點]\n強化2級E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1213",
+      "content": "[休息點]\n強化3級E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1214",
+      "content": "[休息點]\n強化4級E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_122",
+      "content": "[商店]\n有20%的概率刷新時不消耗經費"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_123",
+      "content": "[休息點]\n強化E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1231",
+      "content": "[休息點]\n強化燒傷E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1232",
+      "content": "[休息點]\n強化流血E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1233",
+      "content": "[休息點]\n強化震顫E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1234",
+      "content": "[休息點]\n強化破裂E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1235",
+      "content": "[休息點]\n強化沈淪E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1236",
+      "content": "[休息點]\n強化呼吸法E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1237",
+      "content": "[休息點]\n強化充能E.G.O飾品所需經費減少 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_124",
+      "content": "[休息點]\n20%概率強化時返還經費"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_125",
+      "content": "[休息點]\nE.G.O飾品強化經費 -10%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1251",
+      "content": "[休息點]\n斬擊E.G.O飾品強化經費 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1252",
+      "content": "[休息點]\n突刺E.G.O飾品強化經費 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1253",
+      "content": "[休息點]\n打擊E.G.O飾品強化經費 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1254",
+      "content": "[休息點]\n無關鍵詞E.G.O飾品強化經費 -7.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_126",
+      "content": "[通用]\n戰鬥勝利時獲得經費 +10%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1261",
+      "content": "[通用]\n常規戰鬥勝利時獲得經費 +10%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1262",
+      "content": "[通用]\n集中戰鬥勝利時獲得經費 +10%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1263",
+      "content": "[通用]\n精銳戰鬥勝利時獲得經費 +10%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1264",
+      "content": "[通用]\n頭目戰鬥勝利時獲得經費 +10%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_131",
+      "content": "[階層主題]\n階層主題出現數量 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_132",
+      "content": "[戰鬥]\n造成傷害量 +2.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1321",
+      "content": "[戰鬥]\n造成傷害量 +2.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1322",
+      "content": "[戰鬥]\n造成傷害量 +2.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1323",
+      "content": "[戰鬥]\n造成傷害量 +2.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1324",
+      "content": "[戰鬥]\n攻擊等級 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1325",
+      "content": "[戰鬥]\n攻擊等級 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_133",
+      "content": "[遭遇戰獎勵卡]\n遭遇戰獎勵卡選擇數+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_134",
+      "content": "[戰鬥]\n受到傷害量 -2.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1341",
+      "content": "[戰鬥]\n受到傷害量 -2.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1342",
+      "content": "[戰鬥]\n受到傷害量 -2.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1343",
+      "content": "[戰鬥]\n受到傷害量 -2.5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1344",
+      "content": "[戰鬥]\n防御等級 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1345",
+      "content": "[戰鬥]\n防御等級 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1346",
+      "content": "[戰鬥]\n防御等級 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_135",
+      "content": "[階層主題]\n階層主題出現數量 +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_136",
+      "content": "[戰鬥]\n所有罪孽碎片+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1361",
+      "content": "[戰鬥]\n所有罪孽碎片+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1362",
+      "content": "[戰鬥]\n速度值上限+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1363",
+      "content": "[戰鬥]\n速度值上限+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_141",
+      "content": "可選擇E.G.O飾品數量+1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_142",
+      "content": "初始經費+250"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_14",
+      "content": "額外獲得初始階段所選項目的4級隨機E.G.O飾品"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_1",
+      "content": "在E.G.O飾品合成中，若<color=#f8c200>將相同關鍵詞的E.G.O飾品進行組合</color>，出現該相同關鍵詞E.G.O飾品的概率將會增加。"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_2",
+      "content": "以下是若將2件E.G.O飾品進行組合，預期的E.G.O飾品等級。"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_diffrent_keyword",
+      "content": "不同關鍵詞的情況"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_identical_keyword",
+      "content": "相同關鍵詞的情況"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_two_same_keywords",
+      "content": "有兩個關鍵詞相同而一個不同的情況"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_1_0",
+      "content": "1級 + 1級 => 1級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_1_1",
+      "content": "1級 + 1級 => <color=#f8c200>2級</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_2_0",
+      "content": "1級 + 2級 => 1級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_2_1",
+      "content": "1級 + 2級 => <color=#f8c200>2級</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_3_0",
+      "content": "1級 + 3級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_3_1",
+      "content": "1級 + 3級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_4_0",
+      "content": "2級 + 2級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_4_1",
+      "content": "2級 + 2級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_5_0",
+      "content": "2級 + 3級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_5_1",
+      "content": "2級 + 3級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_6_0",
+      "content": "3級 + 3級 => 3級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_6_1",
+      "content": "3級 + 3級 => 3級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_3",
+      "content": "以下是若將2件E.G.O飾品進行組合，預期的E.G.O飾品關鍵詞。"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_2_desc_1_0",
+      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率分別為37.5%\n其余關鍵詞出現概率總和為25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_2_desc_1_1",
+      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率為75%\n其余關鍵詞出現概率總和為25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_4",
+      "content": "以下是若將3件E.G.O飾品進行組合，預期的E.G.O飾品等級。"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_1_0",
+      "content": "1級 + 1級 + 1級 => 1級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_1_1",
+      "content": "1級 + 1級 + 1級 => <color=#f8c200>2級</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_2_0",
+      "content": "1級 + 1級 + 2級 => 1級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_2_1",
+      "content": "1級 + 1級 + 2級 => <color=#f8c200>2級</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_3_0",
+      "content": "1級 + 1級 + 3級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_3_1",
+      "content": "1級 + 1級 + 3級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_4_0",
+      "content": "1級 + 2級 + 2級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_4_1",
+      "content": "1級 + 2級 + 2級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_5_0",
+      "content": "1級 + 2級 + 3級 => 2級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_5_1",
+      "content": "1級 + 2級 + 3級 => <color=#f8c200>3級</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_6_0",
+      "content": "1級 + 3級 + 3級 => 3級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_6_1",
+      "content": "1級 + 3級 + 3級 => 3級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_7_0",
+      "content": "2級 + 2級 + 2級 => 3級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_7_1",
+      "content": "2級 + 2級 + 2級 => 3級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_8_0",
+      "content": "2級 + 2級 + 3級 => 3級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_8_1",
+      "content": "2級 + 2級 + 3級 => 3級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_9_0",
+      "content": "2級 + 3級 + 3級 => 3級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_9_1",
+      "content": "2級 + 3級 + 3級 => <color=#f8c200>4級</color>"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_10_0",
+      "content": "3級 + 3級 + 3級 => 4級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_10_1",
+      "content": "3級 + 3級 + 3級 => 4級"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_5",
+      "content": "以下是若將3件E.G.O飾品進行組合，預期的E.G.O飾品關鍵詞。"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_0",
+      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率分別為25%\n\n其余關鍵詞出現概率總和為25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_1",
+      "content": "作為材料使用的E.G.O飾品的關鍵詞（三件中相同者）出現概率為50%\n\n作為材料使用的E.G.O飾品的關鍵詞（三件中不同者）出現概率為25%\n\n其余關鍵詞出現概率總和為25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_2",
+      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率為75%\n\n其余關鍵詞出現概率總和為25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_6",
+      "content": "※但是，如果合成時無法獲得符合上述條件的E.G.O飾品，將獲得其他等級或關鍵詞的E.G.O飾品。"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_popup_title",
+      "content": "合成指南"
+    },
+    {
+      "id": "mirrordungeon_select_theme_pack_at_floor",
+      "content": "選擇{0}層主題卡包"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_appear_rate_up",
+      "content": "出現概率提升"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_appearable",
+      "content": "可能出現"
+    },
+    {
+      "id": "mirrordungeon_selected_floor_theme_label",
+      "content": "選擇階層主題"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_sort_by_tier",
+      "content": "按等級排序"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_sort_by_keyword",
+      "content": "按關鍵詞排序"
+    },
+    {
+      "id": "side_content_cannot_acquire_specific_ego_gift",
+      "content": "當前階層主題中沒有可獲得的{0}級E.G.O飾品。"
+    },
+    {
+      "id": "side_content_free_refresh",
+      "content": "[浩浩雲海] 效果觸發\n免除刷新經費"
+    },
+    {
+      "id": "side_content_egogift_free_upgrade",
+      "content": "[洶洶疾風] 效果觸發\n返還強化經費"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_floor_theme",
+      "content": "階層主題"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_battle_reward",
+      "content": "遭遇戰獎勵卡"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_used",
+      "content": "消耗星芒"
+    },
+    {
+      "id": "mirror_dungeon_appeared_ego_gift",
+      "content": "出現E.G.O飾品列表"
+    },
+    {
+      "id": "mirror_dungeon_select_theme_drag",
+      "content": "抽取"
+    },
+    {
+      "id": "mirror_dungeon_cannot_acquired_ego_gift",
+      "content": "E.G.O飾品獲取失敗"
+    },
+    {
+      "id": "simulation_difficulty_short",
+      "content": "模擬"
+    },
+    {
+      "id": "ritournelle_difficulty_short",
+      "content": "Ritornello"
+    },
+    {
+      "id": "easy_difficulty_simple",
+      "content": "簡單"
+    },
+    {
+      "id": "refresh_shop_item_by_chip_warning",
+      "content": "消耗星芒進行刷新嗎？\n\n<size=70%>※[星芒刷新]使用<color=#990000>入場時持有的星芒</color>與<color=#990000>迷宮探索中獲得的星芒</color>。\n但是，花費的星芒不能超過持有的總量。</size>\n\n<size=85%>入場時持有的星芒：{0}</size>"
+    },
+    {
+      "id": "mirror_dungeon_theme_ego_gift_popup_valid_atk",
+      "content": "有利屬性"
+    }
+  ]
+}

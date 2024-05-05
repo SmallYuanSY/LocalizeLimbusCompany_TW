@@ -2634,7 +2634,7 @@
         {
           "level": 1,
           "name": "提燈",
-          "abName": "妖精提燈",
+          "abName": "精靈提燈",
           "desc": "",
           "coinlist": [
             {
@@ -2649,7 +2649,7 @@
         {
           "level": 3,
           "name": "提燈",
-          "abName": "妖精提燈",
+          "abName": "精靈提燈",
           "desc": "",
           "coinlist": [
             {
@@ -2669,7 +2669,7 @@
         {
           "level": 1,
           "name": "提燈",
-          "abName": "妖精提燈",
+          "abName": "精靈提燈",
           "desc": "[CantIdentify]\n指定場上體力最高的單位",
           "coinlist": [
             {
@@ -2687,7 +2687,7 @@
         {
           "level": 3,
           "name": "提燈",
-          "abName": "妖精提燈",
+          "abName": "精靈提燈",
           "desc": "[CantIdentify]\n指定場上體力最高的單位",
           "coinlist": [
             {

@@ -179,6 +179,10 @@
     {
       "id": "StartBattle_Force",
       "name": "<color=#93f13e>[戰鬥開始]</color>"
+    },
+    {
+      "id": "TargetKill",
+      "name": "[擊殺目標時]"
     }
   ]
 }

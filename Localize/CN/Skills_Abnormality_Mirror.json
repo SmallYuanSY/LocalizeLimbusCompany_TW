@@ -1304,12 +1304,12 @@
         {
           "level": 1,
           "name": "這次不行！",
-          "desc": "優先攻擊妖精酒",
+          "desc": "優先攻擊精靈酒",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 攻擊妖精酒時，下回合使自身恢復體力上限10%的體力值並使自身獲得2層強壯 ，2層迅捷 與2層守護 "
+                  "desc": "[OnSucceedAttack] 攻擊精靈酒時，下回合使自身恢復體力上限10%的體力值並使自身獲得2層強壯 ，2層迅捷 與2層守護 "
                 }
               ]
             }
@@ -1322,7 +1322,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "想要這杯妖精酒嗎？",
+          "name": "想要這杯精靈酒嗎？",
           "desc": "[WhenUse] 下回合使自身獲得1層束縛 ",
           "coinlist": [
             {}
@@ -1335,7 +1335,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "妖精酒",
+          "name": "精靈酒",
           "desc": "[WhenUse] 將目標的昂揚 轉換為相應層數的醉意 ",
           "coinlist": [
             {}

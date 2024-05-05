@@ -386,11 +386,11 @@
     },
     {
       "id": "mirror_dungeon_rewards_back_to_lobby_button",
-      "content": "返回車窗"
+      "content": "返回玻璃窗"
     },
     {
       "id": "mirror_dungeon_rewards_back_to_lobby_desc",
-      "content": "要移動到車窗嗎？\n探索獎勵窗口會在您再次進入鏡像迷宮界面時彈出。"
+      "content": "要移動到玻璃窗嗎？\n探索獎勵窗口會在您再次進入鏡像迷宮界面時彈出。"
     },
     {
       "id": "mirror_dungeon_rewards_back_to_lobby_button_lobby",
@@ -458,7 +458,7 @@
     },
     {
       "id": "mirror_dungeon_hard_require_condition_level",
-      "content": "- 人格等級 35"
+      "content": "- 人格等級 45"
     },
     {
       "id": "mirror_dungeon_hard_require_condition_ego_gacksung",

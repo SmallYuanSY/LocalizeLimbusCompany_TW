@@ -1723,6 +1723,18 @@
     {
       "id": "personality_level_limit_release_desc",
       "content": "人格最高等級已提升。"
+    },
+    {
+      "id": "mainui_sinners_startSuppress",
+      "content": "開始鎮壓"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_victory",
+      "content": "異想體鎮壓成功"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_defeat",
+      "content": "異想體鎮壓失敗"
     }
   ]
 }

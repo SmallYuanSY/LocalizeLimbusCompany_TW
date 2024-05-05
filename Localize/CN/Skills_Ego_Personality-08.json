@@ -135,6 +135,175 @@
            ]
          }
        ]
-     }
-   ]
+     },
+    {
+      "id": 2080611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "翅振",
+          "abName": "精靈盛宴",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢覆體力上限15%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身失去1~2點理智值"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 重覆使用本硬幣（每個技能最多5次）"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢覆本硬幣傷害量4~8%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層暴食易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1~3級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "翅振",
+          "abName": "精靈盛宴",
+          "desc": "若本技能恢覆的體力超過自身體力上限，則使現存體力比例最低的1名友方單位恢覆相當於溢出恢覆量的體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢覆體力上限18%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身失去1~2點理智值"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 重覆使用本硬幣（每個技能最多5次）"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢覆本硬幣傷害量6~10%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層暴食易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1~3流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "翅振",
+          "abName": "精靈盛宴",
+          "desc": "若本技能恢覆的體力超過自身體力上限，則使現存體力比例最低的1名友方單位恢覆相當於溢出恢覆量的體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢覆體力上限20%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身失去1~2點理智值"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 重覆使用本硬幣（每個技能最多5次）"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢覆本硬幣傷害量8~12%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層暴食易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1~4級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "翅振",
+          "abName": "精靈盛宴",
+          "desc": "[CantIdentify]\n指定本體體力最低的單位\n[BeforeAttack] 隨機對除自身以外的至多5名友方單位造成體力上限5%的體力傷害\n- 使自身恢覆相當於對友方單位造成傷害量的體力\n- 若自身對友方單位造成了傷害，則本回合使自身獲得2層強壯 並在下回合使自身獲得2層迅捷 \n（每回合最多1次。造成傷害包括對護盾造成傷害。本效果造成的傷害能夠擊殺友方單位）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 使自身恢覆本硬幣傷害量10%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標增加1~4級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "翅振",
+          "abName": "精靈盛宴",
+          "desc": "[CantIdentify]\n指定本體體力最低的單位\n[BeforeAttack] 使本技能的攻擊容量+（最大共鳴數-2）（最多+1）\n[BeforeAttack] 隨機對除自身以外的至多5名友方單位造成體力上限5%的體力傷害\n- 使自身恢覆相當於對友方單位造成傷害量的體力\n- 若自身對友方單位造成了傷害，則本回合使自身獲得2層強壯 並在下回合使自身獲得2層迅捷 \n（每回合最多1次。造成傷害包括對護盾造成傷害。本效果造成的傷害能夠擊殺友方單位）\n[EndSkill] 若本技能恢覆的體力超過自身體力上限，則下回合使自身獲得（溢出恢覆量/體力上限）×10層攻擊等級提升 （每回合最多3層）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 使自身恢覆本硬幣傷害量15%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標增加2~5級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "翅振",
+          "abName": "精靈盛宴",
+          "desc": "[CantIdentify]\n指定本體體力最低的單位\n[BeforeAttack] 使本技能的攻擊容量+（最大共鳴數-2）（最多+2）\n[BeforeAttack] 隨機對除自身以外的至多5名友方單位造成體力上限5%的體力傷害\n- 使自身恢覆相當於對友方單位造成傷害量的體力\n- 若自身對友方單位造成了傷害，則本回合使自身獲得2層強壯 並在下回合使自身獲得2層迅捷 \n（每回合最多1次。造成傷害包括對護盾造成傷害。本效果造成的傷害能夠擊殺友方單位）\n[EndSkill] 若本技能恢覆的體力超過自身體力上限，則下回合使自身獲得（溢出恢覆量/體力上限）×10層攻擊等級提升 （每回合最多6層）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 使自身恢覆本硬幣傷害量20%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標增加3~6級流血 強度"
+                },
+                {
+                  "desc": "[EnemyKill] 下回合使自身獲得1層強壯 （最多3層）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

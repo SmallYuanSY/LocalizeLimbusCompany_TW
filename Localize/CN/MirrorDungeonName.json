@@ -31,6 +31,18 @@
     {
       "id": "mirrordungeon_name_3_1",
       "content": "大湖之鏡 - 困難"
+    },
+    {
+      "id": "mirrordungeon_name_4",
+      "content": "呼嘯之鏡"
+    },
+    {
+      "id": "mirrordungeon_name_4_0",
+      "content": "呼嘯之鏡 - 模擬"
+    },
+    {
+      "id": "mirrordungeon_name_4_1",
+      "content": "呼嘯之鏡 - Ritornello"
     }
   ]
 }

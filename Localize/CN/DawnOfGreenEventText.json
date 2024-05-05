@@ -66,7 +66,7 @@
     },
     {
       "id": "missionConditionTitle_10008",
-      "content": "控制部隊長受到未超過10次敵方單位攻擊技能傷害且存活的條件下完成鎮壓"
+      "content": "控制部隊長未受到超過10次敵方單位攻擊技能傷害且存活的條件下完成鎮壓"
     },
     {
       "id": "missionConditionTitle_20001",
@@ -98,7 +98,7 @@
     },
     {
       "id": "missionConditionTitle_20008",
-      "content": "控制部隊長受到未超過5次敵方單位攻擊技能傷害且存活的條件下完成鎮壓"
+      "content": "控制部隊長未受到超過5次敵方單位攻擊技能傷害且存活的條件下完成鎮壓"
     },
     {
       "id": "missionConditionTitle_30001",

@@ -405,6 +405,291 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1100901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "挺身而出",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 若自身處於不穩定E.G.O狀態，則重覆使用本硬幣（每個技能最多1次）",
+                  "summary": "[OnSucceedAttackHead] 若自身處於不穩定E.G.O狀態，則重覆使用本硬幣"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "挺身而出",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 若自身處於不穩定E.G.O狀態，則重覆使用本硬幣（每個技能最多1次）",
+                  "summary": "[OnSucceedAttackHead] 若自身處於不穩定E.G.O狀態，則重覆使用本硬幣"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "挺身而出",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 若自身處於不穩定E.G.O狀態，則重覆使用本硬幣（每個技能最多1次）",
+                  "summary": "[OnSucceedAttackHead] 若自身處於不穩定E.G.O狀態，則重覆使用本硬幣"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "霞光劍刃",
+          "desc": "[WhenUse] 若自身處於不穩定E.G.O狀態， 則消耗5點理智值\n[BeforeAttack] 若自身處於不穩定E.G.O狀態，則使本技能的攻擊容量+1\n[EndSkill] 若自身處於不穩定E.G.O狀態，則消耗5點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "霞光劍刃",
+          "desc": "若目標的燒傷 強度不低於4級，則使本技能的拼點威力+1\n[WhenUse] 若自身處於不穩定E.G.O狀態，則消耗5點理智值\n[BeforeAttack] 若自身處於不穩定E.G.O狀態，則使本技能的攻擊容量+1\n[EndSkill] 若自身處於不穩定E.G.O狀態，則消耗5點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "霞光劍刃",
+          "desc": "若目標的燒傷 強度不低於4級，則使本技能的拼點威力+1\n[WhenUse] 若自身處於不穩定E.G.O狀態，則消耗5點理智值\n[BeforeAttack] 若自身處於不穩定E.G.O狀態，則使本技能的攻擊容量+1\n- 若自身理智值為45點，則改為使本技能的攻擊容量+2\n[EndSkill] 若自身處於不穩定E.G.O狀態，則消耗5點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "憤怒烙印",
+          "desc": "若目標的燒傷 強度不低於10級，則使本技能的硬幣威力+1\n若自身處於不穩定E.G.O狀態，則改為使用爆炎一擊\n[WinDuel] 使自身恢覆10點理智值\n[DefeatDuel] 使自身失去10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "憤怒烙印",
+          "desc": "目標每帶有7級燒傷 強度，使本技能的硬幣威力+1（最多+2）\n若自身處於不穩定E.G.O狀態，則改為使用爆炎一擊\n[WinDuel] 使自身恢覆10點理智值\n[DefeatDuel] 使自身失去10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100904,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "悔恨交加",
+          "desc": "若自身處於不穩定E.G.O狀態，則目標每帶有2級燒傷 強度，使本技能的基礎威力+1（最多+10）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "悔恨交加",
+          "desc": "若自身處於不穩定E.G.O狀態，則目標每帶有2級燒傷 強度，使本技能的基礎威力+1（最多+20）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100905,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "爆炎一擊",
+          "desc": "全體敵方單位每帶有共計4級燒傷 強度，使本技能的硬幣威力+1（最多+8）\n[WinDuel] 使自身恢覆10點理智值\n[DefeatDuel] 使自身失去30點理智值\n每有1點暴怒共鳴數，使本技能造成的傷害+5%（最多+30%）\n[EndSkill] 使自身失去15點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "目標每帶有1級燒傷 強度，使本技能造成的傷害+2.5%（最多+100%）",
+                  "summary": "根據目標帶有的燒傷 強度，相應使本技能造成的傷害增加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於10級，則隨機使（最大共鳴數）名敵方單位增加2級燒傷 強度",
+                  "summary": "[OnSucceedAttack] 根據共鳴數，相應增加燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加10級燒傷 強度"
+                },
+                {
+                  "desc": "[EnemyKill] 隨機使全體敵方單位增加共計相當於擊殺目標帶有的燒傷 強度的燒傷 強度（最多10級。若是集中遭遇戰，則改為使所有部位）",
+                  "summary": "[EnemyKill] 隨機使敵方單位增加燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "爆炎一擊",
+          "desc": "全體敵方單位每帶有共計4級燒傷 強度，使本技能的硬幣威力+2（最多+8）\n[WinDuel] 使自身恢覆10點理智值\n[DefeatDuel] 使自身失去30點理智值\n每有1點暴怒共鳴數，使本技能造成的傷害+10%（最多+60%）\n若最大暴怒完全共鳴數不低於4，則改為每有1點暴怒共鳴數，使本技能造成的傷害+20%（最多+120%）\n[EndSkill] 使自身失去15點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "目標每帶有1級燒傷 強度，使本技能造成的傷害+4%（最多+120%）",
+                  "summary": "根據目標帶有的燒傷 強度，相應使本技能造成的傷害增加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於10級，則隨機使（最大共鳴數）名敵方單位增加2級燒傷 強度\n- 若上述共鳴為暴怒共鳴，則額外對敵方單位施加1層燒傷 ",
+                  "summary": "[OnSucceedAttack] 根據共鳴數，相應增加燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加10級燒傷 強度"
+                },
+                {
+                  "desc": "[EnemyKill] 隨機使全體敵方單位增加共計相當於擊殺目標帶有的燒傷 強度的燒傷 強度（最多10級。若是集中遭遇戰，則改為使所有部位）",
+                  "summary": "[EnemyKill] 隨機使敵方單位增加燒傷 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
