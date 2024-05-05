@@ -208,6 +208,8 @@ namespace LimbusLocalize
             tm._announcerVoiceText._voiceDictionary.JsonDataListInit(romoteLocalizeFileList.AnnouncerVoice);
             tm._bgmLyricsText._lyricsDictionary.JsonDataListInit(romoteLocalizeFileList.BgmLyrics);
             tm._egoVoiceText._voiceDictionary.JsonDataListInit(romoteLocalizeFileList.EGOVoice);
+            tm._mirrorDungeonThemeList.Init(romoteLocalizeFileList.MirrorDungeonTheme);
+            tm._unlockCodeList.Init(romoteLocalizeFileList.UnlockCode);
         }
         [HarmonyPatch(typeof(EGOVoiceJsonDataList), nameof(EGOVoiceJsonDataList.Init))]
         [HarmonyPrefix]
