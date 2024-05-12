@@ -34,7 +34,7 @@
      },
      {
        "id": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE",
-       "description": "[商店]\n\n刷新費用減少{0}%"
+       "description": "[商店]\n\n刷新經費減少{0}%"
      },
      {
        "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE",
@@ -146,7 +146,7 @@
      },
      {
        "id": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE_NESTING",
-       "description": "[商店]\n\n刷新費用減少{0}%"
+       "description": "[商店]\n\n刷新經費減少{0}%"
      },
      {
        "id": "FREE_SHOP_REFRESH_EGO_GIFT_COST_RATE",
@@ -154,7 +154,7 @@
      },
      {
        "id": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE",
-       "description": "[商店]\n\n技能替換費用減少20%"
+       "description": "[商店]\n\n技能替換經費減少20%"
      },
      {
        "id": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE_NESTING",
@@ -166,31 +166,31 @@
      },
      {
        "id": "REDUCE_UPGRADE_EGO_GIFT_COST_COMBUSTION",
-       "description": "[休息點]\n\n擁有燒傷關鍵字的E.G.O飾品強化費用額外減少{0}%"
+       "description": "[休息點]\n\n擁有燒傷關鍵字的E.G.O飾品強化經費額外減少{0}%"
      },
      {
        "id": "REDUCE_UPGRADE_EGO_GIFT_COST_LACERATION",
-       "description": "[休息點]\n\n擁有流血關鍵字的E.G.O飾品強化費用額外減少{0}%"
+       "description": "[休息點]\n\n擁有流血關鍵字的E.G.O飾品強化經費額外減少{0}%"
      },
      {
        "id": "REDUCE_UPGRADE_EGO_GIFT_COST_VIBRATION",
-       "description": "[休息點]\n\n擁有震顫關鍵字的E.G.O飾品強化費用額外減少{0}%"
+       "description": "[休息點]\n\n擁有震顫關鍵字的E.G.O飾品強化經費額外減少{0}%"
      },
      {
        "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BURST",
-       "description": "[休息點]\n\n擁有破裂關鍵字的E.G.O飾品強化費用額外減少{0}%"
+       "description": "[休息點]\n\n擁有破裂關鍵字的E.G.O飾品強化經費額外減少{0}%"
      },
      {
        "id": "REDUCE_UPGRADE_EGO_GIFT_COST_SINKING",
-       "description": "[休息點]\n\n擁有沉淪關鍵字的E.G.O飾品強化費用額外減少{0}%"
+       "description": "[休息點]\n\n擁有沉淪關鍵字的E.G.O飾品強化經費額外減少{0}%"
      },
      {
        "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BREATH",
-       "description": "[休息點]\n\n擁有呼吸法關鍵字的E.G.O飾品強化費用額外減少{0}%"
+       "description": "[休息點]\n\n擁有呼吸法關鍵字的E.G.O飾品強化經費額外減少{0}%"
      },
      {
        "id": "REDUCE_UPGRADE_EGO_GIFT_COST_CHARGE",
-       "description": "[休息點]\n\n擁有充能關鍵字的E.G.O飾品強化費用額外減少{0}%"
+       "description": "[休息點]\n\n擁有充能關鍵字的E.G.O飾品強化經費額外減少{0}%"
      },
      {
        "id": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE_NESTING",

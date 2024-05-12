@@ -2460,7 +2460,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加共計3級隨機效果的強度，包括燒傷 、流血 、震顫 、破裂 和沈淪 "
+                  "desc": "[OnSucceedAttack] 使目標增加共計3級隨機效果的強度，包括燒傷 、流血 、震顫 、破裂 和沉淪 "
                 }
               ]
             }
@@ -2475,7 +2475,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加共計6級隨機效果的強度，包括燒傷 、流血 、震顫 、破裂 和沈淪 "
+                  "desc": "[OnSucceedAttack] 使目標增加共計6級隨機效果的強度，包括燒傷 、流血 、震顫 、破裂 和沉淪 "
                 }
               ]
             }
