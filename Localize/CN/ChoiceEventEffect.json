@@ -30,23 +30,23 @@
     },
     {
       "id": "StartBattle",
-      "content": "<color=#ff0000>觸發戰鬥！</color>"
+      "content": "<color=#ff0000>觸發遭遇戰！</color>"
     },
     {
       "id": "StartBattle_Normal",
-      "content": "<color=#ff0000>觸發常規戰鬥！</color>"
+      "content": "<color=#ff0000>觸發常規遭遇戰！</color>"
     },
     {
       "id": "StartBattle_Danger",
-      "content": "<color=#ff0000>觸發困難戰鬥！</color>"
+      "content": "<color=#ff0000>觸發危險遭遇戰！</color>"
     },
     {
       "id": "StartBattle_Abnormality",
-      "content": "<color=#ff0000>觸發異想體戰鬥！</color>"
+      "content": "<color=#ff0000>觸發集中遭遇戰！</color>"
     },
     {
       "id": "StartBattle_FloorBoss",
-      "content": "<color=#ff0000>觸發階層boss戰！</color>"
+      "content": "<color=#ff0000>觸發階層頭目遭遇戰！</color>"
     },
     {
       "id": "RecoverHpOnly",
@@ -358,7 +358,7 @@
      },
      {
        "id": "Choice_EGO901009",
-       "content": "戰鬥勝利後，獲得E.G.O飾品“熾熱羽毛”、“融化的石蠟”"
+       "content": "戰鬥勝利後，獲得E.G.O飾品“熾熱之羽”、“融化的石蠟”"
      },
      {
        "id": "Choice_EGO901010",

@@ -204,7 +204,7 @@
              {
                "coindescs": [
                  {
-                   "desc": "[OnSucceedAttack] 若目標帶有不低於3種負面狀態，則重複使用本硬幣（最多1次）"
+                   "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣（最多1次）"
                  }
                ]
              }
@@ -448,7 +448,7 @@
                    "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
                  },
                  {
-                   "desc": "[OnSucceedAttack] 若目標帶有不低於3種負面狀態，則重複使用本硬幣（最多1次）"
+                   "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣（最多1次）"
                  }
                ]
              }
@@ -516,7 +516,7 @@
                    "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
                  },
                  {
-                   "desc": "[OnSucceedAttack] 若目標帶有不低於4種負面狀態，則對其額外造成本硬幣傷害量30%的斬擊傷害"
+                   "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於4種，則對其額外造成本硬幣傷害量30%的斬擊傷害"
                  }
                ]
              }
@@ -598,7 +598,7 @@
                    "desc": "[OnSucceedAttack] 下回合對目標施加3層防禦等級降低 "
                  },
                  {
-                   "desc": "[OnSucceedAttack] 若目標帶有不低於3種負面狀態，則重複使用本硬幣（最多1次）"
+                   "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣（最多1次）"
                  }
                ]
              }

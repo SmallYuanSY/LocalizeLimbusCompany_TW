@@ -107,7 +107,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層某種隨機效果，該效果可能為守護 、強壯 、易損 或麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為守護 、強壯 、易損 或麻痺 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 根據自身的充能 層數，使目標失去相應的理智值"

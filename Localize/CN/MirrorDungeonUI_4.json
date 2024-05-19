@@ -903,6 +903,282 @@
     {
       "id": "mirror_dungeon_theme_ego_gift_popup_valid_atk",
       "content": "有利屬性"
+    },
+    {
+      "id": "mirror_dungeon_shop_keyword_refresh",
+      "content": "關鍵詞刷新"
+    },
+    {
+      "id": "mirror_dungeon_shop_refresh_by_chip",
+      "content": "星芒刷新"
+    },
+    {
+      "id": "mirror_dungeon_shop_keyword_refresh_popup_title",
+      "content": "商店 - 關鍵詞刷新"
+    },
+    {
+      "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
+      "content": "所選關鍵詞的E.G.O飾品出現的概率大幅增加。\n是否要使用{0}經費進行關鍵詞刷新？"
+    },
+    {
+      "id": "ego_gift_combine_ui_plz_select_keyword",
+      "content": "請選擇關鍵詞。"
+    },
+    {
+      "id": "ego_gift_select_keyword_ui_title",
+      "content": "合成 - 關鍵詞選擇"
+    },
+    {
+      "id": "ego_gift_select_keyword_ui_desc",
+      "content": "請選擇一個關鍵詞。"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_1",
+      "content": "如果在<合成 - 關鍵詞選擇>窗口中選擇了關鍵詞，則預期的E.G.O飾品關鍵字如下。"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_col_1_title",
+      "content": "作為合成材料的E.G.O飾品的數量"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_col_2_title",
+      "content": "所選關鍵詞出現概率"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_1_0",
+      "content": "2件"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_1_1",
+      "content": "60%"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_2_0",
+      "content": "3件"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_2_1",
+      "content": "90%"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_diffrent_keyword_notice",
+      "content": "※ 作為合成材料的E.G.O飾品關鍵詞不會影響到合成結果的關鍵詞。"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_2",
+      "content": "將2件E.G.O飾品組合時，最高可獲得3級E.G.O飾品，預期的E.G.O飾品等級如下。"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_col_1_title",
+      "content": "作為合成材料的E.G.O飾品等級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_col_2_title",
+      "content": "預期的E.G.O飾品等級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_1_0",
+      "content": "1級 + 1級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_2_0",
+      "content": "1級 + 2級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_3_0",
+      "content": "1級 + 3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_4_0",
+      "content": "2級 + 2級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_5_0",
+      "content": "2級 + 3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_6_0",
+      "content": "3級 + 3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_3",
+      "content": "將3件E.G.O飾品組合時，最高可獲得4級E.G.O飾品，預期的E.G.O飾品等級如下。"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_col_1_title",
+      "content": "不同關鍵詞的情況"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_col_2_title",
+      "content": "預期的E.G.O飾品等級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_1_0",
+      "content": "1級 + 1級 + 1級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_2_0",
+      "content": "1級 + 1級 + 2級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_3_0",
+      "content": "1級 + 1級 + 3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_4_0",
+      "content": "1級 + 2級 + 2級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_5_0",
+      "content": "1級 + 2級 + 3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_6_0",
+      "content": "1級 + 3級 + 3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_7_0",
+      "content": "2級 + 2級 + 2級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_8_0",
+      "content": "2級 + 2級 + 3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_9_0",
+      "content": "2級 + 3級 + 3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_10_0",
+      "content": "3級 + 3級 + 3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_1",
+      "content": "1級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_2",
+      "content": "2級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_3",
+      "content": "3級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_4",
+      "content": "4級"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_4",
+      "content": "但是，如果您已經獲得了該關鍵詞與等級的組合的每一個E.G.O飾品，抑或是這些E.G.O飾品已經被分配到當前階層的事件或頭目獎勵中，您可能會獲得<u><b>其他等級或關鍵詞的E.G.O飾品</u></b>。"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_5",
+      "content": "再者，如果您已經獲得了相應等級的所有E.G.O飾品，或是由於上述原因無法獲得額外飾品的情況，您將<u><b>無法進行合成</u></b>。"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_popup_title",
+      "content": "遭遇戰獎勵卡指南"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_text_1",
+      "content": "在通過遭遇戰節點時，您可能根據鏡像迷宮的難度和所處的階層獲得遭遇戰獎勵卡。"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_text_2",
+      "content": "獲得遭遇戰獎勵卡的概率如下。"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_0_1",
+      "content": "鏡像迷宮 模擬"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_0_2",
+      "content": "鏡像迷宮 Ritornello"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_0",
+      "content": "1層"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_1",
+      "content": "常規遭遇戰：7.5%\n集中遭遇戰： - \n精銳遭遇戰： - \n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_2",
+      "content": "常規遭遇戰：7.5%\n集中遭遇戰： - \n精銳遭遇戰： - \n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_0",
+      "content": "2層"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_1",
+      "content": "常規遭遇戰：10%\n集中遭遇戰：20%\n精銳遭遇戰：33%\n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_2",
+      "content": "常規遭遇戰：10%\n集中遭遇戰：20%\n精銳遭遇戰：33%\n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_0",
+      "content": "3層"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_1",
+      "content": "常規遭遇戰：10%\n集中遭遇戰：20%\n精銳遭遇戰：33%\n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_2",
+      "content": "常規遭遇戰：10%\n集中遭遇戰：20%\n精銳遭遇戰：33%\n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_0",
+      "content": "4層"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_1",
+      "content": "常規遭遇戰：12.5%\n集中遭遇戰：25%\n精銳遭遇戰：50%\n頭目遭遇戰：- "
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_2",
+      "content": "常規遭遇戰：12.5%\n集中遭遇戰：25%\n精銳遭遇戰：50%\n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_0",
+      "content": "5層"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_1",
+      "content": "-"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_2",
+      "content": "常規遭遇戰：12.5%\n集中遭遇戰：25%\n精銳遭遇戰：50%\n頭目遭遇戰：- "
+    },
+    {
+      "id": "expected_result",
+      "content": "預期結果"
+    },
+    {
+      "id": "confirmed",
+      "content": "確定"
+    },
+    {
+      "id": "combine_tooltip_title",
+      "content": "在以下情況中，合成結果出現的E.G.O飾品將與現有的合成公式不同。該情況下，預測關鍵詞將顯示為?(隨機)。"
+    },
+    {
+      "id": "combine_tooltip_desc1",
+      "content": "所選關鍵詞中當前等級的E.G.O飾品已全部獲取。"
+    },
+    {
+      "id": "combine_tooltip_desc2",
+      "content": "所選關鍵詞中當前等級的E.G.O飾品已經被分配到當前階層的事件或頭目獎勵中（在下一層可以正常獲取）"
+    },
+    {
+      "id": "combine_tooltip_notice",
+      "content": "已經獲得了預測結果所示等級的所有E.G.O飾品時，將無法進行合成。"
     }
   ]
 }

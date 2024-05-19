@@ -1177,12 +1177,12 @@
     {
       "id": "MentalSystemResultIncrease_Typo",
       "name": "理智值恢復效率",
-      "desc": "理智恢復條件下的理智恢復量"
+      "desc": "人格理智恢復條件下的理智恢復量"
     },
     {
       "id": "MentalSystemResultDecrease_Typo",
       "name": "理智減少效率",
-      "desc": "理智減少條件下的理智減少量"
+      "desc": "人格理智減少條件下的理智減少量"
     },
     {
       "id": "DuelDeclaration",

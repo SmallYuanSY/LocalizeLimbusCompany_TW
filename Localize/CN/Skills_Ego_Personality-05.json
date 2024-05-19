@@ -7,7 +7,7 @@
             "level": 1,
             "name": "悔恨",
             "abName": "被遺棄的殺人魔",
-            "desc": "[BeforeAttack] 隨機解除自身帶有的1項可解除的負面狀態",
+            "desc": "[BeforeAttack] 隨機解除自身帶有的1種可解除的負面狀態",
             "coinlist": [
               {
                 "coindescs": [
@@ -25,7 +25,7 @@
             "level": 3,
             "name": "悔恨",
             "abName": "被遺棄的殺人魔",
-            "desc": "[BeforeAttack] 隨機解除自身帶有的1項可解除的負面狀態",
+            "desc": "[BeforeAttack] 隨機解除自身帶有的1種可解除的負面狀態",
             "coinlist": [
               {
                 "coindescs": [
@@ -43,7 +43,7 @@
             "level": 4,
             "name": "悔恨",
             "abName": "被遺棄的殺人魔",
-            "desc": "[BeforeAttack] 隨機解除自身帶有的2項可解除的負面效果",
+            "desc": "[BeforeAttack] 隨機解除自身帶有的2種可解除的負面效果",
             "coinlist": [
               {
                 "coindescs": [

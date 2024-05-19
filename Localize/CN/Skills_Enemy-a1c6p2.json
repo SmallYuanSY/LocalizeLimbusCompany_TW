@@ -889,7 +889,7 @@
                    "desc": "[OnSucceedAttack] 目標每帶有2層攻擊等級降低 ，使本硬幣造成的傷害+20%（最多+100%）"
                  },
                  {
-                   "desc": "[OnSucceedAttackHead] 若目標帶有的負面狀態不低於3種，則重複使用本硬幣（最多1次）"
+                   "desc": "[OnSucceedAttackHead] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣（最多1次）"
                  }
                ]
              }
@@ -1029,7 +1029,7 @@
                    "desc": "[OnSucceedAttack] 目標每帶有2層攻擊等級降低 ，使本硬幣造成的傷害+30%（最多+120%）"
                  },
                  {
-                   "desc": "[OnSucceedAttackHead] 若目標帶有不低於3種負面狀態，則重複使用本硬幣（最多1次）"
+                   "desc": "[OnSucceedAttackHead] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣（最多1次）"
                  }
                ]
              }

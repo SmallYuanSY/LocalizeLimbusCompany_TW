@@ -268,7 +268,7 @@
                    "desc": "[OnSucceedAttack] 目標每帶有2層攻擊等級降低 ，使本硬幣造成的傷害+30%（最多+120%）"
                  },
                  {
-                   "desc": "[OnSucceedAttackHead] 若目標帶有不低於3種負面狀態，則重複使用本硬幣（1次）"
+                   "desc": "[OnSucceedAttackHead] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣（1次）"
                  }
                ]
              }
@@ -320,7 +320,7 @@
          {
            "level": 1,
            "name": "…刺",
-           "desc": "[WhenUse] 若目標帶有不低於2種負面狀態，則使本技能的基礎威力+1",
+           "desc": "[WhenUse] 若目標帶有的負面狀態不少於2種，則使本技能的基礎威力+1",
            "coinlist": [
              {
                "coindescs": [
@@ -339,7 +339,7 @@
          {
            "level": 1,
            "name": "雙…刺",
-           "desc": "[WhenUse] 若目標帶有不低於4種負面狀態，則使本技能的硬幣威力+1",
+           "desc": "[WhenUse] 若目標帶有的負面狀態不少於4種，則使本技能的硬幣威力+1",
            "coinlist": [
              {
                "coindescs": [
@@ -368,7 +368,7 @@
          {
            "level": 1,
            "name": "正…刺",
-           "desc": "[WhenUse] 若目標帶有不低於5種負面狀態，則使本技能的基礎威力+2\n[WhenUse] 若目標帶有不低於5種負面狀態，則使本技能 造成的傷害+30%",
+           "desc": "[WhenUse] 若目標帶有的負面狀態不少於5種，則使本技能的基礎威力+2\n[WhenUse] 若目標帶有的負面狀態不少於5種，則使本技能 造成的傷害+30%",
            "coinlist": [
              {
                "coindescs": [
@@ -383,7 +383,7 @@
                    "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
                  },
                  {
-                   "desc": "[OnSucceedAttack] 若目標帶有不低於5種負面狀態，則重複使用本硬幣（最多2次）"
+                   "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於5種，則重複使用本硬幣（最多2次）"
                  },
                  {
                    "desc": "[OnSucceedAttack] 隨機解除目標帶有的1種可解除的負面狀態"
