@@ -224,3 +224,4 @@
 - 來點強力的夥伴啊... 
 - 魔法N辛！穩辣！穩辣！
 - 爆炎一擊！
+- <sprite name="EchoOfMansion">山莊WIFI重開機中

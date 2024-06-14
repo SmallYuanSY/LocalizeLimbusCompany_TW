@@ -54,7 +54,7 @@
     },
     {
       "id": "mainui_stageinfo_exclearcondition",
-      "content": "附加挑戰條件"
+      "content": "EX 附加挑戰條件"
     },
     {
       "id": "mainui_stageinfo_statinfo",
@@ -134,7 +134,7 @@
     },
     {
       "id": "mainui_battleresult_exclearreward",
-      "content": "附加挑戰獎勵"
+      "content": "EX 附加挑戰獎勵"
     },
     {
       "id": "mainui_battleresult_statistics",
@@ -694,7 +694,7 @@
     },
     {
       "id": "mainui_ex_clear_progress",
-      "content": "達成附加挑戰"
+      "content": "EX 達成附加挑戰"
     },
     {
       "id": "mainui_notice_spend_free_lunacy_first",

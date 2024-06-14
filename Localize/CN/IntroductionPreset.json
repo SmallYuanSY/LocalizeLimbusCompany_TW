@@ -1075,6 +1075,22 @@
     {
       "id": "introduce_sentence_135",
       "content": "您能為我帶來全新的{0}嗎？"
+    },
+    {
+      "id": "introduce_word_136",
+      "content": "眼淚"
+    },
+    {
+      "id": "introduce_sentence_136",
+      "content": "若我能聚集起所有的悲傷，所有的{0}，並代替他們去哭泣的話……"
+    },
+    {
+      "id": "introduce_word_137",
+      "content": "心"
+    },
+    {
+      "id": "introduce_sentence_137",
+      "content": "因悲傷而動搖的{0}會像這樣……破裂開來。"
     }
   ]
 }

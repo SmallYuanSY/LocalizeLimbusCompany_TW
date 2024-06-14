@@ -4444,21 +4444,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層種子 。目標擁有種子的情況下則額外施加1層種子 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層種子 。若目標擁有種子 的情況下則額外施加1層種子 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層種子 。目標擁有種子的情況下則額外施加1層種子 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層種子 。若目標擁有種子 的情況下則額外施加1層種子 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層種子 。目標擁有種子的情況下則額外施加1層種子 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層種子 。若目標擁有種子 的情況下則額外施加1層種子 "
                 }
               ]
             }

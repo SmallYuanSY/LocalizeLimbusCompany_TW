@@ -70,7 +70,7 @@
     },
     {
       "id": "mirror_dungeon3_entrance_button_start_buff",
-      "content": "初始增益"
+      "content": "開局增益"
     },
     {
       "id": "mirror_dungeon3_entrance_hard_hint_before_release",
@@ -262,7 +262,7 @@
     },
     {
      "id": "mirrordungeon_unable_to_change_activation_buffs_when_running_dungeon",
-     "content": "鏡像迷宮進行中，初始增益的啟動狀態不可變更。"
+     "content": "鏡像迷宮進行中，開局增益的啟動狀態將不可變更。"
     },
     {
      "id": "mirrordungeon_edit_start_buff_activation",
@@ -274,7 +274,7 @@
     },
     {
      "id": "mirror_dungeon_unable_to_modify_activation_of_start_buff_during_running",
-     "content": "鏡像迷宮進行中，初始增益的啟動狀態不可變更。"
+     "content": "鏡像迷宮進行中，開局增益的啟動狀態將不可變更。"
     },
     {
      "id": "add_enemy_level",
