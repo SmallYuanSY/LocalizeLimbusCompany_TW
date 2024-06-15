@@ -595,6 +595,253 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1060901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "推理開始",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對自身施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "推理開始",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "推理開始",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n若自身的震顫 層數不低於6層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "變形拐杖防身術",
+          "desc": "[WhenUse] 對自身施加3層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加3層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於9級，則使其震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "變形拐杖防身術",
+          "desc": "[WhenUse] 若目標的震顫 強度不低於8級，則使本技能的拼點威力+1\n[WhenUse] 對自身施加3層震顫 \n若自身的震顫 層數不低於6層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加3層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於7級，則使其震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "變形拐杖防身術",
+          "desc": "[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 對自身施加3層震顫 \n若自身的震顫 層數不低於5層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加3層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於6級，則使其震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "犯人就是你！",
+          "desc": "[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 消耗自身的10層震顫 並使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若本技能使用時消耗了震顫 層數，則使目標以震顫-回響 振幅糾纏 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層\n- 若自身使用技能時未消耗震顫 層數，則上述效果生效後使自身震顫引爆 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "犯人就是你！",
+          "desc": "[WhenUse] 目標每帶有6級震顫 強度，使本技能的拼點威力+1(最多+2)\n[WhenUse] 若自身的震顫 層數低於15層，則消耗10層震顫 並使本技能的硬幣威力+2\n[WhenUse] 消耗自身的15層震顫 並使本技能的硬幣威力+3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若本技能使用時消耗了震顫 層數，則使目標以震顫-回響 振幅糾纏 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若本技能使用時消耗了不低於10層震顫 ，則使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]若本技能使用時消耗了不低於10層震顫 ，則使目標震顫引爆 ，並使其震顫 層數減少1層\n- 若自身消耗的震顫 層數低於15層，則上述效果生效後使自身震顫引爆 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "等一下？！",
+          "desc": "[WhenUse] 使自身獲得(2×目標的震顫 層數)點護盾體力(最多7點)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "等一下？！",
+          "desc": "[WhenUse] 使自身獲得(2×目標的震顫 層數)點護盾體力(最多13點)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

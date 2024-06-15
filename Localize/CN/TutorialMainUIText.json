@@ -2145,7 +2145,7 @@
      },
      {
        "id": "tutorial_mainui_24_miracle_04_title_01",
-       "content": "活動加成物件"
+       "content": "活動加成角色"
      },
      {
        "id": "tutorial_mainui_24_miracle_04_desc_01",
@@ -2506,6 +2506,82 @@
      {
        "id": "tutorial_mainui_26_ycgd_09_desc_01",
        "content": "活動結束後，可在駕駛席 - [外傳故事]及放映室 - [其他故事]中，重溫肉斬骨斷的戰鬥和劇情。"
-     }
+     },
+    {
+      "id": "tutorial_mainui_28_tkt_01_title",
+      "content": "時間殺人時間"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_01_title_01",
+      "content": "活動開放"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_01_desc_01",
+      "content": "[時間殺人時間活動頁面]在通過主線故事6-48後開放。您可以通過玻璃窗或駕駛席上的活動橫幅進入。"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_02_title_01",
+      "content": "活動時間"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_02_desc_01",
+      "content": "此處顯示了時間殺人時間活動的持續時間。\n活動過程中，您可以通過活動關卡或鏡像迷宮來獲取[懷表]。\n\n※ 您無法從采光關卡以及折射軌道中獲取[懷表]。"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_03_title_01",
+      "content": "活動戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_03_desc_01",
+      "content": "時間殺人時間包括劇情關卡在內共有14關和1個迷宮。\n\n除了活動通關獎勵外，這些關卡均有額外的[懷表]作為首次通關獎勵。（僅1次）"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_04_title_01",
+      "content": "活動加成角色"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_04_desc_01",
+      "content": "在隊伍中編入活動加成角色與E.G.O後清剿活動關卡及迷宮，能夠提升[懷表]的獲取量。"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_05_title_01",
+      "content": "道具兌換"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_05_desc_01",
+      "content": "在[獎勵兌換]窗口中花費持有的[懷表]可獲得各種獎勵。"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_06_desc_01",
+      "content": "在[獎勵兌換]中可以獲得各類資源及活動限定人格。"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_06_desc_02",
+      "content": "此處顯示了[獎勵兌換]的獎勵領取時間。"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_07_title_01",
+      "content": "活動關卡"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_07_desc_01",
+      "content": "時間殺人時間活動的最後關卡將會出現迷宮，入場時將消耗腦啡肽模塊。"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_08_title_01",
+      "content": "成捆懷表"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_08_desc_01",
+      "content": "戰鬥勝利後，有低概率獲得[成捆懷表]。\n\n[成捆懷表]將會自動轉換為20個[懷表]。"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt_09_desc_01",
+      "content": "活動結束後，通過駕駛席-[外傳故事]及放映室-[其他故事]，可隨時享受時間殺人時間的關卡和故事。"
+    },
+    {
+      "id": "tutorial_mainui_28_tkt",
+      "content": "時間殺人時間"
+    }
    ]
 }

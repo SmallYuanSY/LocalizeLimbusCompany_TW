@@ -26,23 +26,27 @@
     },
     {
       "id": 9103,
-      "openCondition": "(더미) 헬스치킨 클리어"
+      "openCondition": "通過地獄雞"
     },
     {
       "id": 9104,
-      "openCondition": "(더미) 우.미.다 클리어"
+      "openCondition": "通過去・海・邊"
     },
     {
       "id": 9105,
-      "openCondition": "(더미) 20번구의 기적 클리어"
+      "openCondition": "通過20區的奇跡"
     },
     {
       "id": 9106,
-      "openCondition": "(더미) 제 2 회 발푸르기스의 밤 클리어"
+      "openCondition": "通過第2次 瓦爾普吉斯之夜"
     },
     {
       "id": 9107,
-      "openCondition": "(더미) 육참골단 클리어"
+      "openCondition": "通過肉斬骨斷"
+    },
+    {
+      "id": 9109,
+      "openCondition": "通過時間殺人時間"
     }
   ]
 }

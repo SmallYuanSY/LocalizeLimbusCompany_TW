@@ -1091,6 +1091,30 @@
     {
       "id": "introduce_sentence_137",
       "content": "因悲傷而動搖的{0}會像這樣……破裂開來。"
+    },
+    {
+      "id": "introduce_word_138",
+      "content": "正確答案"
+    },
+    {
+      "id": "introduce_sentence_138",
+      "content": "透過這鏡片，總能看到{0}的~"
+    },
+    {
+      "id": "introduce_word_139",
+      "content": "螺絲"
+    },
+    {
+      "id": "introduce_sentence_139",
+      "content": "我看你是腦子里缺個{0}。"
+    },
+    {
+      "id": "introduce_word_140",
+      "content": "停下"
+    },
+    {
+      "id": "introduce_sentence_140",
+      "content": "就那樣。{0}吧。在靜止的時間中。永遠地。"
     }
   ]
 }

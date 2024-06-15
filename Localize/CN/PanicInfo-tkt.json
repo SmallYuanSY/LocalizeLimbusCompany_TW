@@ -1,0 +1,10 @@
+{
+  "dataList": [
+    {
+      "id": 1024,
+      "panicName": "瓦解的同盟",
+      "lowMoraleDescription": "對自身施加1層[Vulnerable]。受到傷害時，對自身施加1層[Vibration]。(最多3次)",
+      "panicDescription": "對自身施加2層[Vulnerable]。受到傷害時，對自身施加2層[Vibration]。(最多3次)"
+    }
+  ]
+}

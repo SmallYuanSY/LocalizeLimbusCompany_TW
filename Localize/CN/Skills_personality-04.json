@@ -965,6 +965,227 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1040901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "你螺絲松了？",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加((目標的震顫 層數)/2)層震顫 (最多2層)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "你螺絲松了？",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加((目標的震顫 層數)/2)層震顫 (最多3層)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "你螺絲松了？",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若自身的震顫 層數不低於4層，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加(目標的震顫 層數)層震顫 (最多4層)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "壓力發條扳手",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的震顫 層數，並對目標施加層數相當於震顫 消耗量的震顫 (最多5層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "壓力發條扳手",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n若自身的震顫 層數不低於5層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的震顫 層數，並對目標施加層數相當於震顫 消耗量的震顫 (最多5層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "壓力發條扳手",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若自身的震顫 層數不低於4層，則使本技能的拼點威力+1\n若自身的震顫 層數不低於4層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的震顫 層數，並對目標施加層數相當於震顫 消耗量的震顫 (最多5層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "敲敲就好",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n消耗自身的10層震顫 並使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少2層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "敲敲就好",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n消耗自身的8層震顫 並使本技能的硬幣威力+1\n若目標的震顫 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防御",
+          "desc": "[WhenUse] 獲得(2×自身的震顫 層數)點護盾體力(最多5點)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "防御",
+          "desc": "[WhenUse] 獲得(2×自身的震顫 層數)點護盾體力(最多10點)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

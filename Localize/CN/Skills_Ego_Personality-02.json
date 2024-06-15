@@ -120,6 +120,229 @@
             ]
           }
         ]
-      }
-    ]
- }
+      },
+    {
+      "id": 2020611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "永恒",
+          "abName": "時間鴨",
+          "desc": "若目標的速度值低於自身，則使本技能造成的傷害+(2.5×速度差)%(最多+25%)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數)級震顫 強度(最多5級)\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度並對其施加5層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恒 振幅糾纏 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "永恒",
+          "abName": "時間鴨",
+          "desc": "若目標的速度值低於自身，則使本技能造成的傷害+(3.5×速度差)%(最多+35%)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數×2)級震顫 強度(最多5級)\n- 若該最大共鳴為怠惰完全共鳴，則根據增加的震顫 強度，對目標施加相應層數的震顫 (最多5層)\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度並對其施加5層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恒 振幅糾纏"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "永恒",
+          "abName": "時間鴨",
+          "desc": "若目標的速度值低於自身，則使本技能造成的傷害+(5×速度差)%(最多+50%)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數×2)級震顫 強度(最多10級)\n- 若該最大共鳴為怠惰完全共鳴，則根據增加的震顫 強度，對目標施加相應層數的震顫 (最多10層)\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加10級震顫 強度並對其施加10層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恒 振幅糾纏"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "永恒",
+          "abName": "時間鴨",
+          "desc": "[CantIdentify]\n隨機指定目標\n若主要目標的速度值低於自身，則使本技能造成的傷害+(1.5×速度差)%(最多+12%)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加3級震顫 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對其施加3層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恒 振幅糾纏 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "永恒",
+          "abName": "時間鴨",
+          "desc": "[CantIdentify]\n隨機指定目標\n若主要目標的速度值低於自身，則使本技能造成的傷害+(2×速度差)%(最多+16%)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數)級震顫 強度(最多4級)\n- [BeforeAttack] 若最大共鳴為怠惰完全共鳴，則對目標施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對其施加3層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恒 振幅糾纏 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "永恒",
+          "abName": "時間鴨",
+          "desc": "[CantIdentify]\n隨機指定目標\n若主要目標的速度值低於自身，則使本技能造成的傷害+(2.5×速度差)%(最多+20%)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數)級震顫 強度(最多5級)\n- [BeforeAttack] 若最大共鳴為怠惰完全共鳴，則根據增加的震顫 強度，對目標施加相應層數的震顫 (最多5層)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度並對其施加5層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恒 振幅糾纏 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

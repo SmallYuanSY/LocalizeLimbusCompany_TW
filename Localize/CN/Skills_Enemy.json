@@ -4650,7 +4650,7 @@
         {
           "level": 1,
           "name": "時間租賃",
-          "desc": "[StartBattle] 使自身獲得3層借來的時間 與1層充能 ",
+          "desc": "[StartBattle] 使自身獲得3層[TimeRental] 與1層充能 ",
           "coinlist": [
             {}
           ]

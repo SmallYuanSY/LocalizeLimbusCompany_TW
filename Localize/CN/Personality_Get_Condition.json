@@ -727,6 +727,22 @@
     {
       "id": "11109_getCondition_gacksung",
       "content": "環指 點彩派 學徒 奧提斯 3階段同步完成"
+    },
+    {
+      "id": "10609_getCondition_normal",
+      "content": "獲得20區 聖愚 鴻璐"
+    },
+    {
+      "id": "10609_getCondition_gacksung",
+      "content": "20區 聖愚 鴻璐 3階段同步完成"
+    },
+    {
+      "id": "10409_getCondition_normal",
+      "content": "獲得20區 聖愚 良秀"
+    },
+    {
+      "id": "10409_getCondition_gacksung",
+      "content": "20區 聖愚 良秀 3階段同步完成"
     }
   ]
 }

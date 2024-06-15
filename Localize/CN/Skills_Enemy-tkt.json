@@ -1,0 +1,851 @@
+{
+  "dataList": [
+    {
+      "id": 9014001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "別來煩我",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據目標的震顫 層數，對自身施加相應層數的震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對自身施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "秘密武器",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "骯臟的表鏈子！",
+          "desc": "自身每帶有5層震顫 ，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身的震顫 振幅轉換 為震顫-分配 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據自身的震顫 層數，對目標施加相應層數的震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防御",
+          "desc": "[StartBattle] 使自身獲得2×(自身的震顫 層數)點護盾體力(最多20點)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "讓開讓開",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據目標的震顫 強度，使自身增加相應的震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加6級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對自身施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "可別小瞧我",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "下賤的表鏈子！",
+          "desc": "自身每帶有5層震顫 ，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身的震顫 振幅轉換 為震顫-分配 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據自身的震顫 強度，使目標增加相應的震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防御",
+          "desc": "[StartBattle] 使自身獲得2×(自身的震顫 層數)點護盾體力(最多20點)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "你有良心嗎？",
+          "desc": "[WhenUse] 對自身施加1層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "你沒良心啊",
+          "desc": "[WhenUse] 對自身施加1層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "保護得了他們嗎？",
+          "desc": "[WhenUse] 對自身施加1層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於10層，則使目標震顫引爆 並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於15級，則使其震顫引爆 並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "你那武器報廢了吧？",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為震顫-崩壞 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "準備好了？",
+          "desc": "優先指定帶有震顫-崩壞 的目標\n[WhenUse] 根據自身帶有的震顫 層數，對除自身以外的全體友方單位施加相應層數的震顫 \n[WhenUse] 使包括自身在內的全體友方單位的震顫 振幅轉換 為震顫-分配 ",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加10級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標以震顫-回響 振幅糾纏 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防御",
+          "desc": "[StartBattle] 使自身獲得3×(自身的震顫 層數)點護盾體力(最多30點)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "為了我們的事業",
+          "desc": "[CantDuel]\n[StartBattle] 對自身施加層數相當於除自身以外全體友方單位震顫 層數之和的震顫 ，解除全體友方單位的震顫 \n[StartBattle] 自身每帶有3層震顫 ，使自身獲得1層攻擊等級提升 \n[WhenUse] 對自身施加9層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加10級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標追加自身帶有的震顫 層數10%的怠惰傷害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標追加自身帶有的震顫 層數10%的怠惰傷害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的3層震顫 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的3層震顫 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的3層震顫 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "征收檢查",
+          "desc": "[WhenUse] 對自身施加1層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 層數不低於4層，則對其施加1層[InterlockingTime]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 層數不低於4層，則對其施加1層[InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加1層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "請您止步。",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若自身的震顫 層數不低於4層，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於4層，則使目標增加8級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加2層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於4層，則對目標施加8層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "強制征收執行。",
+          "desc": "[WhenUse] 自身每帶有5層震顫 ，則使本技能的拼點威力+1(最多+2)\n[WhenUse] 若自身的震顫 層數不低於5層，則自身每帶有1層震顫 ，使本技能造成的傷害+10%(最多+100%)\n[EndSkill] 消耗自身所有震顫 層數",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對自身施加2層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於8級，則對其施加1層[InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於4層，則使目標增加8級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對自身施加2層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 層數不低於4層，則對其施加1層[InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於4層，則對目標施加5層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於7層，則對目標施加1層[InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於4層，則使目標振幅轉換 為震顫-鎖鏈 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "借來的時間",
+          "desc": "[StartBattle] 消耗5層震顫 並使自身獲得3層[TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "征收準備",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於3層，則使目標增加3級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對自身施加1層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T公司產加速切斷器",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                },
+                {
+                  "desc": "使目標增加2級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加2層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "請出示鐘表。",
+          "desc": "[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拼點威力+1\n[WhenUse] 對自身施加2層震顫 \n[WinDuel] 消耗自身的3層震顫 並使自身獲得1層[TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則使目標振幅轉換 為震顫-鎖鏈 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "強制征收執行。",
+          "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 自身每帶有4層震顫 ，使本技能的基礎威力+1(最多+3)\n[WinDuel] 消耗自身的5層震顫 並使自身獲得3層[TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 並對目標施加1層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 並對目標施加3層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 並使目標增加8級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 ，使目標震顫引爆 並重覆使用本硬幣(最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的5層震顫 並對目標施加2層[TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "借來的時間",
+          "desc": "[StartBattle] 消耗4層震顫 並使自身獲得3層[TimeRentalTwo]\n[StartBattle] 對自身施加2層[Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "征收準備",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於3層，則使目標增加3級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對自身施加1層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T公司產時間捕捉器",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 ，使目標增加2級震顫 強度並在下回合對其施加2層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對自身施加2層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 ，使目標增加2級震顫 強度並在下回合對其施加2層麻痹 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "請您駐足。",
+          "desc": "[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拼點威力+1\n[WhenUse] 對自身施加2層震顫 \n[WinDuel] 消耗自身的3層震顫 並使自身獲得1層[TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 並在下回合對目標施加2層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 並在下回合對目標施加2層拼點虛弱 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "強制征收執行。",
+          "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 自身每帶有4層震顫 ，使本技能的基礎威力+1(最多+3)\n[WinDuel] 消耗自身的5層震顫 並使自身獲得3層[TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 並對目標施加1層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 並對目標施加3層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 並使目標增加8級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 ，使目標震顫引爆 並重覆使用本硬幣(最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身的5層震顫 並對目標施加2層[TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "借來的時間",
+          "desc": "[StartBattle] 消耗4層震顫 並使自身獲得3層[TimeRentalTwo]\n[StartBattle] 對自身施加2層[Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
