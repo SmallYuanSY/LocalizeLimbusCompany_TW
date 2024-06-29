@@ -1,256 +1,256 @@
 {
-   "dataList": [
-     {
-       "id": 2100411,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "提燈",
-           "abName": "精靈提燈",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限10%的體力"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 3,
-           "name": "提燈",
-           "abName": "精靈提燈",
-           "desc": "[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限12%的體力"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "提燈",
-           "abName": "精靈提燈",
-           "desc": "[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限15%的體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 2100421,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "提燈",
-           "abName": "精靈提燈",
-           "desc": "[CantIdentify] \n指定體力最高的單位",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 對目標施加2層破裂 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 3,
-           "name": "提燈",
-           "abName": "精靈提燈",
-           "desc": "[CantIdentify]\n指定體力最高的單位\n[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 對目標施加3層破裂 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "提燈",
-           "abName": "精靈提燈",
-           "desc": "[CantIdentify]\n指定體力最高的單位\n[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 對目標施加3層破裂 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加5層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 2100511,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "9章2節",
-           "abName": "人皮預言者",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 3,
-           "name": "9章2節",
-           "abName": "人皮預言者",
-           "desc": "[BeforeAttack] 若色欲共鳴數不低於4，則使本技能的攻擊容量+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "9章2節",
-           "abName": "人皮預言者",
-           "desc": "[BeforeAttack] 若色欲共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 若最大色欲完全共鳴數不低於4，則使本技能的攻擊容量額外 +1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則在下回合對其施加1層虛弱 與1層破綻 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 2100521,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "9章2節",
-           "abName": "人皮預言者",
-           "desc": "[CantIdentify]\n隨機指定目標",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 3,
-           "name": "9章2節",
-           "abName": "人皮預言者",
-           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若色欲共鳴數不低於4，則使本技能的攻擊容量+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則在下回合對其施加1層色欲易損 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "9章2節",
-           "abName": "人皮預言者",
-           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若色欲共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 若最大色欲完全共鳴數不低於 4，則使本技能的攻擊容量額外+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則在下回合對其施加2層色欲易損 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
+  "dataList": [
+    {
+      "id": 2100411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限10%的體力"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限12%的體力"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限15%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[CantIdentify] \n指定體力最高的單位",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[CantIdentify]\n指定體力最高的單位\n[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加3層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[CantIdentify]\n指定體力最高的單位\n[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[BeforeAttack] 若色慾共鳴數不低於4，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[BeforeAttack] 若色慾共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 若最大色慾完全共鳴數不低於4，則使本技能的攻擊容量額外+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則下回合對其施加1層虛弱 與1層破綻 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[CantIdentify]\n隨機指定目標",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若色慾共鳴數不低於4，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則下回合對其施加1層色慾易損 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若色慾共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 若最大色慾完全共鳴數不低於4，則使本技能的攻擊容量額外+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則下回合對其施加2層色慾易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 2100611,
       "levelList": [
@@ -272,7 +272,7 @@
                   "desc": "- 若上述友方單位帶有淚珠 ，則使其淚珠 層數變為2層"
                 },
                 {
-                  "desc": "- 若最大憂郁完全共鳴數不低於4，則使本技能上述效果改為“獲得3層淚珠 ”與“使其淚珠 層數變為3層”"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能上述效果改為「獲得3層淚珠 」與「使其淚珠 層數變為3層」"
                 }
               ]
             }
@@ -293,7 +293,7 @@
                   "desc": "- 若上述友方單位帶有淚珠 ，則使其淚珠 層數變為2層"
                 },
                 {
-                  "desc": "- 若最大憂郁完全共鳴數不低於4，則使本技能上述效果改為“獲得3層淚珠 ”與“使其淚珠 層數變為3層”"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能上述效果改為「獲得3層淚珠 」與「使其淚珠 層數變為3層」"
                 }
               ]
             }
@@ -314,7 +314,7 @@
                   "desc": "- 若上述友方單位帶有淚珠 ，則使其淚珠 層數變為2層"
                 },
                 {
-                  "desc": "- 若最大憂郁完全共鳴數不低於4，則使本技能上述效果改為“獲得3層淚珠 ”與“使其淚珠 層數變為3層”"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能上述效果改為「獲得3層淚珠 」與「使其淚珠 層數變為3層」"
                 }
               ]
             }
@@ -334,7 +334,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級沈淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 },
                 {
                   "desc": "[EndSkill] 使自身獲得自身體力上限(15+2.5×(最大共鳴數))%的護盾與2層淚珠 (最多+25%)"
@@ -343,7 +343,7 @@
                   "desc": "- 若自身帶有淚珠 ，則使自身的淚珠層數變為2層"
                 },
                 {
-                  "desc": "- 若最大憂郁完全共鳴數不低於4，則使本技能上述效果改為“獲得3層淚珠 ”與“使自身的淚珠 層數變為3層”"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能上述效果改為「獲得3層淚珠 」與「使自身的淚珠 層數變為3層」"
                 }
               ]
             }
@@ -358,7 +358,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級沈淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 },
                 {
                   "desc": "[EndSkill] 使自身獲得自身體力上限(18+3×(最大共鳴數))%的護盾與2層淚珠 (最多+30%)"
@@ -367,7 +367,7 @@
                   "desc": "- 若自身帶有淚珠 ，則使自身的淚珠層數變為2層"
                 },
                 {
-                  "desc": "- 若最大憂郁完全共鳴數不低於4，則使本技能上述效果改為“獲得3層淚珠 ”與“使自身的淚珠 層數變為3層”"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能上述效果改為「獲得3層淚珠 」與「使自身的淚珠 層數變為3層」"
                 }
               ]
             }
@@ -382,7 +382,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級沈淪 強度並對其施加3層沈淪 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度並對其施加3層沉淪 "
                 },
                 {
                   "desc": "[EndSkill] 使自身獲得自身體力上限(20+5×(最大共鳴數))%的護盾與2層淚珠 (最多+40%)"
@@ -391,10 +391,10 @@
                   "desc": "- 若自身帶有淚珠 ，則使自身的淚珠層數變為2層"
                 },
                 {
-                  "desc": "- 若最大憂郁完全共鳴數不低於4，則使本技能上述效果改為“獲得3層淚珠 ”與“使自身的淚珠 層數變為3層”"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能上述效果改為「獲得3層淚珠 」與「使自身的淚珠 層數變為3層」"
                 },
                 {
-                  "desc": "- 若憂郁共鳴數不低於4，則使自身額外獲得自身體力上限10%的護盾"
+                  "desc": "- 若憂鬱共鳴數不低於4，則使自身額外獲得自身體力上限10%的護盾"
                 }
               ]
             }
@@ -402,5 +402,5 @@
         }
       ]
     }
-   ]
+  ]
 }

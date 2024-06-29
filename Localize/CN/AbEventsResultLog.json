@@ -22,11 +22,11 @@
     },
     {
       "id": "800801_muckwormedapple_success_1_1",
-      "content": "<color=#ebcaa2>金蘋果生成了新的軀幹！</color>"
+      "content": "<color=#ebcaa2>金蘋果產生了新的軀幹！</color>"
     },
     {
       "id": "800801_muckwormedapple_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color><color=#e30000>失去了[{1}]點體力</color>"
+      "content": "[{0}]</color><color=#e30000>失去了{1}點體力</color>"
     },
     {
       "id": "800801_muckwormedapple_failure_1_2",
@@ -34,7 +34,7 @@
     },
     {
       "id": "800801_muckwormedapple_failure_1_3",
-      "content": "<color=#ebcaa2>金蘋果生成了新的軀幹！</color>"
+      "content": "<color=#ebcaa2>金蘋果產生了新的軀幹！</color>"
     },
     {
       "id": "800201_aztec_circle_1_1",
@@ -66,7 +66,7 @@
     },
     {
       "id": "800203_aztec_circle_1_2",
-      "content": "<color=#ebcaa2>[{0}]的[{1}]</color><color=#e30000>效果消失</color>"
+      "content": "<color=#ebcaa2>[{0}]的[{1}]</color><color=#e30000>已失效</color>"
     },
     {
       "id": "800204_aztec_circle_success_1_1",
@@ -78,7 +78,7 @@
     },
     {
       "id": "800204_aztec_circle_success_1_3",
-      "content": "<color=#ebcaa2>[{0}]的[{1}]</color><color=#e30000>效果消失</color>"
+      "content": "<color=#ebcaa2>[{0}]的[{1}]</color><color=#e30000>已失效</color>"
     },
     {
       "id": "800204_aztec_circle_failure_1_1",
@@ -130,11 +130,11 @@
     },
     {
       "id": "801202_reinforcedHuman_1_1",
-      "content": "<color=#ebcaa2>按下了“是”的按鈕。</color>"
+      "content": "<color=#ebcaa2>按下了「是」的按鈕。</color>"
     },
     {
       "id": "801202_reinforcedHuman_2_1",
-      "content": "<color=#ebcaa2>按下了“不是”的按鈕。</color>"
+      "content": "<color=#ebcaa2>按下了「不是」的按鈕。</color>"
     },
     {
       "id": "801202_reinforcedHuman_1_2_1",
@@ -218,7 +218,7 @@
     },
     {
       "id": "acquire_ego_gift_if_win",
-      "content": "<color=#ebcaa2>戰鬥勝利後，獲得E.G.O飾品！</color>"
+      "content": "<color=#ebcaa2>戰鬥勝利后，獲得E.G.O飾品！</color>"
     },
     {
       "id": "chracter_mp_decrease",
@@ -302,31 +302,31 @@
     },
     {
       "id": "ally_own_skill_attribute_hp_increase",
-      "content": "<color=#ebcaa2>攻擊技能擁有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#00ff9c>恢復{1}點體力</color>"
+      "content": "<color=#ebcaa2>攻擊技能帶有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#00ff9c>恢復{1}點體力</color>"
     },
     {
       "id": "ally_not_own_skill_attribute_hp_increase",
-      "content": "<color=#ebcaa2>攻擊技能不包含</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#00ff9c>恢復{1}點體力</color>"
+      "content": "<color=#ebcaa2>攻擊技能不帶有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#00ff9c>恢復{1}點體力</color>"
     },
     {
       "id": "ally_own_skill_attribute_hp_decrease",
-      "content": "<color=#ebcaa2>攻擊技能擁有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#e30000>失去{1}點體力</color>"
+      "content": "<color=#ebcaa2>攻擊技能帶有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#e30000>失去{1}點體力</color>"
     },
     {
       "id": "ally_not_own_skill_attribute_hp_decrease",
-      "content": "<color=#ebcaa2>攻擊技能不包含</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#e30000>失去{1}點體力</color>"
+      "content": "<color=#ebcaa2>攻擊技能不帶有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#e30000>失去{1}點體力</color>"
     },
     {
       "id": "ally_own_skill_attribute_mp_increase",
-      "content": "<color=#ebcaa2>攻擊技能擁有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#80c9ff>恢復{1}點理智值</color>"
+      "content": "<color=#ebcaa2>攻擊技能帶有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#80c9ff>恢復{1}點理智值</color>"
     },
     {
       "id": "ally_not_own_skill_attribute_mp_increase",
-      "content": "<color=#ebcaa2>攻擊技能不包含</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#80c9ff>恢復{1}點理智值</color>"
+      "content": "<color=#ebcaa2>攻擊技能不帶有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#80c9ff>恢復{1}點理智值</color>"
     },
     {
       "id": "ally_own_skill_attribute_mp_decrease",
-      "content": "<color=#ebcaa2>攻擊技能擁有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#fe4b48>失去{1}點理智值</color>"
+      "content": "<color=#ebcaa2>攻擊技能帶有</color>%{0}屬性罪孽/%<color=#ebcaa2>的人格</color><color=#fe4b48>失去{1}點理智值</color>"
     },
     {
       "id": "ally_not_own_skill_attribute_mp_decrease",
@@ -398,7 +398,7 @@
     },
     {
       "id": "804501_electriccentipede_success_1_1",
-      "content": "<color=#ebcaa2>[{0}] </color>減少<color=#ebcaa2>%{2} [{1}] 層</color>"
+      "content": "<color=#ebcaa2>[{0}] 減少%{2} [{1}] /%</color>"
     },
     {
       "id": "804501_electriccentipede_success_1_2",
@@ -406,15 +406,15 @@
     },
     {
       "id": "804501_electriccentipede_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> 增加<color=#ebcaa2>%{2} [{1}] 層/%</color>"
+      "content": "<color=#ebcaa2>[{0}] 增加%{2} [{1}] /%</color>"
     },
     {
       "id": "804501_electriccentipede_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>獲得</color> %{2} [{1}]/%"
+      "content": "<color=#ebcaa2>[{0}]獲得了</color>%[{1}] {2}/%"
     },
     {
       "id": "804801_gentlefairy_success_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>恢復 {1} 點體力</color>"
+      "content": "<color=#ebcaa2>[{0}]</color><color=#00ff9c>恢復了{1}點體力</color>"
     },
     {
       "id": "804801_gentlefairy_success_1_2",
@@ -422,7 +422,7 @@
     },
     {
       "id": "804801_gentlefairy_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>恢復 {1} 點體力</color>"
+      "content": "<color=#ebcaa2>[{0}]</color><color=#00ff9c>恢復了{1}點體力</color>"
     },
     {
       "id": "804801_gentlefairy_failure_1_2",
@@ -430,7 +430,7 @@
     },
     {
       "id": "804601_umbrellafox_success_1_1",
-      "content": "<color=#ebcaa2>全體[{0}]</color> <color=#00ff9c>失去體力值上限的{1}</color>"
+      "content": "<color=#ebcaa2>全體[{0}]</color> <color=#00ff9c>失去體力上限的{1}</color>"
     },
     {
       "id": "804601_umbrellafox_success_1_2",
@@ -442,7 +442,7 @@
     },
     {
       "id": "804701_nobodygonnacry_success_1_1",
-      "content": "<color=#ebcaa2>因而無人哭泣獲得</color>5層複貼的咒符 "
+      "content": "<color=#ebcaa2>因而無人哭泣獲得</color>5層復貼的咒符 "
     },
     {
       "id": "804701_nobodygonnacry_success_1_2",
@@ -450,7 +450,7 @@
     },
     {
       "id": "804701_nobodygonnacry_failure_1_1",
-      "content": "<color=#ebcaa2>消耗罪人[{0}]</color>所擁有的<color=#ebcaa2>全部{1} </color>"
+      "content": "<color=#ebcaa2>消耗罪人[{0}]</color>所帶有的<color=#ebcaa2>全部{1} </color>"
     },
     {
       "id": "805002_egoawakendongrang_success_1_1",
@@ -490,11 +490,11 @@
     },
     {
       "id": "805006_egoawakendongrang_success_3_1",
-      "content": "受阻的東朗"
+      "content": "東朗被阻攔了"
     },
     {
       "id": "805006_egoawakendongrang_failure_3_1",
-      "content": "受阻的東朗"
+      "content": "東朗被阻攔了"
     },
     {
       "id": "805801_success_1_1",

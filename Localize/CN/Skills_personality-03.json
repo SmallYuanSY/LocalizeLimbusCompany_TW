@@ -1,815 +1,1040 @@
 {
-   "dataList": [
-     {
-       "id": 1030601,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "核查帳簿",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "核查帳簿",
-           "desc": "[WhenUse] 使自身恢復5點理智值",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "核查帳簿",
-           "desc": "[WhenUse] 使自身恢復5點理智值",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030602,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "忠義的證明",
-           "desc": "[StartBattle] 使本技能的攻擊等級增加（最大完全共鳴數/3）點（最多增加4點）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {}
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加1層傷害弱化 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "忠義的證明",
-           "desc": "[StartBattle] 使本技能的攻擊等級增加（最大完全共鳴數/3）點（最多增加4點）\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外 +50%（向下取整）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {}
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加1層傷害弱化 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "忠義的證明",
-           "desc": "[StartBattle] 使本技能的攻擊等級增加（最大完全共鳴數/2）點（最多增加6點）\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外 +50%（向下取整）\n若為參戰人數上限不高於7名的集中遭遇戰，則使本技能獲得的攻擊等級翻倍",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {}
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層傷害弱化 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030603,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "正義的報復",
-           "desc": "[StartBattle] 使本技能的攻擊等級增加（最大完全共鳴數/3）點（最多增加4點）\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外 +50%（向下取整）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[EndSkill] 若擊殺目標，則使理智值最低的1名友方單位恢復6點理智值"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "正義的報復",
-           "desc": "[StartBattle] 使本技能的攻擊等級增加（最大完全共鳴數/2）點（最多增加6點）\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外 +50%（向下取整）\n若為參戰人數上限不高於7名的集中遭遇戰，則使本技能獲得的攻擊等級翻倍",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[EndSkill] 若擊殺目標，則使理智值最低的1名友方單位恢復6點理智值"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030604,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "加倍奉還",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身的混亂閾值後移3"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身的混亂閾值後移3"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "加倍奉還",
-           "desc": "[StartBattle] 若包含本技能在內嫉妒完全共鳴數不低於6，則反擊時改為使用“正義的報復”進行反擊\n觸發上述效果時，將本技能的罪惡屬性變為嫉妒 \n（位於儀表板最左側的加倍奉還優先觸發，每回合最多觸發2次）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身的混亂閾值後移5"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身的混亂閾值後移5"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030605,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "正義的報復",
-           "desc": "[StartBattle] 使本技能的攻擊等級增加（最大完全共鳴數/3）點（最多增加4點）\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外 +50%（向下取整）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[EndSkill] 若擊殺目標，則使理智值最低的1名友方單位恢復6點理智值"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "正義的報復",
-           "desc": "[StartBattle] 使本技能的攻擊等級增加（最大完全共鳴數/2）點（最多增加6點）\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外 +50%（向下取整）\n若為參戰人數上限不高於6名的遭遇戰，則使本技能獲得的攻擊等級翻倍",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[EndSkill] 若擊殺目標，則使理智值最低的1名友方單位恢復6點理智值"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030701,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "吾當嚙！",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 施加2層對目標破裂 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "吾當嚙！",
-           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "吾當嚙！",
-           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030702,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "閃爍誘餌",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "閃爍誘餌",
-           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的破裂 層數不高於2層，則對其施加2層破裂 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "閃爍誘餌",
-           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +4\n[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的破裂 層數不高於2層，則對其施加3層破裂 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030703,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "嚼嚼旋風！",
-           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
-                 }
-               ]
-             },
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復10點體力"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 根據目標帶有的破裂 強度，相應增加恢復的體力（每1級破裂 強度額外恢復1點體力，最多20點）"
-                 },
-                 {
-                   "desc": "若現存體力不高於體力上限的50%，則重複使用本硬幣1次"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "嚼嚼旋風！",
-           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
-                 }
-               ]
-             },
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復15點體力。本硬幣重複使用時額外恢復50%的體力"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 根據目標帶有的破裂 強度，相應增加恢復的體力（每1級破裂 強度額外恢復2點體力，最多40點）"
-                 },
-                 {
-                   "desc": "若現存體力不高於體力上限的50%，則重複使用本硬幣1次"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030704,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "臼齒霍霍",
-           "desc": "[EndBattle] 根據自身剩餘的護盾，使自身恢復對應的體力（每回合最多1次。最大體力恢復量：體力上限的10%）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "臼齒霍霍",
-           "desc": "[WhenUse] 若目標的破裂強度不低於6級，則使本技能的最終威力+3\n[EndBattle] 根據自身剩餘的護盾，使自身恢復相應的體力（每回合最多 1次。最大體力恢復量：體力上限的10%）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030801,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "寒芒出鞘",
-           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "寒芒出鞘",
-           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "寒芒出鞘",
-           "desc": "若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030802,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "劍跡",
-           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使自身增加2級呼吸法 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 強度最低的1名友方單位增加2級呼吸法 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "劍跡",
-           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 強度最低的1名友方單位增加2級呼吸法 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "劍跡",
-           "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法或呼吸法強度最低的1名友方單位增加2級呼吸法強度\n若該友方單位隸屬於劍契組，則使其額外增加2 級呼吸法強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030803,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "永別了！",
-           "desc": "[WhenUse] 使自身增加5級呼吸法 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 層數最低的2名友方單位獲得2層呼吸法 "
-                 },
-                 {
-                   "desc": "[EndSkill] 若擊殺目標，則下回合使自身獲得1層斬擊傷害強化 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "永別了！",
-           "desc": "若自身的呼吸法 強度不低於10級，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加5級呼吸法 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "使本硬幣暴擊時造成的傷害+30%"
-                 },
-                 {
-                   "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法或呼吸法層數最低的2名友方單位獲得2層呼吸法\n若該友方單位隸屬於劍契組，則使其額外獲得2 層呼吸法 "
-                 },
-                 {
-                   "desc": "[EndSkill] 若擊殺目標，則下回合隨機使除自身以外的1名友方單位與自身獲得1層斬擊傷害強化 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1030804,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "閃避",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "閃避",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     }
-   ]
+  "dataList": [
+    {
+      "id": 1030601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "覈查賬簿",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "覈查賬簿",
+          "desc": "[WhenUse] 使自身恢復5點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "覈查賬簿",
+          "desc": "[WhenUse] 使自身恢復5點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "忠義的證明",
+          "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/3)級攻擊等級(最多增加4級)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層傷害弱化 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "忠義的證明",
+          "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/3)級攻擊等級(最多增加4級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層傷害弱化 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "忠義的證明",
+          "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/2)級攻擊等級(最多增加6級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)\n若為參戰人數上限不高於7名的集中遭遇戰，則使本技能增加的攻擊等級變為2倍",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層傷害弱化 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "正義的報復",
+          "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/3)級攻擊等級(最多增加4級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] 若擊殺目標，則使理智值最低的1名友方單位恢復6點理智值"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "正義的報復",
+          "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/2)級攻擊等級(最多增加6級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)\n若為參戰人數上限不高於7名的集中遭遇戰，則使本技能增加的攻擊等級變為2倍",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] 若擊殺目標，則使理智值最低的1名友方單位恢復6點理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "加倍奉還",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值后移3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值后移3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "加倍奉還",
+          "desc": "[StartBattle] 若包含本技能在內嫉妒完全共鳴數不低於6，則反擊時改為使用「正義的報復」進行反擊\n觸發上述效果時，將本技能的罪孽屬性轉化為嫉妒\n(位於儀表盤左側的加倍奉還優先觸發，每回合最多觸發2次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值后移5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值后移5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "正義的報復",
+          "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/3)級攻擊等級(最多增加4級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] 若擊殺目標，則使理智值最低的1名友方單位恢復6點理智值"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "正義的報復",
+          "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/2)級攻擊等級(最多增加6級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)\n若為參戰人數上限不高於6名的遭遇戰，則使本技能增加的攻擊等級變為2倍",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] 若擊殺目標，則使理智值最低的1名友方單位恢復6點理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "吾當嚙之！",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層破裂 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "吾當嚙之！",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "吾當嚙之！",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃爍誘餌",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "閃爍誘餌",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的破裂 層數不高於2層，則對其施加2層破裂 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "閃爍誘餌",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +4\n[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的破裂 層數不高於2層，則對其施加3層破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "嚼嚼旋風！",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復10點體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據目標帶有的破裂 強度，相應增加恢復的體力(每1級破裂 強度額外恢復1點體力，最多20點)"
+                },
+                {
+                  "desc": "若現存體力不高於體力上限的50%，則重複使用本硬幣1次"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "嚼嚼旋風！",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復15點體力。本硬幣重複使用時額外恢復50%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據目標帶有的破裂 強度，相應增加恢復的體力(每1級破裂 強度額外恢復2點體力，最多40點)"
+                },
+                {
+                  "desc": "若現存體力不高於體力上限的50%，則重複使用本硬幣1次"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "磨牙霍霍",
+          "desc": "[EndBattle] 根據自身剩餘的護盾，使自身恢復相應的體力(每回合最多1次。最大體力恢復量：體力上限的10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "磨牙霍霍",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的最終威力+3\n[EndBattle] 根據自身剩餘的護盾，使自身恢復相應的體力(每回合最多1次。最大體力恢復量：體力上限的10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "寒芒出鞘",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "寒芒出鞘",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "寒芒出鞘",
+          "desc": "若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "劍跡",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 強度最低的1名友方單位增加2級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "劍跡",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 強度最低的1名友方單位增加2級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "劍跡",
+          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 強度最低的1名友方單位增加2級呼吸法 強度\n若該友方單位隸屬於劍契組，則使其額外增加2級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "永別了！",
+          "desc": "[WhenUse] 使自身增加5級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 層數最低的2名友方單位獲得2層呼吸法 "
+                },
+                {
+                  "desc": "[EndSkill] 若擊殺目標，則下回合使自身獲得1層斬擊傷害強化 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "永別了！",
+          "desc": "若自身的呼吸法 強度不低於10級，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加5級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使本技能最後一枚硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+30%"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法層數最低的2名友方單位獲得2層呼吸法 \n若該友方單位隸屬於劍契組，則使其額外獲得2層呼吸法 "
+                },
+                {
+                  "desc": "[EndSkill] 若擊殺目標，則下回合隨機使除自身以外的1名友方單位與自身獲得1層斬擊傷害強化 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "閃避",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "該徵收了",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級震顫 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "該徵收了",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "該徵收了",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 目標每帶有6級震顫 強度，使本技能的拼點威力+1(最多+2)\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使本技能對應行動槽的挑釁值 +4"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T公司產加速切斷器",
+          "desc": "[WhenUse] 對自身施加3層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標至多3級震顫 強度並對自身施加(消耗的震顫 強度)層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "T公司產加速切斷器",
+          "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標至多3級震顫 強度並對自身施加(消耗的震顫 強度)層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若本技能的硬幣效果消耗了目標的震顫 強度，則使其震顫引爆 並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "T公司產加速切斷器",
+          "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 目標每帶有6級震顫 強度，使本技能的拼點威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標至多3級震顫 強度並對自身施加(消耗的震顫 強度×2)層震顫 \n下回合對目標施加(消耗的震顫 強度-1)層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若本技能的硬幣效果消耗了目標的震顫 強度，則使其震顫引爆 並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "那位，請止步！",
+          "desc": "[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 消耗自身的10層震顫 並使本技能的硬幣威力+2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於10級，則消耗其10級震顫 強度並對其施加2層[TimeSuspend]\n- 若自身帶有[TimeRentalTwoPersonality]，則本效果不消耗目標的震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的速度值低於自身，則使目標振幅轉換 為[VibrationChainPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "那位，請止步！",
+          "desc": "[WhenUse] 目標每帶有6級震顫 強度，使本技能的拼點威力+1(最多+2)\n[WhenUse] 若目標帶有束縛 ，則使本技能的拼點威力+1\n[WhenUse] 消耗自身的10層震顫 並使本技能的硬幣威力+2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於10級，則消耗其10級震顫 強度並對其施加2層[TimeSuspend]\n- 若自身帶有[TimeRentalTwoPersonality]，則本效果不消耗目標的震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的速度值低於自身，則使目標振幅轉換 為[VibrationChainPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "抽取時間吧",
+          "desc": "[StartBattle] 若自身未帶有[TimeRentalTwoPersonality]，則回合結束時使自身獲得4層[TimeRentalTwoPersonality](每回合最多1次)\n[WhenUse] 本回合內自身受到敵方單位攻擊時，下回合使目標增加2級震顫 強度(每回合最多2次)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "抽取時間吧",
+          "desc": "[StartBattle] 若自身未帶有[TimeRentalTwoPersonality]，則回合結束時使自身獲得4層[TimeRentalTwoPersonality](每回合最多1次)\n[WhenUse] 本回合內自身受到敵方單位攻擊時，下回合使目標增加3級震顫 強度(每回合最多6次)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
 }

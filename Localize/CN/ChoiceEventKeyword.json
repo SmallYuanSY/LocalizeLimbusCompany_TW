@@ -6,7 +6,7 @@
     },
     {
       "id": "OnStageStart",
-      "content": "進入關卡"
+      "content": "進入關卡時"
     },
     {
       "id": "IncludeSkillAttribute",
@@ -26,11 +26,11 @@
     },
     {
       "id": "FAILURE",
-      "content": "判定失敗"
+      "content": "判定失敗的"
     },
     {
       "id": "SUCCESS",
-      "content": "判定成功"
+      "content": "判定成功的"
     },
     {
       "id": "ADD",
@@ -46,11 +46,11 @@
     },
     {
       "id": "85560101SCARLET",
-      "content": "朱紅的"
+      "content": "硃紅的"
     },
     {
       "id": "85560101AMBER",
-      "content": "琥珀色的"
+      "content": "琥鉑色的"
     },
     {
       "id": "85560101SHAMROCK",

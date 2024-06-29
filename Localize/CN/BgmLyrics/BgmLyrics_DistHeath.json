@@ -1,40 +1,40 @@
 {
-   "dataList": [
-     {
-       "id": 0,
-       "content": "<color=purple>比野獸還要劣等的我…還有必要裝作人類嗎？</color>"
-     },
-     {
-       "id": 1,
-       "content": "<color=purple>害死了凱瑟琳的我們，已經沒有活下去的價值了。</color>"
-     },
-     {
-       "id": 2,
-       "content": "<color=purple>我的腦海中不斷傳來某人的聲音…</color>"
-     },
-     {
-       "id": 3,
-       "content": "<color=purple>我那低賤卑微的本性無法改變。</color>"
-     },
-     {
-       "id": 4,
-       "content": "<color=purple>是啊，我無法改變。現如今只是一個裝滿垃圾的破袋子而已。</color>"
-     },
-     {
-       "id": 5,
-       "content": "<color=purple>所以我也沒有如人類般說話的必要了。只是哭嚎著。</color>"
-     },
-     {
-       "id": 6,
-       "content": "<color=purple>我回來了，凱西…請你了…</color>"
-     },
-     {
-       "id": 7,
-       "content": "<color=purple>你和我必須被塞入這袋中。然後粉碎殆盡。</color>"
-     },
-     {
-       "id": 8,
-       "content": "<color=purple>我會將其拖曳至…地獄的盡頭。</color>"
-     }
-   ]
+  "dataList": [
+    {
+      "id": 0,
+      "content": "<color=purple>比野獸還要劣等的我……還有必要裝作人類嗎？</color>"
+    },
+    {
+      "id": 1,
+      "content": "<color=purple>害死了凱瑟琳的我們，已經沒有活下去的價值了。</color>"
+    },
+    {
+      "id": 2,
+      "content": "<color=purple>我的腦海中不斷傳來某人的聲音……</color>"
+    },
+    {
+      "id": 3,
+      "content": "<color=purple>我那低賤而卑微的本性無法改變。</color>"
+    },
+    {
+      "id": 4,
+      "content": "<color=purple>是啊，我無法改變。現如今只是一個裝滿垃圾的破袋子而已。</color>"
+    },
+    {
+      "id": 5,
+      "content": "<color=purple>所以我也沒有如人類般言語的必要了。僅僅是哭嚎著。</color>"
+    },
+    {
+      "id": 6,
+      "content": "<color=purple>我回來了，凱茜……求你了……</color>"
+    },
+    {
+      "id": 7,
+      "content": "<color=purple>你和我必須被塞入這袋中。然後粉碎殆盡。</color>"
+    },
+    {
+      "id": 8,
+      "content": "<color=purple>我會將其拖至……地獄的盡頭。</color>"
+    }
+  ]
 }

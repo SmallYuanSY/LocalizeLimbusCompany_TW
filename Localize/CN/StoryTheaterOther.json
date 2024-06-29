@@ -22,11 +22,11 @@
     },
     {
       "id": "EventTitleText_9011",
-      "title": "後門裡的房間"
+      "title": "後門里的房間"
     },
     {
       "id": "STORY_901004",
-      "title": "後門裡的房間"
+      "title": "後門里的房間"
     },
     {
       "id": "STORY_901005",
@@ -54,11 +54,11 @@
     },
     {
       "id": "EventTitleText_9014",
-      "title": "回到巴士"
+      "title": "回到巴士。"
     },
     {
       "id": "STORY_901401",
-      "title": "回到巴士"
+      "title": "回到巴士。"
     },
     {
       "id": "STORY_910712",
@@ -66,11 +66,11 @@
     },
     {
       "id": "EventTitleText_9015",
-      "title": "危險等級&序號"
+      "title": "危險等級&編號"
     },
     {
       "id": "STORY_901501",
-      "title": "危險等級&序號"
+      "title": "危險等級&編號"
     },
     {
       "id": "EventTitleText_9016",
@@ -86,7 +86,7 @@
     },
     {
       "id": "STORY_910915",
-      "title": "最後的事件"
+      "title": "最後一案"
     }
   ]
 }

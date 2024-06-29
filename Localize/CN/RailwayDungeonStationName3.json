@@ -1,78 +1,78 @@
 {
-   "dataList": [
-     {
-       "id": "3",
-       "nameList": [
-         {
-           "id": "0",
-           "content": "3號線 車站"
-         },
-         {
-           "id": "1",
-           "content": "始發站 - 齒輪",
-           "shortName": "始發站"
-         },
-         {
-           "id": "2",
-           "content": "第2站 - 波浪",
-           "shortName": "第2站"
-         },
-         {
-           "id": "3",
-           "content": "第3站 - 鄉愁",
-           "shortName": "第3站"
-         },
-         {
-           "id": "4",
-           "content": "第4站 - 定時",
-           "shortName": "第4站"
-         },
-         {
-           "id": "5",
-           "content": "第5站 - 苦行",
-           "shortName": "第5站"
-         },
-         {
-           "id": "6",
-           "content": "第6站 - 真理",
-           "shortName": "第6站"
-         },
-         {
-           "id": "7",
-           "content": "第7站 - 羽化",
-           "shortName": "第7站"
-         },
-         {
-           "id": "8",
-           "content": "第8站 - 定時",
-           "shortName": "第8站"
-         },
-         {
-           "id": "9",
-           "content": "第9站 - 白化",
-           "shortName": "第9站"
-         },
-         {
-           "id": "10",
-           "content": "第10站 - 洗腦",
-           "shortName": "第10站"
-         },
-         {
-           "id": "11",
-           "content": "第11站 - 汽燈",
-           "shortName": "第11站"
-         },
-         {
-           "id": "12",
-           "content": "第11站 - 定時",
-           "shortName": "第12站"
-         },
-         {
-           "id": "13",
-           "content": "終點站 - 螺旋",
-           "shortName": "終點站"
-         }
-       ]
-     }
-   ]
+  "dataList": [
+    {
+      "id": "3",
+      "nameList": [
+        {
+          "id": "0",
+          "content": "3號線 候車"
+        },
+        {
+          "id": "1",
+          "content": "始發站 - 齒輪",
+          "shortName": "始發站"
+        },
+        {
+          "id": "2",
+          "content": "第2站 - 波浪",
+          "shortName": "第2站"
+        },
+        {
+          "id": "3",
+          "content": "第3站 - 鄉愁",
+          "shortName": "第3站"
+        },
+        {
+          "id": "4",
+          "content": "第4站 - 幕間",
+          "shortName": "第4站"
+        },
+        {
+          "id": "5",
+          "content": "第5站 - 苦行",
+          "shortName": "第5站"
+        },
+        {
+          "id": "6",
+          "content": "第6站 - 真理",
+          "shortName": "第6站"
+        },
+        {
+          "id": "7",
+          "content": "第7站 - 羽化",
+          "shortName": "第7站"
+        },
+        {
+          "id": "8",
+          "content": "第8站 - 幕間",
+          "shortName": "第8站"
+        },
+        {
+          "id": "9",
+          "content": "第9站 - 白化",
+          "shortName": "第9站"
+        },
+        {
+          "id": "10",
+          "content": "第10站 - 洗腦",
+          "shortName": "第10站"
+        },
+        {
+          "id": "11",
+          "content": "第11站 - 汽燈",
+          "shortName": "第11站"
+        },
+        {
+          "id": "12",
+          "content": "第12站 - 幕間",
+          "shortName": "第12站"
+        },
+        {
+          "id": "13",
+          "content": "終點站 - 螺旋",
+          "shortName": "終點站"
+        }
+      ]
+    }
+  ]
 }

@@ -3,98 +3,98 @@
     {
       "id": 1001,
       "panicName": "自殘",
-      "lowMoraleDescription": "回合開始時，獲得2層<sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">迅捷</color></link></u> 並施加2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u> 。",
-      "panicDescription": "回合開始時，失去10點體力。"
+      "lowMoraleDescription": "回合開始時，使自身獲得2層<sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">迅捷</color></link></u>並對自身施加2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。",
+      "panicDescription": "回合開始時，使自身失去10點體力。"
     },
     {
       "id": 1002,
       "panicName": "遷怒",
-      "lowMoraleDescription": "回合開始時，獲得2層<sprite name=\"Enhancement\"><color=#e30000><u><link=\"Enhancement\">強壯</color></link></u> 並施加2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。",
+      "lowMoraleDescription": "回合開始時，使自身獲得2層<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">強壯</color></link></u>並對自身施加2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。",
       "panicDescription": "回合開始時，隨機友方單位失去20點理智值。"
     },
     {
       "id": 1003,
       "panicName": "無措",
-      "lowMoraleDescription": "回合開始時，施加2層<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">虛弱</color></link></u>。",
-      "panicDescription": "一回合內無法行動"
+      "lowMoraleDescription": "回合開始時，對自身施加2層<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">虛弱</color></link></u>。",
+      "panicDescription": "一回合內無法行動。"
     },
     {
       "id": 1004,
       "panicName": "畏縮",
-      "lowMoraleDescription": "回合開始時，施加2層<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">虛弱</color></link></u> 。",
-      "panicDescription": "回合開始時，施加4層<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">虛弱</color></link></u> 。"
+      "lowMoraleDescription": "回合開始時，對自身施加2層<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">虛弱</color></link></u>。",
+      "panicDescription": "回合開始時，對自身施加4層<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">虛弱</color></link></u>。"
     },
     {
       "id": 1005,
       "panicName": "憤怒",
-      "lowMoraleDescription": "回合開始時，獲得1層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u> 並施加2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。",
-      "panicDescription": "回合開始時，獲得2層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u> 並施加5層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u> "
+      "lowMoraleDescription": "回合開始時，使自身獲得1層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u>並對自身施加2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。",
+      "panicDescription": "回合開始時，使自身獲得2層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u>並對自身施加5層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。"
     },
     {
       "id": 1006,
       "panicName": "潰退",
-      "lowMoraleDescription": "無法行動。受到攻擊時，在攻擊結束後戰敗。",
+      "lowMoraleDescription": "無法行動。受到攻擊時，在攻擊結束后陣亡。",
       "panicDescription": ""
     },
     {
       "id": 1007,
       "panicName": "抑鬱",
-      "lowMoraleDescription": "每回合開始時施加2層<sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">傷害弱化</color></link></u> 。",
-      "panicDescription": "每回合開始時施加5層<sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">傷害弱化</color></link></u>  和2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u> 。"
+      "lowMoraleDescription": "每回合開始時，對自身施加2層<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">傷害弱化</color></link></u>。",
+      "panicDescription": "每回合開始時，對自身施加5層<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">傷害弱化</color></link></u>與2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。"
     },
     {
       "id": 1008,
       "panicName": "瘋狂",
-      "lowMoraleDescription": "初次進入士氣低落狀態時，變為無差別攻擊狀態",
-      "panicDescription": "無法識別敵我雙方，拼點威力+1，獲得2層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u> "
+      "lowMoraleDescription": "初次進入士氣低落狀態時，進入無差別攻擊狀態。",
+      "panicDescription": "進入無差別攻擊狀態，拼點威力+1，獲得2層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u>。"
     },
     {
       "id": 1009,
       "panicName": "自盡",
-      "lowMoraleDescription": "初次處於士氣低落狀態時，無法行動",
-      "panicDescription": "3回合內無法行動，回合開始時陣亡，全體友方單位失去10點理智值 "
+      "lowMoraleDescription": "初次處於士氣低落狀態時，無法行動。",
+      "panicDescription": "3回合內無法行動，3回合結束后回合開始時陣亡，全體友方單位失去10點理智值。"
     },
     {
       "id": 1010,
       "panicName": "徘徊",
-      "lowMoraleDescription": "回合開始時，友方單位失去2點理智值。",
-      "panicDescription": "3回合內，每回合結束時友方單位失去5點理智值。3回合結束後逃走 "
+      "lowMoraleDescription": "回合結束時，友方單位失去2點理智值。",
+      "panicDescription": "3回合內，每回合結束時友方單位失去5點理智值。\n3回合結束后逃離戰鬥。"
     },
     {
       "id": 1011,
       "panicName": "失控",
-      "lowMoraleDescription": "回合開始時，獲得2層<sprite name=\"Enhancement\"><color=#e30000><u><link=\"Enhancement\">強壯</color></link></u> 並施加3層<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u> ",
-      "panicDescription": "回合開始時：陷入混亂"
+      "lowMoraleDescription": "回合開始時，獲得2層<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">強壯</color></link></u>並施加3層<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>。",
+      "panicDescription": "回合開始時，陷入混亂。"
     },
     {
       "id": 1012,
       "panicName": "抑鬱",
-      "lowMoraleDescription": "施加1層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>若拼點時硬幣擲出過反面，則在本回合內使目標拼點威力-1",
-      "panicDescription": "施加3層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>若拼點時硬幣擲出過反面，則在本回合內使目標拼點威力-3"
+      "lowMoraleDescription": "對自身施加1層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>；若拼點時硬幣擲出過反面，則在本次拼點中拼點威力-1。",
+      "panicDescription": "對自身施加3層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。若拼點時硬幣擲出過反面，則在本次拼點中拼點威力-3。"
     },
     {
       "id": 9999,
       "panicName": "恐慌",
       "lowMoraleDescription": "",
-      "panicDescription": "一回合內無法行動"
+      "panicDescription": "一回合內無法行動。"
     },
     {
       "id": 1013,
       "panicName": "不潔",
-      "lowMoraleDescription": "使自己獲得1層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></ u>. 單位拼點失敗時，使目標失去2點理智值。",
-      "panicDescription": "使自己取得2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></ u>. 當單位拼點失敗時，使目標失去5點理智值。"
+      "lowMoraleDescription": "對自身施加1層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。 該單位拼點失敗時，使目標失去2點理智值。",
+      "panicDescription": "對自身施加2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。 該單位拼點失敗時，使目標失去5點理智值。"
     },
     {
       "id": 1014,
       "panicName": "報復",
-      "lowMoraleDescription": "回合開始時，使自己獲得1層<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">強壯</color></link ></u>並施加3層對自己<sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防禦等級降低</color></link> </u>，基於上回合受到的傷害使自身獲得<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></ link></u>\n（每失去體力上限3%的體力，使自身獲得1層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\" >傷害強化</color></link></u>）",
-      "panicDescription": "回合開始時，使自己獲得2層<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">強壯</color></link ></u>並對自己施加6層<sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防禦等級降低</color></link> </u>，基於上回合受到的傷害使自身獲得<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></ link></u>\n（每失去體力上限3%的體力，使自身獲得1層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\" >傷害強化</color></link></u>）"
+      "lowMoraleDescription": "回合開始時，使自身獲得1層<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">強壯</color></link></u>並對自身施加3層<sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防禦等級降低</color></link></u>，基於上回合受到的傷害使自身獲得<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u>\n（每失去體力上限3%的體力，使自身獲得1層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u>）",
+      "panicDescription": "回合開始時，使自身獲得2層<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">強壯</color></link></u>並對自身施加6層<sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防禦等級降低</color></link></u>，基於上回合受到的傷害使自身獲得<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u>\n（每失去體力上限3%的體力，使自身獲得1層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u>）"
     },
     {
       "id": 1015,
       "panicName": "蒼白恐慌",
       "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] +2",
-      "panicDescription": "回合結束時，對自身施加2層<sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">束縛</color></link ></u>。\n自身所有硬幣的朝向都必定是反面。"
+      "panicDescription": "回合結束時，下回合對自身施加2層<sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">束縛</color></link></u>。\n自身所有硬幣的朝向都必定是反面。"
     },
     {
       "id": 1016,

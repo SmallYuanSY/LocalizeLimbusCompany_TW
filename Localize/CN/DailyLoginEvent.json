@@ -6,23 +6,23 @@
     },
     {
       "id": "daily_login_event_description",
-      "content": "※ 以遊戲內每日重置為基準（當日05:00 ~ 次日04:59 (CST)），每天都可以領取登錄當天對應的獎勵。\n※ 當天未領取的獎勵將於次日過期，屆時無法補領。因此請務必及時領取。"
+      "content": "※ 以遊戲內每日重置為基準（當日05:00 ~ 次日04:59 [CST]），每天都可以領取登錄當天對應的獎勵。\n※ 當天未領取的獎勵將於次日過期，屆時無法補領。因此請務必及時領取。"
     },
     {
       "id": "daily_login_event_weekly_format",
-      "content": "第{0}週"
+      "content": "第{0}周"
     },
     {
-      "id": "daily_login_halloween_event_title",
+      "id": "daily_login_halloween_title",
       "content": "萬聖節簽到活動"
     },
     {
-      "id": "daily_login_halloween_event_desc",
-      "content": "▶累計簽到七天可獲得「十連提取券」"
+      "id": "daily_login_halloween_desc",
+      "content": "▶累計簽到七天可獲得一張[十連提取券]"
     },
     {
       "id": "daily_login_seventh_anniversary_desc",
-      "content": "活動期間登入，獲得十連提取券"
+      "content": "活動期間登錄，獲得十連提取券"
     }
   ]
 }

@@ -90,7 +90,7 @@
     },
     {
       "id": "20304_getCondition",
-      "content": "地獄雞活動獎勵"
+      "content": "Hell』s Chicken活動獎勵"
     },
     {
       "id": "20104_getCondition",
@@ -107,6 +107,14 @@
     {
       "id": "20804_getCondition",
       "content": "第2賽季邊獄通行證20級獎勵"
+    },
+    {
+      "id": "21104_getCondition",
+      "content": "第2賽季邊獄通行證40級獎勵"
+    },
+    {
+      "id": "20703_getCondition",
+      "content": "第2賽季邊獄通行證30級獎勵"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "dataList": [
-        {
+    {
       "id": "mirrordungeon_name_1",
       "content": "起始之鏡"
     },
@@ -14,7 +14,7 @@
     },
     {
       "id": "mirrordungeon_name_2_0",
-      "content": "鏡中之鏡 - 簡單"
+      "content": "鏡中之鏡 - 普通"
     },
     {
       "id": "mirrordungeon_name_2_1",

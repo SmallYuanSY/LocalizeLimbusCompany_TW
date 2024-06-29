@@ -33,7 +33,7 @@
                   "desc": "[EndSkillHead] 使現存體力比例最低的2名友方單位恢復12點體力"
                 },
                 {
-                  "desc": "[EndSkillTail] "
+                  "desc": "[EndSkillTail] 使理智值最低的2名友方單位恢復12點理智值"
                 },
                 {
                   "desc": "[CriticalEndSkill] 使現存體力比例最低的1名友方單位恢復6點體力；使理智值最低的1名友方單位恢復6點理智值"
@@ -72,7 +72,7 @@
           "level": 1,
           "name": "美味蘇打",
           "abName": "韋爾奇樂牌汽水",
-          "desc": "[CantIdentify]\n指定場上體力最低的單位",
+          "desc": "[CantIdentify]\n指定體力最低的單位",
           "coinlist": [
             {
               "coindescs": [
@@ -90,7 +90,7 @@
           "level": 3,
           "name": "美味蘇打",
           "abName": "韋爾奇樂牌汽水",
-          "desc": "[CantIdentify]\n指定場上體力最低的單位",
+          "desc": "[CantIdentify]\n指定體力最低的單位",
           "coinlist": [
             {
               "coindescs": [
@@ -108,7 +108,7 @@
           "level": 4,
           "name": "美味蘇打",
           "abName": "韋爾奇樂牌汽水",
-          "desc": "[CantIdentify]\n指定場上體力最低的單位",
+          "desc": "[CantIdentify]\n指定體力最低的單位",
           "coinlist": [
             {
               "coindescs": [
@@ -136,7 +136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加（暴食共鳴數/2）級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加(暴食共鳴數/2)級破裂 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
@@ -149,12 +149,12 @@
           "level": 3,
           "name": "沸騰腐蝕",
           "abName": "陸行珍珠",
-          "desc": "[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1",
+          "desc": "[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加（暴食共鳴數/2）級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加(暴食共鳴數/2)級破裂 強度"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合對目標施加2層暴食易損 "
@@ -170,12 +170,12 @@
           "level": 4,
           "name": "沸騰腐蝕",
           "abName": "陸行珍珠",
-          "desc": "[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1\n若自身現存體力不高於25%，則使本技能的攻擊容量額外+1" ,
+          "desc": "[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+1\n若現存體力不高於25%，則使本技能的攻擊容量額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加（暴食共鳴數/2）級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加(暴食共鳴數/2)級破裂 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層暴食易損 "
@@ -196,12 +196,12 @@
           "level": 1,
           "name": "沸騰腐蝕",
           "abName": "陸行珍珠",
-          "desc": "[CantIdentify]\n指定場上體力最低的單位",
+          "desc": "[CantIdentify]\n指定體力最低的單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加（暴食共鳴數/3）層破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加(暴食共鳴數/3)層破裂 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量20%的體力"
@@ -217,12 +217,12 @@
           "level": 3,
           "name": "沸騰腐蝕",
           "abName": "陸行珍珠",
-          "desc": "[CantIdentify]\n指定場上體力最低的單位\n[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1",
+          "desc": "[CantIdentify]\n指定體力最低的單位\n[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加（暴食共鳴數/3）層破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加(暴食共鳴數/3)層破裂 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
@@ -238,12 +238,12 @@
           "level": 4,
           "name": "沸騰腐蝕",
           "abName": "陸行珍珠",
-          "desc": "[CantIdentify]\n指定場上體力最低的單位\n[BeforeAttack] 若自身現存體力不高於50%，則使本技能的攻擊容量+1\n若自身現存體力不高於 25%，則使本技能的攻擊容量額外+1",
+          "desc": "[CantIdentify]\n指定體力最低的單位\n[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+1\n若現存體力不高於25%，則使本技能的攻擊容量額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加（暴食共鳴數/3）層破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加(暴食共鳴數/3)層破裂 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
@@ -272,7 +272,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，而後使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             }
@@ -290,10 +290,10 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對其施加2層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為震顫-回響 "
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為震顫-迴響 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，而後使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             }
@@ -311,10 +311,10 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對其施加3層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為震顫-回響 "
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為震顫-迴響 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，而後使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             }
@@ -337,7 +337,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對其施加3層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，而後使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             }
@@ -355,13 +355,13 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對其施加3層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為震顫-回響 "
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為震顫-迴響 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，而後使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，而後使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             }
@@ -379,13 +379,13 @@
                   "desc": "[OnSucceedAttack] 使目標增加6級震顫 強度並對其施加6層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為震顫-回響 "
+                  "desc": "[OnSucceedAttack] 使目標振幅轉換 為震顫-迴響 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，而後使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，而後使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             }

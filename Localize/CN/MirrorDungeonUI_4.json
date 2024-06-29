@@ -18,7 +18,7 @@
     },
     {
       "id": "mirrordungeon_theme_pack_boss",
-      "content": "出現Boss"
+      "content": "出現頭目"
     },
     {
       "id": "mirrordungeon_theme_pack_ego_gift",
@@ -26,7 +26,7 @@
     },
     {
       "id": "mirrordunge_theme_pack_history_button_label",
-      "content": "主題卡包圖鑒"
+      "content": "主題卡包圖鑑"
     },
     {
       "id": "simulation_difficulty",
@@ -78,7 +78,7 @@
     },
     {
       "id": "mirror_dungeon_4_buffs_title_1",
-      "content": "風暴眼"
+      "content": "暴風眼"
     },
     {
       "id": "mirror_dungeon_4_buffs_title_2",
@@ -102,11 +102,11 @@
     },
     {
       "id": "mirror_dungeon_4_buffs_title_7",
-      "content": "龍卷風"
+      "content": "龍捲風"
     },
     {
       "id": "mirror_dungeon_4_buffs_title_8",
-      "content": "除夕夜的鈴聲"
+      "content": "除夕夜的鐘聲"
     },
     {
       "id": "mirror_dungeon_4_buffs_title_9",
@@ -130,7 +130,7 @@
     },
     {
       "id": "mirror_dungeon_4_buffs_title_14",
-      "content": "羊雲"
+      "content": "羊云"
     },
     {
       "id": "mirror_dungeon_4_buffs_title_15",
@@ -178,7 +178,7 @@
     },
     {
       "id": "mirror_dungeon_4_buffs_title_25",
-      "content": "事件的地平線"
+      "content": "事件視界"
     },
     {
       "id": "mirror_dungeon_4_buffs_title_26",
@@ -190,7 +190,7 @@
     },
     {
       "id": "md4_buffs_summaryDesc_100",
-      "content": "[限定]\n鐫星時，獲得200星芒（僅限最初1次，不受激活影響）"
+      "content": "[限定]\n鐫星時，獲得200星芒（僅限最初1次，不受啟用影響）"
     },
     {
       "id": "md4_buffs_summaryDesc_101",
@@ -338,11 +338,11 @@
     },
     {
       "id": "md4_buffs_summaryDesc_1121",
-      "content": "[商店]\n刷新經費 -20%"
+      "content": "[商店]\n重新整理經費 -20%"
     },
     {
       "id": "md4_buffs_summaryDesc_1122",
-      "content": "[商店]\n刷新經費 -20%"
+      "content": "[商店]\n重新整理經費 -20%"
     },
     {
       "id": "md4_buffs_summaryDesc_113",
@@ -350,19 +350,19 @@
     },
     {
       "id": "md4_buffs_summaryDesc_1131",
-      "content": "[商店]\n1級E.G.O飾品的購買經費 -7.5%"
+      "content": "[商店]\n1級E.G.O飾品購買所需經費 -7.5%"
     },
     {
       "id": "md4_buffs_summaryDesc_1132",
-      "content": "[商店]\n2級E.G.O飾品的購買經費 -7.5%"
+      "content": "[商店]\n2級E.G.O飾品購買所需經費 -7.5%"
     },
     {
       "id": "md4_buffs_summaryDesc_1133",
-      "content": "[商店]\n3級E.G.O飾品的購買經費 -7.5%"
+      "content": "[商店]\n3級E.G.O飾品購買所需經費 -7.5%"
     },
     {
       "id": "md4_buffs_summaryDesc_1134",
-      "content": "[商店]\n4級E.G.O飾品的購買經費 -7.5%"
+      "content": "[商店]\n4級E.G.O飾品購買所需經費 -7.5%"
     },
     {
       "id": "md4_buffs_summaryDesc_114",
@@ -422,19 +422,19 @@
     },
     {
       "id": "md4_buffs_summaryDesc_1161",
-      "content": "[商店]\n1級E.G.O飾品的售賣經費 +20%"
+      "content": "[商店]\n1級E.G.O飾品售賣所得經費 +20%"
     },
     {
       "id": "md4_buffs_summaryDesc_1162",
-      "content": "[商店]\n2級E.G.O飾品的售賣經費 +20%"
+      "content": "[商店]\n2級E.G.O飾品售賣所得經費 +20%"
     },
     {
       "id": "md4_buffs_summaryDesc_1163",
-      "content": "[商店]\n3級E.G.O飾品的售賣經費 +20%"
+      "content": "[商店]\n3級E.G.O飾品售賣所得經費 +20%"
     },
     {
       "id": "md4_buffs_summaryDesc_1164",
-      "content": "[商店]\n4級E.G.O飾品的售賣經費 +20%"
+      "content": "[商店]\n4級E.G.O飾品售賣所得經費 +20%"
     },
     {
       "id": "md4_buffs_summaryDesc_1165",
@@ -462,11 +462,11 @@
     },
     {
       "id": "md4_buffs_summaryDesc_1214",
-      "content": "[休息點]\n強化4級E.G.O飾品所需經費減少 -7.5%"
+      "content": "[休息點]\n強化4級及以上E.G.O飾品所需經費減少 -7.5%"
     },
     {
       "id": "md4_buffs_summaryDesc_122",
-      "content": "[商店]\n有20%的概率刷新時不消耗經費"
+      "content": "[商店]\n重新整理時有20%的概率不消耗經費"
     },
     {
       "id": "md4_buffs_summaryDesc_123",
@@ -526,23 +526,23 @@
     },
     {
       "id": "md4_buffs_summaryDesc_126",
-      "content": "[通用]\n戰鬥勝利時獲得經費 +10%"
+      "content": "[通用]\n遭遇戰勝利時獲得經費 +10%"
     },
     {
       "id": "md4_buffs_summaryDesc_1261",
-      "content": "[通用]\n常規戰鬥勝利時獲得經費 +10%"
+      "content": "[通用]\n常規遭遇戰勝利時獲得經費 +10%"
     },
     {
       "id": "md4_buffs_summaryDesc_1262",
-      "content": "[通用]\n集中戰鬥勝利時獲得經費 +10%"
+      "content": "[通用]\n集中遭遇戰勝利時獲得經費 +10%"
     },
     {
       "id": "md4_buffs_summaryDesc_1263",
-      "content": "[通用]\n精銳戰鬥勝利時獲得經費 +10%"
+      "content": "[通用]\n精銳遭遇戰勝利時獲得經費 +10%"
     },
     {
       "id": "md4_buffs_summaryDesc_1264",
-      "content": "[通用]\n頭目戰鬥勝利時獲得經費 +10%"
+      "content": "[通用]\n頭目遭遇戰勝利時獲得經費 +10%"
     },
     {
       "id": "md4_buffs_summaryDesc_131",
@@ -578,31 +578,31 @@
     },
     {
       "id": "md4_buffs_summaryDesc_134",
-      "content": "[戰鬥]\n受到傷害量 -2.5%"
+      "content": "[戰鬥]\n受到的傷害 -2.5%"
     },
     {
       "id": "md4_buffs_summaryDesc_1341",
-      "content": "[戰鬥]\n受到傷害量 -2.5%"
+      "content": "[戰鬥]\n受到的傷害 -2.5%"
     },
     {
       "id": "md4_buffs_summaryDesc_1342",
-      "content": "[戰鬥]\n受到傷害量 -2.5%"
+      "content": "[戰鬥]\n受到的傷害 -2.5%"
     },
     {
       "id": "md4_buffs_summaryDesc_1343",
-      "content": "[戰鬥]\n受到傷害量 -2.5%"
+      "content": "[戰鬥]\n受到的傷害 -2.5%"
     },
     {
       "id": "md4_buffs_summaryDesc_1344",
-      "content": "[戰鬥]\n防御等級 +1"
+      "content": "[戰鬥]\n防禦等級 +1"
     },
     {
       "id": "md4_buffs_summaryDesc_1345",
-      "content": "[戰鬥]\n防御等級 +1"
+      "content": "[戰鬥]\n防禦等級 +1"
     },
     {
       "id": "md4_buffs_summaryDesc_1346",
-      "content": "[戰鬥]\n防御等級 +1"
+      "content": "[戰鬥]\n防禦等級 +1"
     },
     {
       "id": "md4_buffs_summaryDesc_135",
@@ -634,7 +634,7 @@
     },
     {
       "id": "md4_buffs_summaryDesc_14",
-      "content": "額外獲得初始階段所選項目的4級隨機E.G.O飾品"
+      "content": "額外獲得初始階段所選專案的4級隨機E.G.O飾品"
     },
     {
       "id": "mirror_ego_gift_combine_guide_desc_1",
@@ -710,11 +710,11 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_2_desc_1_0",
-      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率分別為37.5%\n其余關鍵詞出現概率總和為25%"
+      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率分別為37.5%\n其餘關鍵詞出現概率總和為25%"
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_2_desc_1_1",
-      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率為75%\n其余關鍵詞出現概率總和為25%"
+      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率為75%\n其餘關鍵詞出現概率總和為25%"
     },
     {
       "id": "mirror_ego_gift_combine_guide_desc_4",
@@ -806,15 +806,15 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_4_desc_1_0",
-      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率分別為25%\n\n其余關鍵詞出現概率總和為25%"
+      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率分別為25%\n\n其餘關鍵詞出現概率總和為25%"
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_4_desc_1_1",
-      "content": "作為材料使用的E.G.O飾品的關鍵詞（三件中相同者）出現概率為50%\n\n作為材料使用的E.G.O飾品的關鍵詞（三件中不同者）出現概率為25%\n\n其余關鍵詞出現概率總和為25%"
+      "content": "作為材料使用的E.G.O飾品的關鍵詞（三件中相同者）出現概率為50%\n\n作為材料使用的E.G.O飾品的關鍵詞（三件中不同者）出現概率為25%\n\n其餘關鍵詞出現概率總和為25%"
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_4_desc_1_2",
-      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率為75%\n\n其余關鍵詞出現概率總和為25%"
+      "content": "作為材料使用的E.G.O飾品的關鍵詞出現概率為75%\n\n其餘關鍵詞出現概率總和為25%"
     },
     {
       "id": "mirror_ego_gift_combine_guide_desc_6",
@@ -850,11 +850,11 @@
     },
     {
       "id": "side_content_cannot_acquire_specific_ego_gift",
-      "content": "當前階層主題中沒有可獲得的{0}級E.G.O飾品。"
+      "content": "目前階層主題中沒有可獲得的{0}級E.G.O飾品。"
     },
     {
       "id": "side_content_free_refresh",
-      "content": "[浩浩雲海] 效果觸發\n免除刷新經費"
+      "content": "[浩浩雲海] 效果觸發\n免除重新整理經費"
     },
     {
       "id": "side_content_egogift_free_upgrade",
@@ -898,7 +898,7 @@
     },
     {
       "id": "refresh_shop_item_by_chip_warning",
-      "content": "消耗星芒進行刷新嗎？\n\n<size=70%>※[星芒刷新]使用<color=#990000>入場時持有的星芒</color>與<color=#990000>迷宮探索中獲得的星芒</color>。\n但是，花費的星芒不能超過持有的總量。</size>\n\n<size=85%>入場時持有的星芒：{0}</size>"
+      "content": "消耗星芒進行重新整理嗎？\n\n<size=70%>※[星芒重新整理]使用<color=#990000>入場時持有的星芒</color>與<color=#990000>迷宮探索中獲得的星芒</color>。\n但是，花費的星芒不能超過持有的總量。</size>\n\n<size=85%>入場時持有的星芒：{0}</size>"
     },
     {
       "id": "mirror_dungeon_theme_ego_gift_popup_valid_atk",
@@ -906,19 +906,19 @@
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh",
-      "content": "關鍵詞刷新"
+      "content": "關鍵詞重新整理"
     },
     {
       "id": "mirror_dungeon_shop_refresh_by_chip",
-      "content": "星芒刷新"
+      "content": "星芒重新整理"
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh_popup_title",
-      "content": "商店 - 關鍵詞刷新"
+      "content": "商店 - 關鍵詞重新整理"
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
-      "content": "所選關鍵詞的E.G.O飾品出現的概率大幅增加。\n是否要使用{0}經費進行關鍵詞刷新？"
+      "content": "所選關鍵詞的E.G.O飾品出現的概率大幅增加。\n是否要使用{0}經費進行關鍵詞重新整理？"
     },
     {
       "id": "ego_gift_combine_ui_plz_select_keyword",
@@ -934,7 +934,7 @@
     },
     {
       "id": "new_ego_gift_combine_guide_desc_1",
-      "content": "如果在<合成 - 關鍵詞選擇>窗口中選擇了關鍵詞，則預期的E.G.O飾品關鍵字如下。"
+      "content": "如果在<合成 - 關鍵詞選擇>視窗中選擇了關鍵詞，則預期的E.G.O飾品關鍵字如下。"
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_col_1_title",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "new_ego_gift_combine_guide_desc_4",
-      "content": "但是，如果您已經獲得了該關鍵詞與等級的組合的每一個E.G.O飾品，抑或是這些E.G.O飾品已經被分配到當前階層的事件或頭目獎勵中，您可能會獲得<u><b>其他等級或關鍵詞的E.G.O飾品</u></b>。"
+      "content": "但是，如果您已經獲得了該關鍵詞與等級的組合的每一個E.G.O飾品，抑或是這些E.G.O飾品已經被分配到目前階層的事件或頭目獎勵中，您可能會獲得<u><b>其他等級或關鍵詞的E.G.O飾品</u></b>。"
     },
     {
       "id": "new_ego_gift_combine_guide_desc_5",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_text_1",
-      "content": "在通過遭遇戰節點時，您可能根據鏡像迷宮的難度和所處的階層獲得遭遇戰獎勵卡。"
+      "content": "在通過遭遇戰節點時，您可能根據鏡象迷宮的難度和所處的階層獲得遭遇戰獎勵卡。"
     },
     {
       "id": "mirror_battle_reward_card_guide_text_2",
@@ -1090,11 +1090,11 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_0_1",
-      "content": "鏡像迷宮 模擬"
+      "content": "鏡象迷宮 模擬"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_0_2",
-      "content": "鏡像迷宮 Ritornello"
+      "content": "鏡象迷宮 Ritornello"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_1_0",
@@ -1170,11 +1170,11 @@
     },
     {
       "id": "combine_tooltip_desc1",
-      "content": "所選關鍵詞中當前等級的E.G.O飾品已全部獲取。"
+      "content": "所選關鍵詞中目前等級的E.G.O飾品已全部獲取。"
     },
     {
       "id": "combine_tooltip_desc2",
-      "content": "所選關鍵詞中當前等級的E.G.O飾品已經被分配到當前階層的事件或頭目獎勵中（在下一層可以正常獲取）"
+      "content": "所選關鍵詞中目前等級的E.G.O飾品已經被分配到目前階層的事件或頭目獎勵中（在下一層可以正常獲取）"
     },
     {
       "id": "combine_tooltip_notice",

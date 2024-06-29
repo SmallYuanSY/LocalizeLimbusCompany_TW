@@ -6,15 +6,15 @@
     },
     {
       "id": "announcer_cheer_6_2",
-      "dlg": "不用擔心。只要還剩下最後一個血細胞，生命便將以某種方式得以保存。"
+      "dlg": "不用擔心。只要還剩下最後一個血細胞，生命便得以以某種方式儲存。"
     },
     {
       "id": "announcer_specialcheer_6_1",
-      "dlg": "血液並不是什麼迷人的東西……我不喜歡看到我的同伴們流血。"
+      "dlg": "血液並非迷人之物……我不願見到朋友們流血。"
     },
     {
       "id": "announcer_specialcheer_6_2",
-      "dlg": "我的同事們看起來無精打采。這樣默默的繼續下去是不可取的。"
+      "dlg": "朋友們看起來無精打采。默默如此前進並不可取。"
     },
     {
       "id": "announcer_enemy_break_6_1",
@@ -22,7 +22,7 @@
     },
     {
       "id": "announcer_ally_break_6_1",
-      "dlg": "有人說傷痛能使人成長。 我相信我的朋友們也是如此。"
+      "dlg": "有人說傷痛能促人成長。相信我的朋友們也是如此。"
     },
     {
       "id": "announcer_killenemy_6_1",
@@ -30,75 +30,75 @@
     },
     {
       "id": "announcer_ally_dead_6_1",
-      "dlg": "他們會再回來的。在此之前……休息一下。"
+      "dlg": "他們會再度歸來。於此片刻……請各位暫且休憩。"
     },
     {
       "id": "announcer_enemy_adv_6_1",
-      "dlg": "苦難之路蜿蜒曲折……與其四處奔波，不如返回另闢蹊徑，經理。"
+      "dlg": "苦難之路蜿蜒曲折……與其四散摸索，不如回首另闢蹊徑，經理。"
     },
     {
       "id": "announcer_ally_adv_6_1",
-      "dlg": "我們有些優勢。"
+      "dlg": "我方略優。"
     },
     {
       "id": "announcer_danger_6_1",
-      "dlg": "戰況轉瞬即逝。你需要堅定地做出選擇。"
+      "dlg": "戰況一觸即發。其轉瞬即逝，請您做出果斷的決策。"
     },
     {
       "id": "announcer_enemy_specialskill_6_1",
-      "dlg": "覺無勝數，沁入肺腑"
+      "dlg": "肺中淤悶，心間沉重……"
     },
     {
       "id": "announcer_enemy_specialgimmick_6_1",
-      "dlg": "我感覺有一股可怕的力量侵入了我的骨髓。"
+      "dlg": "我感到一股異常的陰冷氣息正侵入骨髓。"
     },
     {
       "id": "announcer_advatk_physical_6_1",
-      "dlg": "精確的一擊。"
+      "dlg": "精準一擊。"
     },
     {
       "id": "announcer_disadvatk_physical_6_1",
-      "dlg": "即便在正常情況下我並不會做出這樣的選擇……但我想，你一定是有原因的。"
+      "dlg": "即便這並非常態下會選擇的方式……但我想，您一定有自己的理由。"
     },
     {
       "id": "announcer_advatk_attr_6_1",
-      "dlg": "哦。明智的決定。"
+      "dlg": "哦。明智之決斷。"
     },
     {
       "id": "announcer_disadvatk_attr_6_1",
-      "dlg": "啊……那真是……驚人……的確，你一定是有原因的。"
+      "dlg": "啊……真是……驚人……的確，您一定有自己的理由。"
     },
     {
       "id": "announcer_enemy_specialbuff_6_1",
-      "dlg": "嗯，我能感受到一股特殊的能量。我提議仔細觀察戰局發展。"
+      "dlg": "嗯，我感到一股特殊的氣息。您也許仔細觀察戰局發展為上。"
     },
     {
       "id": "announcer_enemy_specialdebuff_6_1",
-      "dlg": "從他們身上……我能感受到一股墓穴的香氣。"
+      "dlg": "他們身上……散發著墳墓的氣息。"
     },
     {
       "id": "announcer_ally_specialbuff_6_1",
-      "dlg": "你們的臉龐看起來明亮而活潑。"
+      "dlg": "你們的面容，明亮而富有生氣。"
     },
     {
       "id": "announcer_ally_specialdebuff_6_1",
-      "dlg": "我能感受到一個可怕的存在……"
+      "dlg": "我感到一股異常的陰冷氣息……"
     },
     {
       "id": "announcer_enemy_destroy_6_1",
-      "dlg": "一支枝條已然折斷。"
+      "dlg": "一根樹枝被輕輕折斷。"
     },
     {
       "id": "announcer_enemy_destroy_6_2",
-      "dlg": "終於，枝條折斷了。連一隻蝴蝶的重量都再也承受不住。"
+      "dlg": "終於，樹枝折斷了。此般之物，連一隻蝴蝶的重量都承受不住。"
     },
     {
       "id": "announcer_round_takebigdmg_6_1",
-      "dlg": "剛才的衝擊相當猛烈。我的同伴們都安好嗎？"
+      "dlg": "剛才的衝擊相當猛烈。我的朋友們是否安好？"
     },
     {
       "id": "announcer_round_takebigdmg_6_2",
-      "dlg": "這次交鋒是致命的……恐怕沒有第二次機會了，經理。"
+      "dlg": "此次交鋒導致了致命的後果……您恐怕沒有重來的機會了，經理。"
     },
     {
       "id": "announcer_round_givebigdmg_6_1",
@@ -106,11 +106,11 @@
     },
     {
       "id": "announcer_round_givebigdmg_6_2",
-      "dlg": "這是最佳的選擇，經理。"
+      "dlg": "此為最理想之選，經理。"
     },
     {
       "id": "announcer_multikillenemy_6_1",
-      "dlg": "你一次便把輕鬆的將所有對手消滅了。"
+      "dlg": "輕輕一揮，您便掃除了所有對手。"
     },
     {
       "id": "announcer_equip_6_1",

@@ -21,7 +21,7 @@
         {
           "level": 2,
           "name": "針鋒相對",
-          "desc": "[WhenUse] 使自身獲得2層防禦等級提升\n[DefeatDuel] 使自身獲得(自身的防禦等級提升層數× 3)點護盾。下回合使自身獲得1層防禦等級提升。 ",
+          "desc": "[WhenUse] 使自身獲得2層防禦等級提升 \n[DefeatDuel] 使自身獲得(自身的防禦等級提升 層數 × 3)點護盾。下回合使自身獲得1層防禦等級提升 。",
           "coinlist": [
             {},
             {
@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "針鋒相對",
-          "desc": "[WhenUse] 使自身獲得2層防禦等級提升\n[DefeatDuel]使自身獲得(自身的防禦等級提升層數× 5)點護盾。下回合使自身獲得2層防禦等級提升。 ",
+          "desc": "[WhenUse] 使自身獲得2層防禦等級提升 \n[DefeatDuel]使自身獲得(自身的防禦等級提升 層數 × 5)點護盾。下回合使自身獲得2層防禦等級提升 。",
           "coinlist": [
             {},
             {
@@ -114,7 +114,7 @@
         {
           "level": 4,
           "name": "靈活壓制",
-          "desc": "[WhenUse] 使自身獲得3層防禦等級提升\n[WhenUse] 下回合使本技能對應行動槽的挑釁值+3\n若自身的防禦等級提升層數不低於6層，則使本技能的拼點威力+1",
+          "desc": "[WhenUse] 使自身獲得3層防禦等級提升 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n若自身的防禦等級提升 層數不低於6層，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -148,7 +148,7 @@
         {
           "level": 3,
           "name": "人民衛士",
-          "desc": "[WhenUse] 使全體友方單位獲得2層忍耐與3層防禦等級提升\n若自身的防禦等級提升層數不低於6層，則使本技能硬幣威力+1\n若自身的防禦等級提升層數不低於10層，則使本技能造成的傷害+30%",
+          "desc": "[WhenUse] 使全體友方單位獲得2層忍耐 與3層防禦等級提升 \n若自身的防禦等級提升 層數不低於6層，則使本技能的硬幣威力+1\n若自身的防禦等級提升 層數不低於10層，則使本技能造成的傷害+30%",
           "coinlist": [
             {},
             {},
@@ -164,7 +164,7 @@
         {
           "level": 4,
           "name": "人民衛士",
-          "desc": "[WhenUse] 使全體友方單位獲得2層忍耐與3層防禦等級提升\n自身每帶有6層防禦等級提升，使本技能的硬幣威力+1(最多+3)\n若自身的防禦等級提升層數不低於10層，則使本技能造成的傷害+50%",
+          "desc": "[WhenUse] 使全體友方單位獲得2層忍耐 與3層防禦等級提升 \n自身每帶有6層防禦等級提升 ，使本技能的硬幣威力+1(最多+3)\n若自身的防禦等級提升 層數不低於10層，則使本技能造成的傷害+50%",
           "coinlist": [
             {},
             {},
@@ -185,7 +185,7 @@
         {
           "level": 1,
           "name": "最佳防守",
-          "desc": "[StartBattle]使自身獲得(自身的防禦等級提升層數 × 2)點護盾",
+          "desc": "[StartBattle] 使自身獲得(自身的防禦等級提升 層數 × 2)點護盾",
           "coinlist": [
             {}
           ]
@@ -193,7 +193,7 @@
         {
           "level": 4,
           "name": "最佳防守",
-          "desc": "[StartBattle]使自身獲得(自身的防禦等級提升層數 × 2)點護盾\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
+          "desc": "[StartBattle] 使自身獲得(自身的防禦等級提升 層數 × 2)點護盾\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
           "coinlist": [
             {}
           ]
@@ -332,7 +332,7 @@
         {
           "level": 4,
           "name": "單邊業務",
-          "desc": "目標每帶有7級流血 強度，使本技能的硬幣威力+1（最多+2）\n[WhenUse] 使自身獲得3層呼吸法 ",
+          "desc": "目標每帶有7級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 使自身獲得3層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -367,7 +367,7 @@
         {
           "level": 3,
           "name": "決裂定局",
-          "desc": "[WhenUse] 目標每帶有3級流血強度，使自身增加1級呼吸法強度（最多增加5級）\n若自身的呼吸法強度不低於7級，則使本技能的 硬幣威力+1",
+          "desc": "[WhenUse] 目標每帶有3級流血 強度，使自身增加1級呼吸法 強度(最多增加5級)\n若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -391,7 +391,7 @@
         {
           "level": 4,
           "name": "決裂定局",
-          "desc": "[WhenUse] 目標每帶有3級流血強度，使自身增加1級呼吸法強度（最多增加10級）\n自身每帶有7級呼吸法強度，使本技能的硬幣威力+ 1（最多+3）",
+          "desc": "[WhenUse] 目標每帶有3級流血 強度，使自身增加1級呼吸法 強度(最多增加10級)\n自身每帶有7級呼吸法 強度，使本技能的硬幣威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
@@ -423,7 +423,7 @@
         {
           "level": 1,
           "name": "喘口氣",
-          "desc": "[OnSucceedEvade] 使自身增加1級呼吸法 強度（每回合最多3級）",
+          "desc": "[OnSucceedEvade] 使自身增加1級呼吸法 強度(每回合最多3次)",
           "coinlist": [
             {}
           ]
@@ -431,7 +431,7 @@
         {
           "level": 4,
           "name": "喘口氣",
-          "desc": "[OnSucceedEvade] 使自身增加1級呼吸法 強度（每回合最多5級）",
+          "desc": "[OnSucceedEvade] 使自身增加1級呼吸法 強度(每回合最多5次)",
           "coinlist": [
             {}
           ]
@@ -443,7 +443,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "雲渦撕裂",
+          "name": "云渦撕裂",
           "desc": "[WinDuel] 使目標增加1級流血 強度",
           "coinlist": [
             {
@@ -457,7 +457,7 @@
         },
         {
           "level": 2,
-          "name": "雲渦撕裂",
+          "name": "云渦撕裂",
           "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1\n[WinDuel] 使目標增加1級流血 強度",
           "coinlist": [
             {
@@ -471,7 +471,7 @@
         },
         {
           "level": 3,
-          "name": "雲渦撕裂",
+          "name": "云渦撕裂",
           "desc": "[WhenUse_Force] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1\n[WinDuel] 使目標增加1級流血 強度",
           "coinlist": [
             {
@@ -485,7 +485,7 @@
         },
         {
           "level": 4,
-          "name": "雲渦撕裂",
+          "name": "云渦撕裂",
           "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+2\n[WinDuel] 使目標增加1級流血 強度",
           "coinlist": [
             {
@@ -504,7 +504,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "墨雲",
+          "name": "墨云",
           "desc": "",
           "coinlist": [
             {
@@ -528,7 +528,7 @@
         },
         {
           "level": 2,
-          "name": "墨雲",
+          "name": "墨云",
           "desc": "",
           "coinlist": [
             {
@@ -552,7 +552,7 @@
         },
         {
           "level": 4,
-          "name": "墨雲",
+          "name": "墨云",
           "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+2",
           "coinlist": [
             {
@@ -581,7 +581,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "墨雲崩裂",
+          "name": "墨云崩裂",
           "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1",
           "coinlist": [
             {
@@ -615,8 +615,8 @@
         },
         {
           "level": 4,
-          "name": "墨雲崩裂",
-          "desc": "[WhenUse] 若目標的流血強度不低於7級，則使本技能的拼點威力+1\n[WhenUse] 若目標的流血強度不低於10級，則使本技能的 硬幣威力+1",
+          "name": "墨云崩裂",
+          "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1\n[WhenUse] 若目標的流血 強度不低於10級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -673,216 +673,216 @@
         }
       ]
     },
-     {
-       "id": 1120901,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "長劍劈砍",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "長劍劈砍",
-           "desc": "[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "長劍劈砍",
-           "desc": "[WhenUse] 目標每帶有3級沉淪強度，使本技能的硬幣威力+1（最多+2）\n[WhenUse] 目標每帶有3層沉淪，使本技能的拼點威力 +1（最多+2）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1120902,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "延續進攻",
-           "desc": "[WinDuel] 對目標施加1層沉淪 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於5級，則下回合使自身獲得1層迅捷 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "延續進攻",
-           "desc": "[WhenUse] 目標每帶有3層沉淪 ，使本技能的拼點威力+1（最多+2）\n[WinDuel] 對目標施加1層沉淪 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於5級，則下回合使自身獲得1層迅捷 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "延續進攻",
-           "desc": "[WhenUse] 若目標的沉淪強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有3層沉淪，使本技能的拼點威力+1 （最多+2）\n[WinDuel] 對目標施加2層沉淪",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於5級，則下回合使自身獲得1層迅捷 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1120903,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "惡夢狩獵",
-           "desc": "[WhenUse] 目標每帶有3層沉淪，使本技能的拼點威力+1（最多+2）\n[EndSkill] 若使目標陷入混亂，則對其施加3層沉淪\n [EndSkill] 若擊殺目標，則隨機對1名敵方單位施加3層沉淪",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 吸收目標10級沉淪 強度並在下回合使自身獲得1層加算硬幣強化 與1層傷害強化 。有50%的概率獲得上述狀態時不吸收沉淪 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "惡夢狩獵",
-           "desc": "[WhenUse] 目標每帶有3層沉淪，使本技能的拼點威力+1（最多+3）\n[EndSkill] 若使目標陷入混亂，則對其施加3層沉淪\n [EndSkill] 若擊殺目標，則隨機對2名敵方單位施加3層沉淪",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 吸收目標10級沉淪 強度並在下回合使自身獲得1層加算硬幣強化 與3層傷害強化 。有50%的概率獲得上述狀態時不吸收沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1120904,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "你也想哭嗎？",
-           "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {}
-           ]
-         },
-         {
-           "level": 4,
-           "name": "你也想哭嗎？ ",
-           "desc": "[WhenUse] 目標每帶有3級沉淪 強度，使本技能的硬幣威力+1（最多+3）",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     }
+    {
+      "id": 1120901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "長劍劈砍",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "長劍劈砍",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "長劍劈砍",
+          "desc": "[WhenUse] 目標每帶有3級沉淪 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 目標每帶有3層沉淪 ，使本技能的拼點威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "延續進攻",
+          "desc": "[WinDuel] 對目標施加1層沉淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於5級，則下回合使自身獲得1層迅捷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "延續進攻",
+          "desc": "[WhenUse] 目標每帶有3層沉淪 ，使本技能的拼點威力+1(最多+2)\n[WinDuel] 對目標施加1層沉淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於5級，則下回合使自身獲得1層迅捷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "延續進攻",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有3層沉淪 ，使本技能的拼點威力+1(最多+2)\n[WinDuel] 對目標施加2層沉淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於5級，則下回合使自身獲得1層迅捷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "噩夢狩獵",
+          "desc": "[WhenUse] 目標每帶有3層沉淪 ，使本技能的拼點威力+1(最多+2)\n[EndSkill] 若使目標陷入混亂，則對其施加3層沉淪 \n[EndSkill] 若擊殺目標，則隨機對1名敵方單位施加3層沉淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 吸收目標10級沉淪 強度並在下回合使自身獲得1層加算硬幣強化 與1層傷害強化 。有50%的概率獲得上述狀態時不吸收沉淪 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "噩夢狩獵",
+          "desc": "[WhenUse] 目標每帶有3層沉淪 ，使本技能的拼點威力+1(最多+3)\n[EndSkill] 若使目標陷入混亂，則對其施加3層沉淪 \n[EndSkill] 若擊殺目標，則隨機對2名敵方單位施加3層沉淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 吸收目標10級沉淪 強度並在下回合使自身獲得1層加算硬幣強化 與3層傷害強化 。有50%的概率獲得上述狀態時不吸收沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "你也想哭嗎？",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "你也想哭嗎？",
+          "desc": "[WhenUse] 目標每帶有3級沉淪 強度，使本技能的硬幣威力+1(最多+3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
   ]
 }

@@ -1,120 +1,120 @@
 {
-   "dataList": [
-     {
-       "id": "announcer_cheer_7_1",
-       "dlg": "Okay，確認進入作戰區域。好，通訊狀況正常。"
-     },
-     {
-       "id": "announcer_cheer_7_2",
-       "dlg": "無傷歸還是最好的，都清楚吧？啊，雖然和你們關係不大。"
-     },
-     {
-       "id": "announcer_specialcheer_7_1",
-       "dlg": "損傷過大。需要先治療傷者。你們…不會是為了去死才戰鬥的吧？"
-     },
-     {
-       "id": "announcer_specialcheer_7_2",
-       "dlg": "啊，能聽到嗎？雖然感覺你們傷員有點太多了…是啊，都不知道能不能維持戰鬥能力。"
-     },
-     {
-       "id": "announcer_enemy_break_7_1",
-       "dlg": "敵方有不大清醒的傢伙啊~收拾掉吧？人道主義的處理…也不需要吧。"
-     },
-     {
-       "id": "announcer_ally_break_7_1",
-       "dlg": "你們之中出現傷患了嗎？分散敵人注意力，讓傷員擺脫攻勢吧。"
-     },
-     {
-       "id": "announcer_killenemy_7_1",
-       "dlg": "確認目標已喪失行動能力。我們會將成果上報給人事部門。"
-     },
-     {
-       "id": "announcer_ally_dead_7_1",
-       "dlg": "己方死傷數量增長並不是好兆頭。別仗著能復活就鬆懈大意。"
-     },
-     {
-       "id": "announcer_enemy_adv_7_1",
-       "dlg": "這似乎是白費力氣…或許需要重新評估敵方危險評級。"
-     },
-     {
-       "id": "announcer_ally_adv_7_1",
-       "dlg": "終於取得優勢了。嗯…壓力也是動力，不是嗎？"
-     },
-     {
-       "id": "announcer_danger_7_1",
-       "dlg": "這次攻擊是最好的機會，也可能是最後機會。集中精神，我可見過太多在最後關頭鬆懈導致送命的傢伙了。"
-     },
-     {
-       "id": "announcer_enemy_specialskill_7_1",
-       "dlg": "警報，警報！索德，還記得嗎？這和我被狙擊手瞄準腦袋的時候幾乎一模一樣。"
-     },
-     {
-       "id": "announcer_enemy_specialgimmick_7_1",
-       "dlg": "怎麼…雷達捕捉到了什麼？是，氣氛有些詭異。請仔細觀察現場狀況。"
-     },
-     {
-       "id": "announcer_advatk_physical_7_1",
-       "dlg": "攻擊能力評估，好！喔~狠狠吃了一發？"
-     },
-     {
-       "id": "announcer_disadvatk_physical_7_1",
-       "dlg": "攻擊能力評估…無法觀測…嗯…看起來對那傢伙需要嘗試其他攻擊方式。"
-     },
-     {
-       "id": "announcer_advatk_attr_7_1",
-       "dlg": "戰略性勝利。哦？很棒的指揮？比起經理你更像是指揮官吧？"
-     },
-     {
-       "id": "announcer_disadvatk_attr_7_1",
-       "dlg": "我認為這是戰術不利的判斷…算了…你也不可能一直都是正確的吧？和完美的我們不同。"
-     },
-     {
-       "id": "announcer_enemy_specialbuff_7_1",
-       "dlg": "那些傢伙突然活躍起來了。看起來是採取了什麼能提高士氣的行動。必須一邊掌握情況一邊進行攻擊。"
-     },
-     {
-       "id": "announcer_enemy_specialdebuff_7_1",
-       "dlg": "總覺得與預期不符。看樣子欺騙戰術起效了。把剩下的逐個擊破吧？"
-     },
-     {
-       "id": "announcer_ally_specialbuff_7_1",
-       "dlg": "吼，你們勢頭正旺啊。隔著無線電都能感覺到。好，這次的攻擊一定十分有效吧。"
-     },
-     {
-       "id": "announcer_ally_specialdebuff_7_1",
-       "dlg": "敵人對我方做了什麼。嗯…執行經理，該你活躍氣氛了吧？"
-     },
-     {
-       "id": "announcer_enemy_destroy_7_1",
-       "dlg": "哇，被粉碎了？破壞了一個部位！幹得漂亮！"
-     },
-     {
-       "id": "announcer_enemy_destroy_7_2",
-       "dlg": "事後報告。觀察到一個部位受損。而且是徹底破壞。"
-     },
-     {
-       "id": "announcer_round_takebigdmg_7_1",
-       "dlg": "哦，是爆炸了嗎？我方遭受全方位打擊！首先要掩護！"
-     },
-     {
-       "id": "announcer_round_takebigdmg_7_2",
-       "dlg": "之前攻擊造成的損傷並不小…還是重新整頓戰力比較好。"
-     },
-     {
-       "id": "announcer_round_givebigdmg_7_1",
-       "dlg": "致命一擊！幾乎能完成鎮壓了？對啊，聲音都傳到這裡了吧？"
-     },
-     {
-       "id": "announcer_round_givebigdmg_7_2",
-       "dlg": "呼~連我在的地方都在晃？好，完美的突擊。"
-     },
-     {
-       "id": "announcer_multikillenemy_7_1",
-       "dlg": "確認敵方傷亡數名。簡直像是地毯式轟炸一樣~"
-     },
-     {
-       "id": "announcer_equip_7_1",
-       "dlg": "啊啊~這裡是索德，以及埃菲。本次戰況播報員由我們擔任。"
-     }
-   ]
+  "dataList": [
+    {
+      "id": "announcer_cheer_7_1",
+      "dlg": "Okay，確認進入作戰區域。好，通訊狀況正常。"
+    },
+    {
+      "id": "announcer_cheer_7_2",
+      "dlg": "最好毫髮無傷地歸來，都清楚吧？啊，雖然和你們關係不大。"
+    },
+    {
+      "id": "announcer_specialcheer_7_1",
+      "dlg": "損傷過大。需要先治療傷員。你們……不會是為了去死才戰鬥的吧？"
+    },
+    {
+      "id": "announcer_specialcheer_7_2",
+      "dlg": "啊，能聽到嗎？雖然感覺你們傷員有點太多了……是啊，都不知道能不能維持作戰能力。"
+    },
+    {
+      "id": "announcer_enemy_break_7_1",
+      "dlg": "敵方有不大清醒的傢伙啊~收拾掉吧？人道主義的處理……也不需要吧。"
+    },
+    {
+      "id": "announcer_ally_break_7_1",
+      "dlg": "你們之中出現傷員了嗎？分散敵人注意力，讓傷員擺脫攻勢吧。"
+    },
+    {
+      "id": "announcer_killenemy_7_1",
+      "dlg": "確認目標已喪失行動能力。我們會將成果上報給人事部門。"
+    },
+    {
+      "id": "announcer_ally_dead_7_1",
+      "dlg": "己方死傷數量增長並不是好兆頭。別仗著能復活就鬆懈大意。"
+    },
+    {
+      "id": "announcer_enemy_adv_7_1",
+      "dlg": "這貌似是白費力氣……或許需要重新評估敵方危險評級。"
+    },
+    {
+      "id": "announcer_ally_adv_7_1",
+      "dlg": "終於取得優勢了。嗯……壓力也是動力，不是嗎？"
+    },
+    {
+      "id": "announcer_danger_7_1",
+      "dlg": "這次攻擊是最好的機會，也可能是最後的機會。集中精神，我可見過太多在最後關頭鬆懈導致送命的傢伙了。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_7_1",
+      "dlg": "危險警報，危險警報！索德，還記得嗎？這和我被狙擊手瞄準腦袋的時候幾乎一模一樣。"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_7_1",
+      "dlg": "怎麼……雷達捕捉到了什麼？是，氣氛有些詭異。請仔細觀察現場情況。"
+    },
+    {
+      "id": "announcer_advatk_physical_7_1",
+      "dlg": "攻擊能力評估，良好！哦~狠狠吃了一發？"
+    },
+    {
+      "id": "announcer_disadvatk_physical_7_1",
+      "dlg": "攻擊能力評估……無法觀測……嗯……看樣子對那傢伙需要嘗試其他攻擊方式。"
+    },
+    {
+      "id": "announcer_advatk_attr_7_1",
+      "dlg": "戰略性勝利。哦？很棒的指揮啊？比起經理你更像是指揮官吧？"
+    },
+    {
+      "id": "announcer_disadvatk_attr_7_1",
+      "dlg": "我認為這是戰術不利的判斷……算了……你也不可能一直都是正確的吧？和完美的我們不同。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_7_1",
+      "dlg": "那些傢伙突然活躍起來了。看樣子是採取了什麼能提高士氣的行動。必須一邊掌握情況一邊進行攻擊。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_7_1",
+      "dlg": "事情不像對方想的那樣順心了。看樣子欺騙戰術起效了。把剩下的逐個擊破吧？"
+    },
+    {
+      "id": "announcer_ally_specialbuff_7_1",
+      "dlg": "吼，你們勢頭正旺啊。隔著無線電都能感覺到。是的，這次的攻擊一定十分有效吧。"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_7_1",
+      "dlg": "敵人對我方做了什麼。嗯……執行經理，該你活躍氣氛了吧？"
+    },
+    {
+      "id": "announcer_enemy_destroy_7_1",
+      "dlg": "哇，被粉碎了？破壞了一個部位！幹得漂亮！"
+    },
+    {
+      "id": "announcer_enemy_destroy_7_2",
+      "dlg": "事後彙報。觀察到一個部位受損。而且是徹底破壞。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_7_1",
+      "dlg": "哦，是爆炸了嗎？我方遭受全方位打擊！優先進行掩護！"
+    },
+    {
+      "id": "announcer_round_takebigdmg_7_2",
+      "dlg": "之前攻擊造成的損傷並不小……還是重新整頓戰力比較好吧。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_7_1",
+      "dlg": "致命一擊！幾乎能完成鎮壓了？對啊，聲音都傳到這裡了吧？"
+    },
+    {
+      "id": "announcer_round_givebigdmg_7_2",
+      "dlg": "呼~連我在的地方都在晃？沒錯，完美的突擊。"
+    },
+    {
+      "id": "announcer_multikillenemy_7_1",
+      "dlg": "確認敵方傷亡數名。簡直像是地毯式轟炸一樣~"
+    },
+    {
+      "id": "announcer_equip_7_1",
+      "dlg": "啊啊~這裡是索德，以及埃菲。本次戰況播報員由我們擔任。"
+    }
+  ]
 }

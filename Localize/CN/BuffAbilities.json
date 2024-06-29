@@ -15,12 +15,12 @@
       "desc": "命中時對目標施加{0}{1}"
     },
     {
-      "id": "MaxHpMultiplier",
+      "id": "MaxHpMultiplierRail",
       "desc": "體力上限{0}%"
     },
     {
       "id": "SlotWeightAdder",
-      "desc": "行動槽容量{0}"
+      "desc": "行動槽容量 {0}"
     },
     {
       "id": "AtkAdder",
@@ -32,7 +32,7 @@
     },
     {
       "id": "AtkAdderIfNotDamagedPrevTurn",
-      "desc": "若一回合內未受到傷害，則下回合攻擊等級{0}（對護盾造成的傷害不計入）"
+      "desc": "若一回合內未受到傷害，則下回合攻擊等級{0}\n(護盾受到的傷害不計入)"
     },
     {
       "id": "MaxSpeedAdderAsStack",
@@ -48,7 +48,7 @@
     },
     {
       "id": "TakeHpHealMultiplier",
-      "desc": "通過技能效果的體力恢復量{0}%"
+      "desc": "通過技能效果獲得的體力恢復量{0}%"
     },
     {
       "id": "RecoverSelfHpOnSucceedAttackByDmg",
@@ -59,7 +59,7 @@
       "desc": "罪人使用E.G.O技能時需要的罪孽碎片的數量{0}"
     },
     {
-      "id": "MaxHpMultiplierRail",
+      "id": "MaxHpMultiplier",
       "desc": "體力上限{0}%"
     },
     {
@@ -70,15 +70,15 @@
       "id": "GiveBuffOnRoundStartToAllAlly",
       "desc": "回合開始時使全體友方單位獲得{1}級{0} 強度，並施加{2}層{0} ",
       "variation": "回合開始時使全體友方單位增加{1}級{0} 強度",
-      "variation2": "回合開始時對全體友方單位施加{1} 層 {0} "
+      "variation2": "回合開始時使全體友方單位獲得{1} 層 {0} "
     },
     {
       "id": "GiveBuffOnRoundStartToAllAllyExtra",
-      "desc": "回合開始時使全體友方單位增加{1}級{0} 強度，額外對{0}狀態的友方單位施加{2}層{0} "
+      "desc": "回合開始時使全體友方單位增加{1}級{0} 強度，額外使帶有{0}狀態的友方單位獲得{2}層{0} "
     },
     {
       "id": "GiveBuffOnRoundStartToAllEnemyExtra",
-      "desc": "回合開始時使全體敵方單位增加{1}級{0} 強度，額外對{0}狀態的敵方單位施加{2}層{0} "
+      "desc": "回合開始時使全體敵方單位增加{1}級{0} 強度，額外對帶有{0}狀態的敵方單位施加{2}層{0} "
     },
     {
       "id": "LoseTurnOnRoundEnd",
@@ -90,7 +90,7 @@
     },
     {
       "id": "DefAdderByStackCeilToInt",
-      "desc": "每帶有4級震顫 強度，使自身降低1級防御等級"
+      "desc": "每帶有4級震顫 強度，使自身降低1級防禦等級"
     },
     {
       "id": "Crack",
@@ -111,6 +111,22 @@
     {
       "id": "VibrationContinue",
       "desc": "通過自身的技能或硬幣效果造成震顫引爆時，以{0}%概率額外造成1次震顫引爆 。(最高50%)\n- 通過自身的技能或硬幣效果造成震顫引爆時，以{1}%概率額外造成1次震顫引爆 。(最高50%)"
+    },
+    {
+      "id": "TimeSuspend",
+      "desc": "效果觸發時，自身受到{3}點怠惰傷害並使自身震顫引爆 {0}次"
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "時間租賃",
+      "desc": " 下回合使自身獲得{1}層迅捷 、拼點強壯 並對自身施加易損 \n若本效果的層數為1層，則改為下回合對自身施加{0}層束縛",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "震顫-鎖鏈",
+      "desc": "- 每帶有10級震顫 強度，使自身的拼點威力-1(最多-3)",
+      "summary": ""
     }
   ]
 }

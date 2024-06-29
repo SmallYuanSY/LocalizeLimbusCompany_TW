@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "hells_chicken_bonus_description",
-      "content": "活動期間，編隊內存在下列人格與E.G.O時<color=#f8c200>[小鳳玩偶]獲取量提升</color>."
+      "content": "活動期間，編隊記憶體在下列人格與E.G.O時<color=#f8c200>[小鳳玩偶]獲取量提升</color>."
     },
     {
       "id": "hells_chicken_bonus_popup_title",
@@ -18,7 +18,7 @@
     },
     {
       "id": "hells_chicken_event_panel_story_desc",
-      "content": "(重覽活動劇情)"
+      "content": "（重覽活動劇情）"
     },
     {
       "id": "hells_chicken_doll_name",
@@ -50,15 +50,15 @@
     },
     {
       "id": "hells_chicken_reward_event_description",
-      "content": "您可通過清剿Hell's Chicken活動關卡、主線關卡或迷宮來獲取<color=#990000>[小鳳玩偶]</color>。\n\n您可以在<color=#990000>[獎券兌換處]</color>根據所持有的<color=#990000>[小鳳玩偶]</color>數量兌換多樣化獎勵。"
+      "content": "您可通過清剿地獄雞活動關卡、主線關卡或迷宮來獲取<color=#990000>[小鳳玩偶]</color>。\n\n您可以在<color=#990000>[獎券兌換處]</color>根據所持有的<color=#990000>[小鳳玩偶]</color>數量兌換多樣化獎勵。"
     },
     {
       "id": "hells_chicken_main_event_banner_unlock_condition",
-      "content": "通關主線3-22後解鎖"
+      "content": "通過主線3-22后解鎖"
     },
     {
       "id": "check_rewards",
-      "content": "查看獎勵"
+      "content": "檢視獎勵"
     },
     {
       "id": "earned_doll_count",
@@ -74,7 +74,7 @@
     },
     {
       "id": "hells_chicken_dungeon_ask_recent_personality",
-      "content": "是否加載預先配置的人格與E.G.O？"
+      "content": "是否載入預先配置的人格與E.G.O？"
     },
     {
       "id": "hells_chicken_dungeon_no_recent_personality",
@@ -82,7 +82,7 @@
     },
     {
       "id": "hells_chicken_dungeon_desc_recent_personality",
-      "content": "※您使用過的人格與E.G.O編隊將被保存至預先配置，當您進入關卡時即可加載該編隊。"
+      "content": "※您使用過的人格與E.G.O編隊將被儲存至預先配置，當您進入關卡時即可載入該編隊。"
     },
     {
       "id": "giving_up_hells_chicken_dungeon_title",
@@ -90,19 +90,19 @@
     },
     {
       "id": "giving_up_hells_chicken_dungeon_content",
-      "content": "您正在探索{0}。\n是否放棄當前進度並重新進入迷宮？"
+      "content": "您正在探索{0}。\n是否放棄目前進度並重新進入迷宮？"
     },
     {
       "id": "hells_chicken_dungeon_error_desc",
-      "content": "服務器發生錯誤，您的遊戲數據消失。\n若您選擇放棄，則會歸還入場時花費的腦啡肽模塊。"
+      "content": "伺服器發生錯誤，您的遊戲數據消失。\n若您選擇放棄，則會歸還入場時花費的腦啡肽模組。"
     },
     {
       "id": "only_giving_up_hells_chicken_dungeon_content",
-      "content": "當前進度為{0}\n您確定要放棄嗎？"
+      "content": "目前進度為{0}\n您確定要放棄嗎？"
     },
     {
       "id": "hells_chicken_dungeon_stage_button_locked",
-      "content": "您需要通關章節III。"
+      "content": "您需要通過章節III。"
     }
   ]
 }

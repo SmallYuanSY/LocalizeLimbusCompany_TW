@@ -10,11 +10,11 @@
     },
     {
       "id": "mirrordungeonui_warning_stop_dungeon",
-      "content": "※ 終止探索時，將根據當前探索進度結算獎勵。"
+      "content": "※ 終止探索時，將根據目前探索進度結算獎勵。"
     },
     {
       "id": "mirrordungeonui_current_reward",
-      "content": "當前獎勵"
+      "content": "目前獎勵"
     },
     {
       "id": "mirrordungeonui_acquire_new_character",
@@ -50,7 +50,7 @@
     },
     {
       "id": "mirrordungeon_select_start_character",
-      "content": "進入鏡像世界"
+      "content": "進入映象世界"
     },
     {
       "id": "mirrordungeon_acquire_ego_gift_popup",
@@ -114,7 +114,7 @@
     },
     {
       "id": "mirrordungeon_simulation_info_no_use_module",
-      "content": "◆ 不會消耗腦啡肽模塊"
+      "content": "◆ 不會消耗腦啡肽模組"
     },
     {
       "id": "mirrordungeon_after_levelup",
@@ -126,11 +126,11 @@
     },
     {
       "id": "mirrordungeon_weekly_reset_description",
-      "content": "每週加成已重置。\n即將返回至玻璃窗。"
+      "content": "每週記錄已重置。\n即將返回至玻璃窗。"
     },
     {
       "id": "mirrordungeon_simulation_on",
-      "content": "！模擬中！"
+      "content": "！模擬中"
     },
     {
       "id": "mirrordungeon_participated",
@@ -146,11 +146,11 @@
     },
     {
       "id": "participated_personality",
-      "content": "人格"
+      "content": "參戰人格"
     },
     {
       "id": "dungeon_final_area",
-      "content": "最後探索區域"
+      "content": "最終探索區域"
     },
     {
       "id": "total_progress_rate",
@@ -158,11 +158,11 @@
     },
     {
       "id": "mirrordungeon_weekly_reset",
-      "content": "當前進度已過期。\n請領取您的獎勵。"
+      "content": "目前進度已過期。\n請領取您的獎勵。"
     },
     {
       "id": "mirror_dungeon_error_desc",
-      "content": "由於服務器錯誤，數據丟失。"
+      "content": "由於伺服器錯誤，數據丟失。"
     }
   ]
 }

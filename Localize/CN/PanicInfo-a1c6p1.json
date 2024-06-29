@@ -1,22 +1,22 @@
 {
-   "dataList": [
-     {
-       "id": 1017,
-       "panicName": "整理強迫",
-       "lowMoraleDescription": "拼點失敗時使自身失去5點理智值。受到攻擊時，下回合使自身獲得1層[Agility]（最多2層）",
-       "panicDescription": "對自身施加2層[Vulnerable]。受到攻擊時，下回合使自身獲得1層[Agility]（最多3層）"
-     },
-     {
-       "id": 1018,
-       "panicName": "山莊的迴響",
-       "lowMoraleDescription": "使自身的拼點威力-1，正面命中時造成的傷害+10%",
-       "panicDescription": "使自身的拼點威力-2，使自身獲得1層[AttackDmgUp]"
-     },
-     {
-       "id": 1020,
-       "panicName": "分裂",
-       "lowMoraleDescription": "每次拼點使自身失去2點體力。回合開始時使自身獲得1層[AttackUp]",
-       "panicDescription": "每次拼點使自身失去3點體力。回合開始時使自身獲得2層[AttackUp]"
-     }
-   ]
+  "dataList": [
+    {
+      "id": 1017,
+      "panicName": "整理強迫",
+      "lowMoraleDescription": "拼點失敗時使自身失去5點理智值。受到攻擊時，下回合使自身獲得1層[Agility]（最多2層）",
+      "panicDescription": "對自身施加2層[Vulnerable]。受到攻擊時，下回合使自身獲得1層[Agility]（最多3層）"
+    },
+    {
+      "id": 1018,
+      "panicName": "山莊的迴響",
+      "lowMoraleDescription": "使自身的拼點威力-1，正面命中時造成的傷害+10%",
+      "panicDescription": "使自身的拼點威力-2，使自身獲得1層[AttackDmgUp]"
+    },
+    {
+      "id": 1020,
+      "panicName": "分裂",
+      "lowMoraleDescription": "每次拼點使自身失去2點體力。回合開始時使自身獲得1層[AttackUp]",
+      "panicDescription": "每次拼點使自身失去3點體力。回合開始時使自身獲得2層[AttackUp]"
+    }
+  ]
 }

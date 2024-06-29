@@ -1,1543 +1,1543 @@
 {
-   "dataList": [
-     {
-       "id": 816101,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "刺擊",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加6級燒傷 強度並對其施加2層燒傷 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816102,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "砍斷",
-           "desc": "[WhenUse] 若目標帶有燒傷 ，則使本技能的基礎威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加8級燒傷 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加4層燒傷 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層突刺易損 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816103,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "噴薄的暴怒",
-           "desc": "[WhenUse] 目標每帶有5級燒傷強度，使本技能的硬幣威力+1（最多+3）\n[WinDuel] 若目標的燒傷強度不低於9級，則使本技能 的攻擊容量+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層燒傷 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層暴怒易損 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816104,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "反擊",
-           "desc": "[WhenUse] 若目標的燒傷強度不低於5級，則使本技能的硬幣威力+2\n[WhenUse] 若目標的燒傷強度不低於6級，則重複使用本技能（ 最多2次）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得10層痛擊 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816601,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "舔舐傷口",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加1層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816602,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "碎裂的心",
-           "desc": "[WinDuel] 下回合使自身獲得3層防禦等級提升 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加3層流血 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816603,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "崩潰，哀嚎與悲嘆",
-           "desc": "[CantDuel]",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層易損 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自己獲得1層強壯 "
-                 },
-                 {
-                   "desc": "[EnemyKill] 下回合使自身獲得2層強壯 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816604,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "勿言人語",
-           "desc": "[WhenUse] 若目標的流血 強度不低於8級，則使本技能的拼點威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於4級，則使本技能下一枚硬幣造成的傷害+20%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣（最多1次）"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816605,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "屍袋",
-           "desc": "[WhenUse] 目標每帶有5級流血強度，使本技能的基礎威力+1（最多+3）\n[WhenUse] 目標每帶有1種負面狀態，使本技能的拼點 威力+1（最多+2）\n[DefeatDuel] 對自身施加10層防禦等級降低\n[DefeatDuel] 對自身施加1層未能釋懷的悵惘",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於8級，則使本技能最後一枚硬幣造成的傷害+30%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於8級，則使本技能最後一枚硬幣造成的傷害+30%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於8級，則使本技能最後一枚硬幣造成的傷害+30%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若本技能所有硬幣朝向均為正面，則下回合對目標施加5層易損 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816606,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "狂亂之狼的狂氣",
-           "desc": "[WhenUse] 目標每帶有5級流血強度，使本技能的基礎威力+1（最多+4）\n[WhenUse] 目標每帶有1種負面狀態，使本技能的拼點 威力+1（最多+2）\n[DefeatDuel] 若目標帶有[AaCfPcBg]，則使自身的混亂閾值前移100。若自身未擁有混亂閾值，則在0點處生成1條混亂閾值",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若所有本技能的硬幣全部命中，則重複使用本硬幣（最多1次）"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 816607,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "反射的復仇",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817101,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "標記不速之客",
-           "desc": "[WhenUse] 對目標施加1層管家的標記 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817102,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "迎客道1式 狩獵",
-           "desc": "[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+1\n[WinDuel] 下回合使自身獲得1層迅捷 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層[AaCfPcBb]"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817103,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "反轉迎客道1式 狩獵",
-           "desc": "[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+1\n[WinDuel] 下回合使自身獲得1層迅捷 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層[AaCfPcBb]"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817104,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "嚇阻不速之客",
-           "desc": "[WhenUse] 若自身的速度值高於目標，則使本技能的拼點威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層易損 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣（最多1次）"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817105,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "迎客道第2式 崩潰",
-           "desc": "[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+10",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標未擁有混亂閾值，則對其造成200點體力傷害"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標的混亂閾值前移200"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817106,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "迎客之道第7式 捕捉",
-           "desc": "[StartBattle] 根據帶有[AaCfPcBb]的敵方單位數，相應使本技能的攻擊容量增加\n[WhenUse] 若自身的速度值高於目標至少3點，則對其施加2 層斬擊抗性弱化\n[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+8\n[EndBattle] 解除所有[AaCfPcBb]",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於4種，則對其額外造成本硬幣傷害量30%的斬擊傷害"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817107,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "逮捕不速之客",
-           "desc": "優先指定帶有[AaCfPcBc]的目標\n[DefeatDuel] 若目標帶有[AaCfPcBc]，則解除其[AaCfPcBc]",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加6層防禦等級降低 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重複使用本硬幣（最多1次）"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817108,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "迎客道第3式 受縛",
-           "desc": "[WhenUse] 若目標帶有[AaCfPcBc]，則使本技能的基礎威力+5\n[WhenUse] 若目標帶有[AaCfPcBc]，則對其施加1層[AaCfPcBc]",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層易損 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層易損 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加3層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣（最多1次）"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817109,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "閃避",
-           "desc": "[OnSucceedEvade] 使自身恢復5點理智值\n[OnSucceedEvade] 僅在下回合使自身增加1個行動槽（最多1次）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817110,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "迎客道第9式 瓦解",
-           "desc": "優先指定帶有[AaCfPcBc]的目標\n若目標帶有[AaCfPcBc]，則使本技能的拼點威力+10\n若目標未帶有[AaCfPcBc]，則使本技能造成 的傷害固定為0點",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標陷入混亂"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817201,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "破滅鏡中世界的糾纏劍",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 並使其增加3級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817202,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "擊倒出局",
-           "desc": "[WinDuel] 下回合使自身獲得1層強壯 與1層傷害強化 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 並使其增加3級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加相當於其沉淪 強度的流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817203,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "放下恩怨",
-           "desc": "若目標的沉淪強度不低於5級，則使本技能的拼點威力+1\n若目標的流血強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加3層沉淪",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使本技能下一枚硬幣的威力+1"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使本技能下一枚硬幣的威力+2"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817204,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "惡夢的復仇者歸來",
-           "desc": "[CantChangeTarget]\n[WhenUse] 若目標未帶有爆發的憂鬱 ，則使本技能的拼點威力+10\n[DefeatDuel] 下回合對自身施加3層易損 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加8級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817205,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "奔向死亡，杜拉漢",
-           "desc": "[CantDuel]\n[WhenUse] 若目標帶有爆發的嫉妒 ，則使本技能造成的傷害-50%",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817206,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "破滅的狂獵",
-           "desc": "[CantDuel]\n[WhenUse] 若目標帶有[AaCfPbBc]，則使本技能造成的傷害-100%\n[WhenUse] 每有1名友方單位存活，使本技能造成的 傷害+25%",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817207,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "忍耐",
-           "desc": "[WhenUse] 下回合使自身獲得1層強壯 （每回合最多1層）",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817208,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "吐露悲傷與哀鳴的玻璃碎片",
-           "desc": "[WhenUse] 下回合使自己獲得1層強壯 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817301,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "巨劍砍擊",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 並使其增加3級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817302,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "擊倒出局",
-           "desc": "[WinDuel] 下回合使自身獲得1層強壯 與1層傷害強化 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 並使其增加3級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加相當於其沉淪 強度的流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817303,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "回應我的呼喚，呼嘯山莊",
-           "desc": "[CantDuel]\n[WhenUse] 下回合生成1個狂獵單位",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817304,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "把你也裝進這棺材",
-           "desc": "[CantDuel]\n[StartBattle] 本回合使震顫引爆與其他效果造成的混亂閾值前移量+100%\n[WhenUse] 下回合使包含自身在內的全體友方單位獲得3 層強壯與3層傷害強化",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817305,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "斬首希斯克利夫",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817306,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "空棺之槌",
-           "desc": "若目標的沉淪強度不低於5級，則使本技能的拼點威力+1\n若目標的流血強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加3層沉淪",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使本技能下一枚硬幣的威力+2"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817307,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "奔向死亡，杜拉漢",
-           "desc": "",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "使目標增加5級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "對目標施加5層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817308,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "忍耐",
-           "desc": "[WhenUse] 下回合使自己獲得1層強壯 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817309,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "魔王所經之處，唯餘悲傷哀鳴",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度與4級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層沉淪 與2層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度與4級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層沉淪 與2層流血 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817310,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "所有的希斯克利夫必死…",
-           "desc": "[CantChangeTarget]\n[CantDuel]\n本回合本身不會陷入混亂",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標造成其體力上限100%的傷害"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817401,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "徒勞",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817402,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "為了一個他沒有痛苦的世界",
-           "desc": "[CantDuel]\n[StartBattle] 對除自身以外的全體友方單位施加2層易損並使其獲得2層強壯\n[StartBattle] 下回合對自身施加5層束縛並使自身 獲得5層傷害強化",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817403,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "所有的凱薩琳必死",
-           "desc": "[CantDuel]\n若所有手的體力均為1，則造成0點傷害\n[StartBattle] 對除自身以外的全體友方單位施加2層易損並使其獲得2層強壯 \n[EndSkill] 對自身施加1層撕碎的心",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加撕碎的心 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817404,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "撕碎的心",
-           "desc": "[EndSkill] 使自身獲得1層撕碎的心 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 造成相當於其體力上限15%的傷害"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加撕碎的心 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 819201,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "苦澀的淚",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 819202,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "悲劇之手",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 819203,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "絕望之手",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層攻擊等級降低 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層攻擊等級降低 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 819204,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "無意義的掙扎",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 819205,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "唯留痛苦…",
-           "desc": "[DefeatDuel] 使自己獲得1層撕碎的心 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標造成其體力上限15%的傷害"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 819206,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "無法觸碰的靈魂",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817001,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "我會除…",
-           "desc": "使本體與部位恢復本攻擊技能傷害量10%的體力",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身獲得1層攻擊等級提升 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身獲得1層攻擊等級提升 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層迅捷 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817002,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "…混帳",
-           "desc": "若自身的速度值高於目標，則使本技能的拼點威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重複使用本硬幣（最多1次）"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817003,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "…我的家",
-           "desc": "優先指定體力最低的目標\n[WhenUse] 若目標現存體力不高於70%，則使本技能的拼點威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層易損 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度並對其施加2層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度並對其施加2層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於20級，則使本硬幣造成的傷害+100%"
-                 },
-                 {
-                   "desc": "[EnemyKill] 重複使用本技能（最多1次）"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817004,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "抓…",
-           "desc": "優先指定希斯克利夫\n[WhenUse] 若目標為速度值最低的敵方單位，則使本技能的基礎威力+3\n[WhenUse] 下回合對目標施加[AaCfPbBe]、2 層易損、3層麻痺與5層束縛",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817005,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "還來…！！",
-           "desc": "[CantDuel]",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合使自身獲得2層攻擊等級提升 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合使自身獲得2層攻擊等級提升 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合使自身獲得2層攻擊等級提升 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則使自身恢復本硬幣傷害量50%的體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817006,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "傢伙…",
-           "desc": "優先指定帶有[AaCfPbBe]的目標\n若本身的速度值高於目標至少3點，則重複使用本技能（最多1次）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使本體與部位恢復本硬幣傷害量50%的體力"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使本體與部位恢復本硬幣傷害量50%的體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817007,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "防…",
-           "desc": "回合結束時若自身帶有護盾，則下回合使自身獲得4層守護 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817008,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "…避",
-           "desc": "[OnSucceedEvade] 下回合對目標施加1層束縛 （最多2層）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 817009,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "這是…！",
-           "desc": "若自身的速度值高於目標，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使自身恢復本硬幣造成傷害70%的體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     }
-   ]
+  "dataList": [
+    {
+      "id": 816101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "刺擊",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加6級燒傷 強度並對其施加2層燒傷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "砍斷",
+          "desc": "[WhenUse] 若目標帶有燒傷 ，則使本技能的基礎威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層燒傷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層突刺易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "噴薄的暴怒",
+          "desc": "[WhenUse] 目標每帶有5級燒傷 強度，使本技能的硬幣威力+1(最多+3)\n[WinDuel] 若目標的燒傷 強度不低於9級，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層燒傷 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層暴怒易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反擊",
+          "desc": "[WhenUse] 若目標的燒傷 強度不低於5級，則使本技能的硬幣威力+2\n[WhenUse] 若目標的燒傷 強度不低於6級，則重複使用本技能(最多2次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得10層痛擊 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "舔舐傷口",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "被撕碎的心",
+          "desc": "[WinDuel] 下回合使自身獲得3層防禦等級提升 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "崩潰，哀嚎與悲嘆",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層強壯 "
+                },
+                {
+                  "desc": "[EnemyKill] 下回合使自身獲得2層強壯 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "勿言人語",
+          "desc": "[WhenUse] 若目標的流血 強度不低於8級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於4級，則使本技能下一枚硬幣造成的傷害+20%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣(最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "裹屍袋",
+          "desc": "[WhenUse] 目標每帶有5級流血 強度，使本技能的基礎威力+1(最多+3)\n[WhenUse] 目標每帶有1種負面狀態，使本技能的拼點威力+1(最多+2)\n[DefeatDuel] 對自身施加20層防禦等級降低 \n[DefeatDuel] 對自身施加1層未能釋懷的悵惘 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於8級，則使本技能最後一枚硬幣造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於8級，則使本技能最後一枚硬幣造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 若目標的流血 強度不低於8級，則使本技能最後一枚硬幣造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若本技能所有硬幣朝向均為正面，則下回合對目標施加2層易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "狂亂之狼的狂氣",
+          "desc": "[WhenUse] 目標每帶有5級流血 強度，使本技能的基礎威力+1(最多+4)\n[WhenUse] 目標每帶有1種負面狀態，使本技能的拼點威力+1(最多+2)\n[DefeatDuel] 若目標帶有[AaCfPcBg]，則下回合使自身的混亂閾值前移100。若自身未擁有混亂閾值，則在0點處產生1條混亂閾值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若本技能的所有硬幣全部命中，則重複使用本硬幣(最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反射的復仇",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "標記不速之客",
+          "desc": "[WhenUse] 對目標施加1層管家的標記 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迎客之道1式 狩獵",
+          "desc": "[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+1\n[WinDuel] 下回合使自身獲得1層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[AaCfPcBb]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反轉迎客之道1式 狩獵",
+          "desc": "[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+1\n[WinDuel] 下回合使自身獲得1層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[AaCfPcBb]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "威懾不速之客",
+          "desc": "[WhenUse] 若自身的速度值高於目標，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣(最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迎客之道第2式 崩潰",
+          "desc": "[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未擁有混亂閾值，則對其造成200點體力傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移200"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迎客之道第7式 捕捉",
+          "desc": "[StartBattle] 根據帶有[AaCfPcBb]的敵方單位數，相應使本技能的攻擊容量增加\n[WhenUse] 若自身的速度值高於目標至少3點，則對其施加2層斬擊抗性弱化 \n[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+8\n[EndBattle] 解除所有[AaCfPcBb]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於4種，則對其額外造成本硬幣傷害量30%的斬擊傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "拘捕不速之客",
+          "desc": "優先指定帶有[AaCfPcBc]的目標\n[DefeatDuel] 若目標帶有[AaCfPcBc]，則解除其[AaCfPcBc]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加6層防禦等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重複使用本硬幣(最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迎客之道第3式 受縛",
+          "desc": "[WhenUse] 若目標帶有[AaCfPcBc]，則使本技能的基礎威力+5\n[WhenUse] 若目標帶有[AaCfPcBc]，則對其施加1層[AaCfPcBc]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有的負面狀態不少於3種，則重複使用本硬幣(最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避",
+          "desc": "[OnSucceedEvade] 使自身恢復5點理智值\n[OnSucceedEvade] 僅在下回合使自身增加1個行動槽(最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迎客之道第9式 瓦解",
+          "desc": "優先指定帶有[AaCfPcBc]的目標\n若目標帶有[AaCfPcBc]，則使本技能的拼點威力+10\n若目標未帶有[AaCfPcBc]，則使本技能造成的傷害固定為0點",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標陷入混亂"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "破滅鏡中世界的糾纏之劍",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 並使其增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "擊倒出局",
+          "desc": "[WinDuel] 下回合使自身獲得1層強壯 與1層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 並使其增加3級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加相當於其沉淪 強度的流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "放下恩怨",
+          "desc": "若目標的沉淪 強度不低於5級，則使本技能的拼點威力+1\n若目標的流血 強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加3層沉淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使本技能下一枚硬幣的威力+1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使本技能下一枚硬幣的威力+2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "噩夢的復仇者歸來",
+          "desc": "[CantChangeTarget]\n[WhenUse] 若目標未帶有爆發的憂鬱 ，則使本技能的拼點威力+10\n[DefeatDuel] 下回合對自身施加3層易損 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "奔向死亡，杜拉罕",
+          "desc": "[CantDuel]\n[WhenUse] 若目標帶有爆發的嫉妒 ，則使本技能造成的傷害-100%",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "破滅的狂獵",
+          "desc": "[CantDuel]\n[WhenUse] 若目標帶有[AaCfPbBc]，則使本技能造成的傷害-100%\n[WhenUse] 每有1名友方單位存活，使本技能造成的傷害+25%",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "忍耐",
+          "desc": "[WhenUse] 下回合使自身獲得1層強壯 (每回合最多1層)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "吐露悲傷與哀鳴的玻璃碎片",
+          "desc": "[WhenUse] 下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "巨劍砍擊",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 並使其增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "擊倒出局",
+          "desc": "[WinDuel] 下回合使自身獲得1層強壯 與1層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 並使其增加3級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加相當於其沉淪 強度的流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迴應我的呼喚，呼嘯山莊",
+          "desc": "[CantDuel]\n[WhenUse] 下回合生成1個狂獵單位",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "把你也裝進這棺材",
+          "desc": "[CantDuel]\n[StartBattle] 本回合使震顫引爆 與其他效果造成的混亂閾值前移量+100%\n[WhenUse] 下回合使包含自身在內的全體友方單位獲得3層強壯 與3層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斬首希斯克利夫",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "空棺之槌",
+          "desc": "若目標的沉淪 強度不低於5級，則使本技能的拼點威力+1\n若目標的流血 強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加3層沉淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使本技能下一枚硬幣的威力+2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "奔向死亡，杜拉罕",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "使目標增加5級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "對目標施加5層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "忍耐",
+          "desc": "[WhenUse] 下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "魔王所經之處，唯余悲傷與哀鳴",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度與4級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 與2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度與4級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 與2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817310,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "所有的希斯克利夫必定死亡…",
+          "desc": "[CantChangeTarget]\n[CantDuel]\n本回合自身不會陷入混亂",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成其體力上限100%的傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "徒勞",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "為了一個他沒有痛苦的世界",
+          "desc": "[CantDuel]\n[StartBattle] 對除自身以外的全體友方單位施加2層易損 並使其獲得2層強壯 \n[StartBattle] 下回合對自身施加5層束縛 並使自身獲得5層傷害強化 ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "所有的凱瑟琳必定死亡",
+          "desc": "[CantDuel]\n若所有手的體力均為1，則造成0點傷害\n[StartBattle] 對除自身以外的全體友方單位施加2層易損 並使其獲得2層強壯 \n[EndSkill] 對自身施加1層撕碎的心 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加撕碎的心 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "撕碎的心",
+          "desc": "[EndSkill] 使自身獲得1層撕碎的心 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成其體力上限15%的傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加撕碎的心 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 819201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "苦澀的淚水",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 819202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "悲劇之手",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 819203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "絕望之手",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層攻擊等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 819204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "無意義的掙扎",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 819205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "唯余痛苦…",
+          "desc": "[DefeatDuel] 使自身獲得1層撕碎的心 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成其體力上限15%的傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 819206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "無法企及的靈魂",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我會除…",
+          "desc": "使本體與部位恢復本攻擊技能傷害量10%的體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層攻擊等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層攻擊等級提升 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層迅捷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "…混帳",
+          "desc": "若自身的速度值高於目標，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重複使用本硬幣(最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "…我的家",
+          "desc": "優先指定體力最低的目標\n[WhenUse] 若目標現存體力不高於70%，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度並對其施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度並對其施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於20級，則使本硬幣造成的傷害+100%"
+                },
+                {
+                  "desc": "[EnemyKill] 重複使用本技能(最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "抓…",
+          "desc": "優先指定希斯克利夫\n[WhenUse] 若目標為速度值最低的敵方單位，則使本技能的基礎威力+3\n[WhenUse] 下回合對目標施加[AaCfPbBe]、2層易損 、3層麻痹 與5層束縛 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層攻擊等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "還來…！！",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得2層攻擊等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得2層攻擊等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得2層攻擊等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則使自身恢復本硬幣傷害量50%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "傢伙…",
+          "desc": "優先指定帶有[AaCfPbBe]的目標\n若自身的速度值高於目標至少3點，則重複使用本技能(最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使本體與部位恢復本硬幣傷害量50%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使本體與部位恢復本硬幣傷害量50%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防…",
+          "desc": "回合結束時若自身帶有護盾，則下回合使自身獲得4層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "…避",
+          "desc": "[OnSucceedEvade] 下回合對目標施加1層束縛 (最多2層)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "這是…！",
+          "desc": "若自身的速度值高於目標，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使自身恢復本硬幣造成傷害70%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

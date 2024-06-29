@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "event_bonus_description",
-      "content": "活動期間，編隊內存在下列人格與E.G.O時<color=#f8c200>[{0}]獲取量提升</color>。"
+      "content": "活動期間編隊記憶體在下列人格與E.G.O時\n<color=#f8c200>[{0}]獲取量提升</color>。"
     },
     {
       "id": "event_bonus_preview",
@@ -10,11 +10,11 @@
     },
     {
       "id": "event_bonus_preview_ego",
-      "content": "將活動人格與E.G.O編入隊伍\n以提升[{0}]獲取量！"
+      "content": "將活動E.G.O編入隊伍\n以提升[{0}]獲取量！"
     },
     {
       "id": "event_bonus_description_ego",
-      "content": "將活動人格與E.G.O編入隊伍\n以提升[{0}]獲取量！"
+      "content": "將活動E.G.O編入隊伍\n以提升[{0}]獲取量！"
     },
     {
       "id": "event_bonus_preview_personality",

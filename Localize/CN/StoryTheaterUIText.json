@@ -14,7 +14,7 @@
     },
     {
       "id": "EPISODE",
-      "content": "第{0}話"
+      "content": "{0}話"
     },
     {
       "id": "PAGE",
@@ -46,7 +46,7 @@
     },
     {
       "id": "MIRRORWOLDS",
-      "content": "鏡像世界"
+      "content": "映象世界"
     },
     {
       "id": "STORY",
@@ -54,7 +54,7 @@
     },
     {
       "id": "SECURITY_MATERIAL",
-      "content": "機密文件"
+      "content": "機密檔案"
     },
     {
       "id": "SPEECH",
@@ -138,7 +138,7 @@
     },
     {
       "id": "EnterStoryPopupDesc",
-      "content": "要查看\n{0}嗎?"
+      "content": "要檢視\n{0}嗎？"
     },
     {
       "id": "No",
@@ -170,7 +170,7 @@
     },
     {
       "id": "PersonalityStory_OpenCodition",
-      "content": "人格同步達到{0}階段後解鎖"
+      "content": "人格同步達到{0}階段后解鎖"
     },
     {
       "id": "OTHERSTORY",
@@ -242,7 +242,7 @@
     },
     {
       "id": "OtherStoryOpenCondition_9107",
-      "content": "通過5.5-13"
+      "content": "通關5.5-13關卡"
     },
     {
       "id": "OtherStoryOpenCondition_9015",

@@ -10,7 +10,7 @@
     },
     {
       "id": "announcer_specialcheer_3_1",
-      "dlg": "有乘客痛痛。不要哭。"
+      "dlg": "有乘客很痛。不要哭。"
     },
     {
       "id": "announcer_specialcheer_3_2",
@@ -18,11 +18,11 @@
     },
     {
       "id": "announcer_enemy_break_3_1",
-      "dlg": "敵人們搖搖晃晃的。好時機，不是嗎？"
+      "dlg": "敵人搖搖晃晃的。機會，不是嗎？"
     },
     {
       "id": "announcer_ally_break_3_1",
-      "dlg": "所以卡戎才說系好安全帶。"
+      "dlg": "所以卡戎說要繫好安全帶。"
     },
     {
       "id": "announcer_killenemy_3_1",
@@ -54,23 +54,23 @@
     },
     {
       "id": "announcer_advatk_physical_3_1",
-      "dlg": "乘客給了他們一個“蹦”。"
+      "dlg": "乘客給了他們一個「嘭」。"
     },
     {
       "id": "announcer_disadvatk_physical_3_1",
-      "dlg": "剛才的一點用都沒有，傻瓜。"
+      "dlg": "剛才的一點用都沒有。傻瓜。"
     },
     {
       "id": "announcer_advatk_attr_3_1",
-      "dlg": "據說知道自己做錯了什麼才是開始。"
+      "dlg": " 據說知道自己做錯了什麼才是開始。"
     },
     {
       "id": "announcer_disadvatk_attr_3_1",
-      "dlg": "你知道自己做錯了什麼嗎？……這句是我從電影裡學到的。"
+      "dlg": "你知道自己做錯了什麼嗎？……從電視劇里看來的。"
     },
     {
       "id": "announcer_enemy_specialbuff_3_1",
-      "dlg": "敵人看起來很開心。卡戎，不開心。"
+      "dlg": "敵人看起來心情很好。卡戎，心情不好。"
     },
     {
       "id": "announcer_enemy_specialdebuff_3_1",
@@ -78,7 +78,7 @@
     },
     {
       "id": "announcer_ally_specialbuff_3_1",
-      "dlg": "乘客們，有什麼開心的事情嗎？"
+      "dlg": "乘客們，有什麼開心的事嗎？"
     },
     {
       "id": "announcer_ally_specialdebuff_3_1",
@@ -86,11 +86,11 @@
     },
     {
       "id": "announcer_enemy_destroy_3_1",
-      "dlg": "咔嚓，部位被破壞掉了。可以繼續了。"
+      "dlg": "咔嚓，部位被破壞了。可以繼續。"
     },
     {
       "id": "announcer_enemy_destroy_3_2",
-      "dlg": "乘客們，把那個弄壞了。不用我們賠錢，繼續吧。"
+      "dlg": "乘客們，把那個弄壞了。不用賠錢，繼續吧。"
     },
     {
       "id": "announcer_round_takebigdmg_3_1",
@@ -98,7 +98,7 @@
     },
     {
       "id": "announcer_round_takebigdmg_3_2",
-      "dlg": "噢，看起來很痛。"
+      "dlg": "呃，看起來很疼。"
     },
     {
       "id": "announcer_round_givebigdmg_3_1",
@@ -106,15 +106,15 @@
     },
     {
       "id": "announcer_round_givebigdmg_3_2",
-      "dlg": "哇嗚！卡戎也嚇到了。"
+      "dlg": "哇啊！卡戎也嚇一跳。"
     },
     {
       "id": "announcer_multikillenemy_3_1",
-      "dlg": "一舉兩得，對吧？卡戎，摸摸你的頭。"
+      "dlg": "一石二鳥，對吧？卡戎，摸摸你的頭。"
     },
     {
       "id": "announcer_equip_3_1",
-      "dlg": "卡戎登場了，大家都很高興。"
+      "dlg": "卡戎登場，大家都很高興。"
     }
   ]
 }

@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "loginui_sign_in_with_google",
-      "content": "Google登入"
+      "content": "Google登錄"
     },
     {
       "id": "loginui_sign_in_with_apple",
-      "content": "Apple登入"
+      "content": "Apple登錄"
     },
     {
       "id": "loginui_sign_in_with_steam",
-      "content": "Steam登入"
+      "content": "Steam登錄"
     },
     {
       "id": "loginui_sign_in_with_guest",
-      "content": "遊客登入"
+      "content": "遊客登錄"
     },
     {
       "id": "loginui_sign_out_current_account",
@@ -22,15 +22,15 @@
     },
     {
       "id": "loginui_sign_out_current_account_desc",
-      "content": "登出現有的帳戶嗎？\n如果正以遊客身份登入，帳戶數據可能會丟失。"
+      "content": "登出現有的賬戶嗎？\n如果正以遊客身份登錄，賬戶數據可能會丟失。"
     },
     {
       "id": "loginui_sign_out_switch_account_desc",
-      "content": "登出現有的帳戶\n並登入選擇的帳戶嗎？\n如果正以遊客身份登入，帳戶數據可能會丟失。"
+      "content": "登出現有的賬戶\n並登錄選擇的賬戶嗎？\n如果正以遊客身份登錄，賬戶數據可能會丟失。"
     },
     {
       "id": "switch_account",
-      "content": "切換帳號"
+      "content": "切換賬號"
     },
     {
       "id": "user_agreements",
@@ -42,11 +42,11 @@
     },
     {
       "id": "content_game_data_download",
-      "content": "正在下載{0}的數據。"
+      "content": "需要下載{0}的數據。"
     },
     {
       "id": "content_game_data_download_description",
-      "content": "當設備空間不足時，將會返回標題界面。"
+      "content": "當裝置空間不足時，將會返回標題界面。"
     },
     {
       "id": "content_game_data_download_recommend",
@@ -54,15 +54,15 @@
     },
     {
       "id": "switch_allcacheclear",
-      "content": "清除所有緩存"
+      "content": "清除所有快取"
     },
     {
       "id": "switch_oldcacheclear",
-      "content": "清除舊緩存"
+      "content": "清除舊快取"
     },
     {
       "id": "networkingerror_content",
-      "content": "網絡連接不穩定。\n請檢查您的網絡連接。"
+      "content": "網路連線不穩定。\n請檢查您的網路連線。"
     },
     {
       "id": "networkingerror_close",
@@ -82,15 +82,15 @@
     },
     {
       "id": "loginui_loading_battlehint",
-      "content": "戰鬥提示"
+      "content": "戰鬥小貼士"
     },
     {
       "id": "servererror_content",
-      "content": "服務器發生錯誤。\n請稍後再試。"
+      "content": "伺服器發生錯誤。\n請稍後再試。"
     },
     {
       "id": "forcequit_content",
-      "content": "遊戲無法運行。\n即將關閉遊戲。"
+      "content": "遊戲無法執行。\n即將關閉遊戲。"
     },
     {
       "id": "serverstate_openpreparation",
@@ -98,19 +98,19 @@
     },
     {
       "id": "serverstate_regularcheck",
-      "content": "服務器正在例行維護。"
+      "content": "伺服器正在例行維護。"
     },
     {
       "id": "serverstate_temporary_check",
-      "content": "服務器正在進行臨時維護。"
+      "content": "伺服器正在進行臨時維護。"
     },
     {
       "id": "serverstate_verify_invaliduser",
-      "content": "帳戶不存在或已被停用。"
+      "content": "賬戶不存在或已被停用。"
     },
     {
       "id": "serverstate_verify_ban",
-      "content": "帳戶被封禁。"
+      "content": "賬戶被封禁。"
     },
     {
       "id": "serverstate_verify_invalidauth",
@@ -118,15 +118,15 @@
     },
     {
       "id": "guestlogin_failed_try_newguest",
-      "content": "遊客帳戶登入失敗。\n該帳戶或許已被鏈結,或該帳戶不存在。\n要建立新帳戶嗎？"
+      "content": "遊客賬戶登陸失敗。\n該賬戶已被關聯，或該賬戶不存在。\n\n要建立新賬戶嗎？"
     },
     {
       "id": "secession_remain_days",
-      "content": "該帳號將在倒計時結束後停用。\n剩餘時間：{0}天{1}小時{2}分\n\n可以通過進行登錄來恢復帳號。\n要恢復帳號嗎？"
+      "content": "該賬號將在倒計時結束后停用。\n剩餘時間：{0}天{1}小時{2}分\n\n可以通過進行登錄來恢復賬號。\n要恢復賬號嗎？"
     },
     {
       "id": "secession_canceled",
-      "content": "帳號恢復成功。"
+      "content": "賬號恢復成功。"
     },
     {
       "id": "serverstate_verify_invalidclientversion",
@@ -134,43 +134,43 @@
     },
     {
       "id": "create_guest",
-      "content": "創建遊客帳號"
+      "content": "建立遊客賬戶"
     },
     {
       "id": "ask_to_remove_all_cache",
-      "content": "要清除所有緩存嗎？"
+      "content": "要清除所有快取嗎？"
     },
     {
       "id": "networkingerror_update",
-      "content": "跳轉至商店頁面"
+      "content": "跳轉至商店"
     },
     {
       "id": "speed_hack_warning",
-      "content": "發現使用未經授權的第三方程序。"
+      "content": "發現使用未經授權的第三方程式。"
     },
     {
-       "id": "serverstate_verify_ban_startdate",
-       "content": "日期"
-     },
+      "id": "serverstate_verify_ban_startdate",
+      "content": "日期"
+    },
     {
-       "id": "serverstate_verify_ban_reason",
-       "content": "理由"
-     },
+      "id": "serverstate_verify_ban_reason",
+      "content": "理由"
+    },
     {
-       "id": "serverstate_verify_ban_reason_refund",
-       "content": "濫用公開市場退款制度"
-     },
+      "id": "serverstate_verify_ban_reason_refund",
+      "content": "濫用公開市場退款制度"
+    },
     {
-       "id": "serverstate_verify_ban_reason_cheat",
-       "content": "不正當遊戲使用紀錄"
-     },
+      "id": "serverstate_verify_ban_reason_cheat",
+      "content": "不正當遊戲使用記錄"
+    },
     {
-       "id": "serverstate_blocking_endpoint",
-       "content": "該功能正在維護。"
-     },
+      "id": "serverstate_blocking_endpoint",
+      "content": "該功能正在維護。"
+    },
     {
       "id": "serverstate_verify_invaliduuid",
-      "content": "該請求已被處理。\n請重啟遊戲，以進行同步。"
+      "content": "該請求已被處理。\n請重啟遊戲，以便進行同步。"
     },
     {
       "id": "login_scene_mini_story_warning_spoiler_format",

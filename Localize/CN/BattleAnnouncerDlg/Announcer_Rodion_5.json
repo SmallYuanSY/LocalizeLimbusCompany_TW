@@ -6,7 +6,7 @@
     },
     {
       "id": "announcer_cheer_5_2",
-      "dlg": "先幹完活的有好吃的！當然啦~，公司請客！"
+      "dlg": "先幹完活的有好吃的！當然啦~公司請客！"
     },
     {
       "id": "announcer_specialcheer_5_1",
@@ -14,15 +14,15 @@
     },
     {
       "id": "announcer_specialcheer_5_2",
-      "dlg": "呃……你們還好嗎？你們流了好多血唉。"
+      "dlg": "呃……你們還好嗎？你們流了好多血啊？"
     },
     {
       "id": "announcer_enemy_break_5_1",
-      "dlg": "快看那！他陷入混亂了！"
+      "dlg": "快看那兒！他搖搖晃晃的！"
     },
     {
       "id": "announcer_ally_break_5_1",
-      "dlg": "嗯……你可以試試像，這樣，躲開的嘛！"
+      "dlg": "嗯……你可以試試像這樣躲開，不就行了嘛！"
     },
     {
       "id": "announcer_killenemy_5_1",
@@ -50,7 +50,7 @@
     },
     {
       "id": "announcer_enemy_specialgimmick_5_1",
-      "dlg": "嘿，它……是想幹什麼？"
+      "dlg": "嘿……幹嘛呢這是？"
     },
     {
       "id": "announcer_advatk_physical_5_1",
@@ -58,19 +58,19 @@
     },
     {
       "id": "announcer_disadvatk_physical_5_1",
-      "dlg": "你確定這是對的嗎……？它看起來完全沒受傷啊？"
+      "dlg": "你確定應該這麼做嗎……？它看起來完全沒受傷啊？"
     },
     {
       "id": "announcer_advatk_attr_5_1",
-      "dlg": "哦~真聰明，但丁！太棒了！"
+      "dlg": "哦~真聰明，但丁！剛才太棒了！"
     },
     {
       "id": "announcer_disadvatk_attr_5_1",
-      "dlg": "嗯……我不認為我會這麼做……但丁，你很累嗎？"
+      "dlg": "嗯……連我都不認為我會這麼做……但丁，你已經累了嗎？"
     },
     {
       "id": "announcer_enemy_specialbuff_5_1",
-      "dlg": "呃……他們看起來像打了雞血，是剛吃完肉嗎……？"
+      "dlg": "呃……他們看起來像打了雞血，是剛開過葷嘛……？"
     },
     {
       "id": "announcer_enemy_specialdebuff_5_1",
@@ -78,7 +78,7 @@
     },
     {
       "id": "announcer_ally_specialbuff_5_1",
-      "dlg": "哦哦……我精力充沛！但丁！我們去把他們全部打倒！"
+      "dlg": "哦哦……精力充沛！但丁！我們去把他們全部打倒！"
     },
     {
       "id": "announcer_ally_specialdebuff_5_1",
@@ -90,7 +90,7 @@
     },
     {
       "id": "announcer_enemy_destroy_5_2",
-      "dlg": "呼呼。你看那個，破破爛爛的！好像被狠狠地教訓了一頓。是吧?"
+      "dlg": "呼呼。你看那個，變得破破爛爛的！肯定被狠狠地教訓了一頓。是吧？"
     },
     {
       "id": "announcer_round_takebigdmg_5_1",
@@ -98,11 +98,11 @@
     },
     {
       "id": "announcer_round_takebigdmg_5_2",
-      "dlg": "那傢伙，好像已經半步入墳了……沒關係嗎？"
+      "dlg": "那傢伙，快要被大卸八塊了……沒關係嗎？"
     },
     {
       "id": "announcer_round_givebigdmg_5_1",
-      "dlg": "哇哦~那真是一次強力的攻擊。你不覺得這很值得慶祝嗎~？"
+      "dlg": "哇哦~那真是一次強力的攻擊。你不覺得這很值得慶祝嘛~？"
     },
     {
       "id": "announcer_round_givebigdmg_5_2",
@@ -110,7 +110,7 @@
     },
     {
       "id": "announcer_multikillenemy_5_1",
-      "dlg": "僅一揮便效果顯著~！這不是很帥嘛？"
+      "dlg": "隨便一揮便效果顯著~！這不是很帥嘛？"
     },
     {
       "id": "announcer_equip_5_1",

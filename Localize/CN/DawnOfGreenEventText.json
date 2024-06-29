@@ -6,7 +6,7 @@
     },
     {
       "id": "dawn_of_green_story_theater_button",
-      "content": "跳到放映室"
+      "content": "跳轉至放映室"
     },
     {
       "id": "dawn_of_green_normal_stage",
@@ -18,7 +18,7 @@
     },
     {
       "id": "dawn_of_green_hard_stage_unlock_condition",
-      "content": "透過普通難度後解鎖"
+      "content": "通過普通難度后解鎖"
     },
     {
       "id": "reward_Noraml",
@@ -42,15 +42,15 @@
     },
     {
       "id": "missionConditionTitle_10002",
-      "content": "單一戰鬥中殺死 綠色的黎明 - 疑問 - γ 單位"
+      "content": "單次戰鬥中擊殺 綠色的黎明 - 疑問 - γ 單位"
     },
     {
       "id": "missionConditionTitle_10003",
-      "content": "單一戰鬥中擊殺 綠色的黎明 - 疑問 - δ 單位"
+      "content": "單次戰鬥中擊殺 綠色的黎明 - 疑問 - δ 單位"
     },
     {
       "id": "missionConditionTitle_10004",
-      "content": "全體友方單位生存的條件下完成鎮壓"
+      "content": "全體友方單位存活的條件下完成鎮壓"
     },
     {
       "id": "missionConditionTitle_10005",
@@ -58,11 +58,11 @@
     },
     {
       "id": "missionConditionTitle_10006",
-      "content": "使用單一攻擊技能殺死3個綠色的黎明單位"
+      "content": "使用單個攻擊技能擊殺3個綠色的黎明單位"
     },
     {
       "id": "missionConditionTitle_10007",
-      "content": "控制部隊長 在單一戰鬥中使用攻擊技能擊殺綠色的黎明單位"
+      "content": "控制部隊長 在單次戰鬥中使用攻擊技能擊殺綠色的黎明單位"
     },
     {
       "id": "missionConditionTitle_10008",
@@ -74,15 +74,15 @@
     },
     {
       "id": "missionConditionTitle_20002",
-      "content": "單一戰鬥中殺死 綠色的黎明 - 疑問 - γ 單位"
+      "content": "單次戰鬥中擊殺 綠色的黎明 - 疑問 - γ 單位"
     },
     {
       "id": "missionConditionTitle_20003",
-      "content": "單一戰鬥中擊敗 綠色的黎明 - 疑問 - δ 單位"
+      "content": "單次戰鬥中擊敗 綠色的黎明 - 疑問 - δ 單位"
     },
     {
       "id": "missionConditionTitle_20004",
-      "content": "全體友方單位生存的條件下完成鎮壓"
+      "content": "全體友方單位存活的條件下完成鎮壓"
     },
     {
       "id": "missionConditionTitle_20005",
@@ -90,11 +90,11 @@
     },
     {
       "id": "missionConditionTitle_20006",
-      "content": "使用單一攻擊技能殺死7個綠色的黎明單位"
+      "content": "使用單個攻擊技能擊殺7個綠色的黎明單位"
     },
     {
       "id": "missionConditionTitle_20007",
-      "content": "控制部隊長 在單一戰鬥中使用攻擊技能擊殺綠色的黎明單位"
+      "content": "控制部隊長 在單次戰鬥中使用攻擊技能擊殺綠色的黎明單位"
     },
     {
       "id": "missionConditionTitle_20008",

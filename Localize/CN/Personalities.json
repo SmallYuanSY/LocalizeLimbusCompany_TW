@@ -219,7 +219,7 @@
     },
     {
       "id": 10903,
-      "title": "LCCB\n係長",
+      "title": "LCCB\n系長",
       "name": "羅佳",
       "nameWithTitle": "羅佳",
       "desc": "羅佳的第3人格"
@@ -233,21 +233,21 @@
     },
     {
       "id": 11103,
-      "title": "G公司\n部門經理",
+      "title": "G公司\n部長",
       "name": "奧提斯",
       "nameWithTitle": "奧提斯",
       "desc": "奧提斯的第3人格"
     },
     {
       "id": 11203,
-      "title": "G公司\n科長助理",
+      "title": "G公司\n科長代理",
       "name": "格里高爾",
       "nameWithTitle": "格里高爾",
       "desc": "格里高爾的第3人格"
     },
     {
       "id": 10804,
-      "title": "LCCB\n係長",
+      "title": "LCCB\n系長",
       "name": "以實瑪利",
       "nameWithTitle": "以實瑪利",
       "desc": "以實瑪利的第4人格"
@@ -373,7 +373,7 @@
     },
     {
       "id": 10805,
-      "title": "腦葉公司E.G.O::蕩漾",
+      "title": "腦葉公司\nE.G.O::盪漾",
       "name": "以實瑪利",
       "nameWithTitle": "以實瑪利",
       "desc": "以實瑪利的第5人格"
@@ -535,16 +535,16 @@
     {
       "id": 10306,
       "title": "中指\n幼妹",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第6人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第6人格"
     },
     {
       "id": 10507,
       "title": "中指\n幼弟",
       "name": "默爾索",
       "nameWithTitle": "默爾索",
-      "desc": "莫爾梭的第7人格"
+      "desc": "默爾索的第7人格"
     },
     {
       "id": 10707,
@@ -579,42 +579,42 @@
       "title": "腦葉公司E.G.O::魔彈",
       "name": "奧提斯",
       "nameWithTitle": "奧提斯",
-      "desc": "奧提斯的第7個人格"
+      "desc": "奧提斯的第7人格"
     },
     {
       "id": 10307,
       "title": "腦葉公司E.G.O::提燈",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第7個人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第7人格"
     },
     {
       "id": 10608,
       "title": "Dieci協會\n南部4科",
       "name": "鴻璐",
       "nameWithTitle": "鴻璐",
-      "desc": "鴻璐的第8個人格"
+      "desc": "鴻璐的第8人格"
     },
     {
       "id": 10108,
       "title": "Dieci協會\n南部4科",
       "name": "李箱",
       "nameWithTitle": "李箱",
-      "desc": "李箱的第8個人格"
+      "desc": "李箱的第8人格"
     },
     {
       "id": 10808,
       "title": "裴廓德號\n船長 ",
       "name": "以實瑪利",
       "nameWithTitle": "以實瑪利",
-      "desc": "以實瑪利的第8個人格"
+      "desc": "以實瑪利的第8人格"
     },
     {
       "id": 10508,
       "title": "劍契組\n頭領",
       "name": "默爾索",
       "nameWithTitle": "默爾索",
-      "desc": "莫爾梭的第8人格"
+      "desc": "默爾索的第8人格"
     },
     {
       "id": 10208,
@@ -626,9 +626,9 @@
     {
       "id": 10308,
       "title": "劍契組\n殺手",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第8人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第8人格"
     },
     {
       "id": 11208,
@@ -639,7 +639,7 @@
     },
     {
       "id": 10908,
-      "title": "六協會\n南部4科 科長",
+      "title": "六協會\n南部4科科長",
       "name": "羅佳",
       "nameWithTitle": "羅佳",
       "desc": "羅佳的第8人格"
@@ -653,7 +653,7 @@
     },
     {
       "id": 10708,
-      "title": "Öufi協會南部\n3科",
+      "title": "Öufi協會\n南部3科",
       "name": "希斯克利夫",
       "nameWithTitle": "希斯克利夫",
       "desc": "希斯克利夫的第8人格"
@@ -670,7 +670,7 @@
       "title": "死兔幫\n老大",
       "name": "默爾索",
       "nameWithTitle": "默爾索",
-      "desc": "莫爾梭的第9人格"
+      "desc": "默爾索的第9人格"
     },
     {
       "id": 11209,
@@ -688,7 +688,7 @@
     },
     {
       "id": 9999,
-      "title": "猩紅視線",
+      "title": "猩紅凝視",
       "name": "維吉里烏斯",
       "nameWithTitle": "",
       "desc": ""
@@ -741,6 +741,20 @@
       "name": "良秀",
       "nameWithTitle": "良秀",
       "desc": "良秀的第9人格"
+    },
+    {
+      "id": 10309,
+      "title": "T公司\n3級徵收人員",
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第9人格"
+    },
+    {
+      "id": 10909,
+      "title": "T公司\n2級徵收人員",
+      "name": "羅佳",
+      "nameWithTitle": "羅佳",
+      "desc": "羅佳的第9人格"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
-   "dataList": [
-     {
-       "id": "limbus_1st_anniversary_attendance_desc",
-       "content": "活動期間每日登陸，即可獲得提取券。\n累積7日、14日登陸時可獲得特殊獎勵。"
-     },
-     {
-       "id": "limbus_1st_anniversary_attendance_last_reward_desc",
-       "content": "已經擁有該播報員時，則替換為50個紡錘箱。"
-     },
-     {
-       "id": "limbus_1st_anniversary_welcome_title",
-       "content": "邊獄公司1週年"
-     },
-     {
-       "id": "limbus_1st_anniversary_welcome_desc",
-       "content": "活動期間登錄，將可獲得3★人格必得十連提取券！"
-     }
-   ]
+  "dataList": [
+    {
+      "id": "limbus_1st_anniversary_attendance_desc",
+      "content": "活動期間每日登陸即可獲得提取券。\n累計登錄7日、14日時可獲得特殊獎勵。"
+    },
+    {
+      "id": "limbus_1st_anniversary_attendance_last_reward_desc",
+      "content": "當您已經擁有該播報員時，其將被替換為50個紡錘箱。"
+    },
+    {
+      "id": "limbus_1st_anniversary_welcome_title",
+      "content": "邊獄公司1週年"
+    },
+    {
+      "id": "limbus_1st_anniversary_welcome_desc",
+      "content": "活動期間登錄，即可獲贈3★人格必得十連提取券！"
+    }
+  ]
 }

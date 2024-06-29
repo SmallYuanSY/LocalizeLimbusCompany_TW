@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "攻擊命令",
-          "desc": "[WhenUse] 下回合使隨機友方單位獲得1層強壯 "
+          "desc": "[WhenUse] 下回合隨機使1名友方單位獲得1層強壯 "
         }
       ]
     },
@@ -83,7 +83,7 @@
         {
           "level": 1,
           "name": "防禦命令",
-          "desc": "[2xPostLine]\n[WhenUse] 下回合使2名隨機友方單位獲得2層忍耐 "
+          "desc": "[2xPostLine]\n[WhenUse] 下回合隨機使2名友方單位獲得2層忍耐 "
         }
       ]
     },
@@ -585,7 +585,7 @@
         {
           "level": 1,
           "name": "防禦命令",
-          "desc": "[WhenUse] 下回合使2名隨機友方單位獲得1層守護 ",
+          "desc": "[WhenUse] 下回合隨機使2名友方單位獲得1層守護 ",
           "coinlist": [
             {}
           ]
@@ -653,7 +653,7 @@
         {
           "level": 1,
           "name": "攻擊命令",
-          "desc": "[WhenUse] 下回合使2名隨機友方單位獲得1層傷害強化 ",
+          "desc": "[WhenUse] 下回合隨機使2名友方單位獲得1層傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -701,7 +701,7 @@
         {
           "level": 1,
           "name": "防禦命令",
-          "desc": "[WhenUse] 下回合使2名隨機友方單位獲得1層守護 ",
+          "desc": "[WhenUse] 下回合隨機使2名友方單位獲得1層守護 ",
           "coinlist": [
             {
               "coindescs": [
@@ -759,7 +759,7 @@
         {
           "level": 1,
           "name": "時來運轉",
-          "desc": "[StartBattle] 使自身本回合第2個技能槽的技能中所有硬幣的朝向都必定是正面",
+          "desc": "[StartBattle] 使自身本回合第2個行動槽的技能中所有硬幣的朝向都必定是正面",
           "coinlist": [
             {}
           ]
@@ -812,7 +812,7 @@
         {
           "level": 1,
           "name": "時來運轉",
-          "desc": "[StartBattle] 使自身本回合第2個技能槽的技能中所有硬幣的朝向都必定是正面",
+          "desc": "[StartBattle] 使自身本回合第2個行動槽的技能中所有硬幣的朝向都必定是正面",
           "coinlist": [
             {}
           ]
@@ -837,7 +837,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "刁鑽突刺",
+          "name": "刁鉆突刺",
           "desc": "",
           "coinlist": [
             {
@@ -857,7 +857,7 @@
         {
           "level": 1,
           "name": "時來運轉",
-          "desc": "[StartBattle] 使自身本回合第2個技能槽的技能中所有硬幣的朝向都必定是正面",
+          "desc": "[StartBattle] 使自身本回合第2個行動槽的技能中所有硬幣的朝向都必定是正面",
           "coinlist": [
             {}
           ]
@@ -902,7 +902,7 @@
         {
           "level": 1,
           "name": "入骨尖刀",
-          "desc": "[BeforeAttack] 若目標的體力低於50%，則使使本技能的前兩枚硬幣額外使用1次",
+          "desc": "[BeforeAttack] 若目標現存體力不高於50%，則重複使用本技能的前兩枚硬幣1次",
           "coinlist": [
             {
               "coindescs": [
@@ -928,7 +928,7 @@
         {
           "level": 1,
           "name": "碎屍萬段",
-          "desc": "[EnemyKill] 本技能額外使用1次",
+          "desc": "[EnemyKill] 重複使用本技能1次",
           "coinlist": [
             {
               "coindescs": [
@@ -960,7 +960,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "都瞧好了……！",
+          "name": "都瞧好了…！",
           "desc": "[StartBattle] 使自身獲得1層強壯 ",
           "coinlist": [
             {}
@@ -1065,7 +1065,7 @@
         {
           "level": 1,
           "name": "自討苦吃！",
-          "desc": "[WinDuel] 使本技能的威力+1",
+          "desc": "[WinDuel] 使本技能威力+1",
           "coinlist": [
             {}
           ]
@@ -1131,7 +1131,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
@@ -1146,14 +1146,14 @@
         {
           "level": 1,
           "name": "無差別鎮壓",
-          "desc": "[WinDuel] 使本技能的威力+2",
+          "desc": "[WinDuel] 使本技能威力+2",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1247,7 +1247,7 @@
         {
           "level": 1,
           "name": "笑裡藏刀",
-          "desc": "若目標的理智值低於0，則使使本技能的威力+1",
+          "desc": "若目標的理智值不高於0點，則使本技能威力+1",
           "coinlist": [
             {}
           ]
@@ -1331,7 +1331,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層虛弱 和3層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層虛弱 和3層麻痹 "
                 }
               ]
             }
@@ -1385,12 +1385,12 @@
         {
           "level": 1,
           "name": "皮納塔派對~！",
-          "desc": "[WhenUse] 若目標的理智值低於0，則使根據其理智值按比例增加自身的暴擊率",
+          "desc": "[WhenUse] 若目標的理智值不高於0點，則根據其理智值按比例增加自身的暴擊率",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身的混亂閾值後移本硬幣傷害量的50%"
+                  "desc": "[OnSucceedAttackHead] 使自身的混亂閾值后移本硬幣傷害量的50%"
                 }
               ]
             }
@@ -1404,7 +1404,7 @@
         {
           "level": 1,
           "name": "精彩絕倫！",
-          "desc": "[OnSucceedEvade] 使自身的混亂閾值後移5；對目標造成5點理智傷害",
+          "desc": "[OnSucceedEvade] 使自身的混亂閾值后移5；對目標造成5點理智傷害",
           "coinlist": [
             {}
           ]
@@ -1417,7 +1417,7 @@
         {
           "level": 1,
           "name": "扒了你的皮",
-          "desc": "若目標的理智值低於自身，則使本技能的威力+1",
+          "desc": "若目標的理智值不高於自身，則使本技能威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1442,7 +1442,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "“熱烈”歡迎",
+          "name": "「熱烈」歡迎",
           "desc": "",
           "coinlist": [
             {
@@ -1462,7 +1462,7 @@
         {
           "level": 1,
           "name": "污言穢語",
-          "desc": "[WinDuel] 使隨機友方單位恢復10點理智值",
+          "desc": "[WinDuel] 隨機使1名友方單位恢復10點理智值",
           "coinlist": [
             {},
             {
@@ -1487,7 +1487,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1514,7 +1514,7 @@
         {
           "level": 1,
           "name": "給你開個瓢",
-          "desc": "若目標的理智值低於自身，則使本技能的威力+1",
+          "desc": "若目標的理智值不高於自身，則使本技能威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1605,7 +1605,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "激活HP彈",
+          "name": "啟用HP彈",
           "desc": "[WhenUse] 使自身恢復10點體力",
           "coinlist": [
             {}
@@ -1617,7 +1617,7 @@
       "id": 9002901,
       "levelList": [
         {
-          "level":1,
+          "level": 1,
           "name": "鎮壓",
           "desc": "",
           "coinlist": [
@@ -1638,7 +1638,7 @@
         {
           "level": 1,
           "name": "防護",
-          "desc": "[WinDuel] 下回合使2名隨機友方單位獲得1層忍耐 ",
+          "desc": "[WinDuel] 下回合隨機使2名友方單位獲得1層忍耐 ",
           "coinlist": [
             {}
           ]
@@ -1699,7 +1699,7 @@
         {
           "level": 1,
           "name": "掩護",
-          "desc": "[WinDuel] 下回合使自身以外的1名隨機友方單位獲得2層守護 ",
+          "desc": "[WinDuel] 下回合隨機使除自身以外的1名友方單位獲得2層守護 ",
           "coinlist": [
             {}
           ]
@@ -1778,7 +1778,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 和1層破綻 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 和1層破綻 "
                 }
               ]
             }
@@ -1944,7 +1944,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 和2層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 和2層麻痹 "
                 }
               ]
             }
@@ -1990,7 +1990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的N公司的尖釘 層數高於5層，則使在下回合對其施加10層束縛 "
+                  "desc": "[OnSucceedAttack] 若目標的N公司的尖釘 層數不低於5層，則在下回合對其施加10層束縛 "
                 }
               ]
             }
@@ -2036,7 +2036,7 @@
         {
           "level": 1,
           "name": "集結",
-          "desc": "[WinDuel] 下回合使2名隨機友方單位獲得1層狂信 ",
+          "desc": "[WinDuel] 下回合隨機使2名友方單位獲得1層狂信 ",
           "coinlist": [
             {
               "coindescs": [
@@ -2068,7 +2068,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "裁決之鎚",
+          "name": "裁決之錘",
           "desc": "",
           "coinlist": [
             {
@@ -2140,7 +2140,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]若目標的N公司的尖釘 層數高於5層，則使在下回合對其施加10層虛弱 和10層麻痺 "
+                  "desc": "[OnSucceedAttack] 若目標的N公司的尖釘 層數不低於5層，則在下回合對其施加10層虛弱 和10層麻痹 "
                 }
               ]
             }
@@ -2206,7 +2206,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "聖錘，聽命……！",
+          "name": "聖錘，聽命…！",
           "desc": "[WinDuel] 下回合使全體友方單位獲得1層狂信 ",
           "coinlist": [
             {
@@ -2225,7 +2225,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "滌淨汝罪",
+          "name": "滌凈汝罪",
           "desc": "",
           "coinlist": [
             {
@@ -2238,7 +2238,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的N公司的尖釘 層數高於5層，則使使其陷入混亂"
+                  "desc": "[OnSucceedAttack] 若目標的N公司的尖釘 層數不低於5層，則使其陷入混亂"
                 }
               ]
             }
@@ -2265,7 +2265,7 @@
         {
           "level": 1,
           "name": "尖釘洗禮",
-          "desc": "自身的體力低於50%時，本技能施加的N公司的尖釘 層數額外+1層",
+          "desc": "若現存體力不高於50%，則使本技能施加的N公司的尖釘 層數額外+1層",
           "coinlist": [
             {
               "coindescs": [
@@ -2316,8 +2316,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "鑄就偉業……！",
-          "desc": "[WhenUse] 下回合使全體友方單位獲得1層N公司的尖釘 ",
+          "name": "鑄就偉業…！",
+          "desc": "[WhenUse] 下回合使全體友方單位獲得1層狂信 ",
           "coinlist": [
             {}
           ]
@@ -2329,7 +2329,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "滌淨……罪孽！",
+          "name": "滌凈…罪孽！",
           "desc": "",
           "coinlist": [
             {
@@ -2342,7 +2342,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的N公司的尖釘 層數高於5層，則使使其陷入混亂"
+                  "desc": "[OnSucceedAttack] 若目標的N公司的尖釘 層數不低於5層，則使其陷入混亂"
                 }
               ]
             }
@@ -2356,7 +2356,7 @@
         {
           "level": 1,
           "name": "異端抹殺",
-          "desc": "若目標擁有N公司的尖釘 ，則使使本技能造成的傷害+100%",
+          "desc": "若目標帶有N公司的尖釘 ，則使本技能造成的傷害+100%",
           "coinlist": [
             {
               "coindescs": [
@@ -2381,7 +2381,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "愚不可及……！",
+          "name": "愚不可及…！",
           "desc": "",
           "coinlist": [
             {
@@ -2516,7 +2516,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加層數等同於本技能正面硬幣數的麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加層數等同於本技能正面硬幣數的麻痹 "
                 }
               ]
             }
@@ -2601,7 +2601,7 @@
         {
           "level": 1,
           "name": "嘰嘰嘰嘰",
-          "desc": "若自身在上回合未受到傷害，則使使本技能的硬幣威力+1",
+          "desc": "若自身在上回合未受到傷害，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -2735,7 +2735,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "正在掃描弱點。",
+          "name": "正在掃瞄弱點。",
           "desc": "",
           "coinlist": [
             {
@@ -2760,7 +2760,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -2842,7 +2842,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層虛弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆  "
+                  "desc": "[OnSucceedAttackHead] 使目標震顫引爆 "
                 }
               ]
             }
@@ -2904,13 +2904,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "圓鋸……下切。",
+          "name": "圓鋸…下切。",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] d對目標施加5層破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             },
@@ -2950,7 +2950,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "裝填……發射",
+          "name": "裝填…發射",
           "desc": "",
           "coinlist": [
             {
@@ -2991,7 +2991,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "注意 注意 搖晃",
+          "name": "注意 注意 不穩",
           "desc": "",
           "coinlist": [
             {
@@ -3053,12 +3053,12 @@
         {
           "level": 1,
           "name": "發現 發現 損傷",
-          "desc": "指定擁有破裂 的單位",
+          "desc": "優先指定帶有破裂 的單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據破裂 層數，追加固定傷害"
+                  "desc": "[OnSucceedAttack] 根據目標的破裂 層數，對其額外造成相應的固定傷害"
                 }
               ]
             }
@@ -3094,7 +3094,7 @@
         {
           "level": 1,
           "name": "崩潰瓦解。",
-          "desc": "指定擁有震顫 的單位",
+          "desc": "優先指定帶有震顫 的單位",
           "coinlist": [
             {
               "coindescs": [
@@ -3102,7 +3102,7 @@
                   "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加5層麻痹 "
                 }
               ]
             }
@@ -3116,7 +3116,7 @@
         {
           "level": 1,
           "name": "注意 注意 正在搖晃",
-          "desc": "優先攻擊擁有震顫 的單位",
+          "desc": "優先指定帶有震顫 的單位",
           "coinlist": [
             {
               "coindescs": [
@@ -3226,7 +3226,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "收尾了！",
+          "name": "收工了！",
           "desc": "",
           "coinlist": [
             {
@@ -3253,7 +3253,7 @@
         {
           "level": 1,
           "name": "發動引擎",
-          "desc": "[WhenUse] 下回合使自身獲得1層震顫同步  ",
+          "desc": "[WhenUse] 下回合使自身獲得1層震顫同步 ",
           "coinlist": [
             {}
           ]
@@ -3290,7 +3290,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據目標的震顫 強度，相應增加震顫 強度"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的震顫 強度，相應增加震顫 強度"
                 }
               ]
             }
@@ -3337,7 +3337,7 @@
         {
           "level": 1,
           "name": "發動引擎",
-          "desc": "[WhenUse] 下回合使自身獲得1層震顫同步  ",
+          "desc": "[WhenUse] 下回合使自身獲得1層震顫同步 ",
           "coinlist": [
             {}
           ]
@@ -3413,7 +3413,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "震顫震動",
+          "name": "震震顫顫",
           "desc": "",
           "coinlist": [
             {},
@@ -3421,7 +3421,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 前兩枚硬幣為正面時，根據目標的震顫 強度，增加相應的震顫 強度"
+                  "desc": "[OnSucceedAttack] 前兩枚硬幣為正面時，根據目標帶有的震顫 強度，增加相應的震顫 強度"
                 }
               ]
             },
@@ -3493,7 +3493,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合根據目標擁有的震顫 強度，施加相應層數的麻痺 "
+                  "desc": "[OnSucceedAttackHead] 根據目標帶有的震顫 強度，下回合對其施加相應層數的麻痹 "
                 }
               ]
             }
@@ -3512,7 +3512,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據目標擁有的震顫 強度，相應增加震顫 強度"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的震顫 強度，相應增加震顫 強度"
                 }
               ]
             }
@@ -3539,10 +3539,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據目標擁有的震顫 強度，相應增加震顫 強度"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的震顫 強度，相應增加震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合根據目標擁有的震顫 強度，施加相應層數的麻痺 "
+                  "desc": "[OnSucceedAttackHead] 根據目標帶有的震顫 強度，下回合對其施加相應層數的麻痹 "
                 }
               ]
             }
@@ -3743,7 +3743,7 @@
         {
           "level": 1,
           "name": "進行拘捕！",
-          "desc": "優先攻擊擁有震顫 的單位",
+          "desc": "優先指定帶有震顫 的單位",
           "coinlist": [
             {
               "coindescs": [
@@ -3794,7 +3794,7 @@
         {
           "level": 1,
           "name": "注射防禦安瓿",
-          "desc": "[CantDuel][WhenUse] 指定友方單位\n使目標獲得1層隨機屬性守護\n造成傷害為0",
+          "desc": "[CantDuel][WhenUse] 指定友方單位\n使目標獲得1層隨機屬性守護。\n造成傷害為0。",
           "coinlist": [
             {
               "coindescs": [
@@ -3818,7 +3818,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層崩解安瓿 \n下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層崩解安瓿 \n下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -3856,7 +3856,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 對目標施加2層崩解安瓿 "
@@ -3912,7 +3912,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目標獲得2層傷害強化"
+                  "desc": "[OnSucceedAttack] 下回合使目標獲得2層傷害強化 "
                 }
               ]
             }
@@ -4193,7 +4193,7 @@
         {
           "level": 1,
           "name": "凸顯傷口",
-          "desc": "[EndBattle] 消耗全部糾纏的咒符 ",
+          "desc": "[EndBattle] 消耗所有糾纏的咒符 ",
           "coinlist": [
             {
               "coindescs": [
@@ -4312,7 +4312,7 @@
         {
           "level": 1,
           "name": "液體阻塞",
-          "desc": "[WhenUse] 使自身恢復體力上限5%的體力\n下回合對自身獲得2層易損 \n[EndBattle] 消耗全部醉意 ",
+          "desc": "[WhenUse] 使自身恢復體力上限5%的體力\n下回合對自身施加2層易損 \n[EndBattle] 消耗所有醉意 ",
           "coinlist": [
             {
               "coindescs": [
@@ -4350,7 +4350,7 @@
         {
           "level": 1,
           "name": "打擊詛咒",
-          "desc": "[WhenUse] 獲得1層複貼的咒符 ",
+          "desc": "[WhenUse] 獲得1層復貼的咒符 ",
           "coinlist": [
             {},
             {
@@ -4370,13 +4370,13 @@
         {
           "level": 1,
           "name": "增殖護符",
-          "desc": "指定破裂 強度最高的單位",
+          "desc": "優先指定破裂 強度最高的單位",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據複貼的咒符 層數，使目標增加相應的破裂 強度"
+                  "desc": "[OnSucceedAttack] 根據復貼的咒符 層數，使目標增加相應的破裂 強度"
                 }
               ]
             }
@@ -4389,7 +4389,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "麻痺詛咒",
+          "name": "麻痹詛咒",
           "desc": "[EndBattle] 消耗目標所有復貼的咒符 ",
           "coinlist": [
             {},
@@ -4403,7 +4403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據消耗的複貼的咒符 層數，對目標施加相應層數的麻痺 "
+                  "desc": "[OnSucceedAttack] 根據復貼的咒符 層數，對目標施加相應層數的麻痹 "
                 }
               ]
             }
@@ -4417,12 +4417,12 @@
         {
           "level": 1,
           "name": "束縛咒符",
-          "desc": "指定複貼的咒符 層數最高的單位",
+          "desc": "優先指定復貼的咒符 層數最高的單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層複貼的咒符 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層復貼的咒符 "
                 }
               ]
             }
@@ -4436,19 +4436,19 @@
         {
           "level": 1,
           "name": "泯滅咒符",
-          "desc": "指定複貼的咒符 層數最多的單位\n[EndBattle] 消耗目標所有復貼的咒符 ",
+          "desc": "優先指定復貼的咒符 層數最高的單位\n[EndBattle] 消耗目標所有復貼的咒符 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層複貼的咒符 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層復貼的咒符 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 若目標擁有不低於9層複貼的咒符 ，則使對目標施加5層麻痺 \n造成傷害量50%的固定傷害"
+                  "desc": "[OnSucceedAttackHead] 若目標帶有不低於9層復貼的咒符 ，則對目標施加5層麻痹 \n造成傷害量50%的固定傷害"
                 }
               ]
             }
@@ -4462,7 +4462,7 @@
         {
           "level": 1,
           "name": "蔓延咒符",
-          "desc": "[WhenUse] 對目標施加2層複貼的咒符 ",
+          "desc": "[WhenUse] 對目標施加2層復貼的咒符 ",
           "coinlist": [
             {
               "coindescs": [
@@ -4481,19 +4481,19 @@
         {
           "level": 1,
           "name": "泯滅咒符",
-          "desc": "指定複貼的咒符 層數最多的單位\n[EndBattle] 消耗目標所有復貼的咒符 ",
+          "desc": "優先指定復貼的咒符 層數最高的單位\n[EndBattle] 消耗目標所有復貼的咒符 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層複貼的咒符 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層復貼的咒符 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 若目標擁有不低於9層複貼的咒符 時，則使目標施加5層麻痺 \n造成傷害量50%的固定傷害"
+                  "desc": "[OnSucceedAttackHead] 若目標帶有不低於9層復貼的咒符 時，則對目標施加5層麻痹 \n對目標追加本硬幣傷害量50%的固定傷害"
                 }
               ]
             }
@@ -4546,7 +4546,7 @@
         {
           "level": 1,
           "name": "攔截可疑目標",
-          "desc": "指定體力最多的單位",
+          "desc": "優先指定體力最高的單位",
           "coinlist": [
             {},
             {
@@ -4579,16 +4579,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "嚙合的瞬間",
+          "name": "齧合的瞬間",
           "desc": "[WhenUse] 使自身獲得1層充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 獲得1層嚙合的時間 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層齧合的時間 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗2層充能 ，對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 消耗2層充能 ，對目標施加3層麻痹 "
                 }
               ]
             }
@@ -4607,7 +4607,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層迅捷 ，下回合對目標施加2層束縛 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 並使自身獲得1層迅捷 "
                 }
               ]
             }
@@ -4621,22 +4621,22 @@
         {
           "level": 1,
           "name": "加速的瞬間",
-          "desc": "[StartBattle] 使自身獲得3層充能 \n[WhenUse] 若自身充能 層數不低於5層，則使拼點威力 +2\n下回合陷入無法行動狀態",
+          "desc": "[StartBattle] 使自身獲得3層充能 \n[WhenUse] 若自身充能 層數不低於5層，則使本技能的拼點威力 +2\n下回合陷入無法行動狀態",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]下回合對目標施加1層束縛 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的充能 層數不低於5層，則使消耗所有的充能，每層使自身的傷害量 +10%"
+                  "desc": "[OnSucceedAttack] 若自身的充能 層數不低於5層，則消耗所有充能 層數，每層使本硬幣造成的傷害 +10%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層嚙合的時間 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層齧合的時間 "
                 }
               ]
             }
@@ -4650,7 +4650,7 @@
         {
           "level": 1,
           "name": "時間租賃",
-          "desc": "[StartBattle] 使自身獲得3層[TimeRental] 與1層充能 ",
+          "desc": "[StartBattle] 使自身獲得3層[TimeRental]與1層充能 ",
           "coinlist": [
             {}
           ]
@@ -4716,7 +4716,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 和3層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 和3層麻痹 "
                 }
               ]
             }
@@ -4735,7 +4735,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 施加3層破裂 "
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -4769,7 +4769,7 @@
         {
           "level": 1,
           "name": "攔截可疑目標",
-          "desc": "指定體力最高的單位",
+          "desc": "優先指定體力最高的單位",
           "coinlist": [
             {},
             {
@@ -4782,7 +4782,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "若第1枚硬幣的朝向為正面，則使本硬幣造成的傷害+10%"
+                  "desc": "若第2枚硬幣的朝向為正面，則使本硬幣造成的傷害+10%"
                 }
               ]
             },

@@ -31,7 +31,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "時間殺手的懲罰",
+          "name": "殺死時間的懲罰",
           "desc": "若自身帶有[TimeAcceleration]，則使本技能的拼點威力+2\n[WhenUse] 若自身的[LimitedTime]層數不低於500層，則對目標施加1層流血 \n[WhenUse] 若自身的[LimitedTime]層數不低於300層，則消耗25層[LimitedTime]並使本技能增加的流血 強度與施加的流血 層數額外+1",
           "coinlist": [
             {
@@ -194,7 +194,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "時間殺手的懲罰",
+          "name": "殺死時間的懲罰",
           "desc": "若自身帶有[TimeAcceleration]，則使本技能的拼點威力+2\n[WhenUse] 若所有部位的[OwnTime]層數總計不低於500層，則對目標施加1層流血 \n[WhenUse] 若[OwnTime]層數總計不低於300層，則消耗25層[OwnTime]並使本技能增加的流血 強度與施加的流血 層數額外+1",
           "coinlist": [
             {
@@ -337,7 +337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 刪除目標的時間。 若目標的時間被刪除，則使所有部位的[OwnTime]恢覆至最大值，下回合使自身獲得10層迅捷 與強壯 "
+                  "desc": "[OnSucceedAttack] 刪除目標的時間。若目標的時間被刪除，則使所有部位的[OwnTime]恢復至最大值，下回合使自身獲得10層迅捷 與強壯 "
                 }
               ]
             }

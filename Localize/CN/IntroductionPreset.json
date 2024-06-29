@@ -162,7 +162,7 @@
     },
     {
       "id": "introduce_sentence_1",
-      "content": "我可以{0}嗎？"
+      "content": "{0}，可以嗎？"
     },
     {
       "id": "introduce_sentence_2",
@@ -178,7 +178,7 @@
     },
     {
       "id": "introduce_sentence_5",
-      "content": "{0}，到了之後叫醒我。"
+      "content": "{0}，到了之後來個人叫醒我。"
     },
     {
       "id": "introduce_sentence_6",
@@ -190,11 +190,11 @@
     },
     {
       "id": "introduce_sentence_8",
-      "content": "諸如{0}之類的直接無視就好，經理先生。"
+      "content": "諸如{0}之類的直接無視就好，執行經理。"
     },
     {
       "id": "introduce_sentence_9",
-      "content": "我們是{0}，不是伸張正義的“英雄”。"
+      "content": "我們不過是{0}而已，不是伸張正義的「英雄」。"
     },
     {
       "id": "introduce_sentence_10",
@@ -210,7 +210,7 @@
     },
     {
       "id": "introduce_sentence_13",
-      "content": "我決定從今以後只專注於{0}！"
+      "content": "我只能專注于{0}的生活了！"
     },
     {
       "id": "introduce_sentence_14",
@@ -222,7 +222,7 @@
     },
     {
       "id": "introduce_sentence_16",
-      "content": "每當心情鬱悶時，我就會藉{0}來放縱些許。"
+      "content": "每當心情鬱悶時，我就會借{0}來放縱些許。"
     },
     {
       "id": "introduce_sentence_17",
@@ -254,7 +254,7 @@
     },
     {
       "id": "introduce_sentence_24",
-      "content": "真是的……這也能稱之為{0}嗎，哼……"
+      "content": "真是的……這也能稱之為{0}嗎……"
     },
     {
       "id": "introduce_sentence_25",
@@ -266,7 +266,7 @@
     },
     {
       "id": "introduce_sentence_27",
-      "content": "吾做夢都想成為像您一樣超厲害的{0}！ "
+      "content": "吾做夢都想成為像您一樣超厲害的{0}！"
     },
     {
       "id": "introduce_sentence_28",
@@ -310,11 +310,11 @@
     },
     {
       "id": "introduce_sentence_38",
-      "content": "喂！這{0}還有嗎？怪好吃的。"
+      "content": "喂！{0}還有嗎？怪好吃的。"
     },
     {
       "id": "introduce_sentence_39",
-      "content": "叫我{0}吧。"
+      "content": "請叫我{0}。"
     },
     {
       "id": "introduce_sentence_40",
@@ -334,7 +334,7 @@
     },
     {
       "id": "introduce_sentence_42",
-      "content": "向您致敬！！！！！吾懇求您在離去之前試試這{0}！！！！！"
+      "content": "向您致敬！！！！！吾懇求您在離去之前嚐嚐{0}！！！！！"
     },
     {
       "id": "introduce_word_43",
@@ -346,7 +346,7 @@
     },
     {
       "id": "introduce_sentence_43",
-      "content": "{0}，進炸鍋裡去吧。"
+      "content": "{0}，進炸鍋里去吧。"
     },
     {
       "id": "introduce_word_45",
@@ -358,7 +358,7 @@
     },
     {
       "id": "introduce_word_46",
-      "content": "淨化"
+      "content": "凈化"
     },
     {
       "id": "introduce_sentence_46",
@@ -378,7 +378,7 @@
     },
     {
       "id": "introduce_sentence_48",
-      "content": "想要躍遷至下一個{0}的話……"
+      "content": "想要躍遷到下一個{0}的話……"
     },
     {
       "id": "introduce_word_49",
@@ -386,23 +386,23 @@
     },
     {
       "id": "introduce_sentence_49",
-      "content": "……是，十分感謝您的來電。這裡是{0}。一直以來承蒙您關照。"
+      "content": "……是，十分感謝您的來電。這裡是{0}。請講。"
     },
     {
       "id": "introduce_word_50",
-      "content": "全壓"
+      "content": "梭哈"
     },
     {
       "id": "introduce_sentence_50",
-      "content": "好……要{0}咯~。來吧，放馬過來！"
+      "content": "好……我{0}咯~來吧，放馬過來！"
     },
     {
       "id": "introduce_word_51",
-      "content": "這邊"
+      "content": "這裡"
     },
     {
       "id": "introduce_sentence_51",
-      "content": "好……{0}來了！"
+      "content": "來吧……{0}！"
     },
     {
       "id": "introduce_word_52",
@@ -414,7 +414,7 @@
     },
     {
       "id": "introduce_word_53",
-      "content": "朋友"
+      "content": "同伴"
     },
     {
       "id": "introduce_sentence_53",
@@ -434,7 +434,7 @@
     },
     {
       "id": "introduce_sentence_55",
-      "content": "現在是{0}時間。"
+      "content": "是該{0}的時候了。"
     },
     {
       "id": "introduce_word_56",
@@ -442,7 +442,7 @@
     },
     {
       "id": "introduce_sentence_56",
-      "content": "我不需要……多餘的{0}！"
+      "content": "那些毫無意義的{0}……我不需要！"
     },
     {
       "id": "introduce_word_57",
@@ -450,7 +450,7 @@
     },
     {
       "id": "introduce_sentence_57",
-      "content": "{0}的前途黯淡無光。"
+      "content": "{0}的前方黯淡無光。"
     },
     {
       "id": "introduce_word_58",
@@ -458,7 +458,7 @@
     },
     {
       "id": "introduce_sentence_58",
-      "content": "不知{0}是否會滴水。"
+      "content": "不知{0}是否會漏水。"
     },
     {
       "id": "introduce_word_59",
@@ -502,7 +502,7 @@
     },
     {
       "id": "introduce_word_64",
-      "content": "眼睛"
+      "content": "眾多眼睛"
     },
     {
       "id": "introduce_sentence_64",
@@ -530,7 +530,7 @@
     },
     {
       "id": "introduce_sentence_67",
-      "content": "噓，現在正在{0}呢。"
+      "content": "噓，現在正在{0}中呢。"
     },
     {
       "id": "introduce_word_68",
@@ -546,7 +546,7 @@
     },
     {
       "id": "introduce_sentence_69",
-      "content": "好好聽話啊…{0}不要這樣做！"
+      "content": "老實點別動啊……可別做{0}！"
     },
     {
       "id": "introduce_word_70",
@@ -554,7 +554,7 @@
     },
     {
       "id": "introduce_sentence_70",
-      "content": "好的…接下來是{0}…。"
+      "content": "好的……接下來是{0}……"
     },
     {
       "id": "introduce_word_71",
@@ -562,7 +562,7 @@
     },
     {
       "id": "introduce_sentence_71",
-      "content": "好~{0}完畢！"
+      "content": "好~{0}完成！"
     },
     {
       "id": "introduce_word_72",
@@ -586,7 +586,7 @@
     },
     {
       "id": "introduce_sentence_74",
-      "content": "我並不是什麼{0}對象……"
+      "content": "但我並不是{0}目標……"
     },
     {
       "id": "introduce_word_75",
@@ -602,7 +602,7 @@
     },
     {
       "id": "introduce_sentence_76",
-      "content": "那些{0}裡往往相當擁擠，不這麼覺得嗎？"
+      "content": "{0}往往相當擁擠，您不這麼覺得嗎？"
     },
     {
       "id": "introduce_word_77",
@@ -610,7 +610,7 @@
     },
     {
       "id": "introduce_sentence_77",
-      "content": "{0}請來這邊。"
+      "content": "在{0}受理點單。"
     },
     {
       "id": "introduce_word_78",
@@ -618,7 +618,7 @@
     },
     {
       "id": "introduce_sentence_78",
-      "content": "去把{0}收拾掉吧。"
+      "content": "去解決{0}吧？"
     },
     {
       "id": "introduce_word_79",
@@ -642,7 +642,7 @@
     },
     {
       "id": "introduce_sentence_81",
-      "content": "學海無涯{0}作舟…什麼什麼的。"
+      "content": "學海無涯{0}作舟，什麼什麼的……"
     },
     {
       "id": "introduce_word_82",
@@ -650,7 +650,7 @@
     },
     {
       "id": "introduce_sentence_82",
-      "content": "在你們踏足{0}的那一刻時…就該發現的！"
+      "content": "當你們踏入{0}的那一刻起……就該注意到的！"
     },
     {
       "id": "introduce_word_83",
@@ -662,11 +662,11 @@
     },
     {
       "id": "introduce_word_84",
-      "content": "控制部"
+      "content": "控制"
     },
     {
       "id": "introduce_sentence_84",
-      "content": "現在…正在移動至{0}部門。"
+      "content": "現在……正在移動至{0}部。"
     },
     {
       "id": "introduce_word_85",
@@ -674,23 +674,23 @@
     },
     {
       "id": "introduce_sentence_85",
-      "content": "嗯…但我總覺得這{0}辦不長久。"
+      "content": "嗯……但我總覺得這{0}辦不長久。"
     },
     {
       "id": "introduce_word_86",
-      "content": "暴力行為"
+      "content": "施暴"
     },
     {
       "id": "introduce_sentence_86",
-      "content": "這身拘束服，根本就不足以阻止…我的{0}。"
+      "content": "這身約束衣，根本就不足以……阻止我{0}。"
     },
     {
       "id": "introduce_word_87",
-      "content": "出席"
+      "content": "出勤"
     },
     {
       "id": "introduce_sentence_87",
-      "content": "…我的人生與此{0}別無二致。"
+      "content": "……我的人生與這{0}別無二致。"
     },
     {
       "id": "introduce_word_88",
@@ -698,7 +698,7 @@
     },
     {
       "id": "introduce_sentence_88",
-      "content": "現在，好好看看吧 ~未來的{0}~"
+      "content": "來，請看這裡~未來的{0}~"
     },
     {
       "id": "introduce_word_89",
@@ -706,11 +706,11 @@
     },
     {
       "id": "introduce_sentence_89",
-      "content": "我做{0}只是為了開心。"
+      "content": "我是因為好玩才來{0}的。"
     },
     {
       "id": "introduce_word_90",
-      "content": "冰~淇~淋~"
+      "content": "冰——淇——淋——"
     },
     {
       "id": "introduce_sentence_90",
@@ -730,7 +730,7 @@
     },
     {
       "id": "introduce_sentence_92",
-      "content": "{0}近在眼前…"
+      "content": "{0}近在眼前……"
     },
     {
       "id": "introduce_word_93",
@@ -738,43 +738,43 @@
     },
     {
       "id": "introduce_sentence_93",
-      "content": "{0}寄宿進我的身體…從而重生為可用之材。"
+      "content": "{0}寄宿進我的身體……從而重生為可用之材。"
     },
-     {
-       "id": "introduce_word_94",
-       "content": "滅亡"
-     },
-     {
-       "id": "introduce_sentence_94",
-       "content": "你的{0}…都全部寫在這裡呢！"
-     },
-     {
-       "id": "introduce_word_95",
-       "content": "珍珠"
-     },
-     {
-       "id": "introduce_sentence_95",
-       "content": "連轉化成{0}的價值都沒有！"
-     },
-     {
-       "id": "introduce_word_96",
-       "content": "燈火"
-     },
-     {
-       "id": "introduce_sentence_96",
-       "content": "全員，朝著{0}閃爍的方向行進。"
-     },
-     {
-       "id": "introduce_word_97",
-       "content": "浪潮"
-     },
-     {
-       "id": "introduce_sentence_97",
-       "content": "能在這{0}之中行動的，唯有我一人。"
-     },
+    {
+      "id": "introduce_word_94",
+      "content": "滅亡"
+    },
+    {
+      "id": "introduce_sentence_94",
+      "content": "你的{0}……都寫在這兒呢！"
+    },
+    {
+      "id": "introduce_word_95",
+      "content": "珍珠"
+    },
+    {
+      "id": "introduce_sentence_95",
+      "content": "連轉化成{0}的價值都沒有！"
+    },
+    {
+      "id": "introduce_word_96",
+      "content": "燈火"
+    },
+    {
+      "id": "introduce_sentence_96",
+      "content": "全員，向著{0}閃爍的方位行進。"
+    },
+    {
+      "id": "introduce_word_97",
+      "content": "浪潮"
+    },
+    {
+      "id": "introduce_sentence_97",
+      "content": "能在這{0}之中行動的，唯有我一人。"
+    },
     {
       "id": "introduce_word_98",
-      "content": "繩索"
+      "content": "繩子"
     },
     {
       "id": "introduce_sentence_98",
@@ -782,11 +782,11 @@
     },
     {
       "id": "introduce_word_99",
-      "content": "航線"
+      "content": "航海"
     },
     {
       "id": "introduce_sentence_99",
-      "content": "……一旦此次{0}駛向盡頭。"
+      "content": "……一旦此次{0}結束。"
     },
     {
       "id": "introduce_word_100",
@@ -797,20 +797,20 @@
       "content": "因我將遵從那位所書寫的內容，盡數{0}。"
     },
     {
-     "id": "introduce_word_101",
-     "content": "劍"
+      "id": "introduce_word_101",
+      "content": "劍"
     },
     {
-     "id": "introduce_sentence_101",
-     "content": "凝視…{0}的末端…"
+      "id": "introduce_sentence_101",
+      "content": "凝視……{0}鋒……"
     },
     {
-     "id": "introduce_word_102",
-     "content": "對手"
+      "id": "introduce_word_102",
+      "content": "對手"
     },
     {
-     "id": "introduce_sentence_102",
-     "content": "我的{0}，在哪裡！"
+      "id": "introduce_sentence_102",
+      "content": "我的{0}，在哪裡！"
     },
     {
       "id": "introduce_word_103",
@@ -826,15 +826,15 @@
     },
     {
       "id": "introduce_sentence_104",
-      "content": "我會帶著你短暫的{0}……將禮物傾倒出去。"
+      "content": "我會帶著你無謂的{0}……將禮物傾倒出去。"
     },
     {
       "id": "introduce_word_105",
-      "content": "合約"
+      "content": "契約"
     },
     {
       "id": "introduce_sentence_105",
-      "content": "好吧。我接受{0}。"
+      "content": "好。我接受{0}。"
     },
     {
       "id": "introduce_word_106",
@@ -850,7 +850,7 @@
     },
     {
       "id": "introduce_sentence_107",
-      "content": "您需要{0}嗎？"
+      "content": "需要{0}嗎？"
     },
     {
       "id": "introduce_word_108",
@@ -858,7 +858,7 @@
     },
     {
       "id": "introduce_sentence_108",
-      "content": "正如{0}所寫。"
+      "content": "正如{0}中所寫。"
     },
     {
       "id": "introduce_word_109",
@@ -870,51 +870,51 @@
     },
     {
       "id": "introduce_word_110",
-      "content": "石頭"
+      "content": "石"
     },
     {
       "id": "introduce_sentence_110",
-      "content": "來，祈願吧! 祈願此{0}自願向汝飛來！"
+      "content": "來，祈願吧！祈願此{0}自願向汝飛去！"
     },
-     {
-       "id": "introduce_word_111",
-       "content": "多管閒事"
-     },
-     {
-       "id": "introduce_sentence_111",
-       "content": "{0}屬於大忌。"
-     },
-     {
-       "id": "introduce_word_112",
-       "content": "花"
-     },
-     {
-       "id": "introduce_sentence_112",
-       "content": "讓{0}綻放吧。"
-     },
-     {
-       "id": "introduce_word_113",
-       "content": "漫步"
-     },
-     {
-       "id": "introduce_sentence_113",
-       "content": "一邊觀賞四周，一邊{0}如何？"
-     },
-     {
-       "id": "introduce_word_114",
-       "content": "酒"
-     },
-     {
-       "id": "introduce_sentence_114",
-       "content": "快點給我斟滿{0}…"
-     },
+    {
+      "id": "introduce_word_111",
+      "content": "多管閒事"
+    },
+    {
+      "id": "introduce_sentence_111",
+      "content": "{0}屬於大忌。"
+    },
+    {
+      "id": "introduce_word_112",
+      "content": "花"
+    },
+    {
+      "id": "introduce_sentence_112",
+      "content": "讓{0}綻放吧。"
+    },
+    {
+      "id": "introduce_word_113",
+      "content": "漫步"
+    },
+    {
+      "id": "introduce_sentence_113",
+      "content": "一邊外出巡視，一邊{0}如何？"
+    },
+    {
+      "id": "introduce_word_114",
+      "content": "酒"
+    },
+    {
+      "id": "introduce_sentence_114",
+      "content": "快點給我斟滿{0}……"
+    },
     {
       "id": "introduce_word_115",
       "content": "抵抗"
     },
     {
       "id": "introduce_sentence_115",
-      "content": "停止無用的{0}，接受吧。"
+      "content": "別做無用的{0}了，接受吧。"
     },
     {
       "id": "introduce_word_116",
@@ -922,7 +922,7 @@
     },
     {
       "id": "introduce_sentence_116",
-      "content": "哼。怎麼了，你需要{0}嗎？"
+      "content": "哼。怎麼，你需要{0}么？"
     },
     {
       "id": "introduce_word_117",
@@ -942,11 +942,11 @@
     },
     {
       "id": "introduce_word_119",
-      "content": "午餐"
+      "content": "午飯"
     },
     {
       "id": "introduce_sentence_119",
-      "content": "我將在下一個{0}之前回來。"
+      "content": "我會在下次{0}之前回來。"
     },
     {
       "id": "introduce_word_120",
@@ -954,15 +954,15 @@
     },
     {
       "id": "introduce_sentence_120",
-      "content": "我會帶走你剩下的{0}。"
+      "content": "我會帶走你不再需要的{0}。"
     },
     {
       "id": "introduce_word_121",
-      "content": "惡夢"
+      "content": "噩夢"
     },
     {
       "id": "introduce_sentence_121",
-      "content": "又是那該死的{0}…"
+      "content": "又是那該死的{0}……"
     },
     {
       "id": "introduce_word_122",
@@ -978,7 +978,7 @@
     },
     {
       "id": "introduce_sentence_123",
-      "content": "{0}請馬上離開，{0}…！"
+      "content": "{0}請馬上離開，{0}……！"
     },
     {
       "id": "introduce_word_124",
@@ -986,7 +986,7 @@
     },
     {
       "id": "introduce_sentence_124",
-      "content": "請允許我來…為你介紹這{0}…"
+      "content": "請讓我來……為你介紹{0}吧……"
     },
     {
       "id": "introduce_word_125",
@@ -994,7 +994,7 @@
     },
     {
       "id": "introduce_sentence_125",
-      "content": "汝所見的{0}…是何種顏色！"
+      "content": "汝所見的{0}……是何種顏色！"
     },
     {
       "id": "introduce_word_126",
@@ -1002,7 +1002,7 @@
     },
     {
       "id": "introduce_sentence_126",
-      "content": "我只剩下這些{0}了…咕，連這些也要…！"
+      "content": "我只剩下這些{0}了……咕，連這些也要……！"
     },
     {
       "id": "introduce_word_127",
@@ -1010,7 +1010,7 @@
     },
     {
       "id": "introduce_sentence_127",
-      "content": "你竟敢…挑戰我的{0}？！"
+      "content": "你竟敢……挑戰我的{0}？！"
     },
     {
       "id": "introduce_word_128",
@@ -1018,7 +1018,7 @@
     },
     {
       "id": "introduce_sentence_128",
-      "content": "我注定要被束縛在這{0}上，獨自進行統治…"
+      "content": "我註定被束縛在這{0}之上，獨自統治……"
     },
     {
       "id": "introduce_word_129",
@@ -1050,7 +1050,7 @@
     },
     {
       "id": "introduce_sentence_132",
-      "content": "所以只要把你的{0}剁掉的話……！"
+      "content": "所以只要我砍斷你的{0}……！"
     },
     {
       "id": "introduce_word_133",
@@ -1062,7 +1062,7 @@
     },
     {
       "id": "introduce_word_134",
-      "content": "工作"
+      "content": "任務"
     },
     {
       "id": "introduce_sentence_134",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "introduce_sentence_136",
-      "content": "若我能聚集起所有的悲傷，所有的{0}，並代替他們去哭泣的話……"
+      "content": "若我能聚集起所有的悲傷與{0}，並代替他們去哭泣的話……"
     },
     {
       "id": "introduce_word_137",
@@ -1106,7 +1106,7 @@
     },
     {
       "id": "introduce_sentence_139",
-      "content": "我看你是腦子里缺個{0}。"
+      "content": "我看你是腦子裡缺個{0}。"
     },
     {
       "id": "introduce_word_140",
@@ -1115,6 +1115,22 @@
     {
       "id": "introduce_sentence_140",
       "content": "就那樣。{0}吧。在靜止的時間中。永遠地。"
+    },
+    {
+      "id": "introduce_word_141",
+      "content": "鐘錶"
+    },
+    {
+      "id": "introduce_sentence_141",
+      "content": "此{0}乃是隻要進入T公司就會發放的！"
+    },
+    {
+      "id": "introduce_word_142",
+      "content": "顏色"
+    },
+    {
+      "id": "introduce_sentence_142",
+      "content": "要是我從小到大都不知道{0}就好了。"
     }
   ]
 }

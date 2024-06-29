@@ -6,7 +6,7 @@
     },
     {
       "id": "mainui_settings_graphic",
-      "content": "圖形"
+      "content": "影象"
     },
     {
       "id": "mainui_settings_sound",
@@ -30,11 +30,11 @@
     },
     {
       "id": "mainui_settings_video_resource",
-      "content": "視頻資源"
+      "content": "視訊資源"
     },
     {
       "id": "mainui_settings_audio_resource",
-      "content": "音頻資源"
+      "content": "音訊資源"
     },
     {
       "id": "mainui_settings_animation_resource",
@@ -58,11 +58,11 @@
     },
     {
       "id": "mainui_settings_resolution",
-      "content": "分辨率"
+      "content": "解析度"
     },
     {
       "id": "mainui_settings_resolution_windowded",
-      "content": "窗口化"
+      "content": "視窗化"
     },
     {
       "id": "mainui_settings_resolution_fullscreen",
@@ -74,11 +74,11 @@
     },
     {
       "id": "mainui_settings_resolution_warning",
-      "content": "高分辨率可能會導致設備發熱並增加功耗。"
+      "content": "高解析度可能會導致裝置發熱並增加功耗。"
     },
     {
       "id": "mainui_settings_fps_warning",
-      "content": "高幀數可能會導致設備發熱並增加功耗。"
+      "content": "高幀數可能會導致裝置發熱並增加功耗。"
     },
     {
       "id": "mainui_settings_low",
@@ -94,7 +94,7 @@
     },
     {
       "id": "mainui_settings_postprocessing",
-      "content": "後處理"
+      "content": "后處理"
     },
     {
       "id": "mainui_settings_ppon",
@@ -106,7 +106,7 @@
     },
     {
       "id": "mainui_settings_ppdesc",
-      "content": "控制戰鬥中的鏡頭效果。影響遊戲性能。"
+      "content": "控制戰鬥中的鏡頭效果。影響遊戲效能。"
     },
     {
       "id": "mainui_settings_antialiasing",
@@ -114,11 +114,11 @@
     },
     {
       "id": "mainui_settings_clear",
-      "content": "恢復默認"
+      "content": "恢復預設"
     },
     {
       "id": "mainui_settings_clear_ask",
-      "content": "要將所有選項都恢復為默認狀態嗎？"
+      "content": "要將所有選項都恢復為預設狀態嗎？"
     },
     {
       "id": "mainui_settings_render_acceleration",
@@ -138,7 +138,7 @@
     },
     {
       "id": "mainui_settings_sound_battle_announcer",
-      "content": "播報音量"
+      "content": "播報員"
     },
     {
       "id": "mainui_settings_notice_enkephalin_full",
@@ -166,27 +166,27 @@
     },
     {
       "id": "connect_to_google_account",
-      "content": "綁定Google帳號"
+      "content": "繫結Google賬號"
     },
     {
       "id": "connect_to_apple_account",
-      "content": "綁定Apple帳號"
+      "content": "繫結Apple賬號"
     },
     {
       "id": "explain_sucession",
-      "content": "帳號停用後，所有遊戲數據和消費記錄都會被清除。"
+      "content": "賬號停用后，所有遊戲數據和消費記錄都會被清除。"
     },
     {
       "id": "explain_sucession_remain_days",
-      "content": "您由7天的後悔期。期間可通過登錄來恢復帳號的使用。"
+      "content": "您將有7日的緩衝期。此期間內可通過登錄以恢復賬號。"
     },
     {
       "id": "explain_writing_code_for_sucession",
-      "content": "※ 若您同意上述條款，\n請輸入輸入框中的字符。"
+      "content": "※ 若您同意上述條款，\n請輸入框內字元。"
     },
     {
       "id": "explain_secession_status",
-      "content": "該帳號目前正處於停用倒計時。\n剩餘時間：{0}天{1}小時{2}分\n\n您可以通過進行登錄來恢復帳號。\n要恢復帳號嗎？"
+      "content": "該賬號目前正處於停用倒計時。\n剩餘時間：{0}天{1}小時{2}分\n\n您可以通過登錄以恢復賬號。\n要恢復賬號嗎？"
     },
     {
       "id": "recover",
@@ -194,7 +194,7 @@
     },
     {
       "id": "request_sucession",
-      "content": "停用帳號"
+      "content": "停用賬號"
     },
     {
       "id": "request_sucession_success",
@@ -202,15 +202,15 @@
     },
     {
       "id": "mainui_settings_account",
-      "content": "帳號"
+      "content": "賬號"
     },
     {
       "id": "account_secede",
-      "content": "停用帳號"
+      "content": "停用賬號"
     },
     {
       "id": "connected_accounts",
-      "content": "關聯帳號"
+      "content": "關聯賬號"
     },
     {
       "id": "mainui_settings_bloom",
@@ -222,11 +222,11 @@
     },
     {
       "id": "mainui_settings_bloomdesc",
-      "content": "控制泛光模糊效果。影響遊戲性能。"
+      "content": "控制泛光模糊效果。影響遊戲效能。"
     },
     {
       "id": "mainui_settings_blurdesc",
-      "content": "控制模糊效果。影響遊戲性能。"
+      "content": "控制模糊效果。影響遊戲效能。"
     },
     {
       "id": "mainui_settings_fps_common",
@@ -235,6 +235,14 @@
     {
       "id": "mainui_settings_fps_battle",
       "content": "戰鬥FPS"
+    },
+    {
+      "id": "mainui_settings_renderingscale",
+      "content": "渲染比例"
+    },
+    {
+      "id": "mainui_settings_renderingscale_warning",
+      "content": "PC端推薦設定為[高]，手機端推薦設定為[中]或[低]。\n更高的渲染比例可能會導致裝置發熱和功耗上升。"
     }
   ]
 }

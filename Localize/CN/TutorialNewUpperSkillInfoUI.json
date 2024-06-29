@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "tutorial_upperSkillInfo_System_popup_title_01",
-      "content": "战斗画面信息量设置"
+      "content": "戰鬥畫面資訊量設定"
     },
     {
       "id": "tutorial_upperSkillInfo_System_popup_01",
-      "content": "战斗画面的右上方是控制战斗相关信息的按钮。\n\n按钮分别显示最小/中等/最大数量的信息。"
+      "content": "戰鬥畫面的右上方是控制戰鬥相關資訊的按鈕。\n\n按鈕分別顯示最小/中等/最大數量的資訊。"
     },
     {
       "id": "tutorial_upperSkillInfo_System_popup_title_02",
@@ -14,7 +14,7 @@
     },
     {
       "id": "tutorial_upperSkillInfo_System_popup_02",
-      "content": "显示技能中使用的关键词\n显示技能效果"
+      "content": "顯示技能中使用的關鍵詞\n顯示技能效果"
     },
     {
       "id": "tutorial_upperSkillInfo_System_popup_title_03",
@@ -22,7 +22,7 @@
     },
     {
       "id": "tutorial_upperSkillInfo_System_popup_03",
-      "content": "显示技能效果"
+      "content": "顯示技能效果"
     },
     {
       "id": "tutorial_upperSkillInfo_System_popup_title_04",
@@ -30,7 +30,7 @@
     },
     {
       "id": "tutorial_upperSkillInfo_System_popup_04",
-      "content": "只显示骰子信息"
+      "content": "只顯示骰子資訊"
     }
   ]
 }

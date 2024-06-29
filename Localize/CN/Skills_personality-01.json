@@ -1,383 +1,383 @@
 {
-   "dataList": [
-     {
-       "id": 1010501,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "沉著冷靜",
-           "desc": "若技能被丟棄，則對自身施加3層震顫 ",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加2層震顫 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "沉著冷靜",
-           "desc": "若技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 對自身施加2層震顫 ",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "沉著冷靜",
-           "desc": "若技能被丟棄，則對自身施加4層震顫\n[WhenUse] 對自身施加2層震顫\n若自身的震顫層數不低於5層，則使本技能的硬幣威力 +1",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1010502,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "鋌而走險",
-           "desc": "若本技能被丟棄，則對自身施加3層震顫 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則使目標震顫引爆 。使目標的震顫 層數減少2層"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "鋌而走險",
-           "desc": "若本技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則使目標震顫引爆 。使目標的震顫 層數減少2層"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "鋌而走險",
-           "desc": "若本技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層震顫 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則使目標震顫引爆 。使目標的震顫 層數減少2層"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1010503,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "咬緊臼齒",
-           "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 消耗10層震顫 並使本技能的硬幣威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若使用本技能時消耗了震顫 層數，則使目標震顫引爆 "
-                 }
-               ]
-             },
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加2層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若本技能消耗了震顫 層數，則使目標震顫引爆 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "咬緊臼齒",
-           "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 消耗10層震顫 並使本技能的硬幣威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若使用本技能時消耗了震顫 層數，則使目標震顫引爆 "
-                 }
-               ]
-             },
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若本技能消耗了震顫 層數，則使目標震顫引爆 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1010504,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "防禦",
-           "desc": "[WhenUse] 丟棄 自身所有行動槽中等級最低的1個技能",
-           "coinlist": [
-             {}
-           ]
-         },
-         {
-           "level": 4,
-           "name": "防禦",
-           "desc": "[WhenUse] 丟棄 自身所有行動槽中等級最低的1個技能",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1010601,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "次元撕裂",
-           "desc": "[WhenUse] 使自身獲得2層充能 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "次元撕裂",
-           "desc": "[WhenUse] 使自身獲得2層充能 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "次元撕裂",
-           "desc": "[WhenUse] 使自身獲得2層充能 \n若自身的充能 層數不低於10層，則使本技能的硬幣威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1010602,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "能源循環",
-           "desc": "[WhenUse] 使自身獲得5層充能 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層束縛 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "能源循環",
-           "desc": "[WhenUse] 使自身獲得6層充能 \n若自身的充能 層數不低於10層，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若自身的充能 層數不低於10層，則使目標增加3級破裂 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "能源循環",
-           "desc": "[WhenUse] 使自身獲得7層充能 \n若自身的充能 層數不低於10層，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若自身的充能 層數不低於10層，則使目標增加3級破裂 強度並對其施加2層破裂 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1010603,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "次元裂隙",
-           "desc": "[WhenUse] 若自身的充能層數低於15層，則消耗10層充能並使本技能的硬幣威力+1\n[WhenUse] 消耗15層充能並使本技能的 硬幣威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使用本技能時每消耗了5層充能 ，使目標增加2級破裂 強度（最多6級）"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若使用本技能時消耗了15層充能 ，則對目標施加2層次元裂痕 "
-                 },
-                 {
-                   "desc": "[EnemyKill] 使自身獲得3層充能力場 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "次元裂隙",
-           "desc": "[WhenUse] 若自身的充能層數低於15層，則消耗10層充能並使本技能的硬幣威力+1\n[WhenUse] 消耗15層充能並使本技能的 硬幣威力+2\n[BeforeAttack] 若消耗了15層充能，則對目標施加3層破裂",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
+  "dataList": [
+    {
+      "id": 1010501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "沉著冷靜",
+          "desc": "若本技能被丟棄，則對自身施加3層震顫 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
                 {
-                   "desc": "[OnSucceedAttack] 使用本技能時每消耗了5層充能 ，使目標增加3級破裂 強度（最多9級）"
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "沉著冷靜",
+          "desc": "若本技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 對自身施加2層震顫 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "沉著冷靜",
+          "desc": "若本技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 對自身施加2層震顫 \n若自身的震顫 層數不低於5層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "鋌而走險",
+          "desc": "若本技能被丟棄，則對自身施加3層震顫 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則使目標震顫引爆 ，並使目標的震顫 層數減少2層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "鋌而走險",
+          "desc": "若本技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
                 },
                 {
-                   "desc": "[OnSucceedAttack] 若使用本技能時消耗了15層充能 ，則對目標施加2層次元裂痕 "
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則使目標震顫引爆 ，並使目標的震顫 層數減少2層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "鋌而走險",
+          "desc": "若本技能被丟棄，則對自身施加4層震顫 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層震顫 "
                 },
                 {
-                   "desc": "[EnemyKill] 使自身獲得5層充能力場 "
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於5層，則使目標震顫引爆 ，並使目標的震顫 層數減少2層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "咬緊臼齒",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 消耗10層震顫 並使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若使用本技能時消耗了震顫 層數，則使目標震顫引爆 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若本技能消耗了震顫 層數，則使目標震顫引爆 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "咬緊臼齒",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 消耗10層震顫 並使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若使用本技能時消耗了震顫 層數，則使目標震顫引爆 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若本技能消耗了震顫 層數，則使目標震顫引爆 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "防禦",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "次元撕裂",
+          "desc": "[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "次元撕裂",
+          "desc": "[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "次元撕裂",
+          "desc": "[WhenUse] 使自身獲得2層充能 \n若自身的充能 層數不低於10層，則使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "能源循環",
+          "desc": "[WhenUse] 使自身獲得5層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "能源循環",
+          "desc": "[WhenUse] 使自身獲得6層充能 \n若自身的充能 層數不低於10層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的充能 層數不低於10層，則使目標增加3級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "能源循環",
+          "desc": "[WhenUse] 使自身獲得7層充能 \n若自身的充能 層數不低於10層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的充能 層數不低於10層，則使目標增加3級破裂 強度並對其施加2層破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "次元裂隙",
+          "desc": "[WhenUse] 若自身的充能 層數低於15層，則消耗10層充能 並使本技能的硬幣威力+1\n[WhenUse] 消耗15層充能 並使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使用本技能時每消耗了5層充能 ，使目標增加2級破裂 強度(最多6級)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若使用本技能時消耗了15層充能 ，則對目標施加2層次元裂痕 "
+                },
+                {
+                  "desc": "[EnemyKill] 使自身獲得3層充能力場 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "次元裂隙",
+          "desc": "[WhenUse] 若自身的充能 層數低於15層，則消耗10層充能 並使本技能的硬幣威力+1\n[WhenUse] 消耗15層充能 並使本技能的硬幣威力+2\n[BeforeAttack] 若消耗了15層充能 ，則對目標施加3層破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使用本技能時每消耗了5層充能 ，使目標增加3級破裂 強度(最多9級)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若使用本技能時消耗了15層充能 ，則對目標施加2層次元裂痕 "
+                },
+                {
+                  "desc": "[EnemyKill] 使自身獲得5層充能力場 "
                 }
               ]
             }
@@ -391,7 +391,7 @@
         {
           "level": 1,
           "name": "空洞次元",
-          "desc": "自身每帶有5層充能 ，使本技能的基礎威力+1（最多+2）",
+          "desc": "自身每帶有5層充能 ，使本技能的基礎威力+1(最多+2)",
           "coinlist": [
             {}
           ]
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "空洞次元",
-          "desc": "自身每帶有5層充能，使本技能的基礎威力+1（最多+2）\n[OnSucceedEvade] 下回合首次通過技能使目標增加的破裂強度額外+1級（每回合 最多額外+3級）",
+          "desc": "自身每帶有5層充能 ，使本技能的基礎威力+1(最多+2)\n[OnSucceedEvade] 下回合首次通過技能使目標增加的破裂 強度額外+1級(每回合最多額外+3級)",
           "coinlist": [
             {}
           ]
@@ -467,7 +467,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "重複穿刺",
+          "name": "反覆穿刺",
           "desc": "[WhenUse] 使自身獲得2層呼吸法 \n若自身的呼吸法 強度不低於5級，則使本技能的拼點威力+2",
           "coinlist": [
             {
@@ -488,7 +488,7 @@
         },
         {
           "level": 2,
-          "name": "重複穿刺",
+          "name": "反覆穿刺",
           "desc": "[WhenUse] 使自身獲得2層呼吸法 \n若自身的呼吸法 強度不低於5級，則使本技能的拼點威力+2",
           "coinlist": [
             {
@@ -504,7 +504,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 重複使用本幣（最多1次）"
+                  "desc": "[CriticalOnSucceedAttack] 重複使用本硬幣(最多1次)"
                 }
               ]
             }
@@ -512,7 +512,7 @@
         },
         {
           "level": 4,
-          "name": "重複穿刺",
+          "name": "反覆穿刺",
           "desc": "[WhenUse] 使自身獲得2層呼吸法 \n若自身的呼吸法 強度不低於5級，則使本技能的拼點威力+3",
           "coinlist": [
             {
@@ -528,7 +528,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 重複使用本幣（最多3次）"
+                  "desc": "[CriticalOnSucceedAttack] 重複使用本硬幣(最多3次)"
                 }
               ]
             }
@@ -628,19 +628,19 @@
         {
           "level": 1,
           "name": "知識消耗",
-          "desc": "若本技能被丟棄，則使自身獲得（自身的所解真知 層數×體力上限的2%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最高的1個技能 ",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的2%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
+                  "desc": "[OnSucceedAttackHead] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
+                  "desc": "[OnSucceedAttackHead] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
                 }
               ]
             }
@@ -649,19 +649,19 @@
         {
           "level": 2,
           "name": "知識消耗",
-          "desc": "若本技能被丟棄，則使自身獲得（自身的所解真知 層數×體力上限的3%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最高的1個技能 ",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的3%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
                 }
               ]
             }
@@ -670,19 +670,19 @@
         {
           "level": 4,
           "name": "知識消耗",
-          "desc": "若本技能被丟棄，則使自身獲得（自身的所解真知 層數×體力上限的3%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最高的1個技能 \n[WhenUse] 若目標的沉淪強度不低於5級，則使本技能的硬幣威力+1",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的3%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
                 }
               ]
             }
@@ -696,7 +696,7 @@
         {
           "level": 1,
           "name": "關匣封存",
-          "desc": "若本技能被丟棄，則使自身獲得（自身的所解真知 層數×體力上限的4%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最高的1個技能 ",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的4%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能",
           "coinlist": [
             {},
             {
@@ -718,7 +718,7 @@
         {
           "level": 2,
           "name": "關匣封存",
-          "desc": "若本技能被丟棄，則使自身獲得（自身的所解真知 層數×體力上限的5%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最高的1個技能 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值+3",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的5%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
           "coinlist": [
             {},
             {
@@ -740,7 +740,7 @@
         {
           "level": 4,
           "name": "關匣封存",
-          "desc": "若本技能被丟棄，則使自身獲得（自身的所解真知 層數×體力上限的6%）點護盾\n[WhenUse] 丟棄自身所有行動槽中級別最高的1個技能 \n[WhenUse] 若目標的沉淪強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值+3",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的6%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
           "coinlist": [
             {},
             {
@@ -767,7 +767,7 @@
         {
           "level": 3,
           "name": "知識的加護",
-          "desc": "若本技能被丟棄，則使自身獲得（自身的所解真知 層數×體力上限的9%）點護盾\n[WhenUse] 下回合使本技能對應行動槽的挑釁值+ 8",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的9%)點護盾\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +8",
           "coinlist": [
             {},
             {},
@@ -784,7 +784,7 @@
         {
           "level": 4,
           "name": "知識的加護",
-          "desc": "若本技能被丟棄，則使自身獲得（自身的所解真知 層數×體力上限的12%）點護盾\n[WhenUse] 下回合使本技能對應行動槽的挑釁值+ 10\n[WhenUse] 若現存體力不高於50%，則使本技能的硬幣威力+1",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的12%)點護盾\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +10\n[WhenUse] 若現存體力不高於50%，則使本技能的硬幣威力+1",
           "coinlist": [
             {},
             {},
@@ -806,7 +806,7 @@
         {
           "level": 1,
           "name": "專注探究",
-          "desc": "[WhenUse] 依技能等級由低到高隨機丟棄 自身所有行動槽中的2個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+          "desc": "[WhenUse] 按技能級別由低到高隨機丟棄 自身所有行動槽中的2個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
           "coinlist": [
             {
               "coindescs": [
@@ -820,7 +820,7 @@
         {
           "level": 4,
           "name": "專注探究",
-          "desc": "[WhenUse] 依技能等級由低到高隨機丟棄 自身所有行動槽中的2個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
+          "desc": "[WhenUse] 按技能級別由低到高隨機丟棄 自身所有行動槽中的2個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
           "coinlist": [
             {
               "coindescs": [
@@ -838,14 +838,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "覆塗",
+          "name": "覆涂",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             },
@@ -860,14 +860,14 @@
         },
         {
           "level": 2,
-          "name": "覆塗",
+          "name": "覆涂",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             },
@@ -882,14 +882,14 @@
         },
         {
           "level": 4,
-          "name": "覆塗",
+          "name": "覆涂",
           "desc": "若目標的流血 強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             },
@@ -915,13 +915,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 以20%概率重覆使用本硬幣1次。目標每帶有1種負面狀態，使本硬幣重覆使用的概率+20%"
+                  "desc": "[OnSucceedAttack] 以20%概率重複使用本硬幣1次。目標每帶有1種負面狀態，使本硬幣重複使用的概率+20%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             }
@@ -935,13 +935,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 以20%概率重覆使用本硬幣1次。目標每帶有1種負面狀態，使本硬幣重覆使用的概率+20%"
+                  "desc": "[OnSucceedAttack] 以20%概率重複使用本硬幣1次。目標每帶有1種負面狀態，使本硬幣重複使用的概率+20%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             }
@@ -955,13 +955,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 以40%概率重覆使用本硬幣。目標每帶有1種負面狀態，使本硬幣重覆使用的概率+20%(每個技能最多2次)"
+                  "desc": "[OnSucceedAttack] 以40%概率重複使用本硬幣。目標每帶有1種負面狀態，使本硬幣重複使用的概率+20%(每個技能最多2次)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             }
@@ -984,7 +984,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層流血 。若目標帶有的負面狀態不少於4種，則對其額外施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             },
@@ -994,7 +994,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度。若目標帶有的負面狀態不少於4種，則使其額外增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             },
@@ -1004,7 +1004,7 @@
                   "desc": "目標每帶有1種負面狀態，使本硬幣造成的傷害+15%(最多+75%)"
                 },
                 {
-                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則使負面狀態最少的1名敵方單位增加2級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則使負面狀態最少的1名敵方單位增加2級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             }
@@ -1022,7 +1022,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層流血 。若目標帶有的負面狀態不少於3種，則對其額外施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             },
@@ -1032,7 +1032,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度。若目標帶有的負面狀態不少於3種，則使其額外增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             },
@@ -1042,7 +1042,7 @@
                   "desc": "目標每帶有1種負面狀態，使本硬幣造成的傷害+25%(最多+125%)"
                 },
                 {
-                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則使負面狀態最少的2名敵方單位增加2級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沈淪 "
+                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則使負面狀態最少的2名敵方單位增加2級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 }
               ]
             }
@@ -1082,6 +1082,6 @@
           ]
         }
       ]
-    } 
+    }
   ]
 }

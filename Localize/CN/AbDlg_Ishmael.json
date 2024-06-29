@@ -37,7 +37,7 @@
       "personalityid": 10801,
       "voiceFile": 0,
       "teller": "以實瑪利",
-      "dialog": "你認真的？你瘋了？真讓我失望。別和我說話。",
+      "dialog": "你認真的？你瘋了吧？真讓我失望。別和我說話。",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
@@ -53,7 +53,7 @@
       "personalityid": 10801,
       "voiceFile": 0,
       "teller": "以實瑪利",
-      "dialog": "你該派別人上的。別怪我。",
+      "dialog": "你本來就該派別人上的。別怪我。",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
     {

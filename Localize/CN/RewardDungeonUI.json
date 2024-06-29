@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "enter_exp_dungeon",
-      "content": "經驗副本"
+      "content": "經驗採光"
     },
     {
       "id": "enter_mirror_dungeon",
-      "content": "鏡像迷宮"
+      "content": "鏡象迷宮"
     },
     {
       "id": "enter_thread_dungeon",
-      "content": "紡錘副本"
+      "content": "紡錘採光"
     },
     {
       "id": "enter_count",
-      "content": "進入"
+      "content": "進入次數"
     },
     {
       "id": "remain_time",
@@ -22,7 +22,7 @@
     },
     {
       "id": "open_at_day_of_the_week",
-      "content": "在{0}開放"
+      "content": "于{0}開放"
     },
     {
       "id": "recommended_level",
@@ -38,7 +38,7 @@
     },
     {
       "id": "exp_dungeon_index",
-      "content": "經驗副本#{0}"
+      "content": "經驗採光#{0}"
     },
     {
       "id": "Monday",
@@ -90,11 +90,11 @@
     },
     {
       "id": "reward_dungeon_mining",
-      "content": "副本"
+      "content": "採光"
     },
     {
       "id": "thread_dungeon_stage_name_with_attribute",
-      "content": "紡錘採掘 ({0})"
+      "content": "紡錘採光 ({0})"
     }
   ]
 }

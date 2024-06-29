@@ -86,11 +86,11 @@
     },
     {
       "id": "mainui_shop_acquire_at_mailbox",
-      "content": "※ 購買後需要在信箱進行領取。"
+      "content": "※ 購買后需要在信箱進行領取。"
     },
     {
       "id": "mainui_shop_purchase_product_success",
-      "content": "成功購買\n{0}"
+      "content": "成功購買\n{0}。"
     },
     {
       "id": "mainui_shop_remain_days_minutes",
@@ -122,7 +122,7 @@
     },
     {
       "id": "shopui_make_enkephalin_module",
-      "content": "製作腦啡肽模塊"
+      "content": "製作腦啡肽模組"
     },
     {
       "id": "shopui_charge_enkephalin_about",
@@ -130,11 +130,11 @@
     },
     {
       "id": "shopui_recover_enkephalin_after_time",
-      "content": "在{0}後恢復{1}腦啡肽。"
+      "content": "在{0}后恢復{1}腦啡肽。"
     },
     {
       "id": "shopui_ask_create_enkephalin_module",
-      "content": "要製作腦啡肽模塊嗎？"
+      "content": "要製作腦啡肽模組嗎？"
     },
     {
       "id": "shopui_charge_as_lunacy",
@@ -146,7 +146,7 @@
     },
     {
       "id": "shopui_create_module",
-      "content": "模塊"
+      "content": "模組"
     },
     {
       "id": "remain_days",
@@ -186,11 +186,11 @@
     },
     {
       "id": "create_enkephalin_module_success",
-      "content": "模塊製作完畢"
+      "content": "模組製作完畢"
     },
     {
       "id": "unable_to_create_enkephalin_module",
-      "content": "無法製作模塊"
+      "content": "無法制作模組"
     },
     {
       "id": "lack_of_enkephalin",
@@ -202,7 +202,7 @@
     },
     {
       "id": "enkephalin_module",
-      "content": "腦啡肽模塊"
+      "content": "腦啡肽模組"
     },
     {
       "id": "enkephalin_box",
@@ -222,15 +222,15 @@
     },
     {
       "id": "enkephalin_module_count_max",
-      "content": "腦啡肽模塊已滿"
+      "content": "腦啡肽模組已滿"
     },
     {
       "id": "enkephalin_module_count_max_desc",
-      "content": "無法製作模塊；您的庫存已滿。"
+      "content": "無法制作模組；您的庫存已滿。"
     },
     {
       "id": "mainui_shop_lunacy_package_tab",
-      "content": "組合禮包商店2"
+      "content": "組合包2"
     },
     {
       "id": "mainui_shop_until_season_finished",
@@ -246,11 +246,11 @@
     },
     {
       "id": "paidShop_category_SPECIAL",
-       "content": "特別"
+      "content": "特別"
     },
     {
       "id": "paidShop_category_PACKAGE",
-      "content": "禮包"
+      "content": "組合包"
     },
     {
       "id": "paidShop_category_LUNACY",
@@ -282,19 +282,19 @@
     },
     {
       "id": "go_to_mail_popup",
-      "content": "移動至信箱"
+      "content": "移動至郵箱"
     },
     {
       "id": "membership_remain_side_title",
-      "content": "[禮包有效期限]"
+      "content": "[組合包有效期]"
     },
     {
       "id": "membership_remain_side_desc",
-      "content": "{0}的使用時間還剩下{1}天。"
+      "content": "{0}的有效期還剩下{1}天。"
     },
     {
       "id": "returnpolicy_table_battlePassPackge",
-      "content": "邊獄通行證禮包"
+      "content": "邊獄通行證組合包"
     },
     {
       "id": "paid_runacy_lack",

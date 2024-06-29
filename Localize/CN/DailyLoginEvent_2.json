@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "daily_login_event_2_event_Title",
-      "content": "特別出席活動"
+      "content": "特別出勤檢查活動"
     },
     {
       "id": "daily_login_event_2_event_description",
-      "content": "※ 活動期間根據登入天數解鎖獎勵\n 簽到越多獎勵越多 \n\n※ 在每日重置後登入 \n 領取你的簽到獎勵 \n\n※ 當活動結束,\n 獎勵將無法領取.\n 請務必在活動結束前領取獎勵。"
+      "content": "※ 活動期間依據累計出勤天數獲得獎勵。\n\n※ 在每日重置后登錄，\n即可完成當日的出勤檢查。\n\n※ 活動結束后獎勵將無法領取。\n因此請務必在活動結束前領取獎勵。"
     }
   ]
 }

@@ -1,477 +1,477 @@
 {
-   "dataList": [
-     {
-       "id": 815101,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "刺入",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加5級燒傷 強度並對其施加2層燒傷 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815102,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "尾鰭抽打",
-           "desc": "[WhenUse] 若目標帶有燒傷 ，則使本技能的基礎威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加5級燒傷 強度並對其施加2層燒傷 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815103,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "吐氣",
-           "desc": "[WhenUse] 若目標的燒傷 強度不低於5級，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層燒傷 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層暴怒易損 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加8級燒傷 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層暴怒易損 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815104,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "反擊",
-           "desc": "[WhenUse] 若目標的燒傷 強度不低於5級，則使本技能的硬幣威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層痛擊 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815201,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "躍入",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度並對其施加2層沉淪 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度並對其施加2層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815202,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "迸射",
-           "desc": "[WhenUse] 若目標帶有沉淪 ，則使本技能的基礎威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度並對其施加3層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815203,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "水炸彈",
-           "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加8級沉淪 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合對目標施加2層憂鬱易損 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815204,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "閃避",
-           "desc": "[OnSucceedEvade] 使目標增加2級沉淪 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815301,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "寒芒出鞘",
-           "desc": "[WhenUse] 使自身增加2級呼吸法 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815302,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "切割",
-           "desc": "[WhenUse] 使自身增加2級呼吸法 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815303,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "就地處斬",
-           "desc": "[WinDuel] 使自己獲得1層呼吸法 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得1層呼吸法 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層斬擊傷害強化 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層斬擊抗性弱化 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815304,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "弒主妖劍",
-           "desc": "[WinDuel] 使自己獲得3層呼吸法 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度並獲得1層呼吸法 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得2層斬擊傷害強化 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層斬擊抗性弱化 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加3層流血 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815305,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "斷汝筋骨",
-           "desc": "[StartBattle] 使自身獲得50點護盾\n[WhenUse] 若護盾未被全部消耗，則使本技能的拼點威力+5",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層斬擊抗性弱化 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "使本硬幣暴擊時造成的傷害+100%"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加10級流血 強度並對目標施加2層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若護盾未被全部消耗，則對目標造成([Grudge]層數/攻擊容量)點固定傷害"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815306,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "閃避",
-           "desc": "[OnSucceedEvade] 使自身增加4級呼吸法 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815307,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "舍吾皮肉",
-           "desc": "下回合使自身獲得(啟動本反擊技能的技能所造成的傷害)層[Grudge]",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815405,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "斷汝筋骨",
-           "desc": "[StartBattle] 使自身獲得200點護盾\n[WhenUse] 使自身獲得3層呼吸法\n[WhenUse] 若護盾未被全部消耗，則使本技能的拼點威力+10 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層斬擊抗性弱化 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "使本硬幣暴擊時造成的傷害+100%"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痺 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加10級流血 強度並對目標施加2層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若護盾未被全部消耗，則造成([Grudge]層數/攻擊容量)點固定傷害"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815408,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "劍舞",
-           "desc": "[EnemyKill] 下回合使自身獲得3層攻擊等級提升 和3層防禦等級提升 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 815409,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "斷汝筋骨",
-           "desc": "[CantChangeTarget]\n優先攻擊體力最低的目標\n[EnemyKill] 使自身的[Grudge]層數翻倍\n[EnemyKill] 使自身恢復（[Grudge]層數）點體力",
-           "coinlist": [
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標造成（[Grudge]層數）點固定傷害"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     }
-   ]
+  "dataList": [
+    {
+      "id": 815101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "刺入",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級燒傷 強度並對其施加2層燒傷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "尾鰭抽打",
+          "desc": "[WhenUse] 若目標帶有燒傷 ，則使本技能的基礎威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級燒傷 強度並對其施加2層燒傷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "吐氣",
+          "desc": "[WhenUse] 若目標的燒傷 強度不低於5級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層燒傷 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層暴怒易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層暴怒易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反擊",
+          "desc": "[WhenUse] 若目標的燒傷 強度不低於5級，則使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層痛擊 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "躍入",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度並對其施加2層沉淪 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度並對其施加2層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迸射",
+          "desc": "[WhenUse] 若目標帶有沉淪 ，則使本技能的基礎威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度並對其施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "水炸彈",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層憂鬱易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避",
+          "desc": "[OnSucceedEvade] 使目標增加2級沉淪 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "寒芒出鞘",
+          "desc": "[WhenUse] 使自身增加2級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "止動",
+          "desc": "[WhenUse] 使自身增加2級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "就地處斬",
+          "desc": "[WinDuel] 使自身獲得1層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得1層呼吸法 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層斬擊傷害強化 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層斬擊抗性弱化 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "弒主妖劍",
+          "desc": "[WinDuel] 使自身獲得3層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度並獲得1層呼吸法 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層斬擊傷害強化 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層斬擊抗性弱化 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斷汝筋骨",
+          "desc": "[StartBattle] 使自身獲得50點護盾\n[WhenUse] 若護盾未被全部消耗，則使本技能的拼點威力+5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層斬擊抗性弱化 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+100%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加10級流血 強度並對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若護盾未被全部消耗，則對目標造成([Grudge]層數/攻擊容量)點固定傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避",
+          "desc": "[OnSucceedEvade] 使自身增加4級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "舍吾皮肉",
+          "desc": "下回合使自身獲得(啟用本反擊技能的技能所造成的傷害)層[Grudge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斷汝筋骨",
+          "desc": "[StartBattle] 使自身獲得200點護盾\n[WhenUse] 使自身獲得3層呼吸法 \n[WhenUse] 若護盾未被全部消耗，則使本技能的拼點威力+10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層斬擊抗性弱化 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+100%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加10級流血 強度並對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若護盾未被全部消耗，則造成([Grudge]層數/攻擊容量)點固定傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815408,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "劍舞",
+          "desc": "[EnemyKill] 下回合使自身獲得3層攻擊等級提升 和3層防禦等級提升 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815409,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斷汝筋骨",
+          "desc": "[CantChangeTarget]\n優先指定體力最低的目標\n[EnemyKill] 使自身的[Grudge]層數翻倍\n[EnemyKill] 使自身恢復([Grudge]層數)點體力",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成([Grudge]層數)點固定傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

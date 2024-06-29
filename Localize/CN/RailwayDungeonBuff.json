@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "HealHpMaxForSelected",
-      "content": "所選罪人的體力完全恢復"
+      "content": "所選人格的體力完全恢復"
     },
     {
       "id": "HealHpPercentageForAll",

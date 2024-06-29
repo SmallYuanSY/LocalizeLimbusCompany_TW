@@ -6,31 +6,31 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_01_desc_01",
-      "content": "第4賽季鏡像迷宮名為“呼嘯之鏡”。"
+      "content": "第4賽季鏡象迷宮名為「呼嘯之鏡」。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_01_desc_02",
-      "content": "能夠選擇以“模擬”或“Ritornello”難度進入。"
+      "content": "能夠選擇以「模擬」或「Ritornello」難度進入。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_02_title_01",
-      "content": "每周加成"
+      "content": "每週加成"
     },
     {
       "id": "tutorial_mirrordungeon04_page_02_desc_01",
-      "content": "鏡像迷宮擁有每周獎勵加成。領取獎勵時使用額外獎勵加成，將會大幅增加所獲得的獎勵。"
+      "content": "鏡象迷宮擁有每週獎勵加成。領取獎勵時使用額外獎勵加成，將會大幅增加所獲得的獎勵。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_02_desc_02",
-      "content": "每周可最多獲得三次額外獎勵，難度不限。"
+      "content": "每週可最多獲得三次額外獎勵，難度不限。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_02_desc_03",
-      "content": "在“Ritornello”難度下，您可以一次性消耗2次或更多的額外獎勵，並將根據消耗的額外獎勵數量獲得相應的獎勵。"
+      "content": "在「Ritornello」難度下，您可以一次性消耗2次或更多的額外獎勵，並將根據消耗的額外獎勵數量獲得相應的獎勵。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_02_desc_04",
-      "content": "但是，比起一次性消耗3次每周額外獎勵，每次消耗一次額外獎勵可以更有效率的利用腦啡呔模塊。"
+      "content": "但是，比起一次性消耗3次每週額外獎勵，每次消耗1次額外獎勵可以更有效率地利用腦啡呔模組。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_03_title_01",
@@ -46,23 +46,23 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_03_desc_02",
-      "content": "能夠消耗通關鏡像迷宮時所獲得的星芒，來獲取鏡像迷宮探索時的加成。"
+      "content": "能夠消耗通關鏡象迷宮時所獲得的星芒，來獲取鏡象迷宮探索時的加成。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_03_title_03",
-      "content": "主題卡包"
+      "content": "主題卡包圖鑑"
     },
     {
       "id": "tutorial_mirrordungeon04_page_03_desc_03",
-      "content": "能夠確認在鏡像迷宮中出現的階層主題卡包。在鏡像迷宮探索過程中，選定的階層主題卡包將會在此處追加記錄。"
+      "content": "能夠確認在鏡象迷宮中出現的階層主題卡包。在鏡象迷宮探索過程中，選定的階層主題卡包將會在此處追加記錄。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_03_title_04",
-      "content": "E.G.O飾品圖鑒"
+      "content": "E.G.O飾品圖鑑"
     },
     {
       "id": "tutorial_mirrordungeon04_page_03_desc_04",
-      "content": "能夠確認在鏡像迷宮中出現的E.G.O飾品。若在探索過程中獲得新的E.G.O飾品，將會在此處追加記錄。"
+      "content": "能夠確認在鏡象迷宮中出現的E.G.O飾品。若在探索過程中獲得新的E.G.O飾品，將會在此處追加記錄。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_04_title_01",
@@ -70,11 +70,11 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_04_desc_01",
-      "content": "每當激活更多的初始增益，在探索過程中獲得有用E.G.O飾品的概率將會隨之提升。"
+      "content": "每當啟用更多的開局增益，在探索過程中獲得有用E.G.O飾品的概率將會隨之提升。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_04_desc_02",
-      "content": "初始增益不受鏡像迷宮難度的影響。"
+      "content": "開局增益不受鏡象迷宮難度的影響。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_04_title_02",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_04_desc_03",
-      "content": "通關鏡像迷宮時，可以獲得星芒。"
+      "content": "通關鏡象迷宮時，可以獲得星芒。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_04_desc_04",
@@ -94,15 +94,15 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_05_desc_01",
-      "content": "當進入鏡像迷宮時，將會提供基於關鍵詞的E.G.O飾品分類供選擇。最初只能選擇“隨機”分類。然而，隨著激活更多的初始增益，可以解鎖更多的關鍵詞分類。"
+      "content": "當進入鏡象迷宮時，將會提供基於關鍵詞的E.G.O飾品分類供選擇。最初只能選擇「隨機」分類。然而，隨著啟用更多的開局增益，可以解鎖更多的關鍵詞分類。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_05_desc_02",
-      "content": "每個關鍵詞分類中出現的E.G.O禮物是固定的。可以從同一分類中選擇任意數量的E.G.O禮物。"
+      "content": "每個關鍵詞分類中出現的E.G.O飾品是固定的。可以從同一分類中選擇任意數量的E.G.O飾品。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_05_desc_03",
-      "content": "以之前未選擇過的E.G.O飾品類別通關鏡像迷宮時，可以額外獲得星芒。"
+      "content": "以之前未選擇過的E.G.O飾品類別通關鏡象迷宮時，可以額外獲得星芒。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_06_title_01",
@@ -110,11 +110,11 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_06_desc_01",
-      "content": "能夠選擇編入鏡像迷宮探索隊伍的罪人。"
+      "content": "能夠選擇編入鏡象迷宮探索隊伍的罪人。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_06_desc_02",
-      "content": "在鏡像迷宮編隊時，人格等級將會固定在45級。但Ritornello難度將會直接反映現有人格等級。（最高45級）"
+      "content": "在鏡象迷宮編隊時，人格等級將會固定在45級。但Ritornello難度將會直接反映現有人格等級。（最高45級）"
     },
     {
       "id": "tutorial_mirrordungeon04_page_06_desc_03",
@@ -130,7 +130,7 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_07_desc_01",
-      "content": "通關鏡像迷宮時，編入隊伍中的人格所剩餘的休息獎勵將轉換為星芒。"
+      "content": "通關鏡象迷宮時，編入隊伍中的人格所剩餘的休息獎勵將轉換為星芒。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_07_desc_02",
@@ -138,15 +138,15 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_07_desc_03",
-      "content": "除了消耗休息獎勵或被交替過的人格以外，其余所有人格會增加1格休息獎勵。"
+      "content": "除了消耗休息獎勵或被交替過的人格以外，其餘所有人格會增加1格休息獎勵。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_08_title_01",
-      "content": "鏡像迷宮入場"
+      "content": "鏡象迷宮入場"
     },
     {
       "id": "tutorial_mirrordungeon04_page_08_desc_01",
-      "content": "完成人格與E.G.O設置後，按“確認”即可進入鏡像迷宮。"
+      "content": "完成人格與E.G.O設定后，按「確認」即可進入鏡象迷宮。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_08_desc_02",
@@ -158,15 +158,15 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_09_desc_01",
-      "content": "在進入階層時，可以顯示的選項內選擇在本層迎接的主題。可通過下劃想要選擇的主題卡包來選擇。"
+      "content": "在進入階層時，可以從顯示的選項內選擇在本階層遭遇的主題。可通過下劃想要選擇的主題卡包來選擇。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_09_desc_02",
-      "content": "通過每個階層主題卡包的右上角按鈕，可以查看該卡包中可能出現的BOSS和E.G.O飾品。"
+      "content": "通過每個階層主題卡包右上角的按鈕，可以檢視該卡包中可能出現的BOSS和E.G.O飾品。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_09_desc_03",
-      "content": "在階層主題卡包的底部，可以查看在擊敗階層主題的Boss後可以選擇的E.G.O禮物。"
+      "content": "在階層主題卡包的底部，可以檢視在擊敗階層主題的頭目后可以選擇的E.G.O飾品。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_09_desc_04",
@@ -174,15 +174,15 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_10_title_01",
-      "content": "鏡像迷宮探索"
+      "content": "鏡象迷宮探索"
     },
     {
       "id": "tutorial_mirrordungeon04_page_10_desc_01",
-      "content": "每次進入鏡像迷宮中，將會隨機生成節點和路徑。"
+      "content": "每次進入鏡象迷宮中，將會隨機產生節點和路徑。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_10_desc_02",
-      "content": "選擇與當前節點相鄰的節點並推進後，在各個節點將會隨機生成不同類型的戰鬥及事件。"
+      "content": "選擇與目前節點相鄰的節點並推進后，在各個節點將會隨機產生不同型別的戰鬥及事件。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_10_title_02",
@@ -190,7 +190,7 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_10_desc_03",
-      "content": "在鏡像迷宮的遊玩過程中可以獲得星芒與經費，可以通過消耗星芒鐫星獲得開局增益效果，可以通過消耗經費使用商店與休息點的功能。"
+      "content": "在鏡象迷宮的遊玩過程中可以獲得星芒與經費，可以通過消耗星芒鐫星獲得開局增益效果，可以通過消耗經費使用商店與休息點的功能。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_11_title_01",
@@ -206,7 +206,7 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_11_desc_02",
-      "content": "在鏡像迷宮的戰鬥節點下方會顯示對應關卡的有利屬性。"
+      "content": "在鏡象迷宮的戰鬥節點下方會顯示對應關卡的有利屬性。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_11_title_03",
@@ -226,7 +226,7 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_12_desc_02",
-      "content": "可以在商店里售賣不需要的E.G.O飾品，並獲取經費。"
+      "content": "可以在商店裡售賣不需要的E.G.O飾品，並獲取經費。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_13_title_01",
@@ -234,7 +234,7 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_13_desc_01",
-      "content": "可以在商店里售賣不需要的E.G.O飾品，並獲取經費。"
+      "content": "在休息點處，可以消耗經費以治療友方單位、替換編隊中的人格或強化E.G.O飾品。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_13_desc_02",
@@ -246,7 +246,7 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_14_desc_01",
-      "content": "遭遇戰勝利後，根據戰鬥難度有一定概率會出現遭遇戰獎勵卡。"
+      "content": "遭遇戰勝利后，根據戰鬥難度有一定概率會出現遭遇戰獎勵卡。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_14_desc_02",
@@ -258,7 +258,7 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_15_desc_01",
-      "content": "每當通關一層時，將會獲得與E.G.O飾品綁定的隨機敵方增益效果。"
+      "content": "每當通關一層時，將會獲得與E.G.O飾品繫結的隨機敵方增益效果。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_15_desc_02",
@@ -266,15 +266,15 @@
     },
     {
       "id": "tutorial_mirrordungeon04_page_16_title_01",
-      "content": "鏡像迷宮獎勵"
+      "content": "鏡象迷宮獎勵"
     },
     {
       "id": "tutorial_mirrordungeon04_page_16_desc_01",
-      "content": "在探索結束後，能夠花費腦啡肽模塊來領取獎勵。"
+      "content": "在探索結束后，能夠花費腦啡肽模組來領取獎勵。"
     },
     {
       "id": "tutorial_mirrordungeon04_page_16_desc_02",
-      "content": "獎勵將基於已通關的層數進行發放，可以通過使用每周額外獎勵次數獲得更加豐厚的獎勵。"
+      "content": "獎勵將基於已通關的層數進行發放，可以通過使用每週額外獎勵次數獲得更加豐厚的獎勵。"
     }
   ]
 }

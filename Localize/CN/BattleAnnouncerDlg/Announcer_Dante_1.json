@@ -6,27 +6,27 @@
     },
     {
       "id": "announcer_cheer_1_2",
-      "dlg": "不要忽視身體的狀況。不，我……我只是擔心你罷了。"
+      "dlg": "不要過於勉強自己的身體。不，不是……我只是擔心你才這麼說的。"
     },
     {
       "id": "announcer_specialcheer_1_1",
-      "dlg": "呃……你是不是傷的很嚴重？我要開始進行心理準備咯？"
+      "dlg": "呃……你是不是傷得很嚴重？我是不是該開始做心理準備了？"
     },
     {
       "id": "announcer_specialcheer_1_2",
-      "dlg": "大家是不是因為我能把你們復原就在盲目亂衝？給我好好小心地戰鬥啊。"
+      "dlg": "大家是不是因為我能復活你們就盲目亂衝？稍微小心謹慎點啊。"
     },
     {
       "id": "announcer_enemy_break_1_1",
-      "dlg": "敵人陷入混亂了。該放開手猛攻了。"
+      "dlg": "敵人陷入混亂了。該放手猛攻了。"
     },
     {
       "id": "announcer_ally_break_1_1",
-      "dlg": "看來你們該準備挨一頓打了……"
+      "dlg": "看來你們該做好挨一頓打的準備了……"
     },
     {
       "id": "announcer_killenemy_1_1",
-      "dlg": "好，一位罪人打倒了敵人。繼續保持這個勢頭吧。"
+      "dlg": "好，一位罪人打倒了敵人。保持這個勢頭。"
     },
     {
       "id": "announcer_ally_dead_1_1",
@@ -34,11 +34,11 @@
     },
     {
       "id": "announcer_enemy_adv_1_1",
-      "dlg": "這樣下去敵人就會獲勝吧。這樣一來我又得撥轉時鐘了。"
+      "dlg": "照這樣下去，大概會是敵人獲勝。那樣一來我又得撥轉時鐘了。"
     },
     {
       "id": "announcer_ally_adv_1_1",
-      "dlg": "看來局面對我們有利吧？就這樣繼續戰鬥吧。"
+      "dlg": "看來局面對我們有利？就這樣繼續下去。"
     },
     {
       "id": "announcer_danger_1_1",
@@ -46,7 +46,7 @@
     },
     {
       "id": "announcer_enemy_specialskill_1_1",
-      "dlg": "接下來敵人似乎要做一些很糟糕的事情？大家都準備好了嗎？"
+      "dlg": "敵人似乎要做一些很糟糕的事情，大家都做好準備了嗎？"
     },
     {
       "id": "announcer_enemy_specialgimmick_1_1",
@@ -54,31 +54,31 @@
     },
     {
       "id": "announcer_advatk_physical_1_1",
-      "dlg": "幹得漂亮。我們造成了一次沉痛的打擊。"
+      "dlg": "幹得漂亮。我們打出了一記猛擊。"
     },
     {
       "id": "announcer_disadvatk_physical_1_1",
-      "dlg": "太可惜了。我們的進攻似乎沒怎麼湊效。"
+      "dlg": "太可惜了。我們的進攻似乎不怎麼奏效。"
     },
     {
       "id": "announcer_advatk_attr_1_1",
-      "dlg": "看來這種罪孽有效攻擊到了敵人。就這麼繼續進攻吧。"
+      "dlg": "看來這種罪孽攻擊敵人更有效。就這麼辦吧。"
     },
     {
       "id": "announcer_disadvatk_attr_1_1",
-      "dlg": "啊……那種罪孽似乎並不那麼有效。等待下一個機會吧。"
+      "dlg": "啊……那種罪孽攻擊敵人並不那麼有效。等下個機會吧。"
     },
     {
       "id": "announcer_enemy_specialbuff_1_1",
-      "dlg": "總感覺敵人在使用一些對他們有利的陰招？要小心了。"
+      "dlg": "總感覺敵人在使用一些對他們有利的陰招？你們該小心了。"
     },
     {
       "id": "announcer_enemy_specialdebuff_1_1",
-      "dlg": "敵人似乎陷入了不好的效果。抓住這個機會吧。"
+      "dlg": "敵人似乎受到了不良的影響。得抓住機會了。"
     },
     {
       "id": "announcer_ally_specialbuff_1_1",
-      "dlg": "你們好像受到了不錯的效果啊。乘勢而上吧。"
+      "dlg": "嗯，你們都受到了不錯的影響呢。順勢而上吧。"
     },
     {
       "id": "announcer_ally_specialdebuff_1_1",
@@ -86,11 +86,11 @@
     },
     {
       "id": "announcer_enemy_destroy_1_1",
-      "dlg": "不錯，我們已經破壞了它的一個部位。剩下的部位也都這樣上吧。"
+      "dlg": "不錯，已經破壞了敵人的一個部位。剩下的部位也都這樣來吧。"
     },
     {
       "id": "announcer_enemy_destroy_1_2",
-      "dlg": " 敵人的部位被破壞了啊。再加把勁吧。"
+      "dlg": "敵人的部位被破壞了啊。再加把勁吧。"
     },
     {
       "id": "announcer_round_takebigdmg_1_1",
@@ -110,15 +110,15 @@
     },
     {
       "id": "announcer_multikillenemy_1_1",
-      "dlg": "有一名罪人幹掉了多個敵人。回來之後我會表揚你的。"
+      "dlg": "有一名罪人幹掉了多個敵人。這之後值得表揚。"
     },
     {
       "id": "announcer_equip_1_1",
       "dlg": "雖然是副天天見到膩的面孔……但我來咯。"
     },
-     {
-       "id": "announcer_a1c5p3_ish_special_1_1",
-       "dlg": "以實瑪利…不要聽別人的話語，而是去聽你內心渴求的聲音。"
-     }
+    {
+      "id": "announcer_a1c5p3_ish_special_1_1",
+      "dlg": "以實瑪利……不要聽其他人的話語，而是去聽你內心渴求的聲音。"
+    }
   ]
 }

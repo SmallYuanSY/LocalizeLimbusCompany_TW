@@ -6,11 +6,11 @@
     },
     {
       "id": "popup_message_ego_seat_lack",
-      "content": "行動插槽已被佔用，無法使用E.G.O。"
+      "content": "行動槽已被佔用，無法使用E.G.O。"
     },
     {
       "id": "popup_message_ego_resources_lack",
-      "content": "罪惡碎片不足，無法使用E.G.O."
+      "content": "罪孽碎片不足，無法使用E.G.O。"
     },
     {
       "id": "option_title",
@@ -22,7 +22,7 @@
     },
     {
       "id": "option_btn_statistical",
-      "content": "戰鬥資料"
+      "content": "戰鬥數據"
     },
     {
       "id": "creature_destroy_notice",
@@ -66,15 +66,15 @@
     },
     {
       "id": "battle_log_buf_to_self",
-      "content": "{0}對自己施加了{2}層{1}。"
+      "content": "{0}對自身施加了{2}層{1}。"
     },
     {
       "id": "battle_log_use_ego",
-      "content": "{0}覺醒了{1}!!"
+      "content": "{0}覺醒了{1}！！"
     },
     {
       "id": "battle_log_use_ego_corrosion",
-      "content": "{1}侵蝕了{0}!!"
+      "content": "{1}侵蝕了{0}！！"
     },
     {
       "id": "battle_log_personality_corrosion",
@@ -86,7 +86,7 @@
     },
     {
       "id": "battle_log_panic",
-      "content": "{0}正陷入慌張！！"
+      "content": "{0}正陷入恐慌！！"
     },
     {
       "id": "choice_result_success",
@@ -138,7 +138,7 @@
     },
     {
       "id": "panic",
-      "content": "慌張"
+      "content": "恐慌"
     },
     {
       "id": "status",
@@ -250,7 +250,7 @@
     },
     {
       "id": "dungeon_encounter_boss",
-      "content": "樓層Boss"
+      "content": "階層頭目"
     },
     {
       "id": "bottom_winrate",
@@ -298,11 +298,11 @@
     },
     {
       "id": "enemy_info",
-      "content": "敵方資料"
+      "content": "敵方資訊"
     },
     {
       "id": "enter_clear_requirement",
-      "content": "EX 附加挑戰"
+      "content": "EX 通關條件"
     },
     {
       "id": "choice_event_resume",
@@ -314,7 +314,7 @@
     },
     {
       "id": "choice_personality",
-      "content": "選擇一個罪人來判定："
+      "content": "選擇一個罪人來進行判定："
     },
     {
       "id": "success_result",
@@ -346,7 +346,7 @@
     },
     {
       "id": "correction_based_on_association",
-      "content": "{0} 所屬修正值 {1}(, )"
+      "content": "{0} 所屬變動值 {1}(, )"
     },
     {
       "id": "action_choice_event_result_example_battle",
@@ -386,7 +386,7 @@
     },
     {
       "id": "dungeon_save_desc",
-      "content": "已到達檢查點。\n探索進度已保存。\n所有罪人都已被治療。"
+      "content": "已到達檢查點。\n探索進度已儲存。\n所有罪人都已被治療。"
     },
     {
       "id": "battle_battleunit_evade",
@@ -402,11 +402,11 @@
     },
     {
       "id": "battle_increase_mp",
-      "content": "理性值上升"
+      "content": "理智值上升"
     },
     {
       "id": "battle_decrease_mp",
-      "content": "理性值下降"
+      "content": "理智值下降"
     },
     {
       "id": "dungeon_encounter_type_start",
@@ -434,11 +434,11 @@
     },
     {
       "id": "dungeon_encounter_type_boss",
-      "content": "Boss遭遇戰"
+      "content": "頭目遭遇戰"
     },
     {
       "id": "battle_mp",
-      "content": "理性值"
+      "content": "理智值"
     },
     {
       "id": "abnormality_part_hp",
@@ -450,15 +450,15 @@
     },
     {
       "id": "abnormality_no_research_level",
-      "content": "缺少資料"
+      "content": "缺少數據"
     },
     {
       "id": "Insufficient_conditions",
-      "content": "未符合條件"
+      "content": "未滿足條件"
     },
     {
       "id": "skillinfo_keyword",
-      "content": "關鍵字"
+      "content": "關鍵詞"
     },
     {
       "id": "ability_turn",
@@ -514,7 +514,7 @@
     },
     {
       "id": "show_skillTool",
-      "content": "展示技能工具列"
+      "content": "展示技能工具欄"
     },
     {
       "id": "auto_coinToss",
@@ -538,7 +538,7 @@
     },
     {
       "id": "popup_message_ego_irrevocable",
-      "content": "無法取消先前回合產生的E.G.O技能。"
+      "content": "無法取消在先前回合生成的E.G.O技能。"
     },
     {
       "id": "stock",
@@ -566,7 +566,7 @@
     },
     {
       "id": "EGO_ErodeProbability",
-      "content": "侵蝕機率"
+      "content": "侵蝕概率"
     },
     {
       "id": "EGOSelectUI_resources_lack",
@@ -590,19 +590,19 @@
     },
     {
       "id": "show_BattleAblityUI",
-      "content": "戰鬥中顯示詳細資料UI"
+      "content": "戰鬥中顯示詳細資訊UI"
     },
     {
       "id": "Ahab_NotTarget_Onece",
-      "content": "我真正的該投向的是…"
+      "content": "我真正該瞄準的是……"
     },
     {
       "id": "Ahab_NotTarget_Twice",
-      "content": "不必總是漫無目的地目視前方…"
+      "content": "不必總是漫無目的地目視前方……"
     },
     {
       "id": "Ahab_NotTarget_Thrice",
-      "content": "有時，想要前進\n必須先看清身邊的事物…"
+      "content": "有時，想要前進\n必須先看清身邊的事物……"
     },
     {
       "id": "show_BattleUnitAblityUI",
@@ -610,7 +610,7 @@
     },
     {
       "id": "LobotomyStartTypo_Title_1",
-      "content": "瑤色的黎明"
+      "content": "緑色的黎明"
     },
     {
       "id": "LobotomyStartTypo_Name_1",
@@ -622,11 +622,11 @@
     },
     {
       "id": "LobotomyStartTypo_KillCountTitle_1",
-      "content": "鎮壓狀態"
+      "content": "鎮圧狀態"
     },
     {
       "id": "LobotomyClearTypo_Title_1",
-      "content": "瑤色的黎明"
+      "content": "緑色的黎明"
     },
     {
       "id": "LobotomyClearTypo_Name_1",
@@ -650,7 +650,7 @@
     },
     {
       "id": "applying_buff_format",
-      "content": "{0}激活"
+      "content": "{0}生效中"
     },
     {
       "id": "level_number_UNDEF",
@@ -662,11 +662,11 @@
     },
     {
       "id": "received_the_golden_bough_undecided",
-      "content": "?"
+      "content": "？"
     },
     {
       "id": "vibration_fusion",
-      "content": "振幅融合！"
+      "content": "振幅糾纏！"
     }
   ]
 }

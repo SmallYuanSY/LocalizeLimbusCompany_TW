@@ -1,48 +1,48 @@
 {
-    "dataList": [
-      {
-        "id": "dungeon_1_5_0101",
-        "content": "鯨的胃"
-      },
-      {
-        "id": "dungeon_1_5_0102",
-        "content": "裴廓德鎮"
-      },
-      {
-        "id": "dungeon_1_5_0103",
-        "content": "亞哈的辦公室"
-      },
-      {
-        "id": "dungeon_1_5_0104",
-        "content": "通往心臟的道路"
-      },
-      {
-        "id": "dungeon_1_5_0201",
-        "content": "裴廓德鎮 出口"
-      },
-      {
-        "id": "dungeon_1_5_0202",
-        "content": "右心房"
-      },
-      {
-        "id": "dungeon_1_5_0203",
-        "content": "右心室"
-      },
-      {
-        "id": "dungeon_1_5_0204",
-        "content": "肌腱大橋"
-      },
-      {
-        "id": "dungeon_1_5_0205",
-        "content": "能聽到心跳聲的地方"
-      },
-      {
-        "id": "dungeon_1_5_0301",
-        "content": "心臟前的集合點"
-      },
-      {
-        "id": "dungeon_1_5_0302",
-        "content": "鯨的心臟"
-      }
-    ]
- }
+  "dataList": [
+    {
+      "id": "dungeon_1_5_0101",
+      "content": "鯨的胃"
+    },
+    {
+      "id": "dungeon_1_5_0102",
+      "content": "裴廓德鎮"
+    },
+    {
+      "id": "dungeon_1_5_0103",
+      "content": "亞哈的辦公室"
+    },
+    {
+      "id": "dungeon_1_5_0104",
+      "content": "通往心臟的道路"
+    },
+    {
+      "id": "dungeon_1_5_0201",
+      "content": "裴廓德鎮 出口"
+    },
+    {
+      "id": "dungeon_1_5_0202",
+      "content": "右心房"
+    },
+    {
+      "id": "dungeon_1_5_0203",
+      "content": "右心室"
+    },
+    {
+      "id": "dungeon_1_5_0204",
+      "content": "肌腱大橋"
+    },
+    {
+      "id": "dungeon_1_5_0205",
+      "content": "能聽到心跳聲的地方"
+    },
+    {
+      "id": "dungeon_1_5_0301",
+      "content": "心臟前的集合點"
+    },
+    {
+      "id": "dungeon_1_5_0302",
+      "content": "鯨的心臟"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "dungeon_1_1_0101",
-      "content": "控制部管理隔離區"
+      "content": "控制部管理收容區"
     },
     {
       "id": "dungeon_1_1_0102",
@@ -10,15 +10,15 @@
     },
     {
       "id": "dungeon_1_1_0103",
-      "content": "第一隔離長廊"
+      "content": "第一收容通道"
     },
     {
       "id": "dungeon_1_1_0104",
-      "content": "第二隔離長廊"
+      "content": "第二收容通道"
     },
     {
       "id": "dungeon_1_1_0105",
-      "content": "第三隔離長廊"
+      "content": "第三收容通道"
     },
     {
       "id": "dungeon_1_1_0106",
@@ -26,7 +26,7 @@
     },
     {
       "id": "dungeon_1_1_0107",
-      "content": "情報部\n連接通道"
+      "content": "情報部\n連線通道"
     },
     {
       "id": "dungeon_1_1_0201",
@@ -38,11 +38,11 @@
     },
     {
       "id": "dungeon_1_1_0203",
-      "content": "第四隔離長廊"
+      "content": "第四收容通道"
     },
     {
       "id": "dungeon_1_1_0204",
-      "content": "第五隔離長廊"
+      "content": "第五收容通道"
     },
     {
       "id": "dungeon_1_1_0205",

@@ -1,52 +1,52 @@
 {
-   "dataList": [
-     {
-       "id": "coupon_InputField_block",
-       "content": "無法輸入兌換碼"
-     },
-     {
-       "id": "coupon_InputField",
-       "content": "請在此輸入兌換碼"
-     },
-     {
-       "id": "coupon_popup_title",
-       "content": "輸入兌換碼"
-     },
-     {
-       "id": "coupon_popup_desc",
-       "content": "- 兌換碼只包含大寫字母和數字。\n- 每個帳戶只能使用同一兌換碼一次。\n- 超過有效期限的兌換碼無法兌換。\n- 如果短時間內多次兌換 失敗，兌換碼的使用可能會在一定時間內受到限制。"
-     },
-     {
-       "id": "coupon_use_failed_2",
-       "content": "兌換碼無效。"
-     },
-     {
-       "id": "coupon_use_failed_3",
-       "content": "兌換碼無效。"
-     },
-     {
-       "id": "coupon_use_failed_4",
-       "content": "兌換碼已過期。"
-     },
-     {
-       "id": "coupon_use_failed_5",
-       "content": "兌換碼已被使用。"
-     },
-     {
-       "id": "coupon_use_failed_6",
-       "content": "兌換碼已被使用。"
-     },
-     {
-       "id": "coupon_use_failed_7",
-       "content": "連續失敗次數過多，{0}前禁止使用兌換碼。"
-     },
-     {
-       "id": "coupon_InputField_block_desc",
-       "content": "{0}前禁止使用兌換碼"
-     },
-     {
-       "id": "coupon_use_failed_unknown",
-       "content": "發生未知錯誤。"
-     }
-   ]
+  "dataList": [
+    {
+      "id": "coupon_InputField_block",
+      "content": "無法輸入兌換碼"
+    },
+    {
+      "id": "coupon_InputField",
+      "content": "請在此處輸入兌換碼"
+    },
+    {
+      "id": "coupon_popup_title",
+      "content": "輸入兌換碼"
+    },
+    {
+      "id": "coupon_popup_desc",
+      "content": "- 兌換碼只包含大寫字母和數字。\n- 每個賬戶只能使用同一兌換碼一次。\n- 超過有效期的兌換碼無法兌換。\n- 如果短時間內多次兌換失敗，兌換碼的使用可能會在一定時間內受到限制。"
+    },
+    {
+      "id": "coupon_use_failed_2",
+      "content": "兌換碼無效。"
+    },
+    {
+      "id": "coupon_use_failed_3",
+      "content": "兌換碼無效。"
+    },
+    {
+      "id": "coupon_use_failed_4",
+      "content": "兌換碼已過期。"
+    },
+    {
+      "id": "coupon_use_failed_5",
+      "content": "兌換碼已被使用。"
+    },
+    {
+      "id": "coupon_use_failed_6",
+      "content": "此兌換碼已被使用。"
+    },
+    {
+      "id": "coupon_use_failed_7",
+      "content": "連續失敗次數過多，{0}前禁止使用兌換碼。"
+    },
+    {
+      "id": "coupon_InputField_block_desc",
+      "content": "{0}前禁止使用兌換碼"
+    },
+    {
+      "id": "coupon_use_failed_unknown",
+      "content": "發生未知錯誤。"
+    }
+  ]
 }

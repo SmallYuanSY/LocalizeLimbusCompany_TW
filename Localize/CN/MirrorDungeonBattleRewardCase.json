@@ -6,7 +6,7 @@
     },
     {
       "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition",
-      "content": "獲得{0} 經費\n{1}%概率獲得一件{2}級以下的隨機E.G.O飾品"
+      "content": "獲得{0} 經費\n{1}%概率獲得一件(入場時所選關鍵詞的)不低於{2}級的隨機E.G.O飾品"
     },
     {
       "id": "dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition",
@@ -18,15 +18,23 @@
     },
     {
       "id": "dungeon_battle_reward_case_format_chip_acquisition",
-      "content": "通過鏡像迷宮時，獲得額外{0}星芒"
+      "content": "通過鏡象迷宮時，獲得額外{0}星芒"
     },
     {
       "id": "dungeon_battle_reward_case_format_random_ego_resource_acquisition",
-      "content": "隨機{0}種罪孽碎片罪孽碎片+{1}"
+      "content": "隨機{0}種罪孽碎片各+{1}"
     },
     {
       "id": "dungeon_battle_reward_case_format_least_ego_resource_acquisition",
-      "content": "最少的{0}種罪孽碎片罪孽碎片+{1}"
+      "content": "最少的{0}種罪孽碎片各+{1}"
+    },
+    {
+      "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword",
+      "content": "獲得{0} 經費\n{1}%概率獲得一件{2}級的{3}E.G.O飾品"
+    },
+    {
+      "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword_none_or_random",
+      "content": "獲得{0} 經費\n{1}%概率獲得一件{2}級的隨機E.G.O飾品"
     }
   ]
 }

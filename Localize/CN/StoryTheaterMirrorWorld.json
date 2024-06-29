@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "MirrorWorld_Name_1",
-      "content": "黑雲會與劍契的世界"
+      "content": "黑雲會與劍契組的世界"
     },
     {
       "id": "MirrorWorld_Name_2",
@@ -30,23 +30,23 @@
     },
     {
       "id": "MirrorWorld_Name_8",
-      "content": "（章節II）LCCB的世界"
+      "content": "（章節II）\nLCCB的世界"
     },
     {
       "id": "MirrorWorld_Name_9",
-      "content": "（章節I）舊L公司的世界"
+      "content": "（章節I）\n舊L公司的世界"
     },
     {
       "id": "MirrorWorld_Name_10",
-      "content": "（章節I）舊G公司的世界"
+      "content": "（章節I）\n舊G公司的世界"
     },
     {
       "id": "MirrorWorld_Name_11",
-      "content": "（章節II）J公司後巷的世界"
+      "content": "（章節II）\nJ公司後巷的世界"
     },
     {
       "id": "MirrorWorld_Name_12",
-      "content": "（章節III）N公司的世界"
+      "content": "（章節III）\nN公司的世界"
     },
     {
       "id": "MirrorWorld_Name_13",
@@ -54,7 +54,7 @@
     },
     {
       "id": "MirrorWorld_Name_14",
-      "content": "（章節IV）K公司的世界"
+      "content": "（章節IV）\nK公司的世界"
     },
     {
       "id": "MirrorWorld_Name_15",
@@ -74,15 +74,15 @@
     },
     {
       "id": "MirrorWorld_Name_19",
-      "content": "腦業公司本部的世界"
+      "content": "腦葉公司本部的世界 - 1"
     },
     {
       "id": "MirrorWorld_Name_20",
-      "content": "圖書館昔日來賓的世界"
+      "content": "圖書館昔日來賓的世界 - 1"
     },
     {
       "id": "MirrorWorld_Name_21",
-      "content": "（章節V）U公司的世界"
+      "content": "（章節V）\nU公司的世界"
     },
     {
       "id": "MirrorWorld_Name_22",
@@ -99,6 +99,10 @@
     {
       "id": "MirrorWorld_Name_25",
       "content": "20區後巷的世界"
+    },
+    {
+      "id": "MirrorWorld_Name_26",
+      "content": "T公司的世界"
     }
   ]
 }

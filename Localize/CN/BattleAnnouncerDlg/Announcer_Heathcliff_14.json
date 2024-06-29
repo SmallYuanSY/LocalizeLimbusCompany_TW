@@ -1,120 +1,120 @@
 {
-   "dataList": [
-     {
-       "id": "announcer_cheer_14_1",
-       "dlg": "嗯…咋了。呃…咳咳，祝好運。"
-     },
-     {
-       "id": "announcer_cheer_14_2",
-       "dlg": "全力而為吧！我相信你一棒就能把他們全部撂倒！"
-     },
-     {
-       "id": "announcer_specialcheer_14_1",
-       "dlg": "哈…以前也常發生這種事啊。所有人都血淋淋的，在死亡的邊緣掙扎…但逃跑的樣子不是很狼狽嗎？"
-     },
-     {
-       "id": "announcer_specialcheer_14_2",
-       "dlg": "以這種速度我們都會被殺…呵，反正有鐘錶頭呢，別怕直接衝過去就完事了吧？"
-     },
-     {
-       "id": "announcer_enemy_break_14_1",
-       "dlg": "那些傢伙晃晃悠悠的！先敲那個神智不清的，把他的頭砸爛！"
-     },
-     {
-       "id": "announcer_ally_break_14_1",
-       "dlg": "啊，嘖…都說了躲著點。欸，在那傢伙清醒之前轉移敵人的注意力。"
-     },
-     {
-       "id": "announcer_killenemy_14_1",
-       "dlg": "擊倒一個。只要一直打下去就總是能結束，戰鬥就是這麼一回事。"
-     },
-     {
-       "id": "announcer_ally_dead_14_1",
-       "dlg": "鐘錶頭要辛苦了。嘛…如果能好好打的話也就能少受些苦了吧。"
-     },
-     {
-       "id": "announcer_enemy_adv_14_1",
-       "dlg": "哈，真是一團糟。繼續做下去的話，只會讓轉動錶盤更加痛苦，好像也沒什麼好處吧？"
-     },
-     {
-       "id": "announcer_ally_adv_14_1",
-       "dlg": "對了。站到最後的才是贏家對吧？別管疼不痛了，想想那個傢伙死後你會怎麼做。這麼一想攻擊起來就更有勁了吧？"
-     },
-     {
-       "id": "announcer_danger_14_1",
-       "dlg": "一步錯誤就能把你送進深淵。好好想明白。"
-     },
-     {
-       "id": "announcer_enemy_specialskill_14_1",
-       "dlg": "餵！看看那混蛋！又想做奇怪的事了…總之先躲開！"
-     },
-     {
-       "id": "announcer_enemy_specialgimmick_14_1",
-       "dlg": "我能清清楚楚感覺到不妙的味道？那傢伙好像打算做什麼，我搞不明白怎麼辦，你動動腦子。"
-     },
-     {
-       "id": "announcer_advatk_physical_14_1",
-       "dlg": "這時候就是暴力至上！把他們全打倒就完了！"
-     },
-     {
-       "id": "announcer_disadvatk_physical_14_1",
-       "dlg": "呃，怎麼說的來著…鐵匠舖裡打金鎖。不對，也不是金鎖…哎，算了。反正打著打著就給打碎了。"
-     },
-     {
-       "id": "announcer_advatk_attr_14_1",
-       "dlg": "喔！剛剛那個挺聰明的？我還在幫派裡的時候也有能靠頭腦戰把敵人一網打盡的傢伙。"
-     },
-     {
-       "id": "announcer_disadvatk_attr_14_1",
-       "dlg": "那什麼…呃。別讓我對你說出蠢貨這種字行不。"
-     },
-     {
-       "id": "announcer_enemy_specialbuff_14_1",
-       "dlg": "那群傢伙為什麼這麼亢奮？我有種不好的預感…"
-     },
-     {
-       "id": "announcer_enemy_specialdebuff_14_1",
-       "dlg": "餵，那些傢伙跟喝多了似的搖搖晃晃的對吧？"
-     },
-     {
-       "id": "announcer_ally_specialbuff_14_1",
-       "dlg": "哦，你們看起來心情挺好啊？看到什麼有趣的玩意了？"
-     },
-     {
-       "id": "announcer_ally_specialdebuff_14_1",
-       "dlg": "怎麼一個兩個都跟奔喪似的？笑一個啊！難道是誰歸西了嗎？"
-     },
-     {
-       "id": "announcer_enemy_destroy_14_1",
-       "dlg": "呀~一條腿被打斷了。看那樣子，可免不了要挨一頓打了！"
-     },
-     {
-       "id": "announcer_enemy_destroy_14_2",
-       "dlg": "那個煩人的部位已經被破壞了，現在就沒什麼難的了。喂，全殺了吧！"
-     },
-     {
-       "id": "announcer_round_takebigdmg_14_1",
-       "dlg": "嗚哇！啊…那個看起來是真痛。喂，還好嗎？"
-     },
-     {
-       "id": "announcer_round_takebigdmg_14_2",
-       "dlg": "最好先檢查下再上。就算是我這個會一股腦往前衝的人也知道現在不行…"
-     },
-     {
-       "id": "announcer_round_givebigdmg_14_1",
-       "dlg": "挺出人意料…？你真讓那些傢伙狠狠挨了一記！"
-     },
-     {
-       "id": "announcer_round_givebigdmg_14_2",
-       "dlg": "呵。那傢伙，手腳全被打飛了還能搞出什麼名堂！喂！剛剛那下太好了！"
-     },
-     {
-       "id": "announcer_multikillenemy_14_1",
-       "dlg": "只憑一個人…怎麼做到的？喂，算了…也得學學這時候該怎麼做。我也該學學。"
-     },
-     {
-       "id": "announcer_equip_14_1",
-       "dlg": "見到凱西之後該怎麼說…啊，在錄音？咳，我不習慣這樣握著麥克風。算了，先試試吧。"
-     }
-   ]
+  "dataList": [
+    {
+      "id": "announcer_cheer_14_1",
+      "dlg": "嗯……咋了。呃……咳咳，祝好運。"
+    },
+    {
+      "id": "announcer_cheer_14_2",
+      "dlg": "全力而為吧！我相信你一擊就能把他們全部撂倒！"
+    },
+    {
+      "id": "announcer_specialcheer_14_1",
+      "dlg": "哈……以前也經常發生這種事啊。所有人都血淋淋的，在死亡的邊緣掙扎……但逃跑不就不帥了嗎？"
+    },
+    {
+      "id": "announcer_specialcheer_14_2",
+      "dlg": "這樣下去我們都會被殺……算了，反正有鐘錶頭呢，別怕直接衝過去就完事了吧？"
+    },
+    {
+      "id": "announcer_enemy_break_14_1",
+      "dlg": "那些傢伙晃晃悠悠的！先打那個神志不清的，把他的頭砸爛！"
+    },
+    {
+      "id": "announcer_ally_break_14_1",
+      "dlg": "啊，嘖……都說了躲著點。喂，在那傢伙清醒之前轉移敵人的注意力。"
+    },
+    {
+      "id": "announcer_killenemy_14_1",
+      "dlg": "擊倒一個。如法炮製就能結束，戰鬥就是這麼一回事。"
+    },
+    {
+      "id": "announcer_ally_dead_14_1",
+      "dlg": "這下子回溯時鐘會很辛苦吧……不過……好好打的話大概就能稍微減輕鐘錶頭的痛苦吧。"
+    },
+    {
+      "id": "announcer_enemy_adv_14_1",
+      "dlg": "哈，真是一團糟。繼續下去的話，只會讓回溯時鐘更加痛苦，好像也沒什麼好處吧？"
+    },
+    {
+      "id": "announcer_ally_adv_14_1",
+      "dlg": "就是這樣。站到最後的才是贏家對吧？聽好，別管疼不疼去想想那個傢伙死後你會怎麼做。這麼一想攻擊起來就更有勁了吧？"
+    },
+    {
+      "id": "announcer_danger_14_1",
+      "dlg": "一步走錯就前功盡棄了。好好想明白。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_14_1",
+      "dlg": "喂！看那混蛋！又想做奇怪的事了……總之先躲開！"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_14_1",
+      "dlg": "我能清清楚楚感覺到不妙的氣氛？那傢伙好像打算做什麼，我搞不明白怎麼辦，你動動腦子。"
+    },
+    {
+      "id": "announcer_advatk_physical_14_1",
+      "dlg": "這時候就是暴力至上！把他們全打倒就完了！"
+    },
+    {
+      "id": "announcer_disadvatk_physical_14_1",
+      "dlg": "呃，怎麼說的來著……鐵匠鋪里打金鎖。不對，也不是金鎖……哎，算了。反正打著打著就給打碎了。"
+    },
+    {
+      "id": "announcer_advatk_attr_14_1",
+      "dlg": "哦！剛剛那個挺聰明的？我還在幫派里的時候也有能靠頭腦戰把敵人一網打盡的傢伙。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_14_1",
+      "dlg": "那什麼……呃。別讓我對你說出蠢貨這種詞行不。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_14_1",
+      "dlg": "那群傢伙為什麼這麼亢奮？我有種不好的預感……"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_14_1",
+      "dlg": "喂，那些傢伙跟喝多了似的搖搖晃晃的對吧？"
+    },
+    {
+      "id": "announcer_ally_specialbuff_14_1",
+      "dlg": "哦，你們看上去心情挺好啊？看到什麼有趣的玩意了？"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_14_1",
+      "dlg": "怎麼一個兩個都跟奔喪似的？笑一個啊！難道是誰歸西了嗎……"
+    },
+    {
+      "id": "announcer_enemy_destroy_14_1",
+      "dlg": "呀~一條腿被打斷了。看那樣子，可免不了要挨一頓打了！"
+    },
+    {
+      "id": "announcer_enemy_destroy_14_2",
+      "dlg": "那個煩人的部位已經被破壞了，現在就沒什麼難的了。喂，全殺了吧！"
+    },
+    {
+      "id": "announcer_round_takebigdmg_14_1",
+      "dlg": "嗚哇！啊……那個看上去是真疼。喂，還好嗎？"
+    },
+    {
+      "id": "announcer_round_takebigdmg_14_2",
+      "dlg": "最好先檢查下再上。就算是我這個會一股腦往前衝的人也知道現在不行……"
+    },
+    {
+      "id": "announcer_round_givebigdmg_14_1",
+      "dlg": "挺出人意料……？你真讓那些傢伙狠狠捱了一記！"
+    },
+    {
+      "id": "announcer_round_givebigdmg_14_2",
+      "dlg": "呵。那傢伙，手腳全被打飛了還能搞出什麼名堂！喂！剛剛那下太好了！"
+    },
+    {
+      "id": "announcer_multikillenemy_14_1",
+      "dlg": "只憑一個人……怎麼做到的？喂，算了……也得學學這時候該怎麼做。我也該學學。"
+    },
+    {
+      "id": "announcer_equip_14_1",
+      "dlg": "見到凱茜之後該怎麼說呢……啊，在錄音？咳，我不習慣這樣握著麥克風。算了，先試試吧。"
+    }
+  ]
 }

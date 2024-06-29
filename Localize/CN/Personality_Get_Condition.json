@@ -122,7 +122,7 @@
     },
     {
       "id": "10803_getCondition_normal",
-      "content": "獲得 し協會 南部5科 以實瑪利"
+      "content": "獲得し協會 南部5科 以實瑪利"
     },
     {
       "id": "10803_getCondition_gacksung",
@@ -130,11 +130,11 @@
     },
     {
       "id": "10804_getCondition_normal",
-      "content": "獲得LCCB 係長 以實瑪利"
+      "content": "獲得LCCB 系長 以實瑪利"
     },
     {
       "id": "10804_getCondition_gacksung",
-      "content": "LCCB 係長 以實瑪利 3階段同步完成"
+      "content": "LCCB 系長 以實瑪利 3階段同步完成"
     },
     {
       "id": "10902_getCondition_normal",
@@ -146,11 +146,11 @@
     },
     {
       "id": "10903_getCondition_normal",
-      "content": "獲得LCCB 係長 羅佳"
+      "content": "獲得LCCB 系長 羅佳"
     },
     {
       "id": "10903_getCondition_gacksung",
-      "content": "LCCB 係長 羅佳 3階段同步完成"
+      "content": "LCCB 系長 羅佳 3階段同步完成"
     },
     {
       "id": "11002_getCondition_normal",
@@ -186,11 +186,11 @@
     },
     {
       "id": "11103_getCondition_normal",
-      "content": "獲得G公司 部門經理 奧提斯"
+      "content": "獲得G公司 部長 奧提斯"
     },
     {
       "id": "11103_getCondition_gacksung",
-      "content": "G公司 部門經理 奧提斯 3階段同步完成"
+      "content": "G公司 部長 奧提斯 3階段同步完成"
     },
     {
       "id": "11202_getCondition_normal",
@@ -202,11 +202,11 @@
     },
     {
       "id": "11203_getCondition_normal",
-      "content": "獲得G公司 科長助理 格里高爾"
+      "content": "獲得G公司 科長代理 格里高爾"
     },
     {
       "id": "11203_getCondition_gacksung",
-      "content": "G公司 科長助理 格里高爾 3階段同步完成"
+      "content": "G公司 科長代理 格里高爾 3階段同步完成"
     },
     {
       "id": "10504_getCondition_normal",
@@ -266,7 +266,7 @@
     },
     {
       "id": "11204_getCondition_normal",
-      "content": "獲得良·派 幫廚 格里高爾"
+      "content": "獲得良・派 幫廚 格里高爾"
     },
     {
       "id": "11204_getCondition_gacksung",
@@ -282,11 +282,11 @@
     },
     {
       "id": "11005_getCondition_normal",
-      "content": "獲得準執柄者 辛克萊"
+      "content": "獲得候補執柄者 辛克萊"
     },
     {
       "id": "11005_getCondition_gacksung",
-      "content": "準執柄者 辛克萊 3階段同步完成"
+      "content": "候補執柄者 辛克萊 3階段同步完成"
     },
     {
       "id": "10905_getCondition_normal",
@@ -306,11 +306,11 @@
     },
     {
       "id": "10705_getCondition_normal",
-      "content": "獲得腦葉公司E.G.O::狐雨：希斯克利夫"
+      "content": "獲得腦葉公司E.G.O::狐雨 希斯克利夫"
     },
     {
       "id": "10705_getCondition_gacksung",
-      "content": "腦葉公司E.G.O::狐雨：希斯克利夫 3階段同步完成"
+      "content": "腦葉公司E.G.O::狐雨 希斯克利夫 3階段同步完成"
     },
     {
       "id": "11205_getCondition_normal",
@@ -322,19 +322,19 @@
     },
     {
       "id": "10104_getCondition_normal",
-      "content": "綻放\nE.G.O::山茶花 李箱 獲得時"
+      "content": "獲得綻放E.G.O::山茶花 李箱 "
     },
     {
       "id": "10104_getCondition_gacksung",
-      "content": "綻放\nE.G.O::山茶花 李箱 獲得時"
+      "content": "綻放E.G.O::山茶花 李箱 3階段同步完成"
     },
     {
       "id": "10805_getCondition_normal",
-      "content": "獲得腦葉公司E.G.O::蕩漾：以實瑪利"
+      "content": "獲得腦葉公司E.G.O::盪漾 以實瑪利"
     },
     {
       "id": "10805_getCondition_gacksung",
-      "content": "腦葉公司E.G.O::蕩漾：以實瑪利 3階段同步完成"
+      "content": "腦葉公司E.G.O::盪漾 以實瑪利 3階段同步完成"
     },
     {
       "id": "10605_getCondition_normal",
@@ -378,7 +378,7 @@
     },
     {
       "id": "10305_getCondition_normal",
-      "content": "獲得Cinq協會 5科 科長"
+      "content": "獲得Cinq協會 南部5科 科長 堂吉訶德"
     },
     {
       "id": "10305_getCondition_gacksung",
@@ -482,7 +482,7 @@
     },
     {
       "id": "10607_getCondition_normal",
-      "content": "取得吊鉤事務所 收尾人 鴻璐"
+      "content": "獲得吊鉤事務所 收尾人 鴻璐"
     },
     {
       "id": "10607_getCondition_gacksung",
@@ -490,7 +490,7 @@
     },
     {
       "id": "10106_getCondition_normal",
-      "content": "取得W公司 3級清掃人員 李箱"
+      "content": "獲得W公司 3級清掃人員 李箱"
     },
     {
       "id": "10106_getCondition_gacksung",
@@ -514,11 +514,11 @@
     },
     {
       "id": "10306_getCondition_normal",
-      "content": "取得中指 幼妹 唐吉訶德"
+      "content": "獲得中指 幼妹 堂吉訶德"
     },
     {
       "id": "10306_getCondition_gacksung",
-      "content": "中指 幼妹 唐吉訶德 3階段同步完成"
+      "content": "中指 幼妹 堂吉訶德 3階段同步完成"
     },
     {
       "id": "10507_getCondition_normal",
@@ -530,7 +530,7 @@
     },
     {
       "id": "10707_getCondition_normal",
-      "content": "取得裴廓德號 魚叉手 希斯克利夫"
+      "content": "獲得裴廓德號 魚叉手 希斯克利夫"
     },
     {
       "id": "10707_getCondition_gacksung",
@@ -538,7 +538,7 @@
     },
     {
       "id": "10107_getCondition_normal",
-      "content": "取得裴廓德號 大副 李箱"
+      "content": "獲得裴廓德號 大副 李箱"
     },
     {
       "id": "10107_getCondition_gacksung",
@@ -546,7 +546,7 @@
     },
     {
       "id": "11008_getCondition_normal",
-      "content": "取得Cinq協會 南部4科科長 辛克萊"
+      "content": "獲得Cinq協會 南部4科科長 辛克萊"
     },
     {
       "id": "11008_getCondition_gacksung",
@@ -554,7 +554,7 @@
     },
     {
       "id": "11106_getCondition_normal",
-      "content": "取得Cinq協會 南部4科 奧提斯"
+      "content": "獲得Cinq協會 南部4科 奧提斯"
     },
     {
       "id": "11106_getCondition_gacksung",
@@ -562,7 +562,7 @@
     },
     {
       "id": "11107_getCondition_normal",
-      "content": "取得腦葉公司E.G.O::魔彈 奧提斯"
+      "content": "獲得腦葉公司E.G.O::魔彈 奧提斯"
     },
     {
       "id": "11107_getCondition_gacksung",
@@ -570,15 +570,15 @@
     },
     {
       "id": "10307_getCondition_normal",
-      "content": "取得腦葉公司E.G.O::提燈 唐吉訶德"
+      "content": "獲得腦葉公司E.G.O::提燈 堂吉訶德"
     },
     {
       "id": "10307_getCondition_gacksung",
-      "content": "腦葉公司E.G.O::提燈 唐吉訶德 3階段同步完成"
+      "content": "腦葉公司E.G.O::提燈 堂吉訶德 3階段同步完成"
     },
     {
       "id": "10608_getCondition_normal",
-      "content": "取得Dieci協會 南部4科 鴻璐"
+      "content": "獲得Dieci協會 南部4科 鴻璐"
     },
     {
       "id": "10608_getCondition_gacksung",
@@ -586,7 +586,7 @@
     },
     {
       "id": "10108_getCondition_normal",
-      "content": "取得Dieci協會 南部4科 李箱"
+      "content": "獲得Dieci協會 南部4科 李箱"
     },
     {
       "id": "10108_getCondition_gacksung",
@@ -594,7 +594,7 @@
     },
     {
       "id": "10808_getCondition_normal",
-      "content": "取得裴廓德號 船長 以實瑪利"
+      "content": "獲得裴廓德號 船長 以實瑪利"
     },
     {
       "id": "10808_getCondition_gacksung",
@@ -626,11 +626,11 @@
     },
     {
       "id": "10308_getCondition_normal",
-      "content": "拿劍契組 殺手 唐吉訶德"
+      "content": "獲得劍契組 殺手 堂吉訶德"
     },
     {
       "id": "10308_getCondition_gacksung",
-      "content": "劍契組 殺手 唐吉訶德 3階段同步完成"
+      "content": "劍契組 殺手 堂吉訶德 3階段同步完成"
     },
     {
       "id": "10908_getCondition_normal",
@@ -650,7 +650,7 @@
     },
     {
       "id": "10708_getCondition_normal",
-      "content": "取得Öufi協會 南部3科 希斯克利夫"
+      "content": "獲得Öufi協會 南部3科 希斯克利夫"
     },
     {
       "id": "10708_getCondition_gacksung",
@@ -674,7 +674,7 @@
     },
     {
       "id": "11209_getCondition_normal",
-      "content": "取得埃德加家族 繼承人 格里高爾"
+      "content": "獲得埃德加家族 繼承人 格里高爾"
     },
     {
       "id": "11209_getCondition_gacksung",
@@ -698,7 +698,7 @@
     },
     {
       "id": "10809_getCondition_normal",
-      "content": "取得埃德加家族 管家 以實瑪利"
+      "content": "獲得埃德加家族 管家 以實瑪利"
     },
     {
       "id": "10809_getCondition_gacksung",
@@ -743,6 +743,22 @@
     {
       "id": "10409_getCondition_gacksung",
       "content": "20區 聖愚 良秀 3階段同步完成"
+    },
+    {
+      "id": "10309_getCondition_normal",
+      "content": "獲得 T公司 3級徵收人員 堂吉訶德"
+    },
+    {
+      "id": "10309_getCondition_gacksung",
+      "content": "T公司 3級徵收人員 堂吉訶德 3階段同步完成"
+    },
+    {
+      "id": "10909_getCondition_normal",
+      "content": "獲得 T公司 2級徵收人員 羅佳"
+    },
+    {
+      "id": "10909_getCondition_gacksung",
+      "content": "T公司 2級徵收人員 羅佳 3階段同步完成"
     }
   ]
 }

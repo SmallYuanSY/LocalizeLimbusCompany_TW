@@ -34,7 +34,7 @@
     },
     {
       "id": "Walpu3_hard_stage_unlock_condition",
-      "content": "通過簡單難度後解鎖"
+      "content": "通過簡單難度后解鎖"
     },
     {
       "id": "EVENT_WALPU3_NORMAL",
@@ -74,7 +74,7 @@
     },
     {
       "id": "missionConditionTitle_10016",
-      "content": "單次戰鬥中精靈女王殺死了精靈畸塊"
+      "content": "單次戰鬥中精靈女王殺死精靈畸塊"
     },
     {
       "id": "missionConditionTitle_10017",
@@ -122,7 +122,7 @@
     },
     {
       "id": "missionConditionTitle_20016",
-      "content": "單次戰鬥中精靈女王殺死了精靈畸塊"
+      "content": "單次戰鬥中精靈女王殺死精靈畸塊"
     },
     {
       "id": "missionConditionTitle_20017",
@@ -150,7 +150,7 @@
     },
     {
       "id": "walpu3_reward_event_desc",
-      "content": "在簡單及困難難度下，鎮壓精靈盛宴並完成任務。\n\n完成任務後，您將獲得多種獎勵。"
+      "content": "在簡單及困難難度下，鎮壓精靈盛宴並完成任務。\n\n完成任務后，您將獲得多種獎勵。"
     },
     {
       "id": "walpu3_reward_normal_tab",
@@ -182,7 +182,7 @@
     },
     {
       "id": "walpu_battle_1_wave",
-      "content": "歷史層 - 第{0}舞台"
+      "content": "歷史層 - 第{0}舞臺"
     },
     {
       "id": "walpu_battle_name_10555",
@@ -206,15 +206,15 @@
     },
     {
       "id": "tutorial_mainui_27_walpu3_01_title",
-      "content": "第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書"
+      "content": "第3次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書"
     },
     {
       "id": "tutorial_mainui_27_walpu3_01_title_01",
-      "content": "第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書"
+      "content": "第3次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書"
     },
     {
       "id": "tutorial_mainui_27_walpu3_01_desc_01",
-      "content": "[第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]不論主線故事進度都將開放。可以通過玻璃窗或駕駛席上的活動橫幅進入。 "
+      "content": "[第3次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]不論主線故事進度都將開放。可以通過玻璃窗或駕駛席上的活動橫幅進入。 "
     },
     {
       "id": "tutorial_mainui_27_walpu3_02_title_01",
@@ -222,7 +222,7 @@
     },
     {
       "id": "tutorial_mainui_27_walpu3_02_desc_01",
-      "content": "[第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]的活動持續時間顯示在這里。活動期間內，完成簡單及困難難度的戰鬥任務，可以領取任務獎勵的報酬。"
+      "content": "[第3次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]的活動持續時間顯示在這裡。活動期間內，完成簡單及困難難度的戰鬥任務，可以領取任務獎勵的報酬。"
     },
     {
       "id": "tutorial_mainui_27_walpu3_03_title_01",
@@ -246,7 +246,7 @@
     },
     {
       "id": "tutorial_mainui_27_walpu3_04_desc_01",
-      "content": "編隊中以第一順位進入關卡的罪人將被賦予“歷史層司書”效果。“歷史層司書”效果在簡單/困難戰鬥中會發生變化，賦予效果的罪人將獲得額外技能槽，並獲得增益。"
+      "content": "編隊中以第一順位進入關卡的罪人將被賦予「歷史層司書」效果。「歷史層司書」效果在簡單/困難戰鬥中會發生變化，賦予效果的罪人將獲得額外技能槽，並獲得增益。"
     },
     {
       "id": "tutorial_mainui_27_walpu3_05_title_01",
@@ -254,7 +254,7 @@
     },
     {
       "id": "tutorial_mainui_27_walpu3_05_desc_01",
-      "content": "通過[任務列表]界面，能夠查看需要完成的任務，以及任務獎勵。"
+      "content": "通過[任務列表]界面，能夠檢視需要完成的任務，以及任務獎勵。"
     },
     {
       "id": "tutorial_mainui_27_walpu3_06_desc_01",
@@ -270,7 +270,11 @@
     },
     {
       "id": "tutorial_mainui_27_walpu3_07_desc_01",
-      "content": "活動結束後，通過駕駛席-[外傳故事]及放映室-[其他故事]，可隨時享受[第三次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]的關卡和故事。"
+      "content": "活動結束后，通過駕駛席-[外傳故事]及放映室-[其他故事]，可隨時享受[第3次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]的關卡和故事。"
+    },
+    {
+      "id": "walpu3_not_progress_event_date",
+      "content": "活動結束"
     }
   ]
 }

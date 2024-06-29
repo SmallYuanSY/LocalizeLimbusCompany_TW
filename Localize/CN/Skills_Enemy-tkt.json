@@ -70,7 +70,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "骯臟的表鏈子！",
+          "name": "骯髒的錶鏈子！",
           "desc": "自身每帶有5層震顫 ，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身的震顫 振幅轉換 為震顫-分配 ",
           "coinlist": [
             {
@@ -96,7 +96,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
+          "name": "防禦",
           "desc": "[StartBattle] 使自身獲得2×(自身的震顫 層數)點護盾體力(最多20點)",
           "coinlist": [
             {
@@ -180,7 +180,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "下賤的表鏈子！",
+          "name": "下賤的錶鏈子！",
           "desc": "自身每帶有5層震顫 ，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身的震顫 振幅轉換 為震顫-分配 ",
           "coinlist": [
             {
@@ -206,7 +206,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
+          "name": "防禦",
           "desc": "[StartBattle] 使自身獲得2×(自身的震顫 層數)點護盾體力(最多20點)",
           "coinlist": [
             {
@@ -354,7 +354,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標以震顫-回響 振幅糾纏 "
+                  "desc": "[OnSucceedAttack] 使目標以震顫-迴響 振幅糾纏 "
                 }
               ]
             }
@@ -367,7 +367,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
+          "name": "防禦",
           "desc": "[StartBattle] 使自身獲得3×(自身的震顫 層數)點護盾體力(最多30點)",
           "coinlist": [
             {
@@ -431,7 +431,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "征收檢查",
+          "name": "徵收檢查",
           "desc": "[WhenUse] 對自身施加1層震顫 ",
           "coinlist": [
             {
@@ -495,7 +495,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "強制征收執行。",
+          "name": "強制徵收執行。",
           "desc": "[WhenUse] 自身每帶有5層震顫 ，則使本技能的拼點威力+1(最多+2)\n[WhenUse] 若自身的震顫 層數不低於5層，則自身每帶有1層震顫 ，使本技能造成的傷害+10%(最多+100%)\n[EndSkill] 消耗自身所有震顫 層數",
           "coinlist": [
             {
@@ -546,7 +546,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "借來的時間",
+          "name": "時間租賃",
           "desc": "[StartBattle] 消耗5層震顫 並使自身獲得3層[TimeRentalTwo]",
           "coinlist": [
             {
@@ -565,7 +565,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "征收準備",
+          "name": "徵收準備",
           "desc": "[WhenUse] 對自身施加2層震顫 ",
           "coinlist": [
             {
@@ -622,7 +622,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "請出示鐘表。",
+          "name": "請出示鐘錶。",
           "desc": "[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拼點威力+1\n[WhenUse] 對自身施加2層震顫 \n[WinDuel] 消耗自身的3層震顫 並使自身獲得1層[TimeRentalTwo]",
           "coinlist": [
             {
@@ -651,7 +651,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "強制征收執行。",
+          "name": "強制徵收執行。",
           "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 自身每帶有4層震顫 ，使本技能的基礎威力+1(最多+3)\n[WinDuel] 消耗自身的5層震顫 並使自身獲得3層[TimeRentalTwo]",
           "coinlist": [
             {
@@ -678,7 +678,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 ，使目標震顫引爆 並重覆使用本硬幣(最多1次)"
+                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 ，使目標震顫引爆 並重復使用本硬幣(最多1次)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 消耗自身的5層震顫 並對目標施加2層[TimeAccumulation]"
@@ -694,7 +694,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "借來的時間",
+          "name": "時間租賃",
           "desc": "[StartBattle] 消耗4層震顫 並使自身獲得3層[TimeRentalTwo]\n[StartBattle] 對自身施加2層[Vibration]",
           "coinlist": [
             {
@@ -713,7 +713,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "征收準備",
+          "name": "徵收準備",
           "desc": "[WhenUse] 對自身施加2層震顫 ",
           "coinlist": [
             {
@@ -764,7 +764,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "請您駐足。",
+          "name": "請您留步。",
           "desc": "[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拼點威力+1\n[WhenUse] 對自身施加2層震顫 \n[WinDuel] 消耗自身的3層震顫 並使自身獲得1層[TimeRentalTwo]",
           "coinlist": [
             {
@@ -790,7 +790,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "強制征收執行。",
+          "name": "強制徵收執行。",
           "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 自身每帶有4層震顫 ，使本技能的基礎威力+1(最多+3)\n[WinDuel] 消耗自身的5層震顫 並使自身獲得3層[TimeRentalTwo]",
           "coinlist": [
             {
@@ -817,7 +817,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 ，使目標震顫引爆 並重覆使用本硬幣(最多1次)"
+                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 ，使目標震顫引爆 並重復使用本硬幣(最多1次)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 消耗自身的5層震顫 並對目標施加2層[TimeAccumulation]"
@@ -833,7 +833,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "借來的時間",
+          "name": "時間租賃",
           "desc": "[StartBattle] 消耗4層震顫 並使自身獲得3層[TimeRentalTwo]\n[StartBattle] 對自身施加2層[Vibration]",
           "coinlist": [
             {

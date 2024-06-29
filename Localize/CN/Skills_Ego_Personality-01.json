@@ -1,113 +1,113 @@
 {
-   "dataList": [
-     {
-       "id": 2010611,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "往昔",
-           "abName": "某日的肖像",
-           "desc": "[EndSkill] 隨機使目標增加共6+(憂鬱共鳴數)級沉淪 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加1層束縛 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 3,
-           "name": "往昔",
-           "abName": "某日的肖像",
-           "desc": "[EndSkill] 隨機使目標增加共6+(憂鬱共鳴數)級沉淪 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加2層束縛 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "往昔",
-           "abName": "某日的肖像",
-           "desc": "[EndSkill] 隨機使目標增加共6+(憂鬱共鳴數×1.5)級沉淪 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加2層束縛 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 2010621,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "往昔",
-           "abName": "某日的肖像",
-           "desc": "[CantIdentify]\n隨機指定目標",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度。下回合對其施加2層束縛 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加1層束縛 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 3,
-           "name": "往昔",
-           "abName": "某日的肖像",
-           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若憂鬱共鳴數不低於3，則使本技能的攻擊容量+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度。下回合對其施加2層束縛 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加1層束縛 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "往昔",
-           "abName": "某日的肖像",
-           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若憂鬱共鳴數不低於3，則使本技能的攻擊容量+1\n[BeforeAttack] 若憂鬱共鳴數不低於5， 則使本技能的攻擊容量額外+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度。下回合對其施加2層束縛 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加2層束縛 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     }
-   ]
+  "dataList": [
+    {
+      "id": 2010611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "往昔",
+          "abName": "某日的肖像",
+          "desc": "[EndSkill] 隨機使目標增加共計6+(憂鬱共鳴數)級沉淪 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加1層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "往昔",
+          "abName": "某日的肖像",
+          "desc": "[EndSkill] 隨機使目標增加共計6+(憂鬱共鳴數)級沉淪 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "往昔",
+          "abName": "某日的肖像",
+          "desc": "[EndSkill] 隨機使目標增加共計6+(憂鬱共鳴數×1.5)級沉淪 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "往昔",
+          "abName": "某日的肖像",
+          "desc": "[CantIdentify]\n隨機指定目標",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度。下回合對其施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加1層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "往昔",
+          "abName": "某日的肖像",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若憂鬱共鳴數不低於3，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度。下回合對其施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加1層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "往昔",
+          "abName": "某日的肖像",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若憂鬱共鳴數不低於3，則使本技能的攻擊容量+1\n[BeforeAttack] 若憂鬱共鳴數不低於5，則使本技能的攻擊容量額外+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度。下回合對其施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則下回合對其施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

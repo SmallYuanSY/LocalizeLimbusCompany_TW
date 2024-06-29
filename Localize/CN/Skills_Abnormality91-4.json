@@ -44,7 +44,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加4層 破裂"
+                  "desc": "[OnSucceedAttack] 對目標施加4層破裂 "
                 }
               ]
             }
@@ -70,7 +70,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 目標施加5層破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             }
@@ -106,7 +106,7 @@
         {
           "level": 1,
           "name": "激情四蟹",
-          "desc": "[CantIdentify]\n目標每帶有5層破裂 ，則使本技能造成的傷害+20%\n[EndSkill] 回合結束時，若除自身外的螃蟹少於5只，則額外召喚3只螃蟹（最多5只）",
+          "desc": "[CantIdentify]\n目標每帶有5層破裂 ，使本技能造成的傷害+20%\n[EndSkill] 回合結束時，若除自身以外的螃蟹少於5只，則召喚3只螃蟹(最多召喚5只)",
           "coinlist": [
             {
               "coindescs": [
@@ -125,7 +125,7 @@
         {
           "level": 1,
           "name": "泡沫護身",
-          "desc": "[StartBattle] 若在帶有護盾時受到傷害，則反彈7點傷害\n使目標增加1級破裂 強度",
+          "desc": "[StartBattle] 若自身帶有護盾時受到攻擊，則反彈7點傷害\n使目標增加1級破裂 強度",
           "coinlist": [
             {}
           ]
@@ -138,7 +138,7 @@
         {
           "level": 1,
           "name": "泡沫護身",
-          "desc": "[StartBattle] 若在帶有護盾時受到傷害，則反彈7點傷害\n使目標增加1級破裂 強度",
+          "desc": "[StartBattle] 若自身帶有護盾時受到攻擊，則反彈7點傷害\n使目標增加1級破裂 強度",
           "coinlist": [
             {}
           ]

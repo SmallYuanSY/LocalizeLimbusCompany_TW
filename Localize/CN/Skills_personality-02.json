@@ -56,7 +56,7 @@
         {
           "level": 1,
           "name": "客戶保護",
-          "desc": "[WhenUse] 使現存體力比例最低的友方單位獲得2層防禦等級提升 （每回合最多發動3次）",
+          "desc": "[WhenUse] 使現存體力比例最低的友方單位獲得2層防禦等級提升 (每回合最多發動3次)",
           "coinlist": [
             {
               "coindescs": [
@@ -84,7 +84,7 @@
         {
           "level": 2,
           "name": "客戶保護",
-          "desc": "[WhenUse] 使現存體力比例最低的友方單位獲得3層防禦等級提升（每回合最多發動3次）\n若自身的防禦等級提升層數不低於5層，則使本技能拼點威力+1",
+          "desc": "[WhenUse] 使現存體力比例最低的友方單位獲得3層防禦等級提升 (每回合最多3次)\n若自身的防禦等級提升 層數不低於5層，則使本技能拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -112,7 +112,7 @@
         {
           "level": 4,
           "name": "客戶保護",
-          "desc": "[WhenUse] 使現存體力比例最低的友方單位獲得4層防禦等級提升（每回合最多發動3次）\n若自身的防禦等級提升層數不低於5層，則使本技能拼點威力+2",
+          "desc": "[WhenUse] 使現存體力比例最低的友方單位獲得4層防禦等級提升 (每回合最多3次)\n若自身的防禦等級提升 層數不低於5層，則使本技能拼點威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -203,7 +203,7 @@
         {
           "level": 1,
           "name": "緊縛的約束衣",
-          "desc": "[WhenUse] 對自己施加3層震顫 ",
+          "desc": "[WhenUse] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -220,7 +220,7 @@
         {
           "level": 2,
           "name": "緊縛的約束衣",
-          "desc": "[WhenUse] 對自己施加3層震顫 ",
+          "desc": "[WhenUse] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -237,7 +237,7 @@
         {
           "level": 4,
           "name": "緊縛的約束衣",
-          "desc": "[WhenUse] 對自己施加3層震顫 \n[DefeatDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 對自身施加3層震顫 \n[DefeatDuel] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -258,7 +258,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "鐵塊的迴音",
+          "name": "鐵塊的回聲",
           "desc": "[WhenUse] 對自身施加4層震顫 ",
           "coinlist": [
             {
@@ -280,13 +280,13 @@
         },
         {
           "level": 2,
-          "name": "鐵塊的迴音",
+          "name": "鐵塊的回聲",
           "desc": "[StartBattle] 消耗5層震顫 並使本技能的攻擊容量+1\n[WhenUse] 對自身施加4層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對自己施加1層震顫 "
+                  "desc": "[OnSucceedAttackHead] 對自身施加1層震顫 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層攻擊等級降低 "
@@ -308,13 +308,13 @@
         },
         {
           "level": 4,
-          "name": "鐵塊的迴音",
+          "name": "鐵塊的回聲",
           "desc": "[StartBattle] 消耗5層震顫 並使本技能的攻擊容量+1\n[WhenUse] 對自身施加4層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對自己施加1層震顫 "
+                  "desc": "[OnSucceedAttackHead] 對自身施加1層震顫 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層攻擊等級降低 "
@@ -342,26 +342,26 @@
         {
           "level": 3,
           "name": "被解放的暴戾",
-          "desc": "[StartBattle] 消耗5層震顫並使本技能的攻擊容量+1（最多+2）\n[DefeatDuel] 使自身失去20點理智值\n目標每帶有1種負面狀態，使 本技能造成的傷害+3%（最多+15%）\n[EnemyKill] 對自身施加2層震顫",
+          "desc": "[StartBattle] 消耗5層震顫 並使本技能的攻擊容量+1(最多+2)\n[DefeatDuel] 使自身失去20點理智值\n目標每帶有1種負面狀態，使本技能造成的傷害+3%(最多+15%)\n[EnemyKill] 對自身施加2層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量20%的暴怒傷害（最多13點）"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量20%的暴怒傷害(最多13點)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量20%的暴怒傷害（最多13點）"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量20%的暴怒傷害(最多13點)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量20%的暴怒傷害（最多13點）\n使目標的震顫 層數減少3層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量20%的暴怒傷害(最多13點)\n使目標的震顫 層數減少3層"
                 }
               ]
             }
@@ -370,26 +370,26 @@
         {
           "level": 4,
           "name": "被解放的暴戾",
-          "desc": "[StartBattle] 消耗5層震顫並使本技能的攻擊容量+1（最多+2）\n[DefeatDuel] 使自身失去20點理智值\n目標每帶有1種負面狀態，使 本技能造成的傷害+6%（最多+30%）\n[EnemyKill] 對自身施加2層震顫",
+          "desc": "[StartBattle] 消耗5層震顫 並使本技能的攻擊容量+1(最多+2)\n[DefeatDuel] 使自身失去20點理智值\n目標每帶有1種負面狀態，使本技能造成的傷害+6%(最多+30%)\n[EnemyKill] 對自身施加2層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量30%的暴怒傷害（最多20點）"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量30%的暴怒傷害(最多20點)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量30%的暴怒傷害（最多20點）"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量30%的暴怒傷害(最多20點)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量30%的暴怒傷害（最多20點）\n使目標的震顫 層數減少3層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n對目標造成最終混亂閾值前移量30%的暴怒傷害(最多20點)\n使目標的震顫 層數減少3層"
                 }
               ]
             }
@@ -402,15 +402,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "怨恨的累積",
-          "desc": "[WhenUse] 對自己施加3層震顫 ",
+          "name": "怨恨的積聚",
+          "desc": "[WhenUse] 對自身施加3層震顫 ",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "怨恨的累積",
+          "name": "怨恨的積聚",
           "desc": "[WhenUse] 對自身施加6層震顫 ",
           "coinlist": [
             {}
@@ -423,7 +423,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "月下舞劍",
+          "name": "月下劍舞",
           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {},
@@ -439,7 +439,7 @@
         },
         {
           "level": 2,
-          "name": "月下舞劍",
+          "name": "月下劍舞",
           "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {},
@@ -461,7 +461,7 @@
         },
         {
           "level": 4,
-          "name": "月下舞劍",
+          "name": "月下劍舞",
           "desc": "若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {},
@@ -569,7 +569,7 @@
         {
           "level": 3,
           "name": "紅梅散華",
-          "desc": "目標每帶有1層紅梅 ，使本技能造成的傷害+3%\n[WinDuel] 消耗自身一半的呼吸法 層數並使自身增加相應的呼吸法 強度（最多10級） ",
+          "desc": "目標每帶有1層紅梅 ，使本技能造成的傷害+3%\n[WinDuel] 消耗自身一半的呼吸法 層數並使自身增加相應的呼吸法 強度(最多10級)",
           "coinlist": [
             {
               "coindescs": [
@@ -590,7 +590,7 @@
         {
           "level": 4,
           "name": "紅梅散華",
-          "desc": "目標每帶有1層紅梅 ，使本技能造成的傷害+3%\n自身每帶有7級呼吸法 強度，使本技能的硬幣威力+1（最多+3）\n [WinDuel] 消耗自身一半的呼吸法 層數並使自身增加相應的呼吸法強度 （最多10級）\n本技能暴擊時不消耗目標的紅梅 層數",
+          "desc": "目標每帶有1層紅梅 ，使本技能造成的傷害+3%\n自身每帶有7級呼吸法 強度，使本技能的硬幣威力+1(最多+3)\n[WinDuel] 消耗自身一半的呼吸法 層數並使自身增加相應的呼吸法 強度(最多10級)\n本技能暴擊時不消耗目標的紅梅 層數",
           "coinlist": [
             {
               "coindescs": [
@@ -622,7 +622,7 @@
         {
           "level": 1,
           "name": "以柔克剛",
-          "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1（最多+3）",
+          "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1(最多+3)",
           "coinlist": [
             {}
           ]
@@ -630,190 +630,190 @@
         {
           "level": 4,
           "name": "以柔克剛",
-          "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1（最多+5）",
+          "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1(最多+5)",
           "coinlist": [
             {}
           ]
         }
       ]
     },
-     {
-       "id": 1020901,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "沒收",
-           "desc": "",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "沒收",
-           "desc": "",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "沒收",
-           "desc": "[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+1",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1020902,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "迎接不速之客",
-           "desc": "",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加2層沉淪 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 2,
-           "name": "迎接不速之客",
-           "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的拼點威力+1",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "迎接不速之客",
-           "desc": "[WhenUse] 若目標的沉淪強度不低於5級，則使本技能的拼點威力+1\n[WhenUse] 若目標的沉淪層數不低於3層，則使本技能 的硬幣威力+1",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1020903,
-       "levelList": [
-         {
-           "level": 3,
-           "name": "待客之道4式 封心",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
-                 }
-               ]
-             },
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層[EchoOfMansion]"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標帶有[EchoOfMansion]，則對其施加3層沉淪 "
-                 }
-               ]
-             }
-           ]
-         },
-         {
-           "level": 4,
-           "name": "待客之道4式 封心",
-           "desc": "[WhenUse] 若目標的沉淪 層數不低於5層，則使本技能的硬幣威力+2",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
-                 }
-               ]
-             },
-             {},
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層[EchoOfMansion]"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 若目標帶有[EchoOfMansion]，則對其施加3層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 1020904,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "預備狩獵",
-           "desc": "[WhenUse] 若目標的沉淪 強度不低於10級，則使本技能的硬幣威力+3",
-           "coinlist": [
-             {}
-           ]
-         },
-         {
-           "level": 4,
-           "name": "預備狩獵",
-           "desc": "[WhenUse] 若目標的沉淪 強度不低於10級，則使本技能的硬幣威力+7",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     }
+    {
+      "id": 1020901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "沒收",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "沒收",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "沒收",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迎接不速之客",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層沉淪 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "迎接不速之客",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "迎接不速之客",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的拼點威力+1\n[WhenUse] 若目標的沉淪 層數不低於3層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "待客之道4式 封心",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[EchoOfMansion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有[EchoOfMansion]，則對其施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "待客之道4式 封心",
+          "desc": "[WhenUse] 若目標的沉淪 層數不低於5層，則使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[EchoOfMansion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有[EchoOfMansion]，則對其施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "預備狩獵",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於10級，則使本技能的硬幣威力+3",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "預備狩獵",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於10級，則使本技能的硬幣威力+7",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
   ]
 }

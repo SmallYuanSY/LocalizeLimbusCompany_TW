@@ -59,7 +59,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]使目標增加3級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
@@ -106,7 +106,7 @@
         {
           "level": 1,
           "name": "縮頭螃蟹",
-          "desc": "[StartBattle] 本回合內若在帶有護盾時受到傷害，則反彈4點斬擊傷害",
+          "desc": "[StartBattle] 本回合內若自身帶有護盾時受到攻擊，則反彈4點斬擊傷害",
           "coinlist": [
             {}
           ]
@@ -144,7 +144,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蟹鏟!",
+          "name": "蟹鏟！",
           "desc": "",
           "coinlist": [
             {
@@ -172,7 +172,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]使目標增加3級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
@@ -219,7 +219,7 @@
         {
           "level": 1,
           "name": "縮頭螃蟹",
-          "desc": "[StartBattle] 本回合內若在帶有護盾時受到傷害，則反彈4點突刺傷害",
+          "desc": "[StartBattle] 本回合內若自身帶有護盾時受到攻擊，則反彈4點突刺傷害",
           "coinlist": [
             {}
           ]
@@ -257,7 +257,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蟹鏟!",
+          "name": "蟹鏟！",
           "desc": "",
           "coinlist": [
             {
@@ -285,7 +285,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]使目標增加3級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
@@ -332,7 +332,7 @@
         {
           "level": 1,
           "name": "縮頭螃蟹",
-          "desc": "[StartBattle] 本回合內若在帶有護盾時受到傷害，則反彈4點打擊傷害",
+          "desc": "[StartBattle] 本回合內若自身帶有護盾時受到攻擊，則反彈4點打擊傷害",
           "coinlist": [
             {}
           ]
@@ -571,13 +571,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "廢棄蟹殼彈發射",
+          "name": "蟹殼廢料彈發射",
           "desc": "[CantIdentify]\n目標每帶有5級破裂 強度，則使本技能造成的傷害+15%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗1枚廢棄蟹殼彈 "
+                  "desc": "[OnSucceedAttack] 消耗1枚蟹殼廢料彈 "
                 }
               ]
             }

@@ -1,731 +1,721 @@
 {
-   "dataList": [
-     {
-       "id": 9008301,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "嘔出水沫",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008302,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "利爪",
-           "desc": "若目標的沉淪 強度不低於5級，則使本技能造成的傷害+20%",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008303,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "灑水",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加5層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008304,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "光滑的表皮",
-           "desc": "若自身在有護盾時受到攻擊，則使攻擊者增加1級沉淪 強度",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008401,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "爪鉤切割",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008402,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "爪鉤連續切割",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008403,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "戰吼",
-           "desc": "[WhenUse] 下回合使自身增加2級呼吸法 強度。\n回合結束時，根據自身帶有的護盾，使自身恢復相應的體力。",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008404,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "撕開裂口",
-           "desc": "若自身帶有呼吸法 ，則發動本技能的硬幣效果。",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 使本硬幣造成的傷害+30%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 使本硬幣造成的傷害+30%"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008501,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "爪鉤勾抓",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008502,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "爪鉤直擊",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008503,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "戰吼",
-           "desc": "[WhenUse] 下回合使自身增加2級呼吸法 強度。\n回合結束時，根據自身帶有的護盾，使自身恢復相應的體力。",
-           "coinlist": [
-             {}
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008504,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "撕開裂口",
-           "desc": "若自身帶有呼吸法 ，則發動本技能的硬幣效果。",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 使本硬幣造成的傷害+30%"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 使本硬幣造成的傷害+30%"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008601,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "撕裂皮肉",
-            "desc": "",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 對目標施加2層流血 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008602,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "滲透",
-            "desc": "",
-            "coinlist": [
-              {},
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對目標施加3層流血 "
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008603,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "更快",
-            "desc": "[EndSkill] 下個回合使自身獲得1層傷害強化 ",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 下回合使自身增加4級呼吸法 強度"
-                  }
-                ]
-              },
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008604,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "戰吼",
-            "desc": "[WhenUse] 下回合使自身增加2級呼吸法 強度。\n回合結束時，根據自身帶有的護盾，使自身恢復相應的體力。",
-            "coinlist": [
-              {}
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008605,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "劫掠",
-            "desc": "[WinDuel] 複製並使用目標等級為1~3的1個技能的硬幣威力與硬幣數",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": ""
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008701,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "用力打啊",
-            "desc": "[WhenUse] 若目標帶有流血 ，則使自身獲得1層守護 ",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008702,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "往這打啊",
-            "desc": "[WhenUse] 若目標帶有流血 ，則使自身獲得1層守護 ",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                  }
-                ]
-              },
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 下回合對目標施加2層傷害弱化 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008703,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "再用力啊",
-            "desc": "[EndSkill] 下個回合使自身獲得1層傷害強化 ",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 使自身獲得2層守護 "
-                  }
-                ]
-              },
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 下回合使自身獲得2層守護 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttack] 下回合使自身增加4級呼吸法 強度"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008704,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "防禦",
-            "desc": "[WhenUse] 下回合使自身增加2級呼吸法 強度。\n回合結束時，根據自身帶有的護盾，相應恢復體力。",
-            "coinlist": [
-              {}
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9008705,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "劫掠",
-            "desc": "[WinDuel] 複製並使用目標等級為1~3的1個技能的硬幣威力與硬幣數",
-            "coinlist": [
-              {}
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101101,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "灑水",
-            "desc": "",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                  }
-                ]
-              },
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101102,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "潮濕一擊",
-            "desc": "",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 對目標施加2層沉淪易損 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttack] 對目標施加3層流血 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101103,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "浪潮之掌",
-            "desc": "",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
-                  }
-                ]
-              },
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101104,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "哀嚎波浪",
-            "desc": "目標每帶有5級沉淪 強度，使本技能造成的傷害+20%\n若目標的理智值不高於0點，則使本技能造成的傷害+10%",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 使目標沉淪氾濫 "
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101105,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "光滑的表皮",
-            "desc": "若自身在有護盾時受到攻擊，則使攻擊者增加1級沉淪 強度",
-            "coinlist": [
-              {}
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101201,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "看那裡",
-            "desc": "",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101202,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "小的們，來活了",
-            "desc": "",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 對目標施加2層流血 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
-                  }
-                ]
-              },
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 對目標施加1層流血 "
-                  },
-                  {
-                    "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101203,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "戰鬥指揮",
-            "desc": "[WhenUse] 使自身增加5級呼吸法 強度",
-            "coinlist": [
-              {},
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 下回合使除自身以外的全體友方單位獲得2層守護 ，1層強壯 "
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101204,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "發現漏洞！開火！",
-            "desc": "若目標的流血 強度不低於5級，則使本技能的拼點威力+2",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                  },
-                  {
-                    "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
-                  }
-                ]
-              },
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                  },
-                  {
-                    "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
-                  }
-                ]
-              },
-              {
-                "coindescs": [
-                  {
-                    "desc": "[OnSucceedAttack] 對目標施加3層流血 \n根據目標的流血 強度造成額外傷害"
-                  },
-                  {
-                    "desc": "消耗1發彈藥 "
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101205,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "閃避",
-            "desc": "[OnSucceedEvade] 下回合使自身增加5級呼吸法 強度。\n[OnSucceedEvade] 下回合使全體友方單位增加2級呼吸法 強度。",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": ""
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 9101206,
-        "levelList": [
-          {
-            "level": 1,
-            "name": "劫掠",
-            "desc": "[WinDuel] 複製並使用目標等級為3的技能的硬幣威力與硬幣數",
-            "coinlist": [
-              {
-                "coindescs": [
-                  {
-                    "desc": ""
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
- }
+  "dataList": [
+    {
+      "id": 9008301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘔出水沫",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "利爪",
+          "desc": "若目標的沉淪 強度不低於5級，則使本技能造成的傷害+20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "灑水",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "光滑的表皮",
+          "desc": "若自身帶有護盾時受到攻擊，則使攻擊者增加1級沉淪 強度",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "爪鉤切割",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "爪鉤連割",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "戰吼",
+          "desc": "[WhenUse] 下回合使自身增加2級呼吸法 強度。\n回合結束時，根據自身帶有的護盾，使自身恢復相應的體力。",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "撕開裂口",
+          "desc": "若自身帶有呼吸法 ，則發動本技能的硬幣效果。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 使本硬幣造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 使本硬幣造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "爪鉤勾抓",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "爪鉤直擊",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "戰吼",
+          "desc": "[WhenUse] 下回合使自身增加2級呼吸法 強度。\n回合結束時，根據自身帶有的護盾，使自身恢復相應的體力。",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "撕開裂口",
+          "desc": "若自身帶有呼吸法 ，則發動本技能的硬幣效果。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 使本硬幣造成的傷害+30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 使本硬幣造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "撕裂皮肉",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "滲透",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "更快",
+          "desc": "[EndSkill] 下回合使自身獲得1層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身增加4級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "戰吼",
+          "desc": "[WhenUse] 下回合使自身增加2級呼吸法 強度。\n回合結束時，根據自身帶有的護盾，使自身恢復相應的體力。",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "劫掠",
+          "desc": "[WinDuel] 複製並使用目標級別為1~3的1個技能的硬幣威力與硬幣數",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "使勁打啊",
+          "desc": "[WhenUse] 若目標帶有流血 ，則使自身獲得1層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "往這打啊",
+          "desc": "[WhenUse] 若目標帶有流血 ，則使自身獲得1層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層傷害弱化 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "再使勁啊",
+          "desc": "[EndSkill] 下回合使自身獲得1層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層守護 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層守護 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身增加4級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "[WhenUse] 下回合使自身增加2級呼吸法 強度。\n回合結束時，根據自身帶有的護盾，使自身恢復相應的體力。",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "劫掠",
+          "desc": "[WinDuel] 複製並使用目標級別為1~3的1個技能的硬幣威力與硬幣數",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "灑水",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "潮濕一擊",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "浪潮之掌",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "哀嚎波浪",
+          "desc": "目標每帶有5級沉淪 強度，使本技能造成的傷害+20%\n若目標的理智值不高於0點，則使本技能造成的傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標沉淪氾濫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "光滑的表皮",
+          "desc": "若自身帶有護盾時受到攻擊，則使攻擊者增加1級沉淪 強度",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "往那看",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "小的們，來活了",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "戰鬥指揮",
+          "desc": "[WhenUse] 使自身增加5級呼吸法 強度",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使除自身以外的全體友方單位獲得2層守護 與1層強壯 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "發現漏洞！開火！",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 \n根據目標帶有的流血 強度，對其額外造成相應的傷害"
+                },
+                {
+                  "desc": "消耗1發彈藥 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避",
+          "desc": "[OnSucceedEvade] 下回合使自身增加5級呼吸法 強度。\n[OnSucceedEvade] 下回合使全體友方單位增加2級呼吸法 強度。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "劫掠",
+          "desc": "[WinDuel] 複製並使用目標3技能的硬幣威力與硬幣數",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

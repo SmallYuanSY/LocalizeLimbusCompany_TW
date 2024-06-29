@@ -10,15 +10,15 @@
     },
     {
       "id": "battlepass_dailymission",
-      "content": "日常"
+      "content": "日常任務"
     },
     {
       "id": "battlepass_weeklymission",
-      "content": "周常"
+      "content": "周常任務"
     },
     {
       "id": "battlepass_seasonmission",
-      "content": "賽季"
+      "content": "賽季任務"
     },
     {
       "id": "battlepass_freeandpaid",
@@ -106,7 +106,7 @@
     },
     {
       "id": "only_paid_lunacy_for_battlepass_levelup",
-      "content": "※通行證等級僅能使用付費狂氣購買。"
+      "content": "※購買通行證等級需要花費300付費狂氣。"
     },
     {
       "id": "buy_battlepass_word",
@@ -138,11 +138,11 @@
     },
     {
       "id": "battlepass_package_purchase",
-      "content": "邊獄通行證禮包"
+      "content": "邊獄通行證組合包"
     },
     {
       "id": "battlepass_package_desc_level",
-      "content": "包括“邊獄巴士禮包 特殊裝飾橫幅”在內的各種獎勵"
+      "content": "包括「邊獄通行證組合包特別橫幅」在內的各種獎勵"
     },
     {
       "id": "battlepass_package_desc_banner",
@@ -150,15 +150,15 @@
     },
     {
       "id": "battlepass_package_ask_purchase",
-      "content": "要消耗 {0} 付費狂氣來購買這個禮包嗎？"
+      "content": "要消耗 {0} 付費狂氣來購買這個組合包嗎？"
     },
     {
       "id": "battlepass_package_warning",
-      "content": "※ 這件商品在購買後會立即使用，退款將會受到限制。"
+      "content": "※ 這件商品在購買後會立即使用，退款將受到限制。"
     },
     {
       "id": "battlepass_limbus_pass_benefit_ex_box_reward",
-      "content": "購買時將會獲得下列通行證等級超額獎勵"
+      "content": "購買時將獲得下列通行證等級超額獎勵"
     },
     {
       "id": "battlepass_limbus_pass_benefit_ex_box_reward_count",
@@ -166,19 +166,19 @@
     },
     {
       "id": "battlepass_select_product_popup_title",
-      "content": "選擇組合包/通行證"
+      "content": "選擇通行證/組合包"
     },
     {
       "id": "only_paid_lunacy_for_battlepass_levelup_with_number",
-      "content": "※購買 1 通行證等級需要花費{0}付费狂气。"
+      "content": "※購買 1 通行證等級需要花費{0}付費狂氣。"
     },
     {
       "id": "battle_pass_package_button_desc",
-      "content": "附帶特殊裝飾橫幅\n可獲得各種獎勵"
+      "content": "附帶特別橫幅\n可獲得各種獎勵"
     },
     {
       "id": "battle_pass_select_popup_package_desc",
-      "content": "附帶特殊裝飾橫幅\n可獲得各種獎勵"
+      "content": "附帶特別橫幅\n可獲得各種獎勵"
     },
     {
       "id": "battle_pass_select_popup_limbus_desc",
@@ -186,11 +186,11 @@
     },
     {
       "id": "battle_pass_package_purchase_popup_desc",
-      "content": "◆購買後立即增加10通行證等級。\n◆包含以下內容。"
+      "content": "◆購買后立即增加10通行證等級。\n◆包含以下的內容。"
     },
     {
       "id": "battle_pass_limbus_purchase_popup_desc",
-      "content": "◆ 能夠獲得包含邊獄通行證在內的多種獎勵。\n◆ 戰鬥通行證超額獎勵中可取得的[第3季]自我碎片自選箱的數量由1個增加至3個。"
+      "content": "◆ 能夠獲得包含邊獄通行證在內的多種獎勵。\n◆ 戰鬥通行證超額獎勵中可獲取的[第3賽季]自我碎片自選箱的數量由1個增加至3個。"
     },
     {
       "id": "battle_pass_package_button_desc_with_limbus",
@@ -198,15 +198,15 @@
     },
     {
       "id": "battle_pass_package_purchase_popup_desc_in_box",
-      "content": "- 邊獄巴士禮包 特殊裝飾橫幅\n- 人格等級直升券IV"
+      "content": "- 邊獄通行證組合包特別橫幅\n- 人格等級直升券IV"
     },
     {
-      "id": "until_season_4_finished",
-      "content": "直到第四賽季更新前"
+      "id": "until_season_4_start",
+      "content": "到第4賽季開始前"
     },
     {
       "id": "until_season_5_start",
-      "content": "到第五季開始前"
+      "content": "到第五賽季開始前"
     },
     {
       "id": "battlepass_ask_purchase_limbus_pass_package",
@@ -218,11 +218,11 @@
     },
     {
       "id": "battlepass_purchase_desc_ex",
-      "content": "通行證超額獎勵中可取得的[第4季]自我碎片自選箱的數量由<style=\"highlightConverted\">{0}</style>增加到<style=\"highlightConverted\">{1}</style>個"
+      "content": "通行證超額獎勵中可獲取的[第4賽季]自我碎片自選箱的數量由<style=\"highlightConverted\">{0}</style>增加到<style=\"highlightConverted\">{1}</style>個"
     },
     {
       "id": "battlepass_purchase_desc_pass_level",
-      "content": "購買後立即增加10通行證等級"
+      "content": "購買后立即增加10通行證等級"
     },
     {
       "id": "battlepass_purchase_desc_level_ticket",
@@ -230,11 +230,11 @@
     },
     {
       "id": "battlepass_purchase_desc_special_banner",
-      "content": "邊獄巴士組合包紀念橫幅 "
+      "content": "邊獄通行證組合包特別橫幅 "
     },
     {
       "id": "battlepass_purchase_desc_policy",
-      "content": "※ 本產品購買後將立即使用，並限制退款。\n\n※ 戰鬥通行證有效期保證持續[自賽季開始之日起至少90天]。\n戰鬥通行證具體的結束日期將 透過[下季通知發佈時]的通知公佈。\n戰鬥通行證的購買日期不會影響其有效期，在購買時請留意。"
+      "content": "※ 本產品購買后將立即使用，並限制退款。\n\n※ 戰鬥通行證有效期保證持續[自賽季開始之日起至少90天]。\n戰鬥通行證具體的結束日期將通過[下賽季通知發佈時]的通知公佈。\n戰鬥通行證的購買日期不會影響其有效期，在購買時請留意。"
     },
     {
       "id": "owned_count",
@@ -242,7 +242,7 @@
     },
     {
       "id": "battle_pass_package_button_desc_with_limbus_2",
-      "content": "◆ 購買後立即提升10級通行證等級\n◆ 邊獄巴士禮包特別橫幅\n◆ 人格等級直升券IV"
+      "content": "◆ 購買后立即提升10級通行證等級\n◆ 邊獄組合包特別橫幅\n◆ 人格等級直升券IV"
     },
     {
       "id": "battle_pass_product_limbus_desc_summary",
@@ -250,11 +250,11 @@
     },
     {
       "id": "battle_pass_product_package_with_limbus_desc_summary",
-      "content": "◆ 第4季邊獄通行證\n◆ 購買後立即提升10級通行證等級\n◆ 人格等級直升券IV\n◆ 邊獄巴士禮包特別橫幅"
+      "content": "◆ 第4賽季邊獄通行證\n◆ 購買后立即提升10級通行證等級\n◆ 人格等級直升券IV\n◆ 邊獄通行證組合包特別橫幅"
     },
     {
       "id": "battle_pass_product_package_without_limbus_desc_summary",
-      "content": "◆ 購買後立即提升10級通行證等級\n◆ 人格等級直升券IV\n◆ 邊獄巴士禮包特別橫幅"
+      "content": "◆ 購買后立即提升10級通行證等級\n◆ 人格等級直升券IV\n◆ 邊獄通行證組合包特別橫幅"
     },
     {
       "id": "battle_pass_sale_10",

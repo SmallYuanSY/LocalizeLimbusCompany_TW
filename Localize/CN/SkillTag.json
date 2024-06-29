@@ -10,7 +10,7 @@
     },
     {
       "id": "WinDuel",
-      "name": "[拼點勝利時]"
+      "name": "[拼點勝利]"
     },
     {
       "id": "BeforeAttack",
@@ -18,7 +18,7 @@
     },
     {
       "id": "Wide",
-      "name": "[範圍技能]"
+      "name": "[群體技能]"
     },
     {
       "id": "nxPostLine",
@@ -42,7 +42,7 @@
     },
     {
       "id": "SCARLET",
-      "name": "色欲"
+      "name": "色慾"
     },
     {
       "id": "AMBER",
@@ -74,7 +74,7 @@
     },
     {
       "id": "EndSkill",
-      "name": "[攻擊後]"
+      "name": "[攻擊后]"
     },
     {
       "id": "StartBattle",
@@ -86,11 +86,11 @@
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[正面命中]"
+      "name": "[正面命中時]"
     },
     {
       "id": "OnSucceedAttackTail",
-      "name": "[反面命中]"
+      "name": "[反面命中時]"
     },
     {
       "id": "OnSucceedEvade",
@@ -110,15 +110,15 @@
     },
     {
       "id": "EnemyKillFail",
-      "name": "[未擊殺]"
+      "name": "[未擊殺時]"
     },
     {
       "id": "ReUse",
-      "name": "[重新使用時]"
+      "name": "[重複使用時]"
     },
     {
       "id": "ReUseOnSucceedAttackHead",
-      "name": "[重新使用 - 正面命中]"
+      "name": "[重複使用 - 正面命中時]"
     },
     {
       "id": "CriticalOnSucceedAttack",
@@ -138,27 +138,27 @@
     },
     {
       "id": "EndSkillHead",
-      "name": "[正面攻擊結束後]"
+      "name": "[正面攻擊結束后]"
     },
     {
       "id": "EndSkillTail",
-      "name": "[反面攻擊結束後]"
+      "name": "[反面攻擊結束后]"
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[正面拼點勝利後命中]"
+      "name": "[拼點勝利 - 正面命中時]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[拼點勝利後命中]"
+      "name": "[拼點勝利 - 命中時]"
     },
     {
       "id": "CriticalActivated",
-      "name": "[爆擊發動時]"
+      "name": "[暴擊發動時]"
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[暴擊結束後]"
+      "name": "[暴擊結束后]"
     },
     {
       "id": "CantChangeTarget",

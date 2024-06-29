@@ -5,7 +5,7 @@
       "personalityid": 10301,
       "voicefile": 0,
       "teller": "堂吉訶德",
-      "dialog": "請派吾上陣！為了正義，吾必將凱旋而歸！",
+      "dialog": "請派吾上陣！為了正義，吾等必將凱旋！",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -13,7 +13,7 @@
       "personalityid": 10301,
       "voicefile": 0,
       "teller": "堂吉訶德",
-      "dialog": "莫要擔心。此等小事於吾而言游刃有餘！",
+      "dialog": "莫要擔心。此等小事于吾而言遊刃有餘！",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
@@ -61,7 +61,7 @@
       "personalityid": 10301,
       "voicefile": 0,
       "teller": "堂吉訶德",
-      "dialog": "請派吾上陣！為了正義，吾必將凱旋而歸！",
+      "dialog": "請派吾上陣！為了正義，吾等必將凱旋！",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -69,7 +69,7 @@
       "personalityid": 10301,
       "voicefile": 0,
       "teller": "堂吉訶德",
-      "dialog": "不要擔心。此等小事對吾而言游刃有餘！",
+      "dialog": "不要擔心。此等小事于吾而言遊刃有餘！",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {

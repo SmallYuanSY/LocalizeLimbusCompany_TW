@@ -6,7 +6,7 @@
       "area": "4區",
       "chapter": "序章",
       "chapterNumber": "00",
-      "chaptertitle": "黑森林",
+      "chaptertitle": "幽暗的森林",
       "timeline": "984-01"
     },
     {
@@ -15,7 +15,7 @@
       "area": "4區",
       "chapter": "章節I",
       "chapterNumber": "01",
-      "chaptertitle": "被放逐者",
+      "chaptertitle": "無歸屬者",
       "timeline": "984-01"
     },
     {
@@ -40,7 +40,7 @@
       "id": "chapter_k_9103",
       "company": "K公司",
       "area": "11區",
-      "chapter": "3.5章",
+      "chapter": "間章I",
       "chapterNumber": "3.5",
       "chaptertitle": "地獄雞",
       "timeline": "984-03"
@@ -49,9 +49,9 @@
       "id": "chapter_k_104",
       "company": "K公司",
       "area": "11區",
-      "chapter": "章節 IV",
+      "chapter": "章節IV",
       "chapterNumber": "04",
-      "chaptertitle": "未變化者",
+      "chaptertitle": "無改變者",
       "timeline": "984-05"
     },
     {
@@ -73,50 +73,50 @@
       "timeline": "984-07"
     },
     {
-       "id": "chapter_u_9105",
-       "company": "U公司",
-       "area": "21區",
-       "chapter": "5.5章",
-       "chapterNumber": "5.5",
-       "chaptertitle": "20區的奇蹟",
-       "timeline": "984-08"
-     },
-     {
-       "id": "chapter_u_9106",
-       "company": "U公司",
-       "area": "21區",
-       "chapter": "",
-       "chapterNumber": "",
-       "chaptertitle": "第2次 瓦爾普吉斯之夜",
-       "timeline": "984-09"
-     },
-     {
-       "id": "chapter_t_9107",
-       "company": "T公司",
-       "area": "20區",
-       "chapter": "5.5章",
-       "chapterNumber": "5.5",
-       "chaptertitle": "肉斬骨斬",
-       "timeline": "984-10"
-     },
-     {
-       "id": "chapter_t_106",
-       "company": "T公司",
-       "area": "20區",
-       "chapter": "章節VI",
-       "chapterNumber": "06",
-       "chaptertitle": "心意相悖",
-       "timeline": "984-11"
-     },
-     {
-       "id": "chapter_t_9108",
-       "company": "T公司",
-       "area": "20區",
-       "chapter": "",
-       "chapterNumber": "",
-       "chaptertitle": "第3次 瓦爾普吉斯之夜",
-       "timeline": "984-11"
-     },
+      "id": "chapter_u_9105",
+      "company": "U公司",
+      "area": "21區",
+      "chapter": "間章III",
+      "chapterNumber": "5.5",
+      "chaptertitle": "20區的奇蹟",
+      "timeline": "984-08"
+    },
+    {
+      "id": "chapter_u_9106",
+      "company": "U公司",
+      "area": "21區",
+      "chapter": "",
+      "chapterNumber": "",
+      "chaptertitle": "第2次 瓦爾普吉斯之夜",
+      "timeline": "984-09"
+    },
+    {
+      "id": "chapter_t_9107",
+      "company": "T公司",
+      "area": "20區",
+      "chapter": "間章III",
+      "chapterNumber": "5.5",
+      "chaptertitle": "肉斬骨斷",
+      "timeline": "984-10"
+    },
+    {
+      "id": "chapter_t_106",
+      "company": "T公司",
+      "area": "20區",
+      "chapter": "章節VI",
+      "chapterNumber": "06",
+      "chaptertitle": "心意相悖",
+      "timeline": "984-11"
+    },
+    {
+      "id": "chapter_t_9108",
+      "company": "T公司",
+      "area": "20區",
+      "chapter": "",
+      "chapterNumber": "",
+      "chaptertitle": "第3次 瓦爾普吉斯之夜",
+      "timeline": "984-11"
+    },
     {
       "id": "chapter_t_9109",
       "company": "T公司",

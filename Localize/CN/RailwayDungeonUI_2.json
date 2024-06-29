@@ -18,7 +18,7 @@
     },
     {
       "id": "railway_dungeon_ask_to_select_buff_and_rotate",
-      "content": "是否通過路線回到 <color=#0f7137>起始點</color>？\n\n<size=90%>移動後將會增加巡迴數，\n並選擇將要激活的 <color=#0f7137>友方BUFF</color> 與 <color=#990000>敵方BUFF</color>。</size>"
+      "content": "是否通過路線回到 <color=#0f7137>起點站</color>？\n\n<size=90%>移動后將會增加巡迴數，\n並選擇將要啟用的 <color=#0f7137>友方BUFF</color> 與 <color=#990000>敵方BUFF</color>。</size>"
     },
     {
       "id": "railway_dungeon_current_rotation_count_title",
@@ -146,7 +146,7 @@
     },
     {
       "id": "railway_dungeon_2_ask_retry_when_defeat_info",
-      "content": "※否則將以剩下得人格與保留現存體力與增益效果的敵方單位繼續戰鬥。"
+      "content": "※否則將以剩下的人格與保留現存體力與增益效果的敵方單位繼續戰鬥。"
     },
     {
       "id": "railway_dungeon_2_retry_stage",
@@ -182,7 +182,7 @@
     },
     {
       "id": "railway_dungeon_2_reward_condition_special_ticket",
-      "content": "※<color=#32434f>第2賽季 追憶</color>期間，巡迴數到達<color=#005823>{1}</color>圈，且累計回合數不高於<color=#005823>{0}</color>回合數獲得"
+      "content": "※<color=#32434f>第二賽季 追憶</color>期間，巡迴數到達<color=#005823>{1}</color>圈，且累計回合數不高於<color=#005823>{0}</color>回合時獲得"
     },
     {
       "id": "railway_dungeon_2_special_reward_title",
@@ -206,19 +206,19 @@
     },
     {
       "id": "railway_dungeon_2_banner_reward_condition_7",
-      "content": "<color=#d6e7f2>第2賽季 追憶</color> 期間內，以巡迴數{1}以上，總計回合數{0}以下通關2號線時獲得\n(※以23/09/15 19:15 (CST) 後重新開始的紀錄為準)"
+      "content": "<color=#d6e7f2>第2賽季 追憶</color> 期間內，以巡迴數{1}以上，總計回合數{0}以下通關2號線時獲得\n(※以23/09/15 19:15 (CST) 後重新開始的記錄為準)"
     },
     {
       "id": "railway_dungeon_2_reward_condition_special_ticket_14",
-      "content": "<color=#32434f>第2賽季 追憶</color>期間內，以巡迴數<color=#005823>{1}</color>以上，總計回合數<color=#005823>{0}</color>以下通關2號線時獲得。\n（※以23/09/15 19:15(CST)後重新開始的紀錄為準）"
+      "content": "<color=#32434f>第2賽季 追憶</color>期間內，以巡迴數<color=#005823>{1}</color>以上，總計回合數<color=#005823>{0}</color>以下通關2號線時獲得。\n（※以23/09/15 19:15(CST)後重新開始的記錄為準）"
     },
     {
       "id": "railway_dungeon_2_current_battle_turn_count",
-      "content": "本站經歷的回合數：<size=\"60%\">{0}</size>"
+      "content": "本站歷經的回合數：<size=\"60%\">{0}</size>"
     },
     {
       "id": "railway_dungeon_2_ask_retry_when_defeat_info_turn_count",
-      "content": "※ 通過站點時，<color=yellow>該站經歷的回合數</color>將被加至<color=yellow>總回合數</color>中。"
+      "content": "※ 通過站點時，<color=yellow>該站歷經的回合數</color>將被加至<color=yellow>總回合數</color>中。"
     },
     {
       "id": "railway_dungeon_2_ask_retry_when_defeat_info_save_battle",
@@ -226,7 +226,7 @@
     },
     {
       "id": "railway_dungeon_2_ask_retry_when_all_died_turn_count",
-      "content": "※ 僅當通過站點後，<color=yellow>該站經歷的回合數</color>才將被加至<color=yellow>總回合數</color>中。"
+      "content": "※ 僅當通過站點后，<color=yellow>該站歷經的回合數</color>才將被加至<color=yellow>總回合數</color>中。"
     }
   ]
 }

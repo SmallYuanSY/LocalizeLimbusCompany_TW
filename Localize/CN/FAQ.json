@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "faq_description",
-      "content": "您可以在此處查看\n常見問題解答。"
+      "content": "您可以在此處檢視\n常見問題的解答。"
     },
     {
       "id": "faq_payment",
@@ -14,7 +14,7 @@
     },
     {
       "id": "faq_payment_desc_1",
-      "content": "當您購買<b>每月狂氣補給</b>後，您將立即獲得650付費狂氣，並且您可在含購買日當天在內的三十天內獲得以下每日獎勵。\n當您購買<b>月度小批狂氣</b>後，您將立即獲得130付費狂氣, 並且您可在含購買日當天在內的三十天內獲得以下每日獎勵。\n\n■ 月度狂氣補給每日獎勵:\n65免費狂氣\n\n■ 月度小批狂氣每日獎勵:\n39免費狂氣\n\n※ 注意事項\n1) 所有獎勵均通過遊戲內郵件提供。\n2) 兩個月度補給包分別生效。\n3) 兩個月度補給包在有效期內最多可再進行兩次購買。(持續時間最多可延長67日)\n4) 在您未登錄遊戲的幾天內，將不會提供每日獎勵。"
+      "content": "當您購買<b>每月狂氣補給</b>后，您將立即獲得650付費狂氣，並且您可在含購買日當天在內的三十天內獲得以下每日獎勵。\n當您購買<b>每月小型狂氣補給</b>后，您將立即獲得130付費狂氣，並且您可在含購買日當天在內的三十天內獲得以下每日獎勵。\n\n■ 每月狂氣補給每日獎勵：\n65免費狂氣\n\n■ 每月小型狂氣補給每日獎勵：\n39免費狂氣\n\n※ 注意事項\n1) 所有獎勵均通過遊戲內郵件提供。\n2) 兩個每月補給包分別生效。\n3) 兩個每月補給包在有效期內最多可再進行兩次購買。（持續時間最多可延長67日）\n4) 在您未登錄遊戲的幾天內，將不會提供每日獎勵。"
     },
     {
       "id": "faq_payment_title_2",
@@ -22,23 +22,23 @@
     },
     {
       "id": "faq_payment_desc_2",
-      "content": "只要您曾未使用已購買的商品，便可以在購買後7天內申請退款。"
+      "content": "只要您曾未使用已購買的商品，便可以在購買后7天內申請退款。"
     },
     {
       "id": "faq_payment_title_3",
-      "content": "我能夠申請退款的商品類型有哪些？"
+      "content": "我能夠申請退款的商品型別有哪些？"
     },
     {
       "id": "faq_payment_desc_3",
-      "content": "各類補給包、期限製商品、包含獎勵的商品，以及其它購買後立即生效的商品可能會難以退款。\n此外，只要您未曾使用這些商品內所包含的物品，便可在購買後14天內申請退款。"
+      "content": "各類補給包、週期性商品、包含獎勵的商品，以及其它購買后立即生效的商品可能會難以退款。\n此外，只要您未曾使用這些商品內所包含的物品，便可在購買后14天內申請退款。"
     },
     {
       "id": "faq_payment_title_4",
-      "content": "在哪裡可以查看我的購買歷史或收據？"
+      "content": "在哪裡可以檢視我的購買歷史或收據？"
     },
     {
       "id": "faq_payment_desc_4",
-      "content": "<b>谷歌支付查看方法</b>\n1.進入谷歌支付中心(<color=#F8C200><u><link=\"https://payments.google.com/\">https://payments.google.com/</link></u></color>)\n2.使用用於購買的谷歌帳號登錄\n3.轉至[活動]頁面\n4.選擇想要進行查看的交易記錄\n5.查看交易ID（GPA.000-0000-0000-00000）\n\n<b>蘋果應用程序商店查看方法</b>\n1.進入iTunes頁面(<color=#F8C200><u><link=\"https://www.apple.com/kr/itunes/\">https://www.apple.com/kr/itunes/</link></u></color>)\n2.登錄並轉至[帳戶]頁面\n3.在購買記錄中選擇[查看全部]\n\n<b>Steam查看方法</b>\n1.進入客服頁面(<color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>)\n2.轉至[購買消費]頁面\n3.轉至[查看完整的購買記錄]頁面\n4.查看交易記錄"
+      "content": "<b>谷歌支付檢視方法</b>\n1.進入谷歌支付中心（<color=#F8C200><u><link=\"https://payments.google.com/\">https://payments.google.com/</link></u></color>）\n2.使用用於購買的谷歌賬號登錄\n3.轉至[活動]頁面\n4.選擇想要進行檢視的交易記錄\n5.檢視交易ID（GPA.000-0000-0000-00000）\n\n<b>蘋果應用程式商店檢視方法</b>\n1.進入iTunes頁面（<color=#F8C200><u><link=\"https://www.apple.com/kr/itunes/\">https://www.apple.com/kr/itunes/</link></u></color>）\n2.登錄並轉至[賬戶]頁面\n3.在購買記錄中選擇[檢視全部]\n\n<b>Steam檢視方法</b>\n1.進入客服頁面（<color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>）\n2.轉至[購買消費]頁面\n3.轉至[檢視完整的購買記錄]頁面\n4.檢視交易記錄"
     },
     {
       "id": "faq_payment_title_5",
@@ -50,7 +50,7 @@
     },
     {
       "id": "faq_payment_title_6",
-      "content": "在購買後商品沒有到帳。我該怎麼做？"
+      "content": "在購買后商品沒有到賬。我該怎麼做？"
     },
     {
       "id": "faq_payment_desc_6",
@@ -62,7 +62,7 @@
     },
     {
       "id": "faq_payment_desc_7",
-      "content": "遊戲內商品目前通過谷歌應用程序商店和蘋果應用程序商店採用多種支付方式進行銷售；可能有多種原因會造成這個問題。\n\n■ 交易失敗的可能解決方案\n1） 在穩定的網絡連接下重新啟動遊戲\n2） 帳號設置問題（需要聯繫谷歌支付客戶中心或蘋果客服）：\n\n谷歌客服\n鏈接：<color=#F8C200><u><link=\"https://payments.google.com/payments/u/2/home#oneTimePurchase\">https://payments.google.com/payments/u/2/home#oneTimePurchase</link></u></color>\n\n蘋果客服\n鏈接：<color=#F8C200><u><link=\"https://expresslane.apple.com/GetproductgroupList.action\">https://expresslane.apple.com/GetproductgroupList.action</link></u></color>\n\nSteam客服\n鏈接：<color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>\n\n3） 關於處理支付的問題（向運營商進行諮詢）：\n-關於支付方式的問題，如預算限額等，您可以向您所使用信用卡的所屬公司或網絡提供商的客服進行諮詢。"
+      "content": "遊戲內商品目前通過谷歌應用程式商店和蘋果應用程式商店採用多種支付方式進行銷售；可能有多種原因會造成這個問題。\n\n■ 交易失敗的可能解決方案\n1） 在穩定的網路連線下重新啟動遊戲\n2） 賬號設定問題（需要聯繫谷歌支付客戶中心或蘋果客服）：\n\n谷歌客服\n鏈接：<color=#F8C200><u><link=\"https://payments.google.com/payments/u/2/home#oneTimePurchase\">https://payments.google.com/payments/u/2/home#oneTimePurchase</link></u></color>\n\n蘋果客服\n鏈接：<color=#F8C200><u><link=\"https://expresslane.apple.com/GetproductgroupList.action\">https://expresslane.apple.com/GetproductgroupList.action</link></u></color>\n\nSteam客服\n鏈接：<color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>\n\n3） 關於處理支付的問題（向運營商進行諮詢）：\n-關於支付方式的問題，如預算限額等，您可以向您所使用信用卡的所屬公司或網路提供商的客服進行諮詢。"
     },
     {
       "id": "faq_payment_title_8",
@@ -70,79 +70,79 @@
     },
     {
       "id": "faq_payment_desc_8",
-      "content": "Limbus Company的付費商品遵循遊戲所在商店（谷歌應用程序商店、蘋果應用程序商店、Steam）的政策。購買付費商品時，根據商品上標註的價格進行收費結算。\n\n然而，請注意，在進行外匯結算時，由於匯率及手續費等外部因素，實際支付金額可能會與商品上標註的價格產生差異，具體數額取決於支付方式。"
+      "content": "Limbus Company的付費商品遵循遊戲所在商店（谷歌應用程式商店、蘋果應用程式商店、Steam）的政策。購買付費商品時，根據商品上標註的價格進行收費結算。\n\n然而，請注意，在進行外匯結算時，由於匯率及手續費等外部因素，實際支付金額可能會與商品上標註的價格產生差異，具體數額取決於支付方式。"
     },
     {
       "id": "faq_payment_common_template",
-      "content": "■ Android查詢模板\n1） UID（用戶身份證明）：\n2） 請求：取消支付\n3） 谷歌支付帳號：（在此處輸入電子郵件）\n4） 購買日期：\n5） 購買商品及支付金額：\n6） 交易識別碼：（或顯示交易識別碼的谷歌收據截圖）\n\n■ iOS查詢模板\n1） UID（用戶身份證明）：\n2） 請求：取消支付/重新發送商品\n3） iTunes上擁有可識別交易識別碼的購買記錄截圖（必填）\n4） 購買日期：\n5） 購買商品及支付金額：\n\n■ Steam查詢模板\n1） UID（用戶身份證明）：\n2） 請求：取消支付\n3） Steam上擁有可識別交易識別碼的購買記錄截圖（必填）\n4） 購買日期：\n5） 購買商品及支付金額："
+      "content": "■ Android查詢模板\n1） UID（使用者身份證明）：\n2） 請求：取消支付\n3） 谷歌支付賬號：（在此處輸入電子郵件）\n4） 購買日期：\n5） 購買商品及支付金額：\n6） 交易識別碼：（或顯示交易識別碼的谷歌收據截圖）\n\n■ iOS查詢模板\n1） UID（使用者身份證明）：\n2） 請求：取消支付/重新發送商品\n3） iTunes上帶有可識別交易識別碼的購買記錄截圖（必填）\n4） 購買日期：\n5） 購買商品及支付金額：\n\n■ Steam查詢模板\n1） UID（使用者身份證明）：\n2） 請求：取消支付\n3） Steam上帶有可識別交易識別碼的購買記錄截圖（必填）\n4） 購買日期：\n5） 購買商品及支付金額："
     },
     {
       "id": "faq_account",
-      "content": "帳號"
+      "content": "賬號"
     },
     {
       "id": "faq_account_title_1",
-      "content": "我可以在哪查看我的帳號ID？"
+      "content": "我可以在哪檢視我的賬號ID？"
     },
     {
       "id": "faq_account_desc_1",
-      "content": "帳號ID顯示在屏幕下側UI的“級別”上方。"
+      "content": "賬號ID顯示在螢幕下側UI的「級別」上方。"
     },
     {
       "id": "faq_account_title_2",
-      "content": "我想知道該如何鏈接我的帳號。"
+      "content": "我想知道該如何鏈接我的賬號。"
     },
     {
       "id": "faq_account_desc_2",
-      "content": "若要鏈接您的帳號，請轉到“設置”→“其他”→“帳號”。\n\n如果您使用的是遊客帳號，則鏈接後該帳號將轉換為註冊帳號。請注意，當失去即時訪問權限時，未進行鏈接的帳號容易丟失數據。\n\n※注意事項\n為防止帳號數據丟失，進行過一次及以上鍊接的帳號必須與至少一個外部服務保持鏈接狀態。"
+      "content": "若要鏈接您的賬號，請轉到「設定」→「其他」→「賬號」。\n\n如果您使用的是遊客賬號，則鏈接后該賬號將轉換為註冊賬號。請注意，當失去即時訪問許可權時，未進行鏈接的賬號容易丟失數據。\n\n※注意事項\n為防止賬號數據丟失，進行過一次及以上鍊接的賬號必須與至少一個外部服務保持鏈接狀態。"
     },
     {
       "id": "faq_account_title_3",
-      "content": "我忘記了我的帳號ID和/或帳號密碼。"
+      "content": "我忘記了我的賬號ID和/或賬號密碼。"
     },
     {
       "id": "faq_account_desc_3",
-      "content": "如果您忘記了鏈接遊戲的帳號ID或密碼，請聯繫相應服務平台的客服尋求幫助。\n\n谷歌客服：<color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\n蘋果客服：<color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nSteam客服：<color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>\n\n※注意事項\n請注意，在遷移設備或刪除應用程序時，未進行過鏈接的遊客帳號可能會永久丟失。"
+      "content": "如果您忘記了鏈接遊戲的賬號ID或密碼，請聯繫相應服務平臺的客服尋求幫助。\n\n谷歌客服：<color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\n蘋果客服：<color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nSteam客服：<color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>\n\n※注意事項\n請注意，在遷移裝置或刪除應用程式時，未進行過鏈接的遊客賬號可能會永久丟失。"
     },
     {
       "id": "faq_account_title_4",
-      "content": "切換至其他設備或重新安裝遊戲後，我可以繼續使用我的帳號嗎？ "
+      "content": "切換至其他裝置或重新安裝遊戲后，我可以繼續使用我的賬號嗎？"
     },
     {
       "id": "faq_account_desc_4",
-      "content": "即使您遷移到其他設備或刪除後重新安裝應用程序，也可以使用現有帳號進行登錄繼續遊玩。\n\n但是請注意，當失去對應用程序的訪問權限後，未進行過鏈接的遊客帳號數據可能會丟失。"
+      "content": "即使您遷移到其他裝置或刪除後重新安裝應用程式，也可以使用現有賬號進行登錄繼續遊玩。\n\n但是請注意，當失去對應用程式的訪問許可權后，未進行過鏈接的遊客賬號數據可能會丟失。"
     },
     {
       "id": "faq_account_title_5",
-      "content": "我該如何刪除（註銷）我的帳號？"
+      "content": "我該如何刪除（註銷）我的賬號？"
     },
     {
       "id": "faq_account_desc_5",
-      "content": "您只能刪除（註銷）與其他服務平台鏈接的帳號。\n遊客帳號在註銷前也需要進行鏈接。\n要刪除（註銷）帳戶，請依次進入“設置”→“其他”→“註銷帳號”界面。\n\n※當您選擇註銷帳號時，您將獲得14天寬限期，在此之後，帳號將完全註銷。\n※刪除帳號後，所有遊戲數據都將丟失，請謹慎行事。"
+      "content": "您只能刪除（註銷）與其他服務平臺鏈接的賬號。\n遊客賬號在註銷前也需要進行鏈接。\n要刪除（註銷）帳戶，請依次進入「設定」→「其他」→「註銷賬號」界面。\n\n※當您選擇註銷賬號時，您將獲得14天寬限期，在此之後，賬號將完全註銷。\n※刪除賬號后，所有遊戲數據都將丟失，請謹慎行事。"
     },
     {
       "id": "faq_account_title_6",
-      "content": "已被註銷的帳號能夠被恢復嗎？"
+      "content": "已被註銷的賬號能夠被恢復嗎？"
     },
     {
       "id": "faq_account_desc_6",
-      "content": "如果您在註銷帳號後14天寬限期結束前登錄該帳號，則可恢復該帳號。"
+      "content": "如果您在註銷賬號后14天寬限期結束前登錄該賬號，則可恢復該賬號。"
     },
     {
       "id": "faq_account_title_7",
-      "content": "我的帳號被封停了。為什麼會這樣？"
+      "content": "我的賬號被封停了。為什麼會這樣？"
     },
     {
       "id": "faq_account_desc_7",
-      "content": "為了提供愉快舒適的遊戲體驗，我們根據服務條款進行運營。\n不當及違反條款的行為會對服務及其管理造成負面影響，可能會導致遊戲帳號受到封停限制。\n\n<color=#F8C200><u><link=\"https://limbuscompany.kr/policy/\">[閱讀全文]</link></u></color>\n\n我們無法幫助您解決根據服務條款實施的封停限制，還請您理解。"
+      "content": "為了提供愉快舒適的遊戲體驗，我們根據服務條款進行運營。\n不當及違反條款的行為會對服務及其管理造成負面影響，可能會導致遊戲賬號受到封停限制。\n\n<color=#F8C200><u><link=\"https://limbuscompany.kr/policy/\">[閱讀全文]</link></u></color>\n\n我們無法幫助您解決根據服務條款實施的封停限制，還請您理解。"
     },
     {
       "id": "faq_account_title_8",
-      "content": "關於未能鏈接帳號的解決方法"
+      "content": "關於未能鏈接賬號的解決方法"
     },
     {
       "id": "faq_account_desc_8",
-      "content": "由於無法確保該進程中是否存在欺詐行為，我們無法就與遊戲帳號相關的外部帳號進行鏈接的問題提供幫助。該情況下請聯繫相應平台的客服尋求幫助。\n\n谷歌客服: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\n蘋果客服: <color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nSteam客服: <color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>"
+      "content": "由於無法確保該程序中是否存在欺詐行為，我們無法就與遊戲賬號相關的外部賬號進行鏈接的問題提供幫助。該情況下請聯繫相應平臺的客服尋求幫助。\n\n谷歌客服: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\n蘋果客服: <color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nSteam客服: <color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>"
     },
     {
       "id": "faq_normal",

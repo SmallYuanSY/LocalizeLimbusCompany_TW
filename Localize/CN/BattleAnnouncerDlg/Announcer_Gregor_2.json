@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "announcer_cheer_2_1",
-      "dlg": "我會盡力的。……剛才那個說不想聽蟲子講話的是誰？"
+      "dlg": "我會盡力的……剛才那個說不想聽蟲子講話的是誰？"
     },
     {
       "id": "announcer_cheer_2_2",
@@ -14,11 +14,11 @@
     },
     {
       "id": "announcer_specialcheer_2_2",
-      "dlg": "你們，都看起來很痛啊，沒事嗎？"
+      "dlg": " 你們，都看起來很痛啊，沒事嗎？"
     },
     {
       "id": "announcer_enemy_break_2_1",
-      "dlg": "狠狠地來了一下啊。就這麼突破他們的陣型吧。"
+      "dlg": "給他們狠狠來了一下啊。就這麼突破他們的陣型吧。"
     },
     {
       "id": "announcer_ally_break_2_1",
@@ -46,7 +46,7 @@
     },
     {
       "id": "announcer_enemy_specialskill_2_1",
-      "dlg": "那群家伙，行動不太對勁啊？放任不管的話後果看起來會很嚴重。"
+      "dlg": "那群傢伙，行動不太對勁啊？放任不管的話後果看起來會很嚴重。"
     },
     {
       "id": "announcer_enemy_specialgimmick_2_1",
@@ -62,7 +62,7 @@
     },
     {
       "id": "announcer_advatk_attr_2_1",
-      "dlg": "很好，剛才的戰術成功了。就這樣推進下去吧。"
+      "dlg": "很好，剛才的戰術成功了。就這麼推進下去吧。"
     },
     {
       "id": "announcer_disadvatk_attr_2_1",
@@ -86,7 +86,7 @@
     },
     {
       "id": "announcer_enemy_destroy_2_2",
-      "dlg": "一個部位被粉碎了。真是漂亮的一擊。"
+      "dlg": "粉碎了一個部位。真是漂亮的一擊。"
     },
     {
       "id": "announcer_enemy_destroy_2_1",
@@ -98,15 +98,15 @@
     },
     {
       "id": "announcer_round_takebigdmg_2_1",
-      "dlg": "友方被敵人的攻擊重傷。還撐得住嗎？"
+      "dlg": "我們有一人被敵人的攻擊重創。他還能撐住嗎？"
     },
     {
       "id": "announcer_round_givebigdmg_2_2",
-      "dlg": "呼，剛才那一下幹得真漂亮。回去時整兩杯啤酒吧。"
+      "dlg": "呼，剛才那一下幹的真漂亮。回去時整兩杯啤酒吧。"
     },
     {
       "id": "announcer_round_givebigdmg_2_1",
-      "dlg": "不要忘記剛才的感覺。保持這個勢頭就可以輕鬆了結這場戰鬥吧。"
+      "dlg": "不要忘記剛才的感覺。保持這個勢頭就可以輕鬆了結這場戰鬥了吧。"
     },
     {
       "id": "announcer_multikillenemy_2_1",

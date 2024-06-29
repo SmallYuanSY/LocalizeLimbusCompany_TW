@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "dungeon_1_3_0101",
-      "content": "大門入口"
+      "content": "關卡入口"
     },
     {
       "id": "dungeon_1_3_0102",
@@ -14,7 +14,7 @@
     },
     {
       "id": "dungeon_1_3_0104",
-      "content": "第1大門"
+      "content": "第1關口"
     },
     {
       "id": "dungeon_1_3_0105",
@@ -70,7 +70,7 @@
     },
     {
       "id": "dungeon_1_3_0204",
-      "content": "第二扇門"
+      "content": "第二關口"
     },
     {
       "id": "dungeon_1_3_0205",
@@ -114,11 +114,11 @@
     },
     {
       "id": "dungeon_1_3_0215",
-      "content": "第三扇門"
+      "content": "第三關口"
     },
     {
       "id": "dungeon_1_3_0216",
-      "content": "資格評判台"
+      "content": "資格評判臺"
     },
     {
       "id": "dungeon_1_3_0217",

@@ -1,124 +1,124 @@
 {
-   "dataList": [
-     {
-       "id": "retunPolicy_Info",
-       "content": "退款政策"
-     },
-     {
-       "id": "retunPolicy_Info_Paragraph_1",
-       "content": "我們謹通知您基於[邊獄公司服務條款]的退款政策。 \n\n"
-     },
-     {
-       "id": "retunPolicy_Info_Desc_1",
-       "content": "1. 與公司簽訂了付費內容購買合約的會員，可以在購買合約簽訂日或合約可用日期（以較晚者為準）7天內取消訂閱，無需承擔任何額外費用或罰款。\n\n"
-     },
-     {
-       "id": "retunPolicy_Info_Desc_2",
-       "content": "2. 有下列情況之一的會員，不得違背本公司的意願，依據第一條規定取消訂購。但是，若訂購的合約是由可分割的內容組成，且除可分割內容 外的剩餘部分不屬於以下任何一項，則不在此限。"
-     },
-     {
-       "id": "retunPolicy_Info_Desc_2_1",
-       "content": "(1) 購買後立即使用或生效的內容"
-     },
-     {
-       "id": "retunPolicy_Info_Desc_2_2",
-       "content": "(2) 若提供額外優惠，使用額外優惠的內容"
-     },
-     {
-       "id": "retunPolicy_Info_Desc_2_3",
-       "content": "(3) 若存在開啟的行為即可視為使用，或效用在開啟時就已經生效\n\n"
-     },
-     {
-       "id": "retunPolicy_Info_Desc_3",
-       "content": "3.對於依第2 項的規定不能退訂的內容，公司應在會員容易發現的地方明示該事實，並提供該內容的試用產品（允許臨時使用，提供試用品等）， 或若是在難以提供的情況下，公司應提供該內容的相關信息，以不妨礙會員行使退訂權。\n\n"
-     },
-     {
-       "id": "retunPolicy_Info_Paragraph_2",
-       "content": "[退款政策指引]"
-     },
-     {
-       "id": "table_ItemCategory_Title",
-       "content": "項目"
-     },
-     {
-       "id": "table_ItemList_Title",
-       "content": "商品名"
-     },
-     {
-       "id": "table_ReturnPolicy_Title",
-       "content": "是否可退款"
-     },
-     {
-       "id": "table_Detail_Title",
-       "content": "詳情"
-     },
-     {
-       "id": "BATTLEPASS_A",
-       "content": "戰鬥通行證"
-     },
-     {
-       "id": "PACKAGE_A",
-       "content": "禮包"
-     },
-     {
-       "id": "PACKAGE_B",
-       "content": "禮包"
-     },
-     {
-       "id": "PACKAGE_C",
-       "content": "禮包"
-     },
-     {
-       "id": "GROWTH_A",
-       "content": "成長"
-     },
-     {
-       "id": "LUNACY_A",
-       "content": "狂氣"
-     },
-     {
-       "id": "LUNACY_B",
-       "content": "狂氣"
-     },
-     {
-       "id": "VENDINGMACHINE_A",
-       "content": "售貨機"
-     },
-     {
-       "id": "PACKAGE_A_Comment",
-       "content": "[※裝飾橫幅、裝飾票、播報員、無法透過進行遊戲獲得的特殊物品]"
-     },
-     {
-       "id": "PACKAGE_B_Comment",
-       "content": "[※ 賽季狂氣禮包]"
-     },
-     {
-       "id": "LUNACY_A_Comment",
-       "content": "[※ 首充優惠]"
-     },
-     {
-       "id": "VENDINGMACHINE_A_Comment",
-       "content": "[※ 使用付費狂氣在販賣機中購買的物品]"
-     },
-     {
-       "id": "detail_not_return",
-       "content": "- 已經使用或購買後立即使用的商品無法退款"
-     },
-     {
-       "id": "detail_return_7day",
-       "content": "- 購買後7天內退款"
-     },
-     {
-       "id": "detail_not_return_get_mail",
-       "content": "- 信箱領取後無法退款"
-     },
-     {
-       "id": "detail_not_return_platform",
-       "content": "- 但是，透過平台退款時，會員有且僅有一次機會，將遊戲內貨幣收回，而不是對帳戶進行封停。"
-     },
-     {
-       "id": "detail_not_return_get_mail_one_item",
-       "content": "- 若一次從信箱中領取了一個或多個禮包內容，則無法退款。"
-     }
-   ]
+  "dataList": [
+    {
+      "id": "retunPolicy_Info",
+      "content": "退款政策"
+    },
+    {
+      "id": "retunPolicy_Info_Paragraph_1",
+      "content": "我們謹通知您基於[邊獄公司服務條款]的退款政策。\n\n"
+    },
+    {
+      "id": "retunPolicy_Info_Desc_1",
+      "content": "1. 與公司簽訂了付費內容購買合同的會員，可以在購買合同簽訂日或合同可用日期（以較晚者為準）7天內取消訂閱，無需承擔任何額外費用或罰款。\n\n"
+    },
+    {
+      "id": "retunPolicy_Info_Desc_2",
+      "content": "2. 有下列情況之一的會員，不得違背本公司的意願，依據第一條規定取消訂購。但是，若訂購的合同是由可分割的內容所組成，且除可分割內容外的剩餘部分不屬於以下任何一項，則不在此限。"
+    },
+    {
+      "id": "retunPolicy_Info_Desc_2_1",
+      "content": "(1) 購買后立即使用或生效的內容"
+    },
+    {
+      "id": "retunPolicy_Info_Desc_2_2",
+      "content": "(2) 若提供額外優惠，使用額外優惠的內容"
+    },
+    {
+      "id": "retunPolicy_Info_Desc_2_3",
+      "content": "(3) 若存在打開的行為即可被視為使用，或是效用在打開時就已經生效\n\n"
+    },
+    {
+      "id": "retunPolicy_Info_Desc_3",
+      "content": "3.對於根據第 2 項的規定不能退訂的內容，公司應在會員容易發現的地方明示該事實，並提供該內容的試用產品（允許臨時使用，提供試用品等），或若是在難以提供的情況下，公司應提供該內容的相關資訊，以不妨礙會員行使退訂權。\n\n"
+    },
+    {
+      "id": "retunPolicy_Info_Paragraph_2",
+      "content": "[退款政策指引]"
+    },
+    {
+      "id": "table_ItemCategory_Title",
+      "content": "專案"
+    },
+    {
+      "id": "table_ItemList_Title",
+      "content": "商品名"
+    },
+    {
+      "id": "table_ReturnPolicy_Title",
+      "content": "是否可退款"
+    },
+    {
+      "id": "table_Detail_Title",
+      "content": "詳情"
+    },
+    {
+      "id": "BATTLEPASS_A",
+      "content": "戰鬥通行證"
+    },
+    {
+      "id": "PACKAGE_A",
+      "content": "組合包"
+    },
+    {
+      "id": "PACKAGE_B",
+      "content": "組合包"
+    },
+    {
+      "id": "PACKAGE_C",
+      "content": "組合包"
+    },
+    {
+      "id": "GROWTH_A",
+      "content": "成長"
+    },
+    {
+      "id": "LUNACY_A",
+      "content": "狂氣"
+    },
+    {
+      "id": "LUNACY_B",
+      "content": "狂氣"
+    },
+    {
+      "id": "VENDINGMACHINE_A",
+      "content": "售貨機"
+    },
+    {
+      "id": "PACKAGE_A_Comment",
+      "content": "[※裝飾橫幅、裝飾票、播報員、無法通過進行遊戲獲得的特殊物品]"
+    },
+    {
+      "id": "PACKAGE_B_Comment",
+      "content": "[※ 賽季狂氣組合包]"
+    },
+    {
+      "id": "LUNACY_A_Comment",
+      "content": "[※ 首充優惠]"
+    },
+    {
+      "id": "VENDINGMACHINE_A_Comment",
+      "content": "[※ 使用付費狂氣在售貨機中購買的物品]"
+    },
+    {
+      "id": "detail_not_return",
+      "content": "- 已經使用或是購買后立即使用的商品無法退款"
+    },
+    {
+      "id": "detail_return_7day",
+      "content": "- 購買后7天內退款"
+    },
+    {
+      "id": "detail_not_return_get_mail",
+      "content": "- 在信箱領取后無法退款"
+    },
+    {
+      "id": "detail_not_return_platform",
+      "content": "- 但是，通過平臺進行退款時，會員有且僅有一次機會，將遊戲內貨幣收回，而不是對賬戶進行封停。"
+    },
+    {
+      "id": "detail_not_return_get_mail_one_item",
+      "content": "- 若一次性從信箱中領取了一個或多個組合包內容，則無法退款。"
+    }
+  ]
 }

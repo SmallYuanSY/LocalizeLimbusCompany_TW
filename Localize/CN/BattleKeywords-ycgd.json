@@ -1,25 +1,25 @@
 {
-   "dataList": [
-     {
-       "id": "Grudge",
-       "name": "凝結中的怨恨",
-       "desc": "帶有本效果時，使自身獲得與所受傷害相當的層數，回合結束時解除本效果",
-       "summary": "",
-       "undefined": "-"
-     },
-     {
-       "id": "AaCePbBg",
-       "name": "怨恨",
-       "desc": "回合開始時使自身獲得2層傷害強化 ，並對自身施加3層防禦等級降低 ",
-       "summary": "",
-       "undefined": "-"
-     },
-     {
-       "id": "AaCePbBh",
-       "name": "怨恨",
-       "desc": "回合開始時使自身獲得1層強壯 ，並對自身施加5層防禦等級降低 ",
-       "summary": "",
-       "undefined": "-"
-     }
-   ]
+  "dataList": [
+    {
+      "id": "Grudge",
+      "name": "凝結中的怨恨",
+      "desc": "帶有本效果時，使自身獲得與所受傷害相當的層數，回合結束時解除本效果",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBg",
+      "name": "怨恨",
+      "desc": "回合開始時使自身獲得2層傷害強化 ，並對自身施加3層防禦等級降低 ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBh",
+      "name": "怨恨",
+      "desc": "回合開始時使自身獲得1層強壯 ，並對自身施加5層防禦等級降低 ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
 }

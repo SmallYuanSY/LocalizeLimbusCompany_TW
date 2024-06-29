@@ -50,7 +50,7 @@
     },
     {
       "id": "Add_Friends",
-      "content": "添加好友"
+      "content": "新增好友"
     },
     {
       "id": "Delete_Friends",
@@ -58,7 +58,7 @@
     },
     {
       "id": "Waiting_Friends",
-      "content": "發送請求"
+      "content": "請求發送中"
     },
     {
       "id": "Accept_Friends",
@@ -182,11 +182,11 @@
     },
     {
       "id": "Reset_Company_Title",
-      "content": "重置設置"
+      "content": "重置設定"
     },
     {
       "id": "Reset_Company_desc",
-      "content": "確定要重置助戰設置嗎？"
+      "content": "確定要重置助戰設定嗎？"
     },
     {
       "id": "NO_Friends",
@@ -210,7 +210,7 @@
     },
     {
       "id": "ReLoad",
-      "content": "刷新"
+      "content": "重新整理"
     },
     {
       "id": "Btn_Search",
@@ -218,7 +218,7 @@
     },
     {
       "id": "Sentence",
-      "content": "短語"
+      "content": "短句"
     },
     {
       "id": "Word",
@@ -234,7 +234,7 @@
     },
     {
       "id": "Uid_Copy_ModalDesc",
-      "content": "ID已復制。"
+      "content": "ID已複製。"
     },
     {
       "id": "TicketCustom_Button",

@@ -1,984 +1,984 @@
 {
-   "dataList": [
-     {
-       "id": 9008801,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "散播恐懼",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 對目標造成2點理智傷害"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 對目標造成2點理智傷害"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008802,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "銘記恐懼",
-           "desc": "[WinDuel] 對目標造成5點理智傷害，並使自身恢復10點體力",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008803,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "收穫恐懼",
-           "desc": "若目標的理智值不高於20點，則使本技能體力恢復量 +20%",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 對目標造成3點理智傷害"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackTail] 對目標造成3點理智傷害"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008804,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "麻痺精神",
-           "desc": "若目標的理智值不高於-15點，則使本技能造成的傷害+50%",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008901,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-... - ..-",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008902,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-- ... -.-",
-           "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加3層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9008903,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "...- .",
-           "desc": "除自身以外每有1名蒼白的友方單位存活，使本技能的最終威力+1",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得1項目標帶有的狀態\n（僅限強壯 、迅捷 、傷害強化 與守護 ）"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009001,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "..-. .",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009002,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "..-. . --",
-           "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009003,
-       "levelList": [
-         {
-           "level": 1,
-           "name": ".-.. -",
-           "desc": "[WinDuel] 除自身以外每有1名蒼白的友方單位存活，對目標造成1點理智傷害",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
-                 },
-                 {
-                   "desc": "下回合使自身獲得1項目標帶有的狀態\n（僅限強壯 、迅捷 、傷害強化 與守護 ）"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009101,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-... ....",
-           "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對現存體力最低的1名蒼白的友方單位生效",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級沉淪 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加1級沉淪 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009102,
-       "levelList": [
-         {
-           "level": 1,
-           "name": ".--- .",
-           "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對除自身以外現存體力最低的1名蒼白的友方單位生效",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層蒼白的噪音 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009103,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-. ....",
-           "desc": "[WhenUse] 若目標帶有蒼白的噪音 ，則使除自身以外現存體力最低的1名蒼白的友方單位恢復30點體力",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "下回合使自身獲得1項目標帶有的狀態\n（僅限強壯 、迅捷 、傷害強化 與守護 ）"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身恢復20點體力"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009201,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-- . -.-",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009202,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-... .-",
-           "desc": "[WhenUse] 下回合隨機使除自身以外的1名友方單位獲得1層守護 。若該單位為蒼白的單位，則使其額外獲得1層守護 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加4層震顫 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009203,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-.-. ..-",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標震顫引爆 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標的震顫 層數減少2層"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加10級破裂 強度並對其施加4層破裂 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009204,
-       "levelList": [
-         {
-           "level": 1,
-           "name": ".--. .",
-           "desc": "[StartBattle] 除自身以外每有2名蒼白的友方單位，下回合使自身獲得1層守護\n若自身在帶有護盾時受到攻擊，則使攻擊者增加1級震顫 強度",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009301,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "..-. .",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009302,
-       "levelList": [
-         {
-           "level": 1,
-           "name": ".-.. .",
-           "desc": "[WhenUse] 下回合隨機使1名其他蒼白的友方單位獲得1層傷害強化 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層麻痺 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009303,
-       "levelList": [
-         {
-           "level": 1,
-           "name": ".-.. .-",
-           "desc": "[WhenUse] 下回合隨機使1名蒼白的友方單位獲得1層傷害強化 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009401,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "--. . ...-",
-           "desc": "若目標帶有蒼白的噪音 ，除自身以外每有1名友方單位存活，對目標造成1點理智傷害",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009402,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "...- ...",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009403,
-       "levelList": [
-         {
-           "level": 1,
-           "name": ".--. .... -",
-           "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009404,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-.- -",
-           "desc": "若自身在有護盾時受到攻擊，則對攻擊者施加1層蒼白的噪音\n[EndBattle] 若自身帶有護盾，則下回合使自身增加3級呼吸法強度" ,
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009501,
-       "levelList": [
-         {
-           "level": 1,
-           "name": ".--. -",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009502,
-       "levelList": [
-         {
-           "level": 1,
-           "name": ".-.. - ..-",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層傷害弱化 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009503,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-- .... -",
-           "desc": "[WhenUse] 每有1名友方單位存活，使自身獲得1層守護 （最多3層）",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使自身獲得2層守護 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合使自身獲得2層守護 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合使目標增加4級流血 強度"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009504,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "-.- ..",
-           "desc": "[WhenUse] 使自身獲得2層守護\n若自身在有護盾時受到攻擊，則對攻擊者施加1層蒼白的噪音\n[EndBattle] 使自身恢復剩餘護盾值× 2點體力",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009601,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "直擊要害",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009602,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "銘記！",
-           "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 根據本波次中隸屬於中指的友方單位的陣亡數，相應造成額外固定傷害"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009603,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "碎顱骨",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009604,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "銘刻準備",
-           "desc": "[EndBattle] 若自身帶有護盾，則下回合使自身獲得1層強壯 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009605,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "報復",
-           "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackTail] 使目標的混亂閾值前移8"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009606,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "加倍奉還",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標的混亂閾值前移30"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標造成20點固定傷害"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009701,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "直擊要害",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009702,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "銘刻！",
-           "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層傷害弱化 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 根據本波次中隸屬於中指的友方單位的陣亡數，相應造成額外固定傷害"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009703,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "破壞顱骨",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層加算硬幣弱化 "
-                 }
-               ]
-             },
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加1層加算硬幣弱化 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009704,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "銘刻準備",
-           "desc": "消耗自身全部護盾，下回合使自身獲得1層強壯 ",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": ""
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009705,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "報復",
-           "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
-           "coinlist": [
-             {},
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
-                 },
-                 {
-                   "desc": "[OnSucceedAttackTail] 使目標的混亂閾值前移8"
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     },
-     {
-       "id": 9009706,
-       "levelList": [
-         {
-           "level": 1,
-           "name": "加倍奉還",
-           "desc": "",
-           "coinlist": [
-             {
-               "coindescs": [
-                 {
-                   "desc": "[OnSucceedAttack] 使目標的混亂閾值前移30"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 對目標造成20點固定傷害"
-                 },
-                 {
-                   "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
-                 }
-               ]
-             }
-           ]
-         }
-       ]
-     }
-   ]
+  "dataList": [
+    {
+      "id": 9008801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "播種恐懼",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標造成2點理智傷害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標造成2點理智傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "銘記恐懼",
+          "desc": "[WinDuel] 對目標造成5點理智傷害，並使自身恢復10點體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "收穫恐懼",
+          "desc": "若目標的理智值不高於20點，則使本技能體力恢復量 +20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標造成3點理智傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標造成3點理智傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "麻痹精神",
+          "desc": "若目標的理智值不高於-15點，則使本技能造成的傷害+50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- ... -.-",
+          "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- .",
+          "desc": "除自身以外每有1名蒼白的友方單位存活，使本技能的最終威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1專案標帶有的狀態\n(僅限強壯 、迅捷 、傷害強化 與守護 )"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. . --",
+          "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. -",
+          "desc": "[WinDuel] 除自身以外每有1名蒼白的友方單位存活，對目標造成1點理智傷害",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
+                },
+                {
+                  "desc": "下回合使自身獲得1專案標帶有的狀態\n(僅限強壯 、迅捷 、傷害強化 與守護 )"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... ....",
+          "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對現存體力最低的1名蒼白的友方單位生效",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級沉淪 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級沉淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--- .",
+          "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對除自身以外現存體力最低的1名蒼白的友方單位生效",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層蒼白的噪音 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-. ....",
+          "desc": "[WhenUse] 若目標帶有蒼白的噪音 ，則使除自身以外現存體力最低的1名蒼白的友方單位恢復30點體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "下回合使自身獲得1專案標帶有的狀態\n(僅限強壯 、迅捷 、傷害強化 與守護 )"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復20點體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- . -.-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... .-",
+          "desc": "[WhenUse] 下回合隨機使除自身以外的1名友方單位獲得1層守護 。若該單位為蒼白的單位，則使其額外獲得1層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層震顫 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.-. ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的震顫 層數減少2層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加10級破裂 強度並對其施加4層破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .",
+          "desc": "[StartBattle] 除自身以外每有2名蒼白的友方單位，下回合使自身獲得1層守護 \n若自身帶有護盾時受到攻擊，則使攻擊者增加1級震顫 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .",
+          "desc": "[WhenUse] 下回合隨機使1名其他蒼白的友方單位獲得1層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .-",
+          "desc": "[WhenUse] 下回合隨機使1名蒼白的友方單位獲得1層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "--. . ...-",
+          "desc": "若目標帶有蒼白的噪音 ，除自身以外每有1名友方單位存活，對目標造成1點理智傷害",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- ...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .... -",
+          "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- -",
+          "desc": "若自身帶有護盾時受到攻擊，則對攻擊者施加1層蒼白的噪音 \n[EndBattle] 若自身帶有護盾，則下回合使自身增加3級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. -",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層傷害弱化 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- .... -",
+          "desc": "[WhenUse] 每有1名友方單位存活，使自身獲得1層守護 (最多3層)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層守護 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層守護 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加4級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- ..",
+          "desc": "[WhenUse] 使自身獲得2層守護 \n若自身帶有護盾時受到攻擊，則對攻擊者施加1層蒼白的噪音 \n[EndBattle] 使自身恢復剩餘護盾值×2點體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "直擊要害",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痹 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "銘記！",
+          "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據本波次中隸屬於中指的友方單位的陣亡數，對目標額外造成相應的固定傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "粉碎顱骨",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "銘刻準備",
+          "desc": "[EndBattle] 若自身帶有護盾，則下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "報復",
+          "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標的混亂閾值前移8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "加倍奉還",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移30"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成20點固定傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "直擊要害",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "銘刻！",
+          "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層傷害弱化 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據本波次中隸屬於中指的友方單位的陣亡數，對目標額外造成相應的固定傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "破壞顱骨",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層加算硬幣弱化 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層加算硬幣弱化 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "銘刻準備",
+          "desc": "消耗自身全部護盾，下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "報復",
+          "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 使目標的混亂閾值前移8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "加倍奉還",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移30"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成20點固定傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
