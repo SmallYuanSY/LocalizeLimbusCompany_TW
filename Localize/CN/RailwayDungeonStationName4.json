@@ -1,0 +1,48 @@
+{
+  "dataList": [
+    {
+      "id": "4",
+      "nameList": [
+        {
+          "id": "0",
+          "content": "進入4號線"
+        },
+        {
+          "id": "1",
+          "content": "第1區段：宴會-井底-歪曲",
+          "shortName": "第1區段"
+        },
+        {
+          "id": "2",
+          "content": "第4站：幕間休息",
+          "shortName": "第4站"
+        },
+        {
+          "id": "3",
+          "content": "第2區段：錘釘-雲霧-骨肉",
+          "shortName": "第2區段"
+        },
+        {
+          "id": "4",
+          "content": "第8站：幕間休息",
+          "shortName": "第8站"
+        },
+        {
+          "id": "5",
+          "content": "第3區段：贗作-夢想",
+          "shortName": "第3區段"
+        },
+        {
+          "id": "6",
+          "content": "第11站：幕間休息",
+          "shortName": "第11站"
+        },
+        {
+          "id": "7",
+          "content": "第4區段：難關-盛宴",
+          "shortName": "第4區段"
+        }
+      ]
+    }
+  ]
+}

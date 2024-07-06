@@ -434,31 +434,31 @@
     },
     {
       "id": "tutorial_mainui_07_storymirror",
-      "content": "映象世界"
+      "content": "鏡像世界"
     },
     {
       "id": "tutorial_mainui_07_storymirror_page_01_title_01",
-      "content": "映象世界"
+      "content": "鏡像世界"
     },
     {
       "id": "tutorial_mainui_07_storymirror_page_01_desc_01",
-      "content": "選擇后，將會切換為映象世界一覽表。"
+      "content": "選擇后，將會切換為鏡像世界一覽表。"
     },
     {
       "id": "tutorial_mainui_07_storymirror_page_01_title_02",
-      "content": "映象世界列表"
+      "content": "鏡像世界列表"
     },
     {
       "id": "tutorial_mainui_07_storymirror_page_01_desc_02",
-      "content": "映象世界根據不同的人格故事分為不同的類別。能夠確認不同的映象世界以及世界中登場的團體。"
+      "content": "鏡像世界根據不同的人格故事分為不同的類別。能夠確認不同的鏡像世界以及世界中登場的團體。"
     },
     {
       "id": "tutorial_mainui_07_storymirror_page_02_title_01",
-      "content": "映象故事"
+      "content": "鏡像故事"
     },
     {
       "id": "tutorial_mainui_07_storymirror_page_02_desc_01",
-      "content": "能夠閱讀以映象世界為基礎的人格故事。"
+      "content": "能夠閱讀以鏡像世界為基礎的人格故事。"
     },
     {
       "id": "tutorial_mainui_08_stagemain",
@@ -1070,11 +1070,11 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_12_title_01",
-      "content": "失物招領"
+      "content": "失物招領處"
     },
     {
       "id": "tutorial_mainui_17_railway_page_12_desc_01",
-      "content": "第一次通關關卡時，該關卡的獎勵將會記錄進失物招領。"
+      "content": "第一次通關關卡時，該關卡的獎勵將會記錄進失物招領處。"
     },
     {
       "id": "tutorial_mainui_17_railway_page_12_desc_02",
@@ -1742,7 +1742,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_20_title_01",
-      "content": "失物招領"
+      "content": "失物招領處"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_20_desc_01",
@@ -1750,7 +1750,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_20_desc_02",
-      "content": "為了領取失物招領中的獎勵，最初需要支付一定數量的腦啡肽模組。後續領取獎勵無需額外消耗腦啡肽模組，並且可以隨時獲取已啟用的獎勵。"
+      "content": "為了領取失物招領處中的獎勵，最初需要支付一定數量的腦啡肽模組。後續領取獎勵無需額外消耗腦啡肽模組，並且可以隨時獲取已啟用的獎勵。"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_21_title_01",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_15_title_01",
-      "content": "失物招領"
+      "content": "失物招領處"
     },
     {
       "id": "tutorial_mainui_railway3_page_15_desc_01",
@@ -2418,7 +2418,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_15_desc_02",
-      "content": "第一次通過失物招領領取獎勵時，需要使用特定數量的腦啡肽模組。而之後再領取獎勵將不再需要消耗腦啡肽模組。"
+      "content": "第一次通過失物招領處領取獎勵時，需要使用特定數量的腦啡肽模組。而之後再領取獎勵將不再需要消耗腦啡肽模組。"
     },
     {
       "id": "tutorial_mainui_railway3_page_16_title_01",
@@ -2583,6 +2583,222 @@
     {
       "id": "tutorial_mainui_28_tkt",
       "content": "時間殺人時間"
+    },
+    {
+      "id": "tutorial_mainui_railway4_title_01",
+      "content": "折射軌道4號線"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_01_title_01",
+      "content": "入場方式"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_01_desc_01",
+      "content": "選擇已啟用的線路即可入場。\n\n入場折射軌道時不消耗任何道具。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_02_desc_01",
+      "content": "折射軌道是十分困難的活動。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_02_desc_02",
+      "content": "本次的4號線，推薦配置是人格同步4階段及人格等級45級，E.G.O則為異想解析4階段。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_02_desc_03",
+      "content": "建議您儘可能滿足養成條件后再入場。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_03_title_01",
+      "content": "編隊"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_03_desc_01",
+      "content": "將您所持有的人格與E.G.O編隊后入場。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_03_desc_02",
+      "content": "當提高人格等級、人格同步階段、E.G.O異想解析階段時，將會在折射軌道中實時反映變更的內容。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_04_title_01",
+      "content": "4號線的站點與區段"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_04_desc_01",
+      "content": "4號線共有13個站點，數個站點將會繫結在各個區段並構成相應的關卡。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_04_desc_02",
+      "content": "4號線包含由四個區段所構成的戰鬥關卡與各個區段之間的休息站點。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_05_desc_01",
+      "content": "選擇區段併入場。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_05_desc_02",
+      "content": "通關區段時，將會記錄通關回合數。\n\n於此同時還會記錄從第1區段到目前區段為止所有區段通關回合數的累計回合總數。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_05_desc_03",
+      "content": "當您通關區段時，可在失物招領處領取的相應獎勵將會顯示在下端。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_06_title_01",
+      "content": "戰鬥編隊-編隊順位效果"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_06_desc_01",
+      "content": "在4號線可以基於編隊的順位得到特殊的增益。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_06_desc_02",
+      "content": "對於部分待命人員，將會額外啟用初始理智值增益。對於使用減算硬幣的人格，初始理智值增益將會以負數啟用。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_07_title_01",
+      "content": "戰鬥編隊-連續戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_07_desc_01",
+      "content": "4號線將以連續戰鬥的方式進行。\n\n出戰人員在連續戰鬥中陣亡時，將由待命人員按照指定順序進行補位。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_07_desc_02",
+      "content": "您需要將6名出戰人員與6名待命人員全部設定完畢方可入場。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_08_title_01",
+      "content": "戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_08_desc_01",
+      "content": "所有戰鬥都將以友方技能直接與敵方技能相對應的集中遭遇戰的方式進行。\n在進入折射軌道4號線后，可以使用1次光之樹苗的能力。\n使用時不會影響除去該活動以外其餘場合的使用次數。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_09_title_01",
+      "content": "戰鬥-編隊順位效果"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_09_desc_01",
+      "content": "您在戰鬥中也可以確認基於編隊順位所啟用的增益效果。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_09_desc_02",
+      "content": "當友方人格在4號線陣亡時，根據陣亡人格所持有的基礎攻擊技能屬性與級別，獲得相應的罪孽碎片。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_10_title_01",
+      "content": "戰鬥-連續戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_10_desc_01",
+      "content": "出戰人員在連續戰鬥中陣亡時，將由待命人員按照指定順序進行補位。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_10_desc_02",
+      "content": "待命人員變為出戰人員時，所啟用的被動技能將由支援被動技能轉為戰鬥被動技能。\n\n而出戰人員陣亡時，所啟用的被動技能將由戰鬥被動技能轉為支援被動技能。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_11_title_01",
+      "content": "戰鬥-意志堅定"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_11_desc_01",
+      "content": "4號線中，人格死亡時不會導致理智值減少。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_11_desc_02",
+      "content": "部分4號線出場的敵方單位也會適用編隊順序。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_12_title_01",
+      "content": "圖鑑"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_12_desc_01",
+      "content": "從主線章節迷宮或是鏡像迷宮的戰鬥中獲得的異想體觀察等級，將會反映在異想體圖鑑中並可以從中進行確認。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_12_desc_02",
+      "content": "但是，基於觀察階段的傷害強化效果不會被適用。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_12_desc_03",
+      "content": "折射軌道4號線中，即使在戰鬥中選擇重新挑戰或放棄關卡，戰鬥中更新的圖鑑內容也會原封不動地被儲存下來。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_13_desc_01",
+      "content": "戰鬥后剩餘的罪孽碎片在下一區段依舊能夠使用。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_13_desc_02",
+      "content": "編隊中人格的體力、理智值、陣亡狀態將會顯示在界面下方。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_14_title_01",
+      "content": "休息站點"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_14_desc_01",
+      "content": "在各個區段之間的休息站點，人格的體力將會恢復至最大值並將理智值初始化為0。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_14_desc_02",
+      "content": "您可以在休息站點隨意修改編隊。\n\n如果在戰鬥中感到困難，建議您在休息站點切換其他編隊。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_15_desc_01",
+      "content": "友方單位全滅時將回到入場界面，您可以重新調整編隊順序或立即重新挑戰目前關卡。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_16_title_01",
+      "content": "記錄更新"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_16_desc_01",
+      "content": "在探索期間，可以選擇從之前已通過的關卡重新開始戰鬥。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_16_desc_02",
+      "content": "若從特定關卡重新開始戰鬥，罪人的狀態和罪孽碎片持有量將恢復到首次進入該關卡時的狀態，並且在該關卡之後通過的所有關卡的完成進度都將被重置。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_17_title_01",
+      "content": "橫幅獲取條件"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_17_desc_01",
+      "content": "可以確認折射軌道4號線橫幅的獲取條件。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_17_desc_02",
+      "content": "獲得橫幅時，最佳記錄的累計回合數將顯示在橫幅上。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_18_title_01",
+      "content": "失物招領處"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_18_desc_01",
+      "content": "在活動期間第一次通關關卡時，其獎勵將會發放至失物招領處。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_18_desc_02",
+      "content": "第一次通過失物招領處領取獎勵時，需要使用特定數量的腦啡肽模組。\n\n而之後再領取獎勵將不再需要消耗腦啡肽模組。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_19_title_01",
+      "content": "累計記錄"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_19_desc_01",
+      "content": "通關最終關卡后，折射軌道的遊玩記錄將被儲存，最多可儲存20個通關記錄。"
+    },
+    {
+      "id": "tutorial_mainui_railway4_page_19_desc_02",
+      "content": "超過20個記錄的情況下，累計回合數最多的記錄將被刪除。"
     }
   ]
 }

@@ -34,10 +34,20 @@
       "id": 3051,
       "version": 0,
       "type": 0,
+      "startDate": "2024-07-06T08:00:00.000Z",
+      "endDate": "2098-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Mod V0.6.42",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.42\\n- 漢化內容更新\\n  - 四號線 第一梯次更新\\n  - 7月06日 模組累積更新 \\n  - 其他內容更新\"}]}"
+    },
+    {
+      "id": 3051,
+      "version": 0,
+      "type": 0,
       "startDate": "2024-06-14T08:00:00.000Z",
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "Mod V0.6.39",
+      "title_KR": "Mod V0.6.41",
       "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.41\\n- 漢化內容更新\\n  - 大量文本大更新 將會有大量問題發生\\n  - 6月30日 模組累積更新\\n  - 其他內容更新\"}]}"
     },
     {

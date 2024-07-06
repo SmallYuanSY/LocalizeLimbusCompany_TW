@@ -1,0 +1,128 @@
+{
+  "dataList": [
+    {
+      "id": "railway_dungeon_4_reward_condition_special_ticket",
+      "content": "※<color=#4e3076>第4賽季 清除凱茜</color>期間內，以總計回合數<color=#066386>{0}</color>以下通關折射軌道4號線的第4區段時獲得"
+    },
+    {
+      "id": "railway_dungeon_4_banner_reward_condition_1",
+      "content": "折射軌道4號線 通過第4區段時獲得"
+    },
+    {
+      "id": "railway_dungeon_4_banner_reward_condition_2",
+      "content": "第4賽季 清除凱茜期間內，以總計回合數{0}以下通關折射軌道4號線的第4區段時獲得"
+    },
+    {
+      "id": "formation_waiting_character",
+      "content": "待命人員"
+    },
+    {
+      "id": "railway_dungeon_entrance_warning",
+      "content": "<入場推薦配置>\n\n- 人格：同步 4階段，45級\n- E.G.O : 異想解析 4階段"
+    },
+    {
+      "id": "railway_dungeon_formation_must_select_all_alive",
+      "content": "仍有尚未指定編隊順序的罪人。\n\n請指定所有罪人的編隊順序。"
+    },
+    {
+      "id": "railway_dungeon_lose_battle_exit_title",
+      "content": "前往關卡入場界面。"
+    },
+    {
+      "id": "railway_dungeon_lose_battle_exit_content",
+      "content": "前往關卡入場界面。\n您可在此重新設定編隊順序。"
+    },
+    {
+      "id": "railway_dungeon_lose_battle_retry_title",
+      "content": "重試關卡"
+    },
+    {
+      "id": "railway_dungeon_lose_battle_retry_content",
+      "content": "從第一波次開始重新挑戰關卡。\n繼續保持編隊界面中的編隊順序。"
+    },
+    {
+      "id": "railway_dungeon_lose_battle_give_up_title",
+      "content": "放棄（不使用，需刪除）"
+    },
+    {
+      "id": "railway_dungeon_lose_battle_give_up_content",
+      "content": "放棄本次戰鬥，前往進入4號線之前的頁面。（不使用，需刪除）"
+    },
+    {
+      "id": "formation_participate_battle_label",
+      "content": "總戰鬥人數"
+    },
+    {
+      "id": "formation_setting_waiting_character",
+      "content": "待命人員編隊"
+    },
+    {
+      "id": "heal_character_who_does_not_participate_battle",
+      "content": "已恢復不參與戰鬥的人格體力值。"
+    },
+    {
+      "id": "railway_dungeon_ask_to_go_past_node",
+      "content": "進入戰鬥時包括此站在內後續的進度將會被完全初始化。\n\n是否確認入場？"
+    },
+    {
+      "id": "formation_baton_continue",
+      "content": "連續"
+    },
+    {
+      "id": "railway_dungeon_lose_battle_all_identity_dead",
+      "content": "所有罪人陣亡。請選擇後續操作。"
+    },
+    {
+      "id": "railway_dungeon_4_unit_inited",
+      "content": "體力，理智值已初始化。"
+    },
+    {
+      "id": "railway_dungeon_4_entrance_recommended",
+      "content": "入場推薦配置"
+    },
+    {
+      "id": "railway_dungeon_4_entrance_recommended_level",
+      "content": "- 人格：同步 4階段，45級"
+    },
+    {
+      "id": "railway_dungeon_4_entrance_recommended_gacksung",
+      "content": "- E.G.O異想解析 4階段"
+    },
+    {
+      "id": "railway_dungeon_4_section_1",
+      "content": "SECTION 01"
+    },
+    {
+      "id": "railway_dungeon_4_section_2",
+      "content": "SECTION 02"
+    },
+    {
+      "id": "railway_dungeon_4_section_3",
+      "content": "SECTION 03"
+    },
+    {
+      "id": "railway_dungeon_4_section_4",
+      "content": "SECTION 04"
+    },
+    {
+      "id": "railway_dungeon_4_section_1_lost_and_found",
+      "content": "第1區段"
+    },
+    {
+      "id": "railway_dungeon_4_section_2_lost_and_found",
+      "content": "第2區段"
+    },
+    {
+      "id": "railway_dungeon_4_section_3_lost_and_found",
+      "content": "第3區段"
+    },
+    {
+      "id": "railway_dungeon_4_section_4_lost_and_found",
+      "content": "第4區段"
+    },
+    {
+      "id": "railway_dungeon_4_formation_reset",
+      "content": "選項初始化"
+    }
+  ]
+}

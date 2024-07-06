@@ -484,7 +484,7 @@
         {
           "level": 1,
           "name": "迎客之道第7式 捕捉",
-          "desc": "[StartBattle] 根據帶有[AaCfPcBb]的敵方單位數，相應使本技能的攻擊容量增加\n[WhenUse] 若自身的速度值高於目標至少3點，則對其施加2層斬擊抗性弱化 \n[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+8\n[EndBattle] 解除所有[AaCfPcBb]",
+          "desc": "[StartBattle] 根據帶有[AaCfPcBb]的敵方單位數，使本技能的攻擊容量相應增加\n[WhenUse] 若自身的速度值高於目標至少3點，則對其施加2層斬擊抗性弱化 \n[WhenUse] 若目標帶有[AaCfPcBb]，則使本技能的拼點威力+8\n[EndBattle] 解除所有[AaCfPcBb]",
           "coinlist": [
             {
               "coindescs": [

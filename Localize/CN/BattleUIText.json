@@ -667,6 +667,14 @@
     {
       "id": "vibration_fusion",
       "content": "振幅糾纏！"
+    },
+    {
+      "id": "BatonPassUIText",
+      "content": "待機解除"
+    },
+    {
+      "id": "perfect",
+      "content": "完全"
     }
   ]
 }

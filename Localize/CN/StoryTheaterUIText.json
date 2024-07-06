@@ -46,7 +46,7 @@
     },
     {
       "id": "MIRRORWOLDS",
-      "content": "映象世界"
+      "content": "鏡像世界"
     },
     {
       "id": "STORY",
@@ -263,6 +263,10 @@
     {
       "id": "OtherStoryOpenCondition_9109",
       "content": "通過6.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9017",
+      "content": "通過6-48"
     }
   ]
 }

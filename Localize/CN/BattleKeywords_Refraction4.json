@@ -1,0 +1,142 @@
+{
+  "dataList": [
+    {
+      "id": "UninvitedGuest",
+      "name": "不速之客",
+      "desc": "帶有不速之客 的人格陣亡時，轉移到未帶有本效果的人格上。",
+      "summary": ""
+    },
+    {
+      "id": "ConnectedPlug",
+      "name": "連線的插頭",
+      "desc": "回合結束時：\n- 最多3層\n- 3層時，下回合陷入混亂。\n- 3層時，消耗自身所有充能 。",
+      "summary": ""
+    },
+    {
+      "id": "AntiSheepGround",
+      "name": "對羊接地插頭",
+      "desc": "- 最多1層\n- 帶有本效果的單位與「拒絕接地」技能拼點勝利時，對目標施加1層連線的插頭 \n- 目標的充能 層數減半\n- 下回合解除本效果",
+      "summary": ""
+    },
+    {
+      "id": "ThundercloudFormation",
+      "name": "雷雲彙集",
+      "desc": "- 最多5層\n- 層數為1時，使用強力的技能。\n- 回合結束時，本效果的層數減少1層。陷入混亂時，獲得1層",
+      "summary": ""
+    },
+    {
+      "id": "BandageOfTheBoundKing",
+      "name": "受縛之王的繃帶",
+      "desc": "陣亡時，使全體敵方單位增加2級沉淪 強度並對其施加1層沉淪 \n對擊殺自身的目標施加受縛之王的繃帶 。若目標已帶有本效果，或目標不存在，則隨機對1名未帶有本效果的敵方單位施加",
+      "summary": ""
+    },
+    {
+      "id": "ComeForwardToTheKing",
+      "name": "覲見之時",
+      "desc": "使自身所有攻擊技能的攻擊容量增加相當於本效果層數的數值。(最多+2)\n拼點失敗時，下回合對自身施加1層易損 ",
+      "summary": ""
+    },
+    {
+      "id": "RefractedWill",
+      "name": "折射的意志",
+      "desc": "友方單位陣亡時，基礎理智值減少條件下的理智值減少量減半。(向下取整)",
+      "summary": ""
+    },
+    {
+      "id": "VioletPeccatulumTwo",
+      "name": "嫉妒罪種？",
+      "desc": "- 造成的傷害+15%\n- 受到的傷害-15%\n- 帶有本效果的單位獲得嫉妒罪種？光環效果",
+      "summary": ""
+    },
+    {
+      "id": "BigWelcome",
+      "name": "盛情款待",
+      "desc": "攻擊結束后，若使目標陷入混亂或擊殺目標，則獲得1個傲慢罪孽碎片與隨機1個其他罪孽碎片(每回合最多3次)",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4A",
+      "name": "第1順位效果",
+      "desc": "人格等級+2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4B",
+      "name": "第2順位效果",
+      "desc": "理智值恢復效率 +3\n起始理智值+10點",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4C",
+      "name": "第3順位效果",
+      "desc": "攻擊等級+2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4D",
+      "name": "第4順位效果",
+      "desc": "防禦等級+2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4E",
+      "name": "第5順位效果",
+      "desc": "最大速度值+2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4F",
+      "name": "第6順位效果",
+      "desc": "體力上限+5%",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4G",
+      "name": "第7順位效果",
+      "desc": "拼點威力+1\n起始理智值+15點",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4H",
+      "name": "第8順位效果",
+      "desc": "受到的傷害-10%\n起始理智值+15點",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4I",
+      "name": "第9順位效果",
+      "desc": "挑釁值 +5\n起始理智值+20點",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4J",
+      "name": "第10順位效果",
+      "desc": "造成的傷害+10%\n起始理智值+20點",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4K",
+      "name": "第11順位效果",
+      "desc": "最終威力+1\n起始理智值+30點",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4L",
+      "name": "第12順位效果",
+      "desc": "人格等級+3\n起始理智值+30點",
+      "summary": ""
+    },
+    {
+      "id": "BreathSupport",
+      "name": "決戰的呼吸法",
+      "desc": "波次開始時，使自身增加4級呼吸法 強度並獲得4層呼吸法 。",
+      "summary": ""
+    },
+    {
+      "id": "FirmWill",
+      "name": "堅定的意志",
+      "desc": "友方單位陣亡時，理智值不會減少。",
+      "summary": ""
+    }
+  ]
+}
