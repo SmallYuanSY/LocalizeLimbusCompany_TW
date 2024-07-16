@@ -225,3 +225,5 @@
 - 魔法N辛！穩辣！穩辣！
 - 爆炎一擊！
 - <sprite name="EchoOfMansion">山莊WIFI重開機中
+- 月亮計劃，你這里<sprite name="AaCfPcBn">欠我的用什麽還<sprite name="Paralysis"><sprite name="Paralysis"><sprite name="Paralysis">
+- <sprite name="Vibration"><sprite name="VibrationExplosion"><sprite name="Switch_Vibration"><sprite name="FusionVibration"><sprite name="VibrationAssimilation"><sprite name="VibrationCrack"><sprite name="VibrationCollapse"><sprite name="VibrationEcho"><sprite name="VibrationContinue"><sprite name="VibrationNesting"><sprite name="VibrationDistribution"><sprite name="VibrationChain">

@@ -138,11 +138,11 @@
     },
     {
       "id": "mirrordungeon_acquire_rewards_using_chance_desc",
-      "content": "要消耗「每週加成」以領取額外獎勵嗎？"
+      "content": "要消耗“每週加成”以領取額外獎勵嗎？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_not_using_chance_desc",
-      "content": "「每週加成」的次數仍有剩餘。您確定要在不使用「每週加成」的情況下領取獎勵嗎？"
+      "content": "“每週加成”的次數仍有剩餘。您確定要在不使用“每週加成”的情況下領取獎勵嗎？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_no_chance_desc",
@@ -354,7 +354,7 @@
     },
     {
       "id": "mirrordungeon_shop_upgrade_start_left",
-      "content": "「無限的可能性」這一概念，真的有可能存在於一臺自動售貨機之中嗎？"
+      "content": "“無限的可能性”這一概念，真的有可能存在於一臺自動售貨機之中嗎？"
     },
     {
       "id": "dungeon_encounter_guide_mirror_shop",

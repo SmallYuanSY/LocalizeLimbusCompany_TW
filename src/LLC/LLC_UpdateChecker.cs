@@ -38,7 +38,7 @@ namespace LimbusLocalize
                 string latest2ReleaseTag = releases.m_List.Count > 1 ? releases[1]["tag_name"].Value : string.Empty;
                 if (Version.Parse(LCB_LLCMod.VERSION) < Version.Parse(latestReleaseTag.Remove(0, 1)))
                 {
-                    string updatelog = (latest2ReleaseTag == "v" + LCB_LLCMod.VERSION ? "LimbusLocalize_BIE_OTA_" : "LimbusLocalize_BIE_") + latestReleaseTag;
+                    string updatelog = (latest2ReleaseTag == "v" + LCB_LLCMod.VERSION ? "LimbusLocalize_BIE_" : "LimbusLocalize_BIE_OTA_") + latestReleaseTag;
                     Updatelog += updatelog + ".7z ";
                     string download = "https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW/releases/download/" + latestReleaseTag + "/" + updatelog + ".7z";
                     var dirs = download.Split('/');

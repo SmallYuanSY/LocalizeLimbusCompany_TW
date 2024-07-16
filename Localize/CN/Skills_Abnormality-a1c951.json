@@ -85,7 +85,7 @@
         {
           "level": 1,
           "name": "來包裝吧",
-          "desc": "若自身帶有[AaCeSeBa]，則使本技能的硬幣效果增加「下回合對目標施加1層麻痹 」\n優先指定速度值最低的單位\n[EndBattle] 消耗所有充能 ",
+          "desc": "若自身帶有[AaCeSeBa]，則使本技能的硬幣效果增加“下回合對目標施加1層麻痹 ”\n優先指定速度值最低的單位\n[EndBattle] 消耗所有充能 ",
           "coinlist": [
             {
               "coindescs": [

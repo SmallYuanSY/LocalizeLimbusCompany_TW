@@ -229,6 +229,127 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2040711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "輕蔑，敬畏",
+          "abName": "輕蔑螺旋",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數)(最多+2)\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[GazePersonality](最多7層)\n[EndSkill] 2回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] 平均使全體目標增加共計10級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "輕蔑，敬畏",
+          "abName": "輕蔑螺旋",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數)(最多+4)\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[GazePersonality](最多7層)\n[EndSkill] 2回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] 平均使全體目標增加共計15級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "輕蔑，敬畏",
+          "abName": "輕蔑螺旋",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數)(最多+6)\n[BeforeAttack] 本回合與下回合使自身獲得(最大共鳴數+1)層[GazePersonality](最多7層)\n[EndSkill] 若本技能參與了色欲共鳴，則獲得與自身擁有的各個基礎攻擊技能相同屬性的罪孽碎片各1個\n[EndSkill] 2回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] 平均使全體目標增加共計15級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "輕蔑，敬畏",
+          "abName": "輕蔑螺旋",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身獲得7層[GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使本技能造成的傷害+(目標的流血 強度與層數之和)%(最多+20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加(1+最大共鳴數×1.5)級流血 強度(最多10級，向下取整)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "輕蔑，敬畏",
+          "abName": "輕蔑螺旋",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身獲得7層[GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使本技能造成的傷害+(目標的流血 強度與層數之和)%(最多+40%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加(3+最大共鳴數×2)級流血 強度(最多15級，向下取整)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "輕蔑，敬畏",
+          "abName": "輕蔑螺旋",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身獲得7層[GazePersonality]\n[EndSkill] 若本技能參與了色欲共鳴，則獲得與自身擁有的各個基礎攻擊技能相同屬性的罪孽碎片各1個",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使本技能造成的傷害+(目標的流血 強度與層數之和)%(最多+60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加(10+最大共鳴數×2.5)級流血 強度(最多25級，向下取整)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

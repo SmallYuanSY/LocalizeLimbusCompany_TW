@@ -1334,7 +1334,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_04",
-      "content": "能夠檢視在鏡象迷宮中出現過的E.G.O飾品。\n在鏡象迷宮中，未獲得過的E.G.O飾品將顯示為「無數據」"
+      "content": "能夠檢視在鏡象迷宮中出現過的E.G.O飾品。\n在鏡象迷宮中，未獲得過的E.G.O飾品將顯示為“無數據”"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_05",
@@ -1398,7 +1398,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_12",
-      "content": "完成初始人格設定后，按「確認」能夠進入鏡象迷宮。"
+      "content": "完成初始人格設定后，按“確認”能夠進入鏡象迷宮。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_13",
@@ -1478,7 +1478,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_22",
-      "content": "開局增益可以通過「星芒」系統啟用，它為您的迷宮探險提供各種增益效果。\n星芒可以通過通關鏡象迷宮獲得。到達更深的迷宮會獲得更多星芒。\n在特定的鏡象迷宮中，開局增益同時適用於普通模式和困難模式，但不會影響其他鏡象迷宮。\n在特定的鏡象迷宮中獲得的星芒無法用於啟用其他鏡象迷宮的開局增益。"
+      "content": "開局增益可以通過“星芒”系統啟用，它為您的迷宮探險提供各種增益效果。\n星芒可以通過通關鏡象迷宮獲得。到達更深的迷宮會獲得更多星芒。\n在特定的鏡象迷宮中，開局增益同時適用於普通模式和困難模式，但不會影響其他鏡象迷宮。\n在特定的鏡象迷宮中獲得的星芒無法用於啟用其他鏡象迷宮的開局增益。"
     },
     {
       "id": "tutorial_mainui_20_umida_title",
@@ -1882,7 +1882,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_01_desc_01",
-      "content": "第3賽季鏡象迷宮名為「湖之鏡」。"
+      "content": "第3賽季鏡象迷宮名為“湖之鏡”。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_01_desc_02",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_08_desc_01",
-      "content": "完成人格與E.G.O設定后，按「確認」即可進入鏡象迷宮。"
+      "content": "完成人格與E.G.O設定后，按“確認”即可進入鏡象迷宮。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_08_desc_02",
@@ -2238,7 +2238,7 @@
     },
     {
       "id": "tutorial_mainui_25_walpu2_04_desc_02",
-      "content": "以第一順位進入關卡的罪人將被賦予「控制部隊長」效果。擁有「控制部隊長」效果的罪人將在綠色的黎明戰鬥中獲得額外技能槽，其技能數量也會產生變動。"
+      "content": "以第一順位進入關卡的罪人將被賦予“控制部隊長”效果。擁有“控制部隊長”效果的罪人將在綠色的黎明戰鬥中獲得額外技能槽，其技能數量也會產生變動。"
     },
     {
       "id": "tutorial_mainui_25_walpu2_05_title_01",

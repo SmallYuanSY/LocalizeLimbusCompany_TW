@@ -194,7 +194,7 @@
     },
     {
       "id": "introduce_sentence_9",
-      "content": "我們不過是{0}而已，不是伸張正義的「英雄」。"
+      "content": "我們不過是{0}而已，不是伸張正義的“英雄”。"
     },
     {
       "id": "introduce_sentence_10",
@@ -1131,6 +1131,22 @@
     {
       "id": "introduce_sentence_142",
       "content": "要是我從小到大都不知道{0}就好了。"
+    },
+    {
+      "id": "introduce_word_143",
+      "content": "拳頭"
+    },
+    {
+      "id": "introduce_sentence_143",
+      "content": "以{0}觸碰求知的瞬間。"
+    },
+    {
+      "id": "introduce_word_144",
+      "content": "醜惡"
+    },
+    {
+      "id": "introduce_sentence_144",
+      "content": "萬眾將為此等{0}矚目。"
     }
   ]
 }

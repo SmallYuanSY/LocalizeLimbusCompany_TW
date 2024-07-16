@@ -759,6 +759,14 @@
     {
       "id": "10909_getCondition_gacksung",
       "content": "T公司 2級徵收人員 羅佳 3階段同步完成"
+    },
+    {
+      "id": "10510_getCondition_normal",
+      "content": "獲得Dieci協會 南部4科科長 默爾索時"
+    },
+    {
+      "id": "10510_getCondition_gacksung",
+      "content": "Dieci協會 南部4科科長 默爾索3階段同步完成"
     }
   ]
 }
