@@ -190,7 +190,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "次元撕裂",
+          "name": "撕裂次元",
           "desc": "[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {
@@ -204,7 +204,7 @@
         },
         {
           "level": 2,
-          "name": "次元撕裂",
+          "name": "撕裂次元",
           "desc": "[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {
@@ -221,7 +221,7 @@
         },
         {
           "level": 4,
-          "name": "次元撕裂",
+          "name": "撕裂次元",
           "desc": "[WhenUse] 使自身獲得2層充能 \n若自身的充能 層數不低於10層，則使本技能的硬幣威力+2",
           "coinlist": [
             {
@@ -633,14 +633,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
+                  "desc": "[OnSucceedAttackHead] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
+                  "desc": "[OnSucceedAttackHead] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
                 }
               ]
             }
@@ -654,14 +654,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
                 }
               ]
             }
@@ -675,14 +675,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值后移"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
                 }
               ]
             }
@@ -838,7 +838,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "覆涂",
+          "name": "覆塗",
           "desc": "",
           "coinlist": [
             {},
@@ -860,7 +860,7 @@
         },
         {
           "level": 2,
-          "name": "覆涂",
+          "name": "覆塗",
           "desc": "",
           "coinlist": [
             {},
@@ -882,7 +882,7 @@
         },
         {
           "level": 4,
-          "name": "覆涂",
+          "name": "覆塗",
           "desc": "若目標的流血 強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {},

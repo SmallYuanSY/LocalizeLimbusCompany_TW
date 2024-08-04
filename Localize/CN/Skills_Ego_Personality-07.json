@@ -256,6 +256,136 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2070711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "[BeforeAttack] 使自身獲得(最大共鳴數+1)層被撕裂的回憶 (最多7層)\n- 若該共鳴為完全共鳴，則改為獲得(最大共鳴數+2)層被撕裂的回憶 \n[BeforeAttack] 自身每帶有1層被撕裂的回憶 ，使自身增加1級呼吸法 強度(最多3級)\n[EndSkill] 消耗所有被撕裂的回憶 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "自身每帶有1層被撕裂的回憶 ，使本硬幣暴擊時造成的傷害+5%(最多+35%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級沈淪 強度"
+                },
+                {
+                  "desc": "[CriticalTargetKill] 若自身帶有彈藥 ，則使自身獲得1發彈藥 (每場戰鬥最多2發)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "[BeforeAttack] 使自身獲得(最大共鳴數+1)層被撕裂的回憶 (最多7層)\n- 若該共鳴為完全共鳴，則改為獲得(最大共鳴數+2)層被撕裂的回憶 \n[BeforeAttack] 自身每帶有1層被撕裂的回憶 ，使自身增加1級呼吸法 強度(最多4級)\n[EndSkill] 消耗所有被撕裂的回憶 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+10%(最多+70%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級沈淪 強度"
+                },
+                {
+                  "desc": "[CriticalTargetKill] 若自身帶有彈藥 ，則使自身獲得1發彈藥 (每場戰鬥最多2發)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "[BeforeAttack] 使自身獲得(最大共鳴數+1)層被撕裂的回憶 (最多7層)\n- 若該共鳴為完全共鳴，則改為獲得(最大共鳴數+2)層被撕裂的回憶 \n[BeforeAttack] 自身每帶有1層被撕裂的回憶 ，使自身增加1級呼吸法 強度(最多7級)\n[BeforeAttack] 使自身獲得1層呼吸法 \n[EndSkill] 消耗所有被撕裂的回憶 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+15%(最多+105%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級沈淪 強度"
+                },
+                {
+                  "desc": "[CriticalTargetKilll] 若自身帶有彈藥 ，則使自身獲得1發彈藥 (每場戰鬥最多3發)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層被撕裂的回憶 (最多7層)\n- 若該共鳴為完全共鳴，則改為獲得(最大共鳴數+2)層被撕裂的回憶 \n[BeforeAttack] 自身每帶有1層被撕裂的回憶 ，使本技能造成的傷害+2%(最多+14%)\n[BeforeAttack] 自身每帶有1層被撕裂的回憶 ，使自身增加1級呼吸法 強度(最多3級)\n[BeforeAttack] 自身每帶有5級呼吸法 強度，使本技能造成的傷害+3%(最多+15%)\n[BeforeAttack] 消耗自身的5級呼吸法 強度\n[EndSkill] 消耗所有被撕裂的回憶 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度與2級沈淪 強度 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層被撕裂的回憶 (最多7層)\n- 若該共鳴為完全共鳴，則改為獲得(最大共鳴數+2)層被撕裂的回憶 \n[BeforeAttack] 若自身的被撕裂的回憶 不低於3層，則使本技能的攻擊容量+1\n[BeforeAttack] 自身每帶有1層被撕裂的回憶 ，使本技能造成的傷害+2%(最多+14%)\n[BeforeAttack] 自身每帶有1層被撕裂的回憶 ，使自身增加1級呼吸法 強度(最多4級)\n[BeforeAttack] 自身每帶有5級呼吸法 強度，使本技能造成的傷害+4%(最多+20%)\n[BeforeAttack] 消耗自身的5級呼吸法 強度\n[EndSkill] 消耗所有被撕裂的回憶 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度與3級沈淪 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層被撕裂的回憶 (最多7層)\n- 若該共鳴為完全共鳴，則改為獲得(最大共鳴數+2)層被撕裂的回憶 \n[BeforeAttack] 自身每帶有3層被撕裂的回憶 ，使本技能的攻擊容量+1(最多+2)\n[BeforeAttack] 自身每帶有1層被撕裂的回憶 ，使本技能造成的傷害+3%(最多+21%)\n[BeforeAttack] 自身每帶有1層被撕裂的回憶 ，使自身增加1級呼吸法 強度(最多7級)\n[BeforeAttack] 自身每帶有5級呼吸法 強度，使本技能造成的傷害+5%(最多+25%)\n[BeforeAttack] 消耗自身的5級呼吸法 強度\n[EndSkill] 消耗所有被撕裂的回憶 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度與3級沈淪 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

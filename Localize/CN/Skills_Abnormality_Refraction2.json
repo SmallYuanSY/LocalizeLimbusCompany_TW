@@ -1703,7 +1703,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身混亂閾值后移本硬幣傷害量的50%"
+                  "desc": "[OnSucceedAttack] 使自身混亂閾值後移本硬幣傷害量的50%"
                 }
               ]
             },
@@ -1713,7 +1713,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身混亂閾值后移本硬幣傷害量的50%"
+                  "desc": "[OnSucceedAttack] 使自身混亂閾值後移本硬幣傷害量的50%"
                 }
               ]
             },
@@ -1723,7 +1723,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身混亂閾值后移本硬幣傷害量的50%"
+                  "desc": "[OnSucceedAttack] 使自身混亂閾值後移本硬幣傷害量的50%"
                 }
               ]
             }

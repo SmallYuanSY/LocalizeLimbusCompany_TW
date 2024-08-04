@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "ycgd_stagebutton_not_clear",
-      "content": "通過5.5-12后解鎖"
+      "content": "通過5.5-12後解鎖"
     },
     {
       "id": "ycgd_stagebutton_normal",
@@ -14,7 +14,7 @@
     },
     {
       "id": "ycgd_storybutton_before_start",
-      "content": "<size=75%>觀看活動劇情第1關后開放</size>"
+      "content": "<size=75%>觀看活動劇情第1關後開放</size>"
     },
     {
       "id": "ycgd_storybutton_normal",
@@ -34,7 +34,7 @@
     },
     {
       "id": "ycgd_rewardpage_desc",
-      "content": "通關活動關卡、迷宮后，您可獲得<color=#1998fe>[染血劍鞘]</color>。除此之外，\n首次通關主線劇情關卡、迷宮，通關鏡象迷宮后，您也可獲得<color=#1998fe>[染血劍鞘]</color>。\n\n通關活動、主線劇情的關卡、以及鏡象迷宮時，您將有低概率獲得<color=#7fc6ff>[怨恨劍鞘]</color>，獲得的<color=#7fc6ff>[怨恨劍鞘]</color>將立即變換為20個<color=#1998fe>[染血劍鞘]</color>。\n\n您可在<color=#1998fe>[獎勵兌換]</color>視窗中，花費<color=#1998fe>[染血劍鞘]</color>以獲得各種獎勵。"
+      "content": "通關活動關卡、迷宮後，您可獲得<color=#1998fe>[染血劍鞘]</color>。除此之外，\n首次通關主線劇情關卡、迷宮，通關鏡象迷宮後，您也可獲得<color=#1998fe>[染血劍鞘]</color>。\n\n通關活動、主線劇情的關卡、以及鏡象迷宮時，您將有低概率獲得<color=#7fc6ff>[怨恨劍鞘]</color>，獲得的<color=#7fc6ff>[怨恨劍鞘]</color>將立即變換為20個<color=#1998fe>[染血劍鞘]</color>。\n\n您可在<color=#1998fe>[獎勵兌換]</color>視窗中，花費<color=#1998fe>[染血劍鞘]</color>以獲得各種獎勵。"
     },
     {
       "id": "ycgd_reward_popup_desc",

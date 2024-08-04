@@ -282,7 +282,7 @@
     },
     {
       "id": "mirrordungeon_2_shop_stageinfo_desc",
-      "content": "空曠得可怕的空間里，充滿了自動售貨機的震動聲。\n\n那聲音說：獻上你的碎屑，換成有用的東西。\n\n你彷彿著了魔一樣，接近某個未知實體。"
+      "content": "空曠得可怕的空間裡，充滿了自動售貨機的震動聲。\n\n那聲音說：獻上你的碎屑，換成有用的東西。\n\n你彷彿著了魔一樣，接近某個未知實體。"
     },
     {
       "id": "mirrordungeon_2_resting_stageinfo_title",
@@ -334,11 +334,11 @@
     },
     {
       "id": "mirrordungeon_shop_heal_all_answer",
-      "content": "你買了等同於罪人人數的能量飲料。\n嚐到酸甜可口的味道后，每個人臉上的疲勞都減輕了。"
+      "content": "你買了等同於罪人人數的能量飲料。\n嚐到酸甜可口的味道後，每個人臉上的疲勞都減輕了。"
     },
     {
       "id": "mirrordungeon_resting_heal_one_answer",
-      "content": "你讓罪人們小憩了一下。\n非常幸運，休息結束后大家似乎都已經恢復了精力。"
+      "content": "你讓罪人們小憩了一下。\n非常幸運，休息結束後大家似乎都已經恢復了精力。"
     },
     {
       "id": "mirrordungeon_resting_heal_all_answer",

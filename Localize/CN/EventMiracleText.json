@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "miracle_stagebutton_not_clear_cp4",
-      "content": "通過章節{0}后再來喲！"
+      "content": "通過章節{0}後再來喲！"
     },
     {
       "id": "miracle_stagebutton_normal",
@@ -14,7 +14,7 @@
     },
     {
       "id": "miracle_storybutton_before_start",
-      "content": "通過5.5-1后解鎖"
+      "content": "通過5.5-1後解鎖"
     },
     {
       "id": "miracle_storybutton_normal",

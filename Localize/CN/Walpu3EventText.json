@@ -34,7 +34,7 @@
     },
     {
       "id": "Walpu3_hard_stage_unlock_condition",
-      "content": "通過簡單難度后解鎖"
+      "content": "通過簡單難度後解鎖"
     },
     {
       "id": "EVENT_WALPU3_NORMAL",
@@ -150,7 +150,7 @@
     },
     {
       "id": "walpu3_reward_event_desc",
-      "content": "在簡單及困難難度下，鎮壓精靈盛宴並完成任務。\n\n完成任務后，您將獲得多種獎勵。"
+      "content": "在簡單及困難難度下，鎮壓精靈盛宴並完成任務。\n\n完成任務後，您將獲得多種獎勵。"
     },
     {
       "id": "walpu3_reward_normal_tab",
@@ -270,7 +270,7 @@
     },
     {
       "id": "tutorial_mainui_27_walpu3_07_desc_01",
-      "content": "活動結束后，通過駕駛席-[外傳故事]及放映室-[其他故事]，可隨時享受[第3次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]的關卡和故事。"
+      "content": "活動結束後，通過駕駛席-[外傳故事]及放映室-[其他故事]，可隨時享受[第3次 瓦爾普吉斯之夜 - 進入圖書館的某本藏書]的關卡和故事。"
     },
     {
       "id": "walpu3_not_progress_event_date",

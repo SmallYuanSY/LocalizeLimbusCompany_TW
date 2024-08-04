@@ -218,7 +218,7 @@
     },
     {
       "id": "acquire_ego_gift_if_win",
-      "content": "<color=#ebcaa2>戰鬥勝利后，獲得E.G.O飾品！</color>"
+      "content": "<color=#ebcaa2>戰鬥勝利後，獲得E.G.O飾品！</color>"
     },
     {
       "id": "chracter_mp_decrease",

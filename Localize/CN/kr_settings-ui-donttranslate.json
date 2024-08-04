@@ -94,7 +94,7 @@
     },
     {
       "id": "mainui_settings_postprocessing",
-      "content": "后處理"
+      "content": "後處理"
     },
     {
       "id": "mainui_settings_ppon",
@@ -174,7 +174,7 @@
     },
     {
       "id": "explain_sucession",
-      "content": "賬號停用后，所有遊戲數據和消費記錄都會被清除。"
+      "content": "賬號停用後，所有遊戲數據和消費記錄都會被清除。"
     },
     {
       "id": "explain_sucession_remain_days",

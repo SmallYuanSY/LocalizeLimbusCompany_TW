@@ -746,7 +746,7 @@
     },
     {
       "id": "10309_getCondition_normal",
-      "content": "獲得 T公司 3級徵收人員 堂吉訶德"
+      "content": "獲得T公司 3級徵收人員 堂吉訶德"
     },
     {
       "id": "10309_getCondition_gacksung",
@@ -754,7 +754,7 @@
     },
     {
       "id": "10909_getCondition_normal",
-      "content": "獲得 T公司 2級徵收人員 羅佳"
+      "content": "獲得T公司 2級徵收人員 羅佳"
     },
     {
       "id": "10909_getCondition_gacksung",
@@ -762,11 +762,19 @@
     },
     {
       "id": "10510_getCondition_normal",
-      "content": "獲得Dieci協會 南部4科科長 默爾索時"
+      "content": "獲得Dieci協會 南部4科科長 默爾索"
     },
     {
       "id": "10510_getCondition_gacksung",
-      "content": "Dieci協會 南部4科科長 默爾索3階段同步完成"
+      "content": "Dieci協會 南部4科科長 默爾索 3階段同步完成"
+    },
+    {
+      "id": "11110_getCondition_normal",
+      "content": "獲得W公司 3級清掃組長 奧提斯"
+    },
+    {
+      "id": "11110_getCondition_gacksung",
+      "content": "W公司 3級清掃組長 奧提斯 3階段同步完成"
     }
   ]
 }

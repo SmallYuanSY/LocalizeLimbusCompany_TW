@@ -23,7 +23,7 @@
 ### 2. 安装字體文件
    - 从[LLC_ChineseFontAsset|中文通用字體![](https://img.shields.io/github/release/SmallYuanSY/LLC_ChineseFontAsset.svg?label=更新日期)](../../../LLC_ChineseFontAsset)下載字體文件 後解壓縮到上述文件夾中
 ### 3. 安装漢化
-   - 从[最新版](../../releases)下載 后解壓縮到上述文件夾中
+   - 从[最新版](../../releases)下載 後解壓縮到上述文件夾中
     
    - 通常情況下模组將在遊戲更新後3~4天内更新
 

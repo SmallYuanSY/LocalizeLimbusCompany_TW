@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身的混亂閾值后移與自身的震顫 層數相當的數值(最多10)"
+                  "desc": "[OnSucceedAttackHead] 使自身的混亂閾值後移與自身的震顫 層數相當的數值(最多10)"
                 }
               ]
             }
@@ -25,7 +25,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的混亂閾值后移與自身的震顫 層數相當的數值(最多10)"
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移與自身的震顫 層數相當的數值(最多10)"
                 }
               ]
             }
@@ -39,7 +39,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的混亂閾值后移與自身的震顫 層數相當的數值(最多10)"
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移與自身的震顫 層數相當的數值(最多10)"
                 }
               ]
             }
@@ -1008,6 +1008,247 @@
           "desc": "[WhenUse] 若目標的流血 強度不低於10級，則使本技能的硬幣威力+7",
           "coinlist": [
             {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "脈沖轟炸",
+          "desc": "[WhenUse] 若自身的充能 層數不低於4層，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "脈沖轟炸",
+          "desc": "[WhenUse] 若自身的充能 層數不低於4層，則使本技能的基礎威力+1\n[WhenUse] 若自身的充能 層數不低於6層，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "脈沖轟炸",
+          "desc": "[WhenUse] 若自身的充能 層數不低於4層，則使本技能的基礎威力+1\n[WhenUse] 自身每帶有5層充能 ，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "充能騰躍",
+          "desc": "[WhenUse] 消耗自身的6層充能 並使本技能的基礎威力+1\n[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "充能騰躍",
+          "desc": "[WhenUse] 消耗自身的6層充能 並使本技能的基礎威力+1\n- 若自身消耗了充能 層數，則使自身與除自身以外充能 層數最低的2名友方單位獲得(自身的充能 強度+1)層充能力場 (最多7層，每回合最多1次)\n[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 若本技能使用時消耗了充能 層數，則下回合對目標施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "充能騰躍",
+          "desc": "[WhenUse] 消耗自身的6層充能 並使本技能的硬幣威力+1\n- 若自身消耗了充能 層數，則使自身與除自身以外充能 層數最低的2名友方單位獲得(自身的充能 強度+2)層充能力場 (最多8層，每回合最多2次)\n[WhenUse] 使自身獲得2層充能 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若本技能使用時消耗了充能 層數，則下回合對目標施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "次元撕裂",
+          "desc": "[StartBattle] 根據自身帶有的充能 強度，使自身與(最大共鳴數)名帶有充能 的友方單位獲得相應層數的負荷 \n(最多5名其他友方單位)\n[WhenUse] 若自身的充能 強度不低於2級，且自身的充能 層數在7~14層之間，則消耗自身所有充能 層數並使本技能的硬幣威力+1\n[WhenUse] 消耗15層充能 並使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若本技能使用時消耗了15層充能 ，則使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得(5-自身的充能 強度)層充能 (最少0層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "次元撕裂",
+          "desc": "[StartBattle] 根據自身帶有的充能 強度，使自身與(最大共鳴數)名帶有充能 的友方單位獲得相應層數的負荷 \n(最多5名其他友方單位)\n[WhenUse] 若自身的充能 強度不低於2級，且自身的充能 層數在7~14層之間，則消耗自身所有充能 層數並使本技能的硬幣威力+2\n[WhenUse] 消耗15層充能 並使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若本技能使用時消耗了15層充能 ，則使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得(5-自身的充能 強度)層充能 (最少0層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "等離子場展開",
+          "desc": "[WhenUse] 自身每帶有2層充能 ，使本技能的基礎威力+1(最多+5)\n[WhenUse] 使自身獲得2層充能 (每回合最多2次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "等離子場展開",
+          "desc": "[WhenUse] 自身每帶有1層充能 ，使本技能的基礎威力+1(最多+10)\n[WhenUse] 使自身獲得2層充能 (每回合最多3次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
           ]
         }
       ]

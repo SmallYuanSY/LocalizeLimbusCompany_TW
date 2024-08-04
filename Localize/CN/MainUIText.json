@@ -770,7 +770,7 @@
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "{0}次提取后必定獲得3★人格"
+      "content": "{0}次提取後必定獲得3★人格"
     },
     {
       "id": "mainui_settings",
@@ -886,7 +886,7 @@
     },
     {
       "id": "gacha_rate_info_intro1",
-      "content": "根據“韓國遊戲產業協會自願約束準則”的規定，我們在此處列出所有基於概率來獲得的遊戲道具所對應的具體概率。\n\n所示每個道具對應的概率都是小數點后五位向上取整的結果。實際數值之和為100%。\n\n[提取1次]的具體概率如下："
+      "content": "根據“韓國遊戲產業協會自願約束準則”的規定，我們在此處列出所有基於概率來獲得的遊戲道具所對應的具體概率。\n\n所示每個道具對應的概率都是小數點後五位向上取整的結果。實際數值之和為100%。\n\n[提取1次]的具體概率如下："
     },
     {
       "id": "gacha_rate_info_intro2",
@@ -1110,11 +1110,11 @@
     },
     {
       "id": "mail_item_warning",
-      "content": "※ 領取物品后可能會導致退款失敗。"
+      "content": "※ 領取物品後可能會導致退款失敗。"
     },
     {
       "id": "mainui_unlock_condition_by_ego_awaken_level",
-      "content": "達到解析階段{0}后解鎖"
+      "content": "達到解析階段{0}後解鎖"
     },
     {
       "id": "empty_mailbox_notice",
@@ -1202,7 +1202,7 @@
     },
     {
       "id": "package_info_detail1",
-      "content": "選定需要獲取的道具后，使用一次{0}后獲取道具的概率如下。"
+      "content": "選定需要獲取的道具後，使用一次{0}後獲取道具的概率如下。"
     },
     {
       "id": "package_info_detail2",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "open_date_description_month_day_time_zone",
-      "content": "{0}月{1}日({2}) 更新后解鎖"
+      "content": "{0}月{1}日({2}) 更新後解鎖"
     },
     {
       "id": "open_date_description_month_day_time_zone_date",
@@ -1374,7 +1374,7 @@
     },
     {
       "id": "open_date_description_month_day_time_zone_desc",
-      "content": "更新后解鎖"
+      "content": "更新後解鎖"
     },
     {
       "id": "enkephalin_desc",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "cannot_exit_node_after_enter_by_force_alice_character",
-      "content": "進入后，您將無法再移動到迷宮的其他地點；罪人{0}的體力將會全部恢復，理智值將會重置為0。\n您確定要繼續嗎？"
+      "content": "進入後，您將無法再移動到迷宮的其他地點；罪人{0}的體力將會全部恢復，理智值將會重置為0。\n您確定要繼續嗎？"
     },
     {
       "id": "story_dungeon_4_first_open_popup_desc",
@@ -1558,7 +1558,7 @@
     },
     {
       "id": "open_after_clear_node",
-      "content": "通關{0}-{1}后解鎖"
+      "content": "通關{0}-{1}後解鎖"
     },
     {
       "id": "effect_list_to_applied_level",
@@ -1698,11 +1698,11 @@
     },
     {
       "id": "unlink_account_desc",
-      "content": "解除繫結后，{0}日內無法再次解除。"
+      "content": "解除繫結後，{0}日內無法再次解除。"
     },
     {
       "id": "unlink_account_desc_unable_by_day",
-      "content": "{0}后可以再次解除繫結。"
+      "content": "{0}後可以再次解除繫結。"
     },
     {
       "id": "unlink_account_complete_title",
@@ -1710,7 +1710,7 @@
     },
     {
       "id": "unlink_account_complete_desc",
-      "content": "成功解除繫結后，\n將返回標題界面。"
+      "content": "成功解除繫結後，\n將返回標題界面。"
     },
     {
       "id": "mainui_stageinfo_effectiveAttribute",
@@ -1743,6 +1743,10 @@
     {
       "id": "buff_effect_for_level_format",
       "content": "增益[{0}]"
+    },
+    {
+      "id": "personality_unit_keyword",
+      "content": "人格特性關鍵詞"
     }
   ]
 }

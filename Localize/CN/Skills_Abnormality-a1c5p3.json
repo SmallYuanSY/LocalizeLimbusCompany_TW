@@ -185,7 +185,7 @@
         {
           "level": 1,
           "name": "不可消逝",
-          "desc": "[StartBattle] 使自身獲得20點護盾\n護盾全部消耗后，下回合熄滅火焰",
+          "desc": "[StartBattle] 使自身獲得20點護盾\n護盾全部消耗後，下回合熄滅火焰",
           "coinlist": [
             {
               "coindescs": [

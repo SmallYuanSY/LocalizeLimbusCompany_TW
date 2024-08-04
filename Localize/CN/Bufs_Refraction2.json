@@ -9,7 +9,7 @@
     {
       "id": "PassedPortal_Red",
       "name": "血流成河的次元",
-      "desc": "穿過次元后，造成傷害+ {0}0%"
+      "desc": "穿過次元後，造成傷害+ {0}0%"
     },
     {
       "id": "PassedPortal_Green",
@@ -19,12 +19,12 @@
     {
       "id": "PassedPortal_Yellow",
       "name": "震顫不止的次元",
-      "desc": "穿過次元后，速度值+ {0}"
+      "desc": "穿過次元後，速度值+ {0}"
     },
     {
       "id": "PassedPortal_Blue",
-      "name": "電流涌動的次元",
-      "desc": "穿過次元后，硬幣威力+ {0}"
+      "name": "電流湧動的次元",
+      "desc": "穿過次元後，硬幣威力+ {0}"
     },
     {
       "id": "FairyCharm",

@@ -1390,7 +1390,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身的混亂閾值后移本硬幣傷害量的50%"
+                  "desc": "[OnSucceedAttackHead] 使自身的混亂閾值後移本硬幣傷害量的50%"
                 }
               ]
             }
@@ -1404,7 +1404,7 @@
         {
           "level": 1,
           "name": "精彩絕倫！",
-          "desc": "[OnSucceedEvade] 使自身的混亂閾值后移5；對目標造成5點理智傷害",
+          "desc": "[OnSucceedEvade] 使自身的混亂閾值後移5；對目標造成5點理智傷害",
           "coinlist": [
             {}
           ]

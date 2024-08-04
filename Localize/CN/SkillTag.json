@@ -74,7 +74,7 @@
     },
     {
       "id": "EndSkill",
-      "name": "[攻擊后]"
+      "name": "[攻擊後]"
     },
     {
       "id": "StartBattle",
@@ -138,11 +138,11 @@
     },
     {
       "id": "EndSkillHead",
-      "name": "[正面攻擊結束后]"
+      "name": "[正面攻擊結束後]"
     },
     {
       "id": "EndSkillTail",
-      "name": "[反面攻擊結束后]"
+      "name": "[反面攻擊結束後]"
     },
     {
       "id": "WinDuelAttackHead",
@@ -158,7 +158,7 @@
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[暴擊結束后]"
+      "name": "[暴擊結束後]"
     },
     {
       "id": "CantChangeTarget",
@@ -183,6 +183,11 @@
     {
       "id": "TargetKill",
       "name": "[擊殺目標時]"
+    },
+    {
+      "id": "CriticalTargetKill",
+      "name": "[暴擊擊殺時]"
     }
+
   ]
 }

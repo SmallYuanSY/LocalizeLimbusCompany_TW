@@ -6,7 +6,7 @@
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE",
-      "description": "[通用]\n\n戰鬥勝利后獲得的經費增加 {0}% （不受開局增益與其他E.G.O飾品的影響）"
+      "description": "[通用]\n\n戰鬥勝利後獲得的經費增加 {0}% （不受開局增益與其他E.G.O飾品的影響）"
     },
     {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE",
@@ -130,19 +130,19 @@
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_NORMAL",
-      "description": "[通用]\n\n常規遭遇戰勝利后獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
+      "description": "[通用]\n\n常規遭遇戰勝利後獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_ABNORMALITY",
-      "description": "[通用]\n\n集中遭遇戰勝利后獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
+      "description": "[通用]\n\n集中遭遇戰勝利後獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_HARD",
-      "description": "[通用]\n\n危險遭遇戰勝利后獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
+      "description": "[通用]\n\n危險遭遇戰勝利後獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_BOSS",
-      "description": "[通用]\n\n階層頭目戰勝利后獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
+      "description": "[通用]\n\n階層頭目戰勝利後獲得的經費增加10%（不受開局增益與其他E.G.O飾品的影響）"
     },
     {
       "id": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE_NESTING",

@@ -86,7 +86,7 @@
     },
     {
       "id": "mainui_shop_acquire_at_mailbox",
-      "content": "※ 購買后需要在信箱進行領取。"
+      "content": "※ 購買後需要在信箱進行領取。"
     },
     {
       "id": "mainui_shop_purchase_product_success",
@@ -130,7 +130,7 @@
     },
     {
       "id": "shopui_recover_enkephalin_after_time",
-      "content": "在{0}后恢復{1}腦啡肽。"
+      "content": "在{0}後恢復{1}腦啡肽。"
     },
     {
       "id": "shopui_ask_create_enkephalin_module",

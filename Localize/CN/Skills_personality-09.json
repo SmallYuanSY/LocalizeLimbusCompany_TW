@@ -13,7 +13,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的混亂閾值后移5"
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移5"
                 }
               ]
             }
@@ -29,7 +29,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的混亂閾值后移8"
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移8"
                 }
               ]
             }
@@ -45,7 +45,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的混亂閾值后移10"
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移10"
                 }
               ]
             }

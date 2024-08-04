@@ -346,7 +346,7 @@
     },
     {
       "id": "introduce_sentence_43",
-      "content": "{0}，進炸鍋里去吧。"
+      "content": "{0}，進炸鍋裡去吧。"
     },
     {
       "id": "introduce_word_45",
@@ -922,7 +922,7 @@
     },
     {
       "id": "introduce_sentence_116",
-      "content": "哼。怎麼，你需要{0}么？"
+      "content": "哼。怎麼，你需要{0}嗎？"
     },
     {
       "id": "introduce_word_117",
@@ -1147,6 +1147,22 @@
     {
       "id": "introduce_sentence_144",
       "content": "萬眾將為此等{0}矚目。"
+    },
+    {
+      "id": "introduce_word_145",
+      "content": "清掃"
+    },
+    {
+      "id": "introduce_sentence_145",
+      "content": "{0}結束得比預想的還要快。"
+    },
+    {
+      "id": "introduce_word_146",
+      "content": "記憶"
+    },
+    {
+      "id": "introduce_sentence_146",
+      "content": "直到槍聲和煙霧……將把一切{0}埋葬為止……！"
     }
   ]
 }

@@ -18,7 +18,7 @@
     },
     {
       "id": "retunPolicy_Info_Desc_2_1",
-      "content": "(1) 購買后立即使用或生效的內容"
+      "content": "(1) 購買後立即使用或生效的內容"
     },
     {
       "id": "retunPolicy_Info_Desc_2_2",
@@ -102,15 +102,15 @@
     },
     {
       "id": "detail_not_return",
-      "content": "- 已經使用或是購買后立即使用的商品無法退款"
+      "content": "- 已經使用或是購買後立即使用的商品無法退款"
     },
     {
       "id": "detail_return_7day",
-      "content": "- 購買后7天內退款"
+      "content": "- 購買後7天內退款"
     },
     {
       "id": "detail_not_return_get_mail",
-      "content": "- 在信箱領取后無法退款"
+      "content": "- 在信箱領取後無法退款"
     },
     {
       "id": "detail_not_return_platform",

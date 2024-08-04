@@ -33,7 +33,7 @@
     {
       "id": 1006,
       "panicName": "潰退",
-      "lowMoraleDescription": "無法行動。受到攻擊時，在攻擊結束后陣亡。",
+      "lowMoraleDescription": "無法行動。受到攻擊時，在攻擊結束後陣亡。",
       "panicDescription": ""
     },
     {
@@ -52,13 +52,13 @@
       "id": 1009,
       "panicName": "自盡",
       "lowMoraleDescription": "初次處於士氣低落狀態時，無法行動。",
-      "panicDescription": "3回合內無法行動，3回合結束后回合開始時陣亡，全體友方單位失去10點理智值。"
+      "panicDescription": "3回合內無法行動，3回合結束後回合開始時陣亡，全體友方單位失去10點理智值。"
     },
     {
       "id": 1010,
       "panicName": "徘徊",
       "lowMoraleDescription": "回合結束時，友方單位失去2點理智值。",
-      "panicDescription": "3回合內，每回合結束時友方單位失去5點理智值。\n3回合結束后逃離戰鬥。"
+      "panicDescription": "3回合內，每回合結束時友方單位失去5點理智值。\n3回合結束後逃離戰鬥。"
     },
     {
       "id": 1011,

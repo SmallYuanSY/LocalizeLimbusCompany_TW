@@ -70,7 +70,7 @@
     },
     {
       "id": "able_to_acquire_rewards_without_using_enkephalin_module",
-      "content": "※解鎖后，您可以在活動期間免費獲取獎勵。"
+      "content": "※解鎖後，您可以在活動期間免費獲取獎勵。"
     },
     {
       "id": "railway_dungeon_ask_for_re_enter",
@@ -90,11 +90,11 @@
     },
     {
       "id": "railway_dungeon_1_banner_reward_condition_1",
-      "content": "折射軌道 - 清剿第{0}站后"
+      "content": "折射軌道 - 清剿第{0}站後"
     },
     {
       "id": "railway_dungeon_1_banner_reward_condition_2",
-      "content": "折射軌道- 清剿第{0}站后 ，總計回合數{1}以下"
+      "content": "折射軌道- 清剿第{0}站後 ，總計回合數{1}以下"
     },
     {
       "id": "railway_dungeon_1_banner_reward_condition_3",
@@ -114,11 +114,11 @@
     },
     {
       "id": "recover_after_resting_battle",
-      "content": "于本站\n休息后\n初始化並\n回滿體力"
+      "content": "于本站\n休息後\n初始化並\n回滿體力"
     },
     {
       "id": "railway_dungeon_try_last_node",
-      "content": "進入終點站后，則無法回到前置站點。\n\n是否進入終點站？"
+      "content": "進入終點站後，則無法回到前置站點。\n\n是否進入終點站？"
     },
     {
       "id": "railway_dungeon_ask_stop_desc",

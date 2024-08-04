@@ -1,7 +1,8 @@
-﻿﻿using BepInEx.Configuration;
+﻿using BepInEx.Configuration;
 using HarmonyLib;
 using LocalSave;
 using MainUI;
+using StorySystem;
 using System;
 using TMPro;
 using UnityEngine;
@@ -36,7 +37,7 @@ namespace LimbusLocalize
             foreach (Toggle tg in __instance._languageToggles)
             {
                 tg.onValueChanged.RemoveAllListeners();
-                Action<bool> onValueChanged = (bool isOn) =>
+                Action<bool> onValueChanged = (isOn) =>
                 {
                     if (!isOn)
                         return;
@@ -77,7 +78,7 @@ namespace LimbusLocalize
         }
         [HarmonyPatch(typeof(DateUtil), nameof(DateUtil.TimeZoneOffset), MethodType.Getter)]
         [HarmonyPrefix]
-        public static bool TimeZoneOffset(ref int __result)
+        private static bool TimeZoneOffset(ref int __result)
         {
             if (IsUseChinese.Value)
             {
@@ -88,11 +89,60 @@ namespace LimbusLocalize
         }
         [HarmonyPatch(typeof(DateUtil), nameof(DateUtil.TimeZoneString), MethodType.Getter)]
         [HarmonyPrefix]
-        public static bool TimeZoneString(ref string __result)
+        private static bool TimeZoneString(ref string __result)
         {
             if (IsUseChinese.Value)
             {
                 __result = "CST";
+                return false;
+            }
+            return true;
+        }
+        [HarmonyPatch(typeof(BattleUnitView), nameof(BattleUnitView.ViewCancelTextTypo_Lack))]
+        [HarmonyPrefix]
+        private static bool ViewCancelTextTypo_Lack(BattleUnitView __instance, CanceledData data)
+        {
+            if (IsUseChinese.Value)
+            {
+                if (data != null && data.GetLackOfBuffs() != null && data.GetLackOfBuffs().Count > 0)
+                {
+                    string text = TextDataManager.Instance.BufList.GetData(data.GetLackOfBuffs()[0].ToString()).GetName() + " 不足";
+                    __instance.UIManager.bufTypoUI.OpenBufTypo(BUF_TYPE.Negative, text, data.GetLackOfBuffs()[0]);
+                }
+                return false;
+            }
+            return true;
+        }
+        [HarmonyPatch(typeof(StoryPlayData), nameof(StoryPlayData.GetDialogAfterClearingAllCathy))]
+        [HarmonyPrefix]
+        private static bool GetDialogAfterClearingAllCathy(Scenario curStory, Dialog dialog, ref string __result)
+        {
+            if (IsUseChinese.Value)
+            {
+                __result = dialog.Content;
+                UserDataManager instance = UserDataManager.Instance;
+                if ("P10704".Equals(curStory.ID) && instance != null && instance._unlockCodeData != null && instance._unlockCodeData.CheckUnlockStatus(106) && dialog.Id == 3)
+                {
+                    __result = __result.Replace("凱茜", "■■■■■");
+                }
+                return false;
+            }
+            return true;
+        }
+        [HarmonyPatch(typeof(Util), nameof(Util.GetDlgAfterClearingAllCathy))]
+        [HarmonyPrefix]
+        private static bool GetDlgAfterClearingAllCathy(string dlgId, string originString, ref string __result)
+        {
+            if (IsUseChinese.Value)
+            {
+                __result = originString;
+                UserDataManager instance = UserDataManager.Instance;
+                if (instance == null || instance._unlockCodeData == null || !instance._unlockCodeData.CheckUnlockStatus(106))
+                    return false;
+                if ("battle_defeat_10707_1".Equals(dlgId))
+                    __result = __result.Replace("凱茜", "■■■■■");
+                else if ("battle_dead_10704_1".Equals(dlgId))
+                    __result = __result.Replace("凱瑟琳", "■■■■■");
                 return false;
             }
             return true;
