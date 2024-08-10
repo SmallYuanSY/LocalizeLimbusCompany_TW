@@ -428,6 +428,223 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1070901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "40S-2啟動",
+          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "40S-2啟動",
+          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "40S-2啟動",
+          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "光電標記",
+          "desc": "[WhenUse] 若自身的充能 層數在5~9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身的充能 層數變為10層\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多2層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "光電標記",
+          "desc": "[WhenUse] 若自身的充能 層數在5~9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身的充能 層數變為10層\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防御等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層體力恢覆降低 \n[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多3層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "光電標記",
+          "desc": "[WhenUse] 若自身的充能 層數在5~9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身的充能 層數變為10層\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防御等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防御等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層體力恢覆降低 \n[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多3層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "光電魚叉",
+          "desc": "若自身的充能 強度不低於2級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得5層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得(自身的充能 強度×3)層充能 (最多9層)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多3層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "光電魚叉",
+          "desc": "自身每帶有2級充能 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得7層充能 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得(自身的充能 強度×3)層充能 (最多9層)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多3層)\n[OnSucceedAttack] 自身每帶有2級充能 強度，對目標施加1層打擊易損 (最多2層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "充能",
+          "desc": "[WhenUse] 使自身獲得3層充能 (每回合最多1次)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "充能",
+          "desc": "[WhenUse] 使自身獲得3層充能 (每回合最多2次)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

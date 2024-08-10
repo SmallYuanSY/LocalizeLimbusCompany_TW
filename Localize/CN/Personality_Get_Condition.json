@@ -775,6 +775,22 @@
     {
       "id": "11110_getCondition_gacksung",
       "content": "W公司 3級清掃組長 奧提斯 3階段同步完成"
+    },
+    {
+      "id": "10210_getCondition_normal",
+      "content": "獲得多裂紋事務所 代表 浮士德"
+    },
+    {
+      "id": "10210_getCondition_gacksung",
+      "content": "多裂紋事務所 代表 浮士德 3階段同步完成"
+    },
+    {
+      "id": "10709_getCondition_normal",
+      "content": "獲得多裂紋事務所 收尾人 希斯克利夫"
+    },
+    {
+      "id": "10709_getCondition_gacksung",
+      "content": "多裂紋事務所 收尾人 希斯克利夫 3階段同步完成"
     }
   ]
 }

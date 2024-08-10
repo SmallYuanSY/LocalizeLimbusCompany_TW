@@ -536,20 +536,12 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
-                }
-              ]
-            },
-            {
-              "coindescs": [
+                },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加6層防禦等級降低 "
-                }
-              ]
-            },
-            {
-              "coindescs": [
+                  "desc": "[OnSucceedAttack] 下回合對目標施加6層防御等級降低 "
+                },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重複使用本硬幣(最多1次)"
+                  "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重覆使用本硬幣(最多1次)"
                 }
               ]
             }

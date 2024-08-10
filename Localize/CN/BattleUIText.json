@@ -687,6 +687,22 @@
     {
       "id": "ab_part_cannot_destroy_and_vanish",
       "content": "不可破壞和截除"
+    },
+    {
+      "id": "current_hp",
+      "content": "現存體力"
+    },
+    {
+      "id": "break_section_format",
+      "content": "混亂閾值[{0}]"
+    },
+    {
+      "id": "no_break_section",
+      "content": "無混亂閾值"
+    },
+    {
+      "id": "correction_based_on_unit_keyword",
+      "content": "{0} 人格變動值{1}(, )"
     }
   ]
 }

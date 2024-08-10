@@ -150,7 +150,7 @@
     },
     {
       "id": "Choice_90100201",
-      "content": "<color=#ebcaa2>判定失敗的罪人失去</color> <color=#e30000>25點體力</color><color=#ebcaa2>及</color><color=#fe4b48>15點理智值</color><color=#ebcaa2>！</color>"
+      "content": "<color=#ebcaa2>判定失敗的罪人失去</color> <color=#e30000>12點體力</color><color=#ebcaa2>及</color><color=#fe4b48>15點理智值</color><color=#ebcaa2>！</color>"
     },
     {
       "id": "Choice_90100502",
@@ -423,6 +423,10 @@
     {
       "id": "Choice_EGO901073",
       "content": "戰鬥勝利后，獲得E.G.O飾品“內啡肽試劑組”、“螢光燈”"
+    },
+    {
+      "id": "Choice_EGO971029",
+      "content": "戰鬥勝利後，獲得E.G.O飾品“E式次元短劍”、“便攜式力場電池”"
     }
   ]
 }

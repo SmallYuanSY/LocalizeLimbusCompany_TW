@@ -1163,6 +1163,30 @@
     {
       "id": "introduce_sentence_146",
       "content": "直到槍聲和煙霧……將把一切{0}埋葬為止……！"
+    },
+    {
+      "id": "introduce_word_147",
+      "content": "計劃"
+    },
+    {
+      "id": "introduce_sentence_147",
+      "content": "讓這個存在諸多缺陷的{0}變得天衣無縫。"
+    },
+    {
+      "id": "introduce_word_148",
+      "content": "義體"
+    },
+    {
+      "id": "introduce_sentence_148",
+      "content": "大概是因為有{0}的家夥們不會害怕戰鬥吧。"
+    },
+    {
+      "id": "introduce_word_149",
+      "content": "徘徊"
+    },
+    {
+      "id": "introduce_sentence_149",
+      "content": "不要移開目光。哪怕錯過一瞬，或許就會陷入永遠的{0}之中。"
     }
   ]
 }

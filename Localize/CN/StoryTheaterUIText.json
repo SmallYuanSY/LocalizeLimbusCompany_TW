@@ -242,7 +242,7 @@
     },
     {
       "id": "OtherStoryOpenCondition_9107",
-      "content": "通關5.5-13關卡"
+      "content": "通關5.5-13"
     },
     {
       "id": "OtherStoryOpenCondition_9015",
@@ -267,6 +267,10 @@
     {
       "id": "OtherStoryOpenCondition_9017",
       "content": "通過6-48"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9110",
+      "content": "通過6.5-16"
     }
   ]
 }

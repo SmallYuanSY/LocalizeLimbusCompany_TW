@@ -1,0 +1,10 @@
+{
+  "dataList": [
+    {
+      "id": 1025,
+      "panicName": "渴血",
+      "lowMoraleDescription": "回合開始時對自身施加1層[Vulnerable]並使自身獲得1層[AttackDmgUp]",
+      "panicDescription": "回合開始時對自身施加2層[Vulnerable]並使自身獲得2層[AttackDmgUp]"
+    }
+  ]
+}

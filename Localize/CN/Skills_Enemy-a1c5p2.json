@@ -135,7 +135,7 @@
         {
           "level": 1,
           "name": "-- ... -.-",
-          "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
+          "desc": "[WinDuel] 對目標施加1層白化的噪音 ",
           "coinlist": [
             {
               "coindescs": [
@@ -157,7 +157,7 @@
         {
           "level": 1,
           "name": "...- .",
-          "desc": "除自身以外每有1名蒼白的友方單位存活，使本技能的最終威力+1",
+          "desc": "除自身以外每有1名白化的友方單位存活，使本技能的最終威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -212,7 +212,7 @@
         {
           "level": 1,
           "name": "..-. . --",
-          "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
+          "desc": "[WinDuel] 對目標施加1層白化的噪音 ",
           "coinlist": [
             {
               "coindescs": [
@@ -234,7 +234,7 @@
         {
           "level": 1,
           "name": ".-.. -",
-          "desc": "[WinDuel] 除自身以外每有1名蒼白的友方單位存活，對目標造成1點理智傷害",
+          "desc": "[WinDuel] 除自身以外每有1名白化的友方單位存活，對目標造成1點理智傷害",
           "coinlist": [
             {
               "coindescs": [
@@ -263,7 +263,7 @@
         {
           "level": 1,
           "name": "-... ....",
-          "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對現存體力最低的1名蒼白的友方單位生效",
+          "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對現存體力最低的1名白化的友方單位生效",
           "coinlist": [
             {
               "coindescs": [
@@ -295,7 +295,7 @@
         {
           "level": 1,
           "name": ".--- .",
-          "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對除自身以外現存體力最低的1名蒼白的友方單位生效",
+          "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對除自身以外現存體力最低的1名白化的友方單位生效",
           "coinlist": [
             {
               "coindescs": [
@@ -303,7 +303,7 @@
                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層蒼白的噪音 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層白化的噪音 "
                 }
               ]
             }
@@ -317,7 +317,7 @@
         {
           "level": 1,
           "name": "-. ....",
-          "desc": "[WhenUse] 若目標帶有蒼白的噪音 ，則使除自身以外現存體力最低的1名蒼白的友方單位恢復30點體力",
+          "desc": "[WhenUse] 若目標帶有白化的噪音 ，則使除自身以外現存體力最低的1名白化的友方單位恢復30點體力",
           "coinlist": [
             {
               "coindescs": [
@@ -369,7 +369,7 @@
         {
           "level": 1,
           "name": "-... .-",
-          "desc": "[WhenUse] 下回合隨機使除自身以外的1名友方單位獲得1層守護 。若該單位為蒼白的單位，則使其額外獲得1層守護 ",
+          "desc": "[WhenUse] 下回合隨機使除自身以外的1名友方單位獲得1層守護 。若該單位為白化的單位，則使其額外獲得1層守護 ",
           "coinlist": [
             {
               "coindescs": [
@@ -399,7 +399,7 @@
                   "desc": "[OnSucceedAttack] 使目標的震顫 層數減少2層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層白化的噪音 "
                 }
               ]
             },
@@ -420,7 +420,7 @@
         {
           "level": 1,
           "name": ".--. .",
-          "desc": "[StartBattle] 除自身以外每有2名蒼白的友方單位，下回合使自身獲得1層守護 \n若自身帶有護盾時受到攻擊，則使攻擊者增加1級震顫 強度",
+          "desc": "[StartBattle] 除自身以外每有2名白化的友方單位，下回合使自身獲得1層守護 \n若自身帶有護盾時受到攻擊，則使攻擊者增加1級震顫 強度",
           "coinlist": [
             {
               "coindescs": [
@@ -458,7 +458,7 @@
         {
           "level": 1,
           "name": ".-.. .",
-          "desc": "[WhenUse] 下回合隨機使1名其他蒼白的友方單位獲得1層傷害強化 ",
+          "desc": "[WhenUse] 下回合隨機使1名其他白化的友方單位獲得1層傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -466,7 +466,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加2層麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層白化的噪音 "
                 }
               ]
             }
@@ -480,7 +480,7 @@
         {
           "level": 1,
           "name": ".-.. .-",
-          "desc": "[WhenUse] 下回合隨機使1名蒼白的友方單位獲得1層傷害強化 ",
+          "desc": "[WhenUse] 下回合隨機使1名白化的友方單位獲得1層傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -488,7 +488,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層白化的噪音 "
                 }
               ]
             },
@@ -509,7 +509,7 @@
         {
           "level": 1,
           "name": "--. . ...-",
-          "desc": "若目標帶有蒼白的噪音 ，除自身以外每有1名友方單位存活，對目標造成1點理智傷害",
+          "desc": "若目標帶有白化的噪音 ，除自身以外每有1名友方單位存活，對目標造成1點理智傷害",
           "coinlist": [
             {
               "coindescs": [
@@ -536,7 +536,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層白化的噪音 "
                 }
               ]
             },
@@ -560,7 +560,7 @@
         {
           "level": 1,
           "name": ".--. .... -",
-          "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
+          "desc": "[WinDuel] 對目標施加1層白化的噪音 ",
           "coinlist": [
             {
               "coindescs": [
@@ -586,7 +586,7 @@
         {
           "level": 1,
           "name": "-.- -",
-          "desc": "若自身帶有護盾時受到攻擊，則對攻擊者施加1層蒼白的噪音 \n[EndBattle] 若自身帶有護盾，則下回合使自身增加3級呼吸法 強度",
+          "desc": "若自身帶有護盾時受到攻擊，則對攻擊者施加1層白化的噪音 \n[EndBattle] 若自身帶有護盾，則下回合使自身增加3級呼吸法 強度",
           "coinlist": [
             {
               "coindescs": [
@@ -667,7 +667,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得2層守護 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層白化的噪音 "
                 }
               ]
             },
@@ -691,7 +691,7 @@
         {
           "level": 1,
           "name": "-.- ..",
-          "desc": "[WhenUse] 使自身獲得2層守護 \n若自身帶有護盾時受到攻擊，則對攻擊者施加1層蒼白的噪音 \n[EndBattle] 使自身恢復剩餘護盾值×2點體力",
+          "desc": "[WhenUse] 使自身獲得2層守護 \n若自身帶有護盾時受到攻擊，則對攻擊者施加1層白化的噪音 \n[EndBattle] 使自身恢復剩餘護盾值×2點體力",
           "coinlist": [
             {
               "coindescs": [

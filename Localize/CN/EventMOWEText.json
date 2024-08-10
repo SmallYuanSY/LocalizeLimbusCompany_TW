@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "id": "mowe_stagebutton_not_clear",
+      "content": "通過6.5-15後解鎖"
+    },
+    {
+      "id": "mowe_stagebutton_normal",
+      "content": "關卡"
+    },
+    {
+      "id": "mowe_stagebutton_end_event",
+      "content": "活動結束"
+    },
+    {
+      "id": "mowe_storybutton_before_start",
+      "content": "<size=75%>觀看活動劇情第1關後開放</size>"
+    },
+    {
+      "id": "mowe_storybutton_normal",
+      "content": "跳轉至放映室"
+    },
+    {
+      "id": "mowe_rewardShopButton",
+      "content": "獎勵兌換"
+    },
+    {
+      "id": "mowe_scrap_guide_title",
+      "content": "活動道具介紹"
+    },
+    {
+      "id": "mowe_scrap_guide_desc",
+      "content": "在活動及主線關卡、迷宮及鏡像迷宮中有小概率可以獲得<color=#ff99e6>[收尾人乘客復原包]</color>。\n\n<color=#ff99e6>[收尾人乘客復原包]</color>將會自動轉換為20個<color=#ff99e6>[普通乘客復原包]</color>。"
+    },
+    {
+      "id": "mowe_rewardpage_desc",
+      "content": "通關活動關卡及迷宮後，將獲得<color=#ff99e6>[普通乘客復原包]</color>。\n在首次通關活動關卡以外的主線關卡及通過鏡像迷宮時，也可獲得<color=#ff99e6>[普通乘客復原包]</color>。\n\n在活動、主線關卡及鏡像迷宮中有小概率可以獲得<color=#ff99e6>[收尾人乘客復原包]</color>，獲得時，<color=#ff99e6>[收尾人乘客復原包]</color>將會自動轉換為20個<color=#ff99e6>[普通乘客復原包]</color>。\n\n您可以在<color=#ff99e6>[獎勵兌換]</color>處根據所持有的<color=#ff99e6>[普通乘客復原包]</color>數量兌換多樣化獎勵。"
+    },
+    {
+      "id": "mowe_reward_popup_desc",
+      "content": "活動關卡與主線關卡首次通關\n以及鏡像迷宮通關後\n可以獲得<color=#ff99e6>[普通乘客復原包]</color>。\n\n您可以在<color=#ff99e6>[獎勵兌換]</color>處\n根據所持有的<color=#ff99e6>[普通乘客復原包]</color>數量兌換不同獎勵。"
+    },
+    {
+      "id": "mowe_reward_popup_num_of_owned_items",
+      "content": "持有道具數"
+    },
+    {
+      "id": "mowe_bonusUI_Title",
+      "content": "增加"
+    },
+    {
+      "id": "mowe_bonusUI_Title_contain_false",
+      "content": "未擁有"
+    },
+    {
+      "id": "mowe_bonusUI_Desc",
+      "content": "活動期間，當編隊中包含活動人格及E.G.O時，<color=#ff99e6>[普通乘客復原包]</color>的獲取量將提升。\n獲取量提升合計最大值為<color=#ff99e6>120%</color>。"
+    },
+    {
+      "id": "mowe_bonus_popup_title",
+      "content": "活動加成對象"
+    },
+    {
+      "id": "mowe_bonus_preview",
+      "content": "活動加成對象"
+    }
+  ]
+}

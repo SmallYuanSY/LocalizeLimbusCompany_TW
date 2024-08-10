@@ -1745,8 +1745,12 @@
       "content": "增益[{0}]"
     },
     {
-      "id": "personality_unit_keyword",
-      "content": "人格特性關鍵詞"
+      "id": "unit_keyword",
+      "content": "特性關鍵詞"
+    },
+    {
+      "id": "formation_ask_clear_selection",
+      "content": "要重置編隊順序嗎？"
     }
   ]
 }

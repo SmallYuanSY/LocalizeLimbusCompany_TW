@@ -2799,6 +2799,82 @@
     {
       "id": "tutorial_mainui_railway4_page_19_desc_02",
       "content": "超過20個記錄的情況下，累計回合數最多的記錄將被刪除。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_01_title",
+      "content": "WARP快車謀殺案"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_01_title_01",
+      "content": "WARP快車謀殺案 開放"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_01_desc_01",
+      "content": "[WARP列車謀殺案活動頁面]在通過主線故事0-4後開放。您可以通過玻璃窗或駕駛席上的活動橫幅進入。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_02_title_01",
+      "content": "活動時間"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_02_desc_01",
+      "content": "此處展示了WARP快車謀殺案的持續時間。活動期間內，通過WARP快車謀殺案、鏡像迷宮，或者初次通關主線劇情時，均可獲得[普通乘客覆原包]。在折射軌道中無法獲得[普通乘客覆原包]。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_03_title_01",
+      "content": "活動戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_03_desc_01",
+      "content": "WARP快車謀殺案包括劇情關卡在內共有15關。[普通乘客覆原包]除了WARP快車謀殺案的通關獎勵外，EX通關獎勵也會獲得。(限1次) "
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_03_desc_02",
+      "content": "從WARP快車謀殺案活動關卡中獲得的[普通乘客覆原包]將遠多於主線劇情關卡。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_04_title_01",
+      "content": "活動加成角色"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_04_desc_01",
+      "content": "在隊伍中編入WARP快車謀殺案活動加成角色與E.G.O後通關活動關卡及迷宮，能夠提升[普通乘客覆原包]的獲取量。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_05_title_01",
+      "content": "獎勵兌換"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_05_desc_01",
+      "content": "您可以在[獎勵兌換]處根據所持有的[普通乘客覆原包]數量兌換多樣化獎勵。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_06_desc_01",
+      "content": "此處展示了[獎勵兌換]的開放時間。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_06_desc_02",
+      "content": "在[獎勵兌換]中可以獲得各類資源，活動限定人格及E.G.O。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_07_title_01",
+      "content": "連續戰鬥關卡"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_07_desc_01",
+      "content": "WARP快車謀殺案的部分關卡以連續戰鬥的方式進行。在連續戰鬥中，友方單位陣亡不會消耗理智值。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_08_title_01",
+      "content": "收尾人乘客覆原包"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_08_desc_01",
+      "content": "您有小概率從戰鬥獎勵中獲得[收尾人乘客覆原包]。[收尾人乘客覆原包]將會自動轉換為20個[普通乘客覆原包]。"
+    },
+    {
+      "id": "tutorial_mainui_29_mowe_09_desc_01",
+      "content": "活動結束後，您也依然可以通過駕駛席-[外傳故事]及放映室-[其他故事]，隨時重溫WARP快車謀殺案的關卡和故事。"
     }
   ]
 }

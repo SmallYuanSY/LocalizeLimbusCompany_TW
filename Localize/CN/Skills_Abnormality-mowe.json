@@ -1,0 +1,227 @@
+{
+  "dataList": [
+    {
+      "id": 835001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "臣服於我",
+          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "微不足道",
+          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "走開…走開！",
+          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能的拼點威力+1\n[WhenUse] 目標每帶有1層流血 ，使本技能造成的傷害+5%(最多+20%)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度并對其施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "游行的王子",
+          "desc": "[StartBattle] 每有1名帶有流血 的目標，使本技能的攻擊容量+1(最多+5)\n[WhenUse] 若目標的流血 強度不低於4級，則使本技能的基礎威力+1\n[WhenUse] 若目標的流血 層數不低於3層，則使本技能的硬幣威力+1\n[DefeatDuel] 使自身失去1層[KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血…血…血！",
+          "desc": "[WhenUse] 若目標的流血 強度不低於8級，則使本技能的硬幣威力+1\n[DefeatDuel] 使自身失去1層[KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度并對其施加3層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血強度不低於10級，則使下一枚硬幣造成的傷害+20%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層[KeptBlood]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "別管我…！",
+          "desc": "[WhenUse] 目標每帶有1層流血 ，使本技能的基礎威力+1(最多+4)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我就是…這場游行的…王子…！",
+          "desc": "[CantDuel]\n[WhenUse] 使硬血長柄刀恢復的體力變為2倍\n[WhenUse] 使自身的理智值變為0點\n[EndSkill] 使自身獲得10層[KeptBlood]\n本回合自身不會陷入混亂，使用本技能后結束回合",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度并對其施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度并對其施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度并對其施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度并對其施加1層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "絕對…不會回去…！",
+          "desc": "[WhenUse] 目標每帶有5級流血 強度，使本技能的拼點威力+1(最多+3)\n[WhenUse] 若目標的流血 層數不低於4層，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有1層流血 ，使本技能造成的傷害+5%(最多+20%)\n[WhenUse] 使硬血長柄刀恢復的體力變為2倍\n[EndSkill] 使自身獲得10層[KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度并對其施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度并對其施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度并對其施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度并對其施加1層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
