@@ -187,7 +187,14 @@
     {
       "id": "CriticalTargetKill",
       "name": "[暴擊擊殺時]"
+    },
+    {
+      "id": "BeforeUse",
+      "name": "[使用前]"
+    },
+    {
+      "id": "DuelCounter",
+      "name": "[可拼點反擊]"
     }
-
   ]
 }

@@ -52,7 +52,7 @@ namespace LimbusLocalize
             => tmpchinesefontnames.Contains(fontAsset.name);
         [HarmonyPatch(typeof(TMP_Text), nameof(TMP_Text.font), MethodType.Setter)]
         [HarmonyPrefix]
-        private static bool set_font(TMP_Text __instance, ref TMP_FontAsset value)
+        private static bool Set_font(TMP_Text __instance, ref TMP_FontAsset value)
         {
             if (IsChineseFont(__instance.m_fontAsset))
                 return false;
@@ -63,14 +63,14 @@ namespace LimbusLocalize
         }
         [HarmonyPatch(typeof(TMP_Text), nameof(TMP_Text.fontMaterial), MethodType.Setter)]
         [HarmonyPrefix]
-        private static void set_fontMaterial(TMP_Text __instance, ref Material value)
+        private static void Set_fontMaterial(TMP_Text __instance, ref Material value)
         {
             if (IsChineseFont(__instance.m_fontAsset))
                 value = __instance.m_fontAsset.material;
         }
         [HarmonyPatch(typeof(TextMeshProLanguageSetter), nameof(TextMeshProLanguageSetter.UpdateTMP))]
         [HarmonyPrefix]
-        private static bool UpdateTMP(TextMeshProLanguageSetter __instance, LOCALIZE_LANGUAGE lang)
+        private static bool UpdateTMP(TextMeshProLanguageSetter __instance)
         {
             FontInformation fontInformation = __instance._fontInformation.Count > 0 ? __instance._fontInformation[0] : null;
             if (fontInformation == null)
@@ -115,7 +115,7 @@ namespace LimbusLocalize
 
         [HarmonyPatch(typeof(TextMeshProMaterialSetter), nameof(TextMeshProMaterialSetter.WriteMaterialProperty))]
         [HarmonyPrefix]
-        public static bool WriteMaterialProperty(TextMeshProMaterialSetter __instance)
+        private static bool WriteMaterialProperty(TextMeshProMaterialSetter __instance)
         {
             if (!__instance._fontMaterialInstance)
                 return false;
@@ -138,9 +138,16 @@ namespace LimbusLocalize
             }
             return false;
         }
+        [HarmonyPatch(typeof(UnitInfoBreakSectionTooltipUI), nameof(UnitInfoBreakSectionTooltipUI.SetDataAndOpen))]
+        [HarmonyPostfix]
+        private static void SetDataAndOpen(UnitInfoBreakSectionTooltipUI __instance)
+        {
+            __instance.tmp_tooltipContent.font = tmpchinesefonts[0];
+            __instance.tmp_tooltipContent.fontSize = 35f;
+        }
         #endregion
         #region 载入汉化
-        private static void LoadRemote2(LOCALIZE_LANGUAGE lang)
+        private static void LoadRemote2()
         {
             var tm = TextDataManager.Instance;
             TextDataManager.RomoteLocalizeFileList romoteLocalizeFileList = JsonUtility.FromJson<TextDataManager.RomoteLocalizeFileList>(AddressableManager.Instance.LoadAssetSync<TextAsset>("Assets/Resources_moved/Localize", "RemoteLocalizeFileList", null, null).Item1.ToString());
@@ -201,6 +208,9 @@ namespace LimbusLocalize
             tm._mirrorDungeonEnemyBuffDescList.Init(romoteLocalizeFileList.MirrorDungeonEnemyBuffDesc);
             tm._iapStickerText.Init(romoteLocalizeFileList.IAPSticker);
             tm._danteAbilityDataList.Init(romoteLocalizeFileList.DanteAbility);
+            tm._mirrorDungeonThemeList.Init(romoteLocalizeFileList.MirrorDungeonTheme);
+            tm._unlockCodeList.Init(romoteLocalizeFileList.UnlockCode);
+            tm._battleSpeechBubbleText.Init(romoteLocalizeFileList.BattleSpeechBubble);
 
             tm._abnormalityEventCharDlg.AbEventCharDlgRootInit(romoteLocalizeFileList.abnormalityCharDlgFilePath);
 
@@ -208,8 +218,6 @@ namespace LimbusLocalize
             tm._announcerVoiceText._voiceDictionary.JsonDataListInit(romoteLocalizeFileList.AnnouncerVoice);
             tm._bgmLyricsText._lyricsDictionary.JsonDataListInit(romoteLocalizeFileList.BgmLyrics);
             tm._egoVoiceText._voiceDictionary.JsonDataListInit(romoteLocalizeFileList.EGOVoice);
-            tm._mirrorDungeonThemeList.Init(romoteLocalizeFileList.MirrorDungeonTheme);
-            tm._unlockCodeList.Init(romoteLocalizeFileList.UnlockCode);
         }
         [HarmonyPatch(typeof(EGOVoiceJsonDataList), nameof(EGOVoiceJsonDataList.Init))]
         [HarmonyPrefix]
@@ -230,7 +238,7 @@ namespace LimbusLocalize
                                     }
                                     callcount++;
                                     if (callcount == jsonFilePathList.Count)
-                                        LoadRemote2(LOCALIZE_LANGUAGE.EN);
+                                        LoadRemote2();
                                 };
                 AddressableManager.Instance.LoadLocalizeJsonAssetAsync<TextData_EGOVoice>(jsonFilePath, LoadLocalizeDel);
             }
@@ -238,7 +246,7 @@ namespace LimbusLocalize
         }
         [HarmonyPatch(typeof(StoryDataParser), nameof(StoryDataParser.GetScenario))]
         [HarmonyPrefix]
-        private static bool GetScenario(StoryDataParser __instance, string scenarioID, ref LOCALIZE_LANGUAGE lang, ref Scenario __result)
+        private static bool GetScenario(string scenarioID, LOCALIZE_LANGUAGE lang, ref Scenario __result)
         {
             TextAsset textAsset = AddressableManager.Instance.LoadAssetSync<TextAsset>("Assets/Resources_moved/Story/Effect", scenarioID, null, null).Item1;
             if (!textAsset)
@@ -259,11 +267,16 @@ namespace LimbusLocalize
             };
             JSONArray jsonarray = JSONNode.Parse(text)[0].AsArray;
             JSONArray jsonarray2 = JSONNode.Parse(text2)[0].AsArray;
-            int s=0;
+            int s = 0;
             for (int i = 0; i < jsonarray.Count; i++)
             {
                 var jSONNode = jsonarray[i];
                 if (jSONNode.Count < 1)
+                {
+                    s++;
+                    continue;
+                }
+                if (jSONNode.Count == 1 && jSONNode[0].IsNumber)
                 {
                     s++;
                     continue;
@@ -273,7 +286,7 @@ namespace LimbusLocalize
                     continue;
                 num = i - s;
                 JSONNode effectToken = jsonarray2[num];
-                if ("{\"controlCG\": {\"IsNotPlayDialog\":true}}".Equals(effectToken["effectv2"]))
+                if ("IsNotPlayDialog".Sniatnoc(effectToken["effectv2"]))
                 {
                     s--;
                     scenario.Scenarios.Add(new Dialog(num, new(), effectToken));
@@ -283,6 +296,13 @@ namespace LimbusLocalize
             }
             __result = scenario;
             return false;
+        }
+        public static bool Sniatnoc(this string text, string value)
+        {
+            if (string.IsNullOrEmpty(text) || string.IsNullOrEmpty(value))
+                return false;
+            return value.Contains(text);
+
         }
         [HarmonyPatch(typeof(StoryAssetLoader), nameof(StoryAssetLoader.GetTellerName))]
         [HarmonyPrefix]
@@ -300,7 +320,7 @@ namespace LimbusLocalize
                 __result = scenarioAssetData.nickName ?? string.Empty;
             return false;
         }
-        private static bool LoadLocal(LOCALIZE_LANGUAGE lang)
+        private static bool LoadLocal()
         {
             var tm = TextDataManager.Instance;
             TextDataManager.LocalizeFileList localizeFileList = JsonUtility.FromJson<TextDataManager.LocalizeFileList>(Resources.Load<TextAsset>("Localize/LocalizeFileList").ToString());
@@ -325,7 +345,7 @@ namespace LimbusLocalize
         [HarmonyPostfix]
         private static void SetLoginInfo(LoginSceneManager __instance)
         {
-            LoadLocal(LOCALIZE_LANGUAGE.EN);
+            LoadLocal();
             __instance.tmp_loginAccount.text = "LimbusLocalizeMod v" + LCB_LLCMod.VERSION;
         }
         private static void Init<T>(this JsonDataList<T> jsonDataList, List<string> jsonFilePathList) where T : LocalizeTextData, new()
@@ -354,7 +374,7 @@ namespace LimbusLocalize
                         abEventKeyDictionaryContainer = new AbEventKeyDictionaryContainer();
                         root._personalityDict[t.PersonalityID] = abEventKeyDictionaryContainer;
                     }
-                    string[] array = t.Usage.Trim().Split(new char[] { '(', ')' });
+                    string[] array = t.Usage.Trim().Split('(', ')');
                     for (int i = 1; i < array.Length; i += 2)
                     {
                         string[] array2 = array[i].Split(',');
@@ -381,7 +401,7 @@ namespace LimbusLocalize
         {
             var entries = dic._entries;
             var Entr = dic.FindEntry(key);
-            value = Entr == -1 ? default : entries == null ? default : entries[Entr].value;
+            value = Entr == -1 || entries == null ? default : entries[Entr].value;
             return value != null;
         }
     }

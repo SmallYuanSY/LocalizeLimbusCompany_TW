@@ -101,6 +101,12 @@
       "panicName": "怨恨",
       "lowMoraleDescription": "回合開始時使自身獲得2層[AttackDmgUp]，並對自身施加3層[DefenseDown]",
       "panicDescription": "回合開始時使自身獲得1層[Enhancement]，並對自身施加5層[DefenseDown]"
+    },
+    {
+      "id": 1026,
+      "panicName": "破滅",
+      "lowMoraleDescription": "每回合結束時使自身增加3級[Sinking]強度。自身的拼點威力-1",
+      "panicDescription": "每回合結束時使自身增加5級[Sinking]強度並對自身施加3層[Sinking]。自身的拼點威力-2"
     }
   ]
 }

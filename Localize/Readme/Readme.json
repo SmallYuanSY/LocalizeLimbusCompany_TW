@@ -31,14 +31,24 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"都市零協會漢化組\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://space.bilibili.com/1247764479\"},{\"formatKey\":\"Text\",\"formatValue\":\"邊獄公司中文WIKI\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://limbuscompany.huijiwiki.com\"},{\"formatKey\":\"Text\",\"formatValue\":\"ParaTranz 合作翻譯項目\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://paratranz.cn/projects/6860\"}]}"
     },
     {
-      "id": 3053,
+      "id": 3055,
+      "version": 0,
+      "type": 0,
+      "startDate": "2024-08-23T08:00:00.000Z",
+      "endDate": "2098-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Mod V0.6.47",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.47\\n- 漢化內容更新\\n  - 08月23日 模組累積更新 \\n  - 其他內容更新\"}]}"
+    },
+    {
+      "id": 3054,
       "version": 0,
       "type": 0,
       "startDate": "2024-08-04T08:00:00.000Z",
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [],
       "title_KR": "Mod V0.6.46",
-      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.44\\n- 漢化內容更新\\n  - 6.5 間章內容更新\\n  - 08月10日 模組累積更新 \\n  - 其他內容更新\"}]}"
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.46\\n- 漢化內容更新\\n  - 6.5 間章內容更新\\n  - 08月10日 模組累積更新 \\n  - 其他內容更新\"}]}"
     },
     {
       "id": 3053,

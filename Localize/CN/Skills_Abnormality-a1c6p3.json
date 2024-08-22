@@ -162,7 +162,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "崩潰，哀嚎與悲嘆",
+          "name": "破滅，哀嚎與悲嘆",
           "desc": "[CantDuel]",
           "coinlist": [
             {
@@ -744,7 +744,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "奔向死亡，杜拉罕",
+          "name": "奔向死亡吧，杜拉罕啊",
           "desc": "[CantDuel]\n[WhenUse] 若目標帶有爆發的嫉妒 ，則使本技能造成的傷害-100%",
           "coinlist": [
             {},
@@ -950,7 +950,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "奔向死亡，杜拉罕",
+          "name": "奔向死亡吧，杜拉罕啊",
           "desc": "",
           "coinlist": [
             {},

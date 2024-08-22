@@ -276,7 +276,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級沈淪 強度"
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級沉淪 強度"
                 },
                 {
                   "desc": "[CriticalTargetKill] 若自身帶有彈藥 ，則使自身獲得1發彈藥 (每場戰鬥最多2發)"
@@ -301,7 +301,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級沈淪 強度"
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級沉淪 強度"
                 },
                 {
                   "desc": "[CriticalTargetKill] 若自身帶有彈藥 ，則使自身獲得1發彈藥 (每場戰鬥最多2發)"
@@ -326,7 +326,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級沈淪 強度"
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級沉淪 強度"
                 },
                 {
                   "desc": "[CriticalTargetKill] 若自身帶有彈藥 ，則使自身獲得1發彈藥 (每場戰鬥最多3發)"
@@ -349,7 +349,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度與2級沈淪 強度 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度與2級沉淪 強度 "
                 }
               ]
             }
@@ -364,7 +364,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度與3級沈淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度與3級沉淪 強度"
                 }
               ]
             }
@@ -379,7 +379,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度與3級沈淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度與3級沉淪 強度"
                 }
               ]
             }
