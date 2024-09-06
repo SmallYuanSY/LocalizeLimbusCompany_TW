@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_18_1",
+      "dlg": "你們只要克服這次的逆境，就一定能夠提升自己的能力。雖然在這個過程中可能會有犧牲……但作為Sephirah，我會幫助你們避免死亡。"
+    },
+    {
+      "id": "announcer_cheer_18_2",
+      "dlg": "最近，有什麼煩惱嗎？如果在工作中遇到困難的話，隨時都可以找我進行心理諮詢。"
+    },
+    {
+      "id": "announcer_specialcheer_18_1",
+      "dlg": "你，你看吧，Tiffany，不聽我的話，事情就變得糟糕了……沒，沒什麼。抱歉。我總是聽到一些奇怪的聲音……"
+    },
+    {
+      "id": "announcer_specialcheer_18_2",
+      "dlg": "怎麼會這樣……員工們幾乎全部都倒下了……明明已經這麼努力了……結果我還是沒能幫上忙嗎……？"
+    },
+    {
+      "id": "announcer_enemy_break_18_1",
+      "dlg": "鎮壓目標正在動搖。大家，再多努力一下！"
+    },
+    {
+      "id": "announcer_ally_break_18_1",
+      "dlg": "有一名員工的情況看起來相當危急，希望能儘快恢復過來……"
+    },
+    {
+      "id": "announcer_killenemy_18_1",
+      "dlg": "員工們成功鎮壓了目標！這樣就能預防許多損失了！"
+    },
+    {
+      "id": "announcer_ally_dead_18_1",
+      "dlg": "我看到了，主管。那名瀕死員工的絕望表情……是我的培訓還不夠到位嗎……？"
+    },
+    {
+      "id": "announcer_enemy_adv_18_1",
+      "dlg": "希望您不要說這一切都是我的錯，主管……那可不行。我是個好Sephirah，對吧？"
+    },
+    {
+      "id": "announcer_ally_adv_18_1",
+      "dlg": "看吧，主管！大家都戰勝了逆境，成為了優秀的員工！我……這次有幫上忙嗎？"
+    },
+    {
+      "id": "announcer_danger_18_1",
+      "dlg": "雖然情況惡化了，但我也已經盡力了……你們為什麼不能理解我的努力……我的善良呢？沒有我的話，你們早就像蟲子一樣慘死了！"
+    },
+    {
+      "id": "announcer_enemy_specialskill_18_1",
+      "dlg": "主管！請儘快仔細分析敵對目標！不然會有很多員工受傷的！"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_18_1",
+      "dlg": "希望大家都能集中注意力。我們這次要鎮壓的目標，需要採取與以往不同的應對方式。"
+    },
+    {
+      "id": "announcer_advatk_physical_18_1",
+      "dlg": "剛才的攻擊，下次也試著對其他目標使用一下吧？如果拍成培訓視頻，或許還能幫助到其他員工。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_18_1",
+      "dlg": "雖然這不是最理想的應對方式，但總比什麼都不做好。下次請多加注意吧。"
+    },
+    {
+      "id": "announcer_advatk_attr_18_1",
+      "dlg": "按照我在諮詢時的建議，你做得非常棒！果然……開展諮詢企劃是個好主意。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_18_1",
+      "dlg": "明明是已經參加過諮詢企劃的員工……為什麼還會做出那樣的攻擊呢……？"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_18_1",
+      "dlg": "雖然和情報部提供的資料有些出入，但不要慌張，冷靜應對就沒問題的，主管。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_18_1",
+      "dlg": "鎮壓目標的狀況惡化了！太好了，我還在想是不是需要通過Geburah召喚兔子隊呢……"
+    },
+    {
+      "id": "announcer_ally_specialbuff_18_1",
+      "dlg": "狀況……看起來對員工們有利。或許我們可以利用現狀來鎮壓目標……"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_18_1",
+      "dlg": "員工的狀態有些異常……果然，看吧。如果我提前進行諮詢，一切都會順利進行的。"
+    },
+    {
+      "id": "announcer_enemy_destroy_18_1",
+      "dlg": "我們的員工已經破壞了目標個體的部位！果然，提前進行培訓是正確的選擇，對吧？"
+    },
+    {
+      "id": "announcer_enemy_destroy_18_2",
+      "dlg": "目標個體的部位已被破壞。趁這個機會迅速壓制它，就能夠減少員工的損失，主管！"
+    },
+    {
+      "id": "announcer_round_takebigdmg_18_1",
+      "dlg": "認真些啊！要是你就這麼死了，肯定會怪我吧！你是……你是想把我變成壞Sephirah嗎？"
+    },
+    {
+      "id": "announcer_round_takebigdmg_18_2",
+      "dlg": "聽我的話呀！在所有Sephirah之中，我是唯一一個關心你們的……為什麼不按我教的去做，偏偏要白費力氣呢……"
+    },
+    {
+      "id": "announcer_round_givebigdmg_18_1",
+      "dlg": "看起來給鎮壓目標造成了重創！真不愧是培訓部的員工，完美的攻擊！"
+    },
+    {
+      "id": "announcer_round_givebigdmg_18_2",
+      "dlg": "再努力一下！我們離完全鎮壓目標已經只差一點點了！"
+    },
+    {
+      "id": "announcer_multikillenemy_18_1",
+      "dlg": "剛才的攻擊也要給其他部門看看！他們一定能從中學到許多東西。"
+    },
+    {
+      "id": "announcer_add_18_1",
+      "dlg": "主管。逆卡巴拉能量熔毀計量表正在上升。照這樣下去，考驗很快就要來臨了！"
+    },
+    {
+      "id": "announcer_add_18_2",
+      "dlg": "主管。逆卡巴拉能量熔毀計量表只剩一格了！紫羅蘭的正午考驗馬上就要來了！"
+    },
+    {
+      "id": "announcer_add_18_3",
+      "dlg": "物理屏蔽力場保護了員工們。再生反應堆也恢復了正常，真是太好了！"
+    },
+    {
+      "id": "announcer_equip_18_1",
+      "dlg": "來，請各位員工面帶微笑看向這邊~今天要和我，培訓部的Sephirah一起拍關於敵對個體鎮壓訓練的視頻哦！"
+    }
+  ]
+}

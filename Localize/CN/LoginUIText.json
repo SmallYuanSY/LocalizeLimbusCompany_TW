@@ -30,7 +30,7 @@
     },
     {
       "id": "switch_account",
-      "content": "切換賬號"
+      "content": "切換帳號"
     },
     {
       "id": "user_agreements",
@@ -122,11 +122,11 @@
     },
     {
       "id": "secession_remain_days",
-      "content": "該賬號將在倒計時結束後停用。\n剩餘時間：{0}天{1}小時{2}分\n\n可以通過進行登錄來恢復賬號。\n要恢復賬號嗎？"
+      "content": "該帳號將在倒計時結束後停用。\n剩餘時間：{0}天{1}小時{2}分\n\n可以通過進行登錄來恢復帳號。\n要恢復帳號嗎？"
     },
     {
       "id": "secession_canceled",
-      "content": "賬號恢復成功。"
+      "content": "帳號恢復成功。"
     },
     {
       "id": "serverstate_verify_invalidclientversion",

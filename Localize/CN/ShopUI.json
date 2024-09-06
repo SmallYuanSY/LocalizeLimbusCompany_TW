@@ -190,7 +190,7 @@
     },
     {
       "id": "unable_to_create_enkephalin_module",
-      "content": "無法制作模組"
+      "content": "無法製作模組"
     },
     {
       "id": "lack_of_enkephalin",
@@ -226,7 +226,7 @@
     },
     {
       "id": "enkephalin_module_count_max_desc",
-      "content": "無法制作模組；您的庫存已滿。"
+      "content": "無法製作模組；您的庫存已滿。"
     },
     {
       "id": "mainui_shop_lunacy_package_tab",

@@ -287,6 +287,10 @@
     {
       "id": "PersoanlityStory_After",
       "content": "（之後）"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9018",
+      "content": "通過6.5-30"
     }
   ]
 }

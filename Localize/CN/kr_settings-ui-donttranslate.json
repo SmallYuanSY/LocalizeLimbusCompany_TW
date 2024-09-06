@@ -166,19 +166,19 @@
     },
     {
       "id": "connect_to_google_account",
-      "content": "繫結Google賬號"
+      "content": "連結Google帳號"
     },
     {
       "id": "connect_to_apple_account",
-      "content": "繫結Apple賬號"
+      "content": "連結Apple帳號"
     },
     {
       "id": "explain_sucession",
-      "content": "賬號停用後，所有遊戲數據和消費記錄都會被清除。"
+      "content": "帳號停用後，所有遊戲數據和消費記錄都會被清除。"
     },
     {
       "id": "explain_sucession_remain_days",
-      "content": "您將有7日的緩衝期。此期間內可通過登錄以恢復賬號。"
+      "content": "您將有7日的緩衝期。此期間內可通過登錄以恢復帳號。"
     },
     {
       "id": "explain_writing_code_for_sucession",
@@ -186,7 +186,7 @@
     },
     {
       "id": "explain_secession_status",
-      "content": "該賬號目前正處於停用倒計時。\n剩餘時間：{0}天{1}小時{2}分\n\n您可以通過登錄以恢復賬號。\n要恢復賬號嗎？"
+      "content": "該帳號目前正處於停用倒計時。\n剩餘時間：{0}天{1}小時{2}分\n\n您可以通過登錄以恢復帳號。\n要恢復帳號嗎？"
     },
     {
       "id": "recover",
@@ -194,7 +194,7 @@
     },
     {
       "id": "request_sucession",
-      "content": "停用賬號"
+      "content": "停用帳號"
     },
     {
       "id": "request_sucession_success",
@@ -202,15 +202,15 @@
     },
     {
       "id": "mainui_settings_account",
-      "content": "賬號"
+      "content": "帳號"
     },
     {
       "id": "account_secede",
-      "content": "停用賬號"
+      "content": "停用帳號"
     },
     {
       "id": "connected_accounts",
-      "content": "關聯賬號"
+      "content": "關聯帳號"
     },
     {
       "id": "mainui_settings_bloom",

@@ -1195,6 +1195,30 @@
     {
       "id": "introduce_sentence_150",
       "content": "{0}啊！竭力狂奔吧。"
+    },
+    {
+      "id": "introduce_word_151",
+      "content": "本能"
+    },
+    {
+      "id": "introduce_sentence_151",
+      "content": "哼。那種心情不過是被詛咒的{0}而已。"
+    },
+    {
+      "id": "introduce_word_152",
+      "content": "哀悼"
+    },
+    {
+      "id": "introduce_sentence_152",
+      "content": "{0}無需華麗辭藻。"
+    },
+    {
+      "id": "introduce_word_153",
+      "content": "信念"
+    },
+    {
+      "id": "introduce_sentence_153",
+      "content": "那份{0}僅是毫無意義的期望……"
     }
   ]
 }

@@ -1082,6 +1082,310 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "予逝者以祝賀",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "予逝者以祝賀",
+          "desc": "若目標的沈淪 強度與兩種蝶 的點數之和不低於6點，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層沈淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "予逝者以祝賀",
+          "desc": "若自身的生蝶·亡蝶 不低於10點，則使本技能的拼點威力+1\n若目標的沈淪 強度與兩種蝶 的點數之和不低於6點，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層沈淪 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "予彌留者以莊嚴哀悼",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗5點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1層生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "予彌留者以莊嚴哀悼",
+          "desc": "若目標的沈淪 強度與兩種蝶 的點數之和不低於6點，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加1層沈淪 \n[EndSkill] 使自身獲得(最大共鳴數)點生蝶·亡蝶 (最多6點)\n- 若該共鳴為完全共鳴，則改為使自身獲得(最大共鳴數×2)點生蝶·亡蝶 (最多12點)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗5層生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "予彌留者以莊嚴哀悼",
+          "desc": "若自身的生蝶·亡蝶 不低於10點，則使本技能的拼點威力+1\n目標的沈淪 強度與兩種蝶 的點數之和每有6點，使本技能的硬幣威力+1(最多+2)\n[WinDuel] 對目標施加1層沈淪 \n[EndSkill] 使自身獲得(最大共鳴數)點生蝶·亡蝶 (最多6點)\n- 若該共鳴為完全共鳴，則改為使自身獲得(最大共鳴數×2)點生蝶·亡蝶 \n- 若該共鳴為完全共鳴且共鳴數不低於4點，則使自身再次裝填 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗5點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點生蝶·亡蝶 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的生蝶·亡蝶 點數對目標施加相應點數的蝶 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "葬儀師李箱，以上",
+          "desc": "自身每帶有10點[BulletLament]，使本技能的基礎威力+1(最多+2)\n[WinDuel] 對目標施加3層沈淪 \n[EndSkill] 使自身[ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點[BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的[BulletLament]點數對目標施加相應點數的[SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗6點[BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的[BulletLament]點數對目標施加相應點數的[SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗自身所有[BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的[BulletLament]點數對目標施加相應點數的[SinkingWhite]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 本技能每消耗1點[BulletLament]，使本硬幣造成的傷害+2%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其所有[SinkingWhite]點數的憂郁傷害\n- 以生蝶與亡蝶之和計算"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "葬儀師李箱，以上",
+          "desc": "自身每帶有5點[BulletLament]，使本技能的基礎威力+1(最多+4)\n目標沈淪 強度與兩種蝶 之和每有6點，使本技能的硬幣威力+1(最多+2)\n[WinDuel] 對目標施加3層沈淪 \n[EndSkill] 使自身[ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1點[BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的[BulletLament]點數對目標施加相應點數的[SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗6點[BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的[BulletLament]點數對目標施加相應點數的[SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗自身所有[BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據消耗的[BulletLament]點數對目標施加相應點數的[SinkingWhite]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 本技能每消耗1點[BulletLament]，使本硬幣造成的傷害+4%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其所有[SinkingWhite]點數的憂郁傷害\n- 以生蝶與亡蝶之和計算"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蝶自棺中而來",
+          "desc": "[StartBattle] 使自身[ReloadLament](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "蝶自棺中而來",
+          "desc": "[StartBattle] 使自身[ReloadLament](每回合最多1次)\n[StartBattle] 使自身獲得體力上限(指定目標的兩種[SinkingWhite]點數之和)%的護盾(每回合最多20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

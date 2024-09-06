@@ -1186,6 +1186,362 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1041001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "都給我閉嘴",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層懺悔 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "都給我閉嘴",
+          "desc": "若自身的赤瞳 不低於7層，則使本技能的硬幣威力+1\n若自身的懺悔 不低於7層，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層懺悔 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "都給我閉嘴",
+          "desc": "若自身的赤瞳 不低於7層，則使本技能的硬幣威力+1\n若自身的懺悔 不低於7層，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層懺悔 \n[OnSucceedAttackHead] 使自身獲得1層懺悔 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蜘·頭/骷·頭",
+          "desc": "若自身的赤瞳 與懺悔 層數之和不低於20層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得4層懺悔 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層赤瞳 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "蜘·頭/骷·頭",
+          "desc": "若自身的赤瞳 與懺悔 層數之和不低於20層，則使本技能的硬幣威力+1\n若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得4層懺悔 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層赤瞳 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得(目標的流血 強度/3)層赤瞳 (最多2層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "蜘·頭/骷·頭",
+          "desc": "若自身的赤瞳 與懺悔 層數之和不低於15層，則使本技能的硬幣威力+1\n若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得4層懺悔 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層赤瞳 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得(目標的流血 強度/2)層赤瞳 (最多3層)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 若自身的赤瞳 層數不低於7層，則下回合使自身獲得1層迅捷 (每回合最多2次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "碎顱",
+          "desc": "[BeforeUse] 若自身的赤瞳 與懺悔 層數均不低於15層，則改為使用“動真格地碎顱”\n若自身速度值高於目標3點及以上，則使本技能的硬幣威力+1\n[WhenUse] 若自身的理智值為最大值，則使本技能的硬幣威力+1\n- [EndSkill] 若該效果觸發，則使自身失去15點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得7層赤瞳 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得7層懺悔 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢覆各自體力上限(自身的懺悔 層數/3)%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢覆(自身的懺悔 層數-10)點理智值(最少0點)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "碎顱",
+          "desc": "[BeforeUse] 若自身的赤瞳 與懺悔 層數均不低於15層，則改為使用“動真格地碎顱”\n若自身速度值高於目標，則使本技能的硬幣威力+1\n[WhenUse] 若自身的理智值為最大值，則使本技能的拼點威力+2，硬幣威力+1\n- [EndSkill] 若該效果觸發，則使自身失去15點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得7層赤瞳 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得7層懺悔 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身獲得2層懺悔 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢覆各自體力上限(自身的懺悔 層數/2)%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢覆(自身的懺悔 層數-10)點理智值(最少0點)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "該吃飽睡覺了",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 (每回合最多1次)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層懺悔 (每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "該吃飽睡覺了",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 (每回合最多1次)\n- 若自身的赤瞳 層數低於7層，則使自身額外獲得1層赤瞳 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層懺悔 (每回合最多1次)\n- 若自身的懺悔 層數低於7層，則使自身額外獲得1層懺悔 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041005,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "動真格地碎顱",
+          "desc": "[WhenUse] 消耗自身所有赤瞳 與懺悔 \n- 每消耗5層赤瞳 ，使本技能的硬幣威力+1(最多+4)\n- 每消耗5層懺悔 ，使本技能的基礎威力+1(最多+4)\n[EndSkill] 使自身失去15點理智值並在下回合對自身施加只余灰燼 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加(消耗的赤瞳 層數-15)級流血 強度(最多5級)"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "每消耗1層赤瞳 或懺悔 ，使本硬幣造成的傷害+2.5%(最多+100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢覆各自體力上限(消耗的懺悔 層數/2)%的體力\n- 最大共鳴數每有2點，額外使1名友方單位恢覆(最多額外2名友方單位)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢覆(消耗的懺悔 層數-10)點理智值\n- 最大共鳴數每有2點，額外使1名友方單位恢覆(最多額外2名友方單位)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 與2層虛弱 (每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "動真格地碎顱",
+          "desc": "[WhenUse] 消耗自身所有赤瞳 與懺悔 \n- 每消耗5層赤瞳 ，使本技能的硬幣威力+1(最多+4)\n- 每消耗5層懺悔 ，使本技能的基礎威力+1(最多+4)\n[EndSkill] 使自身失去15點理智值並在下回合對自身施加只余灰燼 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加(消耗的赤瞳 層數-15)級流血 強度(最多5級)"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "每消耗1層赤瞳 或懺悔 ，使本硬幣造成的傷害+4%(最多+160%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢覆各自體力上限(消耗的懺悔 層數)%的體力\n- 最大共鳴數每有2點，額外使1名友方單位恢覆(最多額外2名友方單位)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢覆(消耗的懺悔 層數-5)點理智值\n- 最大共鳴數每有2點，額外使1名友方單位恢覆(最多額外2名友方單位)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 與2層虛弱 (每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

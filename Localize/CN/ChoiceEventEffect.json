@@ -22,11 +22,11 @@
     },
     {
       "id": "LevelupPersonalityOnWinBattle",
-      "content": "<color=#ebcaa2>下場戰鬥勝利后，將觸發罪人追加事件！</color>"
+      "content": "<color=#ebcaa2>下場戰鬥勝利後，將觸發罪人追加事件！</color>"
     },
     {
       "id": "GetConfirmedEgogiftOnWinBattle",
-      "content": "<color=#ebcaa2>下場戰鬥勝利后，將獲得 {reward} ！</color>"
+      "content": "<color=#ebcaa2>下場戰鬥勝利後，將獲得 {reward} ！</color>"
     },
     {
       "id": "StartBattle",
@@ -350,79 +350,79 @@
     },
     {
       "id": "Choice_EGO901001",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“煉獄炎蝶之夢”、“火光花”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“煉獄炎蝶之夢”、“火光花”"
     },
     {
       "id": "Choice_EGO901002",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“倒錯症”、“敬畏”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“倒錯症”、“敬畏”"
     },
     {
       "id": "Choice_EGO901009",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“熾熱的羽毛”、“熔化的石蠟”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“熾熱的羽毛”、“熔化的石蠟”"
     },
     {
       "id": "Choice_EGO901010",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“鮮血裝飾”、“莊嚴”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“鮮血裝飾”、“莊嚴”"
     },
     {
       "id": "Choice_EGO901011",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“狐雨”、“破傘”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“狐雨”、“破傘”"
     },
     {
       "id": "Choice_EGO901013",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“成捆的符咒”、“老舊的木雕人偶”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“成捆的符咒”、“老舊的木雕人偶”"
     },
     {
       "id": "Choice_EGO901014",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“鏽蝕的紀念幣”、“鬱火”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“鏽蝕的紀念幣”、“鬱火”"
     },
     {
       "id": "Choice_EGO901016",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“綠光果實”、“酸味的酒香”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“綠光果實”、“酸味的酒香”"
     },
     {
       "id": "Choice_EGO901018",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“玫瑰王冠”、“安息之地”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“玫瑰王冠”、“安息之地”"
     },
     {
       "id": "Choice_EGO901019",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“黏性淤漿”、“生物劇毒藥瓶”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“黏性淤漿”、“生物劇毒藥瓶”"
     },
     {
       "id": "Choice_EGO901020",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“白棉花”、“糾纏捆束”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“白棉花”、“糾纏捆束”"
     },
     {
       "id": "Choice_EGO901021",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“藍色芝寶牌打火機”、“巡邏用手電筒”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“藍色芝寶牌打火機”、“巡邏用手電筒”"
     },
     {
       "id": "Choice_EGO901024",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“融化的眼球”、“劇毒外皮”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“融化的眼球”、“劇毒外皮”"
     },
     {
       "id": "Choice_EGO901031",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“輝光變動儀”、“齒輪發條”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“輝光變動儀”、“齒輪發條”"
     },
     {
       "id": "Choice_EGO901033",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“標準負荷電池”、“解除限制的除顫儀”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“標準負荷電池”、“解除限制的除顫儀”"
     },
     {
       "id": "Choice_EGO901034",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“單點打擊邏輯電路”、“不間斷電源裝置”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“單點打擊邏輯電路”、“不間斷電源裝置”"
     },
     {
       "id": "Choice_EGO901056",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“四葉草”、“綠色鞘翅”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“四葉草”、“綠色鞘翅”"
     },
     {
       "id": "Choice_EGO901059",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“仲冬夜之噩夢”、“古木陷阱”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“仲冬夜之噩夢”、“古木陷阱”"
     },
     {
       "id": "Choice_EGO901073",
-      "content": "戰鬥勝利后，獲得E.G.O飾品“內啡肽試劑組”、“螢光燈”"
+      "content": "戰鬥勝利後，獲得E.G.O飾品“內啡肽試劑組”、“螢光燈”"
     },
     {
       "id": "Choice_EGO971029",

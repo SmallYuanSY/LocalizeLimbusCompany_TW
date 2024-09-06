@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "836601_succeed_1",
+      "content": "物理護盾啟動"
+    },
+    {
+      "id": "836601_failed_1",
+      "content": "物理護盾啟動"
+    },
+    {
+      "id": "836602_1_1",
+      "content": "所有友軍 <color=#00ff9c>恢復 30 血量</color>"
+    },
+    {
+      "id": "836602_2_1",
+      "content": "所有友軍 <color=#80c9ff>恢復 30 理智</color>"
+    },
+    {
+      "id": "836602_3_1",
+      "content": "所有友軍 <color=#00ff9c>每回合恢復 3 血量</color>"
+    },
+    {
+      "id": "836602_3_2",
+      "content": "所有友軍 <color=#80c9ff>每回合恢復 3 理智</color>"
+    }
+  ]
+}

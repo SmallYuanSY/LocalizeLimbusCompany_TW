@@ -1,0 +1,240 @@
+{
+  "dataList": [
+    {
+      "id": "Walpu4_event_desc",
+      "content": "在紫羅蘭的正午 - 考驗的普通及困難難度下，鎮壓紫羅蘭的正午單位。\n\n通過以下考驗，您將獲得多種獎勵。"
+    },
+    {
+      "id": "LobotomyStartTypo_Title_2",
+      "content": "紫羅蘭的黎明"
+    },
+    {
+      "id": "LobotomyStartTypo_Name_2",
+      "content": "理解的果實"
+    },
+    {
+      "id": "LobotomyStartTypo_Desc_2",
+      "content": "有朝一日，我們必將理解那些不能理解的東西。"
+    },
+    {
+      "id": "LobotomyStartTypo_KillCountTitle_2",
+      "content": "鎮圧狀態"
+    },
+    {
+      "id": "LobotomyClearTypo_Title_2",
+      "content": "紫羅蘭的黎明"
+    },
+    {
+      "id": "LobotomyClearTypo_Name_2",
+      "content": "理解的果實"
+    },
+    {
+      "id": "missionConditionTitle_10026",
+      "content": "紫羅蘭的黎明 鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10027",
+      "content": "7回合以內鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10028",
+      "content": "培訓部隊長在單次戰鬥中擊殺三個理解的果實"
+    },
+    {
+      "id": "missionConditionTitle_10029",
+      "content": "在理解的果實未使用技能“崩壞”的情況下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10030",
+      "content": "一回合內對單名敵人造成8次以上燒傷(特殊燒傷)、流血、破裂、沉淪(特殊沉淪)傷害並完成鎮壓"
+    },
+    {
+      "id": "missionConditionTitle_10031",
+      "content": "全體友方單位存活的狀態下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10032",
+      "content": "全體友方單位的理智值未降至-45的條件下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_10033",
+      "content": "一場戰鬥中，以單個技能擊殺現存體力不低於體力上限80%的敵方單位"
+    },
+    {
+      "id": "missionConditionTitle_10034",
+      "content": "培訓部隊長未受到超過10次敵方單位攻擊技能傷害且存活的條件下完成鎮壓"
+    },
+    {
+      "id": "missionConditionTitle_10035",
+      "content": "一回合以內對一個敵方單位施加8種以上的負面狀態"
+    },
+    {
+      "id": "missionConditionTitle_10036",
+      "content": "一回合內擊殺至少兩名敵方單位"
+    },
+    {
+      "id": "missionConditionTitle_20026",
+      "content": "紫羅蘭的正午 鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20027",
+      "content": "12回合以內鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20028",
+      "content": "培訓部隊長在單次戰鬥中擊殺三個理解的果實"
+    },
+    {
+      "id": "missionConditionTitle_20029",
+      "content": "在理解的果實未使用技能“崩壞”的情況下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20030",
+      "content": "一回合內對單名敵人造成18次以上燒傷(特殊燒傷)、流血、破裂、沉淪(特殊沉淪)傷害並完成鎮壓"
+    },
+    {
+      "id": "missionConditionTitle_20031",
+      "content": "全體友方單位存活的狀態下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20032",
+      "content": "全體友方單位的理智值未降至-45的條件下鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20033",
+      "content": "一場戰鬥中，以單個技能擊殺現存體力不低於體力上限80%的敵方單位"
+    },
+    {
+      "id": "missionConditionTitle_20034",
+      "content": "培訓部隊長未受到超過5次敵方單位攻擊技能傷害且存活的條件下完成鎮壓"
+    },
+    {
+      "id": "missionConditionTitle_20035",
+      "content": "一回合以內對一個敵方單位施加6種以上的負面狀態"
+    },
+    {
+      "id": "missionConditionTitle_20036",
+      "content": "一回合內擊殺至少兩名敵方單位"
+    },
+    {
+      "id": "missionConditionTitle_20037",
+      "content": "破壞請給我們愛除軀幹部位的其餘所有部位並鎮壓成功"
+    },
+    {
+      "id": "missionConditionTitle_20038",
+      "content": "培訓部隊長擊殺請給我們愛"
+    },
+    {
+      "id": "missionConditionTitle_30003",
+      "content": "完成簡單及困難難度的全部任務"
+    },
+    {
+      "id": "LobotomyClearTypo_Desc_2",
+      "content": "它們不嚮往理解。僅僅是在行動。"
+    },
+    {
+      "id": "walpu4_hard_stage_unlock_condition",
+      "content": "通過簡單難度後解鎖"
+    },
+    {
+      "id": "LobotomyStartTypo_Title_3",
+      "content": "紫羅蘭的正午"
+    },
+    {
+      "id": "LobotomyStartTypo_Name_3",
+      "content": "請給我們愛"
+    },
+    {
+      "id": "LobotomyStartTypo_Desc_3",
+      "content": "我們聽見了弱者的掙扎與悲鳴，向它們乞求愛與慈悲吧。"
+    },
+    {
+      "id": "LobotomyClearTypo_Title_3",
+      "content": "紫羅蘭的正午"
+    },
+    {
+      "id": "LobotomyClearTypo_Name_3",
+      "content": "請給我們愛"
+    },
+    {
+      "id": "LobotomyClearTypo_Desc_3",
+      "content": "我們不能理解它們，它們更不會理解我們。"
+    },
+    {
+      "id": "KillCount_Title_2",
+      "content": "紫羅蘭的黎明"
+    },
+    {
+      "id": "KillCount_Title_1",
+      "content": "緑色的黎明"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_01_title",
+      "content": "第4次 瓦爾普吉斯之夜 - 紫羅蘭的正午"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_01_title_01",
+      "content": "第4次 瓦爾普吉斯之夜 - 紫羅蘭的正午"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_01_desc_01",
+      "content": "[第4次 瓦爾普吉斯之夜 - 紫羅蘭的正午] 不論您的主線故事進度，都將解鎖。您可以通過玻璃窗或駕駛席上的活動橫幅進入。"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_02_title_01",
+      "content": "活動時間"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_02_desc_01",
+      "content": "第4次 瓦爾普吉斯之夜的活動持續時間顯示在這裡。活動期間內，完成簡單及困難難度的戰鬥任務，可以領取任務獎勵的報酬。"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_03_title_01",
+      "content": "簡單難度戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_03_desc_01",
+      "content": "選擇這扇門可進入簡單難度戰鬥。進入戰鬥時會消耗腦啡肽模組。簡單難度下，45級以下的人格等級將被自動提升至45。並且，人格的同步進度和E.G.O異想解析進度若是低於3階段，將被自動提升至3階段。"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_03_title_02",
+      "content": "困難難度戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_03_desc_02",
+      "content": "通過簡單難度將解鎖困難難度。在困難難度下，人格的等級、同步進度與E.G.O異想解析進度將保持不變。"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_04_title_01",
+      "content": "培訓部隊長 效果"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_04_desc_01",
+      "content": "以第一順位進入關卡的罪人將被賦予“培訓部隊長”效果。擁有“培訓部隊長”效果的罪人將在戰鬥中獲得額外技能槽，其技能數量也會產生變動。"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_05_title_01",
+      "content": "任務列表"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_05_desc_01",
+      "content": "通過[任務列表]界面，能夠查看需要完成的任務，以及任務獎勵。"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_06_desc_01",
+      "content": "[任務列表]界面將顯示獎勵領取期。"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_06_desc_02",
+      "content": "能夠分別確認簡單及困難任務。"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_06_desc_03",
+      "content": "完成任務可在[任務列表]領取多樣化獎勵。"
+    },
+    {
+      "id": "tutorial_mainui_walpu4_07_desc_01",
+      "content": "活動結束後，您也依然可以通過駕駛席-[外傳故事]及放映室-[其他故事]，隨時重溫[第4次 瓦爾普吉斯之夜 - 紫羅蘭的正午]的關卡和故事。"
+    }
+  ]
+}

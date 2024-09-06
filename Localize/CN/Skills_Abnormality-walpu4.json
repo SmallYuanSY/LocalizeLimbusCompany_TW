@@ -1,0 +1,258 @@
+{
+  "dataList": [
+    {
+      "id": 836301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "理解",
+          "desc": "若目標的理智值不高於10點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得1層[VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "認知",
+          "desc": "若目標的理智值不高於10點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得2層[VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層嫉妒易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "拯救",
+          "desc": "若目標的理智值不高於10點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得1層[VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層嫉妒易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "不能理解",
+          "desc": "[WhenUse] 使自身獲得2層[VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "崩壞",
+          "desc": "[CantDuel]\n[EndSkill] 自身陣亡",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層嫉妒易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成10~14點理智傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "慈悲",
+          "desc": "若目標的理智值不高於20點，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層嫉妒易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "愛",
+          "desc": "若目標的理智值不高於20點，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層嫉妒易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃爍的理解的文字",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃爍的理解的文字",
+          "desc": "若目標的理智值不高於20點，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層嫉妒易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "不能理解",
+          "desc": "[WhenUse] 使自身獲得2層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "湧出的安息之臂",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成100點體力傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

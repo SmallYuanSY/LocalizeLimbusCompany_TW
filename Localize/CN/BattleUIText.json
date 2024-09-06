@@ -707,6 +707,42 @@
     {
       "id": "battle_operation_counter",
       "content": "特殊反擊"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
+      "content": "黎明"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_1",
+      "content": "正午"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_2",
+      "content": "黃昏"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_3",
+      "content": "午夜"
+    },
+    {
+      "id": "LobotomyOrdealTypo_QliphothLevel",
+      "content": "逆卡巴拉能量 熔毀 - 等級 {0}"
+    },
+    {
+      "id": "SinkingWhite_stack",
+      "content": "生蝶（彈藥）"
+    },
+    {
+      "id": "SinkingWhite_turn",
+      "content": "亡蝶（彈藥）"
+    },
+    {
+      "id": "BulletLament_stack",
+      "content": "生彈"
+    },
+    {
+      "id": "BulletLament_turn",
+      "content": "死彈"
     }
   ]
 }

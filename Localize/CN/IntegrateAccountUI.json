@@ -86,11 +86,11 @@
     },
     {
       "id": "input_unlink_account",
-      "content": "解除繫結"
+      "content": "解除連結"
     },
     {
       "id": "alarm_unlink_account",
-      "content": "已解除繫結"
+      "content": "已解除連結"
     },
     {
       "id": "unlink_account_ask_title",

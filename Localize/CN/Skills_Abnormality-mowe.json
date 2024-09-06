@@ -50,7 +50,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度并對其施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度並對其施加2層流血 "
                 }
               ]
             }
@@ -63,7 +63,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "游行的王子",
+          "name": "遊行的王子",
           "desc": "[StartBattle] 每有1名帶有流血 的目標，使本技能的攻擊容量+1(最多+5)\n[WhenUse] 若目標的流血 強度不低於4級，則使本技能的基礎威力+1\n[WhenUse] 若目標的流血 層數不低於3層，則使本技能的硬幣威力+1\n[DefeatDuel] 使自身失去1層[KeptBlood]",
           "coinlist": [
             {
@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度并對其施加3層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度並對其施加3層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標的流血強度不低於10級，則使下一枚硬幣造成的傷害+20%"
@@ -148,34 +148,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我就是…這場游行的…王子…！",
-          "desc": "[CantDuel]\n[WhenUse] 使硬血長柄刀恢復的體力變為2倍\n[WhenUse] 使自身的理智值變為0點\n[EndSkill] 使自身獲得10層[KeptBlood]\n本回合自身不會陷入混亂，使用本技能后結束回合",
+          "name": "我就是…這場遊行的…王子…！",
+          "desc": "[CantDuel]\n[WhenUse] 使硬血長柄刀恢復的體力變為2倍\n[WhenUse] 使自身的理智值變為0點\n[EndSkill] 使自身獲得10層[KeptBlood]\n本回合自身不會陷入混亂，使用本技能後結束回合",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度并對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度並對其施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度并對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度並對其施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度并對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度並對其施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度并對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度並對其施加1層流血 "
                 }
               ]
             }
@@ -194,28 +194,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度并對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度并對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度并對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度并對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加1層流血 "
                 }
               ]
             }

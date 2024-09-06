@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_19_1",
+      "dlg": "哎呀，雙和茶的味道……你居然帶到這裡來了？\n我這就把窗戶打開，前輩……\n這是老頭子的樂趣，尤娜你就多體諒一下吧。"
+    },
+    {
+      "id": "announcer_cheer_19_2",
+      "dlg": "這次委託結束後，我本打算邀請前輩一起去茶館……\n嗯……不過得等我解決房租問題後再考慮。\n前，前輩，您什麼時候來的！？"
+    },
+    {
+      "id": "announcer_specialcheer_19_1",
+      "dlg": "啊……\n呵呵，菲利普。你瞧，那邊也有人犯和你同樣的錯誤呢。"
+    },
+    {
+      "id": "announcer_specialcheer_19_2",
+      "dlg": "這、這可怎麼辦？情況太糟糕了。\n我還沒打算走呢。\n委託還沒完成呢，老爺子。"
+    },
+    {
+      "id": "announcer_enemy_break_19_1",
+      "dlg": "這種情況下，毫不猶豫地攻擊才是正解，對吧，師父？\n正是如此，現在正是機會。"
+    },
+    {
+      "id": "announcer_ally_break_19_1",
+      "dlg": "我那時候可是只靠毅力就能撐住……現在的孩子們真是太脆弱了。\n又在講老故事了。"
+    },
+    {
+      "id": "announcer_killenemy_19_1",
+      "dlg": "既然下定決心要殺死對方，就必須毫不留情。\n我會銘記在心，師父。"
+    },
+    {
+      "id": "announcer_ally_dead_19_1",
+      "dlg": "我們只能……眼睜睜看著同伴們死亡嗎？\n菲利普……有時我們沒得選擇。"
+    },
+    {
+      "id": "announcer_enemy_adv_19_1",
+      "dlg": "即使形勢不利，也要堅持抵抗到最後。\n正如前輩所說。絕不能放棄……"
+    },
+    {
+      "id": "announcer_ally_adv_19_1",
+      "dlg": "……這樣沒問題嗎？情況看起來不太好。\n哎呀，菲利普。仔細看看。敵人的情況不是更糟糕嗎？"
+    },
+    {
+      "id": "announcer_danger_19_1",
+      "dlg": "這種緊張感……想起了煙霾戰爭的時候。\n只有戰勝這種情況，才能成為真正有實力的收尾人呢。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_19_1",
+      "dlg": "觀察敵人的行動，就能預見下一步動作。\n確實，看穿前後就能左右勝敗呢。"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_19_1",
+      "dlg": "前輩，這個氣息……\n是啊，有不尋常的東西要來了。要小心。"
+    },
+    {
+      "id": "announcer_advatk_physical_19_1",
+      "dlg": "相當不錯的攻擊。\n前輩您一眼就看出來了呢……\n嘛，畢竟是基本嘛。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_19_1",
+      "dlg": "呵呵，這次的很淡啊。\n老爺子也注意到了呢。\n老骨頭自然積累了與之相稱的經驗。"
+    },
+    {
+      "id": "announcer_advatk_attr_19_1",
+      "dlg": "不片面的思考也不錯呢。先前的攻擊是正確的哦。\n記住剛剛的感覺吧。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_19_1",
+      "dlg": "這樣的攻擊……到底有什麼意義……\n唔，就算這樣也不是完全沒有傷害對吧。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_19_1",
+      "dlg": "雖然很難以置信……敵方好像變得更強了。\n唔，就算這樣也能做到吧。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_19_1",
+      "dlg": "敵方的狀態很奇怪。是在做什麼準備嗎？\n唔，這是……\n機會呢。絕佳的機會。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_19_1",
+      "dlg": "能遊刃有餘地完成吧。所以菲利普，雙和茶一杯拜託了哦。\n馬，馬上泡!\n哈……"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_19_1",
+      "dlg": "這種狀態下……也要繼續戰鬥嗎？做不到的。\n做不做得到是由現場的人們來決定，菲利普。"
+    },
+    {
+      "id": "announcer_enemy_destroy_19_1",
+      "dlg": "他們破壞了敵人的一部分！\n是不錯的戰略吧？"
+    },
+    {
+      "id": "announcer_enemy_destroy_19_2",
+      "dlg": "先擊潰其中一方的戰略向來很有效呢。\n因為行動會變得單調，這也是理所當然的。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_19_1",
+      "dlg": "這下危險了。受到了要害攻擊。\n不過一旦攻勢結束，你們的機會也會隨之而來吧。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_19_2",
+      "dlg": "沒事吧，師父？現在開始撤退比較好……\n不是每次都能逃跑的。對他們來講現在就是這樣。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_19_1",
+      "dlg": "相當不錯的一擊。都市需要增加更多有那樣實力的收尾人。\n我也……要更加努力才行。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_19_2",
+      "dlg": "我也能做到那樣嗎？\n當然，菲利普很有潛力。\n明白這件事的人會每天使喚他去泡雙和茶嗎？"
+    },
+    {
+      "id": "announcer_multikillenemy_19_1",
+      "dlg": "呵呵……看起來就像我年輕時候一樣。\n聽說師父年輕的時候也很厲害……\n菲利普。太吹捧老爺子會得意忘形的哦。"
+    },
+    {
+      "id": "announcer_equip_19_1",
+      "dlg": "這次的委託是觀摩其他收尾人的戰鬥……\n嗯，已經讀完了不用說明也可以。\n我也已經熟記內容，沒有必要再通報。\n好的……"
+    }
+  ]
+}

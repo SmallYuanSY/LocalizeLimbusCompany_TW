@@ -1410,11 +1410,11 @@
     },
     {
       "id": "formation_force_participation_on",
-      "content": "固定編入"
+      "content": "固定編隊"
     },
     {
       "id": "formation_force_participation_off",
-      "content": "需固定編入"
+      "content": "需固定編隊"
     },
     {
       "id": "formation_must_participate_specific_character",
@@ -1686,31 +1686,31 @@
     },
     {
       "id": "unlink_account_title",
-      "content": "選擇要解除繫結的賬號"
+      "content": "選擇要解除連結的帳號"
     },
     {
       "id": "unlink_account_current_account",
-      "content": "目前賬號"
+      "content": "目前帳號"
     },
     {
       "id": "unlink_account_linked_account",
-      "content": "已繫結賬號"
+      "content": "已連結帳號"
     },
     {
       "id": "unlink_account_desc",
-      "content": "解除繫結後，{0}日內無法再次解除。"
+      "content": "解除連結後，{0}日內無法再次解除。"
     },
     {
       "id": "unlink_account_desc_unable_by_day",
-      "content": "{0}後可以再次解除繫結。"
+      "content": "{0}後可以再次解除連結。"
     },
     {
       "id": "unlink_account_complete_title",
-      "content": "已解除繫結"
+      "content": "已解除連結"
     },
     {
       "id": "unlink_account_complete_desc",
-      "content": "成功解除繫結後，\n將返回標題界面。"
+      "content": "成功解除連結後，\n將返回標題界面。"
     },
     {
       "id": "mainui_stageinfo_effectiveAttribute",
