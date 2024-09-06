@@ -3,8 +3,8 @@ using Il2CppSystem.Threading;
 using SimpleJSON;
 using System;
 using System.IO;
+using System.Net;
 using System.Net.Http;
-using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.Networking;
 
@@ -12,39 +12,40 @@ namespace LimbusLocalize
 {
     public static class LLC_UpdateChecker
     {
-        public static ConfigEntry<bool> AutoUpdate = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "AutoUpdate", true, "是否從Github上面自動檢查並下載更新 ( true | false )");
+        public static ConfigEntry<bool> AutoUpdate = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "AutoUpdate", false, "是否自动检查并下载更新 ( true | false )");
+        public static ConfigEntry<URI> UpdateURI = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "UpdateURI", URI.GitHub, "自动更新所使用URI ( GitHub:默认 | Mirror_OneDrive:镜像,更新可能有延迟,但下载速度更快 )");
         public static void StartAutoUpdate()
         {
             if (AutoUpdate.Value)
             {
-                LCB_LLCMod.LogWarning("Check Mod Update");
+                LCB_LLCMod.LogWarning($"Check Mod Update From {UpdateURI.Value}");
                 Action ModUpdate = CheckModUpdate;
                 new Thread(ModUpdate).Start();
             }
         }
         static void CheckModUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/SmallYuanSY/LocalizeLimbusCompany_TW/releases/latest");
+            string release_uri = "https://api.github.com/repos/SmallYuanSY/LocalizeLimbusCompany_TW/releases/latest";
+            UnityWebRequest www = UnityWebRequest.Get(release_uri);
             www.timeout = 4;
             www.SendWebRequest();
             while (!www.isDone)
                 Thread.Sleep(100);
             if (www.result != UnityWebRequest.Result.Success)
-                LCB_LLCMod.LogWarning("Can't access GitHub!!!" + www.error);
+                LCB_LLCMod.LogWarning($"Can't access {UpdateURI.Value}!!!" + www.error);
             else
             {
-                JSONArray releases = JSONNode.Parse(www.downloadHandler.text).AsArray;
-                string latestReleaseTag = releases[0]["tag_name"].Value;
-                string latest2ReleaseTag = releases.m_List.Count > 1 ? releases[1]["tag_name"].Value : string.Empty;
+                var latest = JSONNode.Parse(www.downloadHandler.text).AsObject;
+                string latestReleaseTag = latest["tag_name"].Value;
                 if (Version.Parse(LCB_LLCMod.VERSION) < Version.Parse(latestReleaseTag.Remove(0, 1)))
                 {
                     string updatelog = "LimbusLocalize_BIE_" + latestReleaseTag;
                     Updatelog += updatelog + ".7z ";
-                    string download = "https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW/releases/download/" + latestReleaseTag + "/" + updatelog + ".7z";
-                    var dirs = download.Split('/');
+                    string download_uri = "https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW/releases/download/{latestReleaseTag}/{updatelog}.7z";
+                    var dirs = download_uri.Split('/');
                     string filename = LCB_LLCMod.GamePath + "/" + dirs[^1];
                     if (!File.Exists(filename))
-                        DownloadFileAsync(download, filename).GetAwaiter().GetResult();
+                        DownloadFileAsync(download_uri, filename);
                     UpdateCall = UpdateDel;
                 }
                 LCB_LLCMod.LogWarning("Check Chinese Font Asset Update");
@@ -54,7 +55,8 @@ namespace LimbusLocalize
         }
         static void CheckChineseFontAssetUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/SmallYuanSY/LLC_ChineseFontAsset/releases/latest");
+            string release_uri = "https://api.github.com/repos/SmallYuanSY/LLC_ChineseFontAsset/releases/latest";
+            UnityWebRequest www = UnityWebRequest.Get(release_uri);
             string FilePath = LCB_LLCMod.ModPath + "/tmpchinesefont";
             var LastWriteTime = File.Exists(FilePath) ? int.Parse(TimeZoneInfo.ConvertTime(new FileInfo(FilePath).LastWriteTime, TimeZoneInfo.FindSystemTimeZoneById("China Standard Time")).ToString("yyMMdd")) : 0;
             www.SendWebRequest();
@@ -66,11 +68,11 @@ namespace LimbusLocalize
             {
                 string updatelog = "tmpchinesefont_BIE_" + latestReleaseTag;
                 Updatelog += updatelog + ".7z ";
-                string download = "https://github.com/SmallYuanSY/LLC_ChineseFontAsset/releases/download/" + latestReleaseTag + "/" + updatelog + ".7z";
+                string download = "https://github.com/SmallYuanSY/LLC_ChineseFontAsset/releases/download/{latestReleaseTag}/{updatelog}.7z";
                 var dirs = download.Split('/');
                 string filename = LCB_LLCMod.GamePath + "/" + dirs[^1];
                 if (!File.Exists(filename))
-                    DownloadFileAsync(download, filename).GetAwaiter().GetResult();
+                    DownloadFileAsync(download, filename);
                 UpdateCall = UpdateDel;
             }
         }
@@ -79,14 +81,24 @@ namespace LimbusLocalize
             LCB_LLCMod.OpenGamePath();
             Application.Quit();
         }
-        static async Task DownloadFileAsync(string url, string filePath)
+        static void DownloadFileAsync(string uri, string filePath)
         {
-            LCB_LLCMod.LogWarning("Download " + url + " To " + filePath);
-            using HttpClient client = new();
-            using HttpResponseMessage response = await client.GetAsync(url);
-            using HttpContent content = response.Content;
-            using FileStream fileStream = new(filePath, FileMode.Create);
-            await content.CopyToAsync(fileStream);
+            try
+            {
+                LCB_LLCMod.LogWarning("Download " + uri + " To " + filePath);
+                using HttpClient client = new();
+                using HttpResponseMessage response = client.GetAsync(uri).GetAwaiter().GetResult();
+                using HttpContent content = response.Content;
+                using FileStream fileStream = new(filePath, FileMode.Create);
+                content.CopyToAsync(fileStream).GetAwaiter().GetResult();
+            }
+            catch (Exception ex)
+            {
+                if (ex is HttpRequestException httpException && httpException.StatusCode == HttpStatusCode.NotFound)
+                    LCB_LLCMod.LogWarning($"{uri} 404 NotFound,No Resource");
+                else
+                    LCB_LLCMod.LogWarning($"{uri} Error!!!" + ex.ToString());
+            }
         }
         public static void CheckReadmeUpdate()
         {
@@ -113,5 +125,10 @@ namespace LimbusLocalize
         }
         public static string Updatelog;
         public static Action UpdateCall;
+        public enum URI
+        {
+            GitHub,
+            Mirror_OneDrive
+        }
     }
 }
