@@ -41,7 +41,7 @@ namespace LimbusLocalize
                 {
                     string updatelog = "LimbusLocalize_BIE_" + latestReleaseTag;
                     Updatelog += updatelog + ".7z ";
-                    string download_uri = "https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW/releases/download/{latestReleaseTag}/{updatelog}.7z";
+                    string download_uri = $"https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW/releases/download/{latestReleaseTag}/{updatelog}.7z";
                     var dirs = download_uri.Split('/');
                     string filename = LCB_LLCMod.GamePath + "/" + dirs[^1];
                     if (!File.Exists(filename))
@@ -68,7 +68,7 @@ namespace LimbusLocalize
             {
                 string updatelog = "tmpchinesefont_BIE_" + latestReleaseTag;
                 Updatelog += updatelog + ".7z ";
-                string download = "https://github.com/SmallYuanSY/LLC_ChineseFontAsset/releases/download/{latestReleaseTag}/{updatelog}.7z";
+                string download = $"https://github.com/SmallYuanSY/LLC_ChineseFontAsset/releases/download/{latestReleaseTag}/{updatelog}.7z";
                 var dirs = download.Split('/');
                 string filename = LCB_LLCMod.GamePath + "/" + dirs[^1];
                 if (!File.Exists(filename))
