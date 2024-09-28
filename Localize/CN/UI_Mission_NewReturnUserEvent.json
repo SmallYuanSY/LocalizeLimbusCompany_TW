@@ -1,0 +1,180 @@
+{
+  "dataList": [
+    {
+      "id": "mission_ui_condition_tags_103001001",
+      "content": "總計通過{0}次章節I後的任意劇情關卡"
+    },
+    {
+      "id": "mission_ui_condition_tags_103002001",
+      "content": "通過{0}次經驗採集"
+    },
+    {
+      "id": "mission_ui_condition_tags_103003001",
+      "content": "通過{0}次紡錘採集"
+    },
+    {
+      "id": "mission_ui_condition_tags_103004001",
+      "content": "通過{0}個鏡像迷宮的戰鬥關卡節點"
+    },
+    {
+      "id": "mission_ui_condition_tags_103004002",
+      "content": "抵達第{0}階層後通過普通或其以上難度的鏡像迷宮"
+    },
+    {
+      "id": "mission_ui_condition_tags_103004003",
+      "content": "抵達第{0}階層後通過普通或其以上難度的鏡像迷宮"
+    },
+    {
+      "id": "mission_ui_condition_tags_103004004",
+      "content": "通過{0}次普通或其以上難度的鏡像迷宮\n（必須通過最終階層的頭目戰鬥）"
+    },
+    {
+      "id": "mission_ui_condition_tags_103005001",
+      "content": "將任意{0}名人格升至{1}級"
+    },
+    {
+      "id": "mission_ui_condition_tags_103005002",
+      "content": "將基本人格以外的任意{0}名人格同步至階段{1}"
+    },
+    {
+      "id": "mission_ui_condition_tags_103005003",
+      "content": "將任意{0}名人格同步至階段{1}"
+    },
+    {
+      "id": "mission_ui_condition_tags_103005004",
+      "content": "將任意{0}個E.G.O異想解析至階段{1}"
+    },
+    {
+      "id": "mission_ui_condition_tags_103006001",
+      "content": "通過{0}次日常任務"
+    },
+    {
+      "id": "mission_ui_condition_tags_103006002",
+      "content": "通過{0}次周常任務"
+    },
+    {
+      "id": "mission_ui_condition_tags_103006002",
+      "content": "通過{0}次周常任務"
+    },
+    {
+      "id": "mission_condition_ui_group_2",
+      "content": "劇情關卡"
+    },
+    {
+      "id": "mission_condition_ui_group_3",
+      "content": "經驗採集"
+    },
+    {
+      "id": "mission_condition_ui_group_4",
+      "content": "紡錘採集"
+    },
+    {
+      "id": "mission_condition_ui_group_6",
+      "content": "鏡像迷宮"
+    },
+    {
+      "id": "mission_condition_ui_group_8",
+      "content": "養成"
+    },
+    {
+      "id": "mission_condition_ui_group_11",
+      "content": "戰鬥通行證"
+    },
+    {
+      "id": "return_user_remain_Luxcavation_bonus",
+      "content": "剩余的日常回歸獎勵"
+    },
+    {
+      "id": "move_to_luxcavation",
+      "content": "跳轉至採集"
+    },
+    {
+      "id": "move_to_shop",
+      "content": "跳轉至商店"
+    },
+    {
+      "id": "information_about_luxcavation",
+      "content": "採集獎勵指南"
+    },
+    {
+      "id": "information_about_returning_user_package",
+      "content": "回歸限定組合包指南"
+    },
+    {
+      "id": "information_about_returning_user_package_desc",
+      "content": "活動期間，回歸限定組合包\n可在商店中購買。"
+    },
+    {
+      "id": "returning_user_exp_luxcavation_bonus_desc",
+      "content": "經驗採集每日獎勵次數：{0}次"
+    },
+    {
+      "id": "returning_user_thread_luxcavation_bonus_desc",
+      "content": "紡錘採集每日獎勵次數：{0}次"
+    },
+    {
+      "id": "returning_user_luxcavation_bonus_desc",
+      "content": "活動期間，您可以在通關採集時獲得額外獎勵。"
+    },
+    {
+      "id": "returning_user_mission",
+      "content": "回歸任務"
+    },
+    {
+      "id": "attendance_check",
+      "content": "出勤簽到"
+    },
+    {
+      "id": "welcome_returning_user",
+      "content": "歡迎回歸辦公，執行經理！"
+    },
+    {
+      "id": "luxcavation_bonus_and_package",
+      "content": "採集獎勵&組合包"
+    },
+    {
+      "id": "until_event_finish_date",
+      "content": "距活動結束還有{0}天"
+    },
+    {
+      "id": "event_for_new_user_from_date",
+      "content": "對象：<color=#990000>{0}月{1}日</color>11:00(CST)後新創建的賬戶"
+    },
+    {
+      "id": "mission_progress_rate",
+      "content": "任務進度"
+    },
+    {
+      "id": "welcome_returing_user_title",
+      "content": "回歸支援\n物資補給"
+    },
+    {
+      "id": "welcome_returing_user_desc",
+      "content": "歡迎執行經理回歸。"
+    },
+    {
+      "id": "returning_user_attendance_check_title",
+      "content": "回歸經理專用 出勤簽到活動"
+    },
+    {
+      "id": "returning_user_attendance_check_desc",
+      "content": "※ 活動期間，您可以根據累計出勤天數獲得相應獎勵。\n\n※ 當日出勤會在每日服務器重置後進行判定。"
+    },
+    {
+      "id": "complete_to_receive",
+      "content": "領取完畢"
+    },
+    {
+      "id": "already_owned",
+      "content": "已持有"
+    },
+    {
+      "id": "move_shortcut",
+      "content": "跳轉至"
+    },
+    {
+      "id": "warning_about_change_season_item",
+      "content": "道具第4賽季同步和異想解析專用碎片僅有一半會在新賽季開始時繼承。\n您仍要領取嗎？"
+    }
+  ]
+}

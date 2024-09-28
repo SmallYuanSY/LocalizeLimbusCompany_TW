@@ -622,7 +622,7 @@
     },
     {
       "id": "LobotomyStartTypo_KillCountTitle_1",
-      "content": "鎮圧狀態"
+      "content": "鎮壓狀態"
     },
     {
       "id": "LobotomyClearTypo_Title_1",
@@ -743,6 +743,14 @@
     {
       "id": "BulletLament_turn",
       "content": "死彈"
+    },
+    {
+      "id": "Retreat_Textalram",
+      "content": "!撤退!"
+    },
+    {
+      "id": "Retreat_TextPassive",
+      "content": "撤退中"
     }
   ]
 }

@@ -337,7 +337,7 @@
         {
           "level": 1,
           "name": "閃避",
-          "desc": "[WhenUse] 使目標增加4級燒傷 強度\n[OnSucceedEvade] 下回合使自身獲得1層[MRcAiBa]",
+          "desc": "[WhenUseEvade] 使目標增加4級燒傷 強度\n[OnSucceedEvade] 下回合使自身獲得1層[MRcAiBa]",
           "coinlist": [
             {
               "coindescs": [

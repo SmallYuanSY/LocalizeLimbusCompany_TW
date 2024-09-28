@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "id": "select_personality_gacksung_up_ticket",
+      "content": "請選擇要跳躍的人格"
+    },
+    {
+      "id": "tip_long_click_to_view_personality",
+      "content": "※ 長按以查看人格詳情。"
+    },
+    {
+      "id": "leap_up_confim_main_only_gacksung",
+      "content": "人格[{0}]的同步階段將變更為如下所示。"
+    },
+    {
+      "id": "select_ego_gacksung_up_ticket",
+      "content": "請選擇要跳躍的E.G.O"
+    },
+    {
+      "id": "tip_long_click_to_view_ego",
+      "content": "※ 長按以查看E.G.O詳情。"
+    },
+    {
+      "id": "ego_leap_up_confim_main_only_gacksung",
+      "content": "E.G.O[{0}]的異想解析階段將變更為如下所示。"
+    },
+    {
+      "id": "all_egos",
+      "content": "所有E.G.O"
+    },
+    {
+      "id": "leap_up_able_uptie_ego_tier",
+      "content": "可進行異想解析"
+    },
+    {
+      "id": "ego_gacksung_grade",
+      "content": "異想解析階段"
+    },
+    {
+      "id": "leap_up_ego_confim_title",
+      "content": "選擇E.G.O"
+    },
+    {
+      "id": "check_default_personality_leap_up",
+      "content": "所選人格可通過主線故事最多免費提升至同步階段3。\n\n您是否仍要進行同步？"
+    },
+    {
+      "id": "check_default_ego_leap_up",
+      "content": "所選E.G.O可通過主線故事最多免費提升至異想解析階段3。\n\n您是否仍要進行異想解析？"
+    },
+    {
+      "id": "select_identity_popup_title",
+      "content": "選擇人格"
+    },
+    {
+      "id": "select_identity_popup_title_season_1",
+      "content": "選擇第1賽季人格"
+    },
+    {
+      "id": "select_ego_popup_title_season_1_battlepass",
+      "content": "選擇第1賽季通行證E.G.O"
+    },
+    {
+      "id": "select_ego_popup_title",
+      "content": "選擇E.G.O"
+    }
+  ]
+}
