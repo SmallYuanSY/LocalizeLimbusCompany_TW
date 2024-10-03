@@ -3,21 +3,16 @@
     <OutputType>Library</OutputType>
     <PlatformTarget>x64</PlatformTarget>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <AllowedReferenceRelatedFileExtensions>none</AllowedReferenceRelatedFileExtensions>
-    <DebugSymbols>true</DebugSymbols>
-    <LangVersion>10.0</LangVersion>
-    <IsPublishable>True</IsPublishable>
+    <LangVersion>latest</LangVersion>
     <TargetFramework>net6</TargetFramework>
     <Platforms>x64</Platforms>
     <Configurations>BIE</Configurations>
-    <RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
-    <OutputPath>..\Release</OutputPath>
-    <NoWarn>1701;1702;2211;CA2211;IDE1006;IDE0060</NoWarn>
+    <OutputPath>..\Release\</OutputPath>
+    <NoWarn>CA2211;CA1822;IDE0060;IDE0130</NoWarn>
     <DebugType>none</DebugType>
     <Optimize>True</Optimize>
-    <RootNamespace>$(MSBuildProjectName)</RootNamespace>
+    <AssemblyName>$(MSBuildProjectName)_$(Configuration)</AssemblyName>
   </PropertyGroup>
   
   <!-- ~~~~~ CONFIGURATIONS ~~~~~ -->
@@ -25,32 +20,33 @@
     <None Remove="Directory.Build.props" />
     <None Remove="nuget.config" />
   </ItemGroup>
-  <!-- BepinEx -->
-  <PropertyGroup Condition="'$(Configuration)'=='BIE'">
-    <DefineConstants>BIE</DefineConstants>
-    <AssemblyName>$(MSBuildProjectName)_$(Configuration)</AssemblyName>
-  </PropertyGroup>
 
   <!-- ~~~~~ NUGET ~~~~~ -->
   <ItemGroup>
     <PackageReference Include="HarmonyX" Version="2.5.2" IncludeAssets="compile" />
     <PackageReference Include="Il2CppInterop.Runtime" Version="1.0.0" />
   </ItemGroup>
-  <ItemGroup>
+
+  <!-- ~~~~~ ASSEMBLY REFERENCES ~~~~~ -->
+  <!-- BepinEx -->
+  <ItemGroup Condition="'$(Configuration)'=='BIE'">
     <Reference Include="Assembly-CSharp">
       <HintPath>..\lib\Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="BepInEx.Core">
+    <Reference Include="ProjectMoon.DelegateCollection">
+      <HintPath>..\lib\ProjectMoon.DelegateCollection.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx">
       <HintPath>..\lib\BepInEx.Core.dll</HintPath>
     </Reference>
-    <Reference Include="BepInEx.Unity.IL2CPP">
+    <Reference Include="BepInEx.IL2CPP">
       <HintPath>..\lib\BepInEx.Unity.IL2CPP.dll</HintPath>
-    </Reference>
-    <Reference Include="Il2Cppmscorlib">
-      <HintPath>..\lib\Il2Cppmscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem">
       <HintPath>..\lib\Il2CppSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2Cppmscorlib">
+      <HintPath>..\lib\Il2Cppmscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Core">
       <HintPath>..\lib\Il2CppSystem.Core.dll</HintPath>
@@ -73,9 +69,6 @@
     <Reference Include="UnityEngine.ImageConversionModule">
       <HintPath>..\lib\UnityEngine.ImageConversionModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.IMGUIModule">
-      <HintPath>..\lib\UnityEngine.IMGUIModule.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.JSONSerializeModule">
       <HintPath>..\lib\UnityEngine.JSONSerializeModule.dll</HintPath>
     </Reference>
@@ -91,15 +84,15 @@
     <Reference Include="UnityEngine.UIModule">
       <HintPath>..\lib\UnityEngine.UIModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\lib\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UnityWebRequestModule">
       <HintPath>..\lib\UnityEngine.UnityWebRequestModule.dll</HintPath>
     </Reference>
   </ItemGroup>
-
-  <!-- ~~~~~ ASSEMBLY REFERENCES ~~~~~ -->
-  <!-- BepinEx -->
   <Target Name="CopyFile" AfterTargets="build">
-    <Message Text="Copying BIE files..." Importance="high" Condition="'$(Configuration)' == 'BIE'" />
+    <Message Text="Copying files..." Importance="high" />
     <Copy SourceFiles="$(OutputPath)$(AssemblyName).dll" DestinationFolder="$(OutputPath)BepInEx\plugins\LLC" Condition="'$(Configuration)' == 'BIE'" />
   </Target>
 </Project>

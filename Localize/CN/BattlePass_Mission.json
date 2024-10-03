@@ -38,19 +38,19 @@
     },
     {
       "id": "LOGIN_ONCE",
-      "content": "每日登陸{0}次"
+      "content": "每日登入{0}次"
     },
     {
       "id": "LOGIN_MULTIPLE",
-      "content": "累計登陸達到{0}天"
+      "content": "累計登入達到{0}天"
     },
     {
       "id": "EXPDUNGEON_CLEAR",
-      "content": "通過經驗採光{0}次"
+      "content": "通過經驗採集{0}次"
     },
     {
       "id": "THREADDENGEON_CLEAR",
-      "content": "通過紡錘採光{0}次"
+      "content": "通過紡錘採集{0}次"
     },
     {
       "id": "PURCHASE_ENKEPHALIN_MODULE",

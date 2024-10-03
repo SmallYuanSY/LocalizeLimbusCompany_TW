@@ -823,6 +823,14 @@
     {
       "id": "10910_getCondition_gacksung",
       "content": "Девять協會 北部3科 羅佳 3階段同步完成"
+    },
+    {
+      "id": "10810_getCondition_normal",
+      "content": "獲得Zwei協會 西部3科 以實瑪利"
+    },
+    {
+      "id": "10810_getCondition_gacksung",
+      "content": "Zwei協會 西部3科 以實瑪利 3階段同步完成"
     }
   ]
 }

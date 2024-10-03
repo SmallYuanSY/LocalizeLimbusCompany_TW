@@ -191,6 +191,10 @@
     {
       "id": "panel_clearcatalog",
       "content": "要清除目錄嗎？"
+    },
+    {
+      "id": "serverstate_error_thirdparty_api",
+      "content": "外部服務器通訊連接錯誤。請稍後重試。"
     }
   ]
 }
