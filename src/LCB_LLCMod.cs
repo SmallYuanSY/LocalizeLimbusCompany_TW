@@ -18,7 +18,7 @@ namespace LimbusLocalize
         public const string GUID = "Com.Bright.LocalizeLimbusCompany";
         public const string NAME = "LimbusLocalizeMod";
         public const string VERSION = "0.6.53";
-        public const string AUTHOR = "Bright&SmallYuan";
+        public const string AUTHOR = "Bright&Yuan";
         public const string LLCLink = "https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW";
         public static Action<string, Action> LogFatalError { get; set; }
         public static Action<string> LogError { get; set; }
@@ -36,7 +36,7 @@ namespace LimbusLocalize
             LLC_UpdateChecker.StartAutoUpdate();
             try
             {
-                HarmonyLib.Harmony harmony = new(NAME);
+                Harmony harmony = new(NAME);
                 if (LLC_Chinese_Setting.IsUseChinese.Value)
                 {
                     LLC_Manager.InitLocalizes(new DirectoryInfo(ModPath + "/Localize/CN"));

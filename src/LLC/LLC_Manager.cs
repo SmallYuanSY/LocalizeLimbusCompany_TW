@@ -12,7 +12,7 @@ using UObject = UnityEngine.Object;
 
 namespace LimbusLocalize
 {
-    public class LLC_Manager : MonoBehaviour
+    public class LLC_Manager(IntPtr ptr) : MonoBehaviour(ptr)
     {
         static LLC_Manager()
         {
@@ -23,9 +23,9 @@ namespace LimbusLocalize
             Instance = obj.AddComponent<LLC_Manager>();
         }
         public static LLC_Manager Instance;
-        public LLC_Manager(IntPtr ptr) : base(ptr) { }
+
         void OnApplicationQuit() => LCB_LLCMod.CopyLog();
-        public static void OpenGlobalPopup(string description, string title = null, string close = "取消", string confirm = "確認", Action confirmEvent = null, Action closeEvent = null)
+        public static void OpenGlobalPopup(string description, string title = null, string close = "取消", string confirm = "确认", Action confirmEvent = null, Action closeEvent = null)
         {
             if (!GlobalGameManager.Instance) { return; }
             TextOkUIPopup globalPopupUI = GlobalGameManager.Instance.globalPopupUI;
@@ -83,13 +83,13 @@ namespace LimbusLocalize
             typeof(ILObject)
         })]
         [HarmonyPrefix]
-        private static bool Log(Logger __instance, LogType __0, ILObject __1)
+        private static bool Log(Logger __instance, LogType logType, ILObject message)
         {
-            if (__0 == LogType.Warning)
+            if (logType == LogType.Warning)
             {
-                string LogString = Logger.GetString(__1);
-                if (!LogString.Contains("DOTWEEN"))
-                    __instance.logHandler.LogFormat(__0, null, "{0}", new ILObject[] { LogString });
+                string LogString = Logger.GetString(message);
+                if (!LogString.StartsWith("<color=#0099bc><b>DOTWEEN"))
+                    __instance.logHandler.LogFormat(logType, null, "{0}", LogString);
                 return false;
             }
             return true;
@@ -106,8 +106,8 @@ namespace LimbusLocalize
             if (logType == LogType.Warning)
             {
                 string LogString = Logger.GetString(message);
-                if (!LogString.Contains("Material"))
-                    __instance.logHandler.LogFormat(logType, context, "{0}", new ILObject[] { LogString });
+                if (!LogString.StartsWith("Material"))
+                    __instance.logHandler.LogFormat(logType, context, "{0}", LogString);
                 return false;
             }
             return true;
@@ -116,7 +116,7 @@ namespace LimbusLocalize
         #region 修复一些弱智东西
         [HarmonyPatch(typeof(GachaEffectEventSystem), nameof(GachaEffectEventSystem.LinkToCrackPosition))]
         [HarmonyPrefix]
-        private static bool LinkToCrackPosition(GachaEffectEventSystem __instance, GachaCrackController[] crackList)
+        private static bool LinkToCrackPosition(GachaEffectEventSystem __instance)
             => __instance._parent.EffectChainCamera;
         #endregion
         [HarmonyPatch(typeof(LoginSceneManager), nameof(LoginSceneManager.SetLoginInfo))]
@@ -124,7 +124,7 @@ namespace LimbusLocalize
         public static void CheckModActions()
         {
             if (LLC_UpdateChecker.UpdateCall != null)
-                OpenGlobalPopup("Has Update " + LLC_UpdateChecker.Updatelog + "!\nOpen Download Path & Quit Game\n模組存在更新\n點擊OK退出遊戲並打開下載目錄\n請將" + LLC_UpdateChecker.Updatelog + "壓縮報解壓自該目錄", "Mod Has Update\n模組存在更新", null, "OK", () =>
+                OpenGlobalPopup("Has Update " + LLC_UpdateChecker.Updatelog + "!\nOpen Download Path & Quit Game\n模組存在更新\n點擊OK退出遊戲並打開下載目錄\n請將" + LLC_UpdateChecker.Updatelog + "压缩包解压至该目录", "Mod Has Update\n模组存在更新", null, "OK", () =>
                 {
                     LLC_UpdateChecker.UpdateCall.Invoke();
                     LLC_UpdateChecker.UpdateCall = null;

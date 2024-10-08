@@ -269,11 +269,6 @@ namespace LimbusLocalize
                     s++;
                     continue;
                 }
-                if (jSONNode.Count == 1 && jSONNode[0].IsNumber)
-                {
-                    s++;
-                    continue;
-                }
                 int num;
                 if (jSONNode[0].IsNumber && jSONNode[0].AsInt < 0)
                     continue;
@@ -281,8 +276,10 @@ namespace LimbusLocalize
                 JSONNode effectToken = jsonarray2[num];
                 if ("IsNotPlayDialog".Sniatnoc(effectToken["effectv2"]))
                 {
-                    s--;
                     scenario.Scenarios.Add(new Dialog(num, new(), effectToken));
+                    if (jSONNode.Count == 1)
+                        continue;
+                    s--;
                     effectToken = jsonarray2[num + 1];
                 }
                 scenario.Scenarios.Add(new Dialog(num, jSONNode, effectToken));
@@ -367,7 +364,7 @@ namespace LimbusLocalize
                         abEventKeyDictionaryContainer = new AbEventKeyDictionaryContainer();
                         root._personalityDict[t.PersonalityID] = abEventKeyDictionaryContainer;
                     }
-                    string[] array = t.Usage.Trim().Split('(', ')');
+                    string[] array = t.Usage.Trim().Split(new char[] { '(', ')' });
                     for (int i = 1; i < array.Length; i += 2)
                     {
                         string[] array2 = array[i].Split(',');

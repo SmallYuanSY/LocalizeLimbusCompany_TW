@@ -2,7 +2,6 @@
 using HarmonyLib;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using UnityEngine;
 
 namespace LimbusLocalize
@@ -12,11 +11,11 @@ namespace LimbusLocalize
         static List<string> LoadingTexts = new();
         static string Touhou;
         static readonly string Raw = "<bounce f=0.5>NOW LOADING...</bounce>";
-        public static ConfigEntry<bool> RandomLoadText = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "RandomLoadText", true, "是否隨機選擇標語,即右下角的[NOW LOADING...] ( true | false )");
+        public static ConfigEntry<bool> RandomLoadText = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "RandomLoadText", true, "是否随机选择载入标语,即右下角的[NOW LOADING...] ( true | false )");
         static LLC_LoadingManager() => InitLoadingTexts();
         public static void InitLoadingTexts()
         {
-            LoadingTexts = File.ReadAllLines(LCB_LLCMod.ModPath + "/Localize/Readme/LoadingTexts.md").ToList();
+            LoadingTexts = new List<string>(File.ReadAllLines(LCB_LLCMod.ModPath + "/Localize/Readme/LoadingTexts.md"));
             for (int i = 0; i < LoadingTexts.Count; i++)
             {
                 string LoadingText = LoadingTexts[i];
