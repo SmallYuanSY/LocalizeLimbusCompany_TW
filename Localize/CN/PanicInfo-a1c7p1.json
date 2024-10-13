@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1027,
+      "panicName": "飢餓",
+      "lowMoraleDescription": "回合開始時，對自身施加1層[Binding]並使自身獲得2層[Enhancement]。回合結束時，受到5點理智傷害。",
+      "panicDescription": "回合開始時，對自身施加2層[Binding]並使自身獲得4層[Enhancement]。"
+    },
+    {
+      "id": 1028,
+      "panicName": "決鬥戰力",
+      "lowMoraleDescription": "回合開始時，使自身獲得2層[AttackUp]。拼點失敗時，對自身施加1層[DefenseDown](每回合最多3層)。最小速度值-1",
+      "panicDescription": "回合開始時，使自身獲得4層[AttackUp]。拼點失敗時，對自身施加2層[DefenseDown](每回合最多6層)。最小速度值-1"
+    }
+  ]
+}

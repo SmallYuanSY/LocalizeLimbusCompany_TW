@@ -2875,6 +2875,38 @@
     {
       "id": "tutorial_mainui_29_mowe_09_desc_01",
       "content": "活動結束後，您也依然可以通過駕駛席-[外傳故事]及放映室-[其他故事]，隨時重溫WARP快車謀殺案的關卡和故事。"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_11_title_01",
+      "content": "連續戰鬥"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_11_desc_01",
+      "content": "在連續戰鬥中，除出戰人員以外，可以選擇“待命人員”。\n\n出戰人員在戰鬥中陣亡後，待命人員將替補進入戰鬥。\n\n連續戰鬥中所選的全部人員（出戰人員以及待命人員）全部陣亡後，戰鬥失敗。"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_12_title_01",
+      "content": "待命人員編隊"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_12_desc_01",
+      "content": "出戰人員陣亡時，將由待命人員按照指定順序進行補位。\n\n在一部分連續戰鬥中，待命人員參與戰鬥時將獲得額外效果。\n\n請活用該機制，制定編隊順序。"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_13_title_01",
+      "content": "解除待命"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_13_desc_01",
+      "content": "在連續戰鬥中，不會因友方單位陣亡後的基礎理智值增減條件而導致理智值減少。\n\n戰鬥中部分人員陣亡後，目前編隊順序最靠前的待命人員將進行補位。\n\n陣亡人格的戰鬥被動將被替換為支援被動。\n\n解除待命的人格的支援被動將被替換為其戰鬥被動。"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_14_title_01",
+      "content": "敵方狀況展示界面"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_14_desc_01",
+      "content": "在連續戰鬥中，波次界面將會顯示戰鬥中會出現敵人數量，以及已打倒的敵人數量。\n\n但，在戰鬥中因特定條件而生成的敵人無法顯示在該界面中。"
     }
   ]
 }

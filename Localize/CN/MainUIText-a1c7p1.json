@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": "stage_recommend_level_popup_battle_participant_desc",
+      "content": "參戰人格當前平均等級<color=#990000>低於</color>關卡推薦等級。\n是否進行戰鬥？"
+    },
+    {
+      "id": "stage_recommend_level_popup_formation_desc",
+      "content": "編隊人格當前平均等級<color=#990000>低於</color>關卡推薦等級。\n是否進行戰鬥？"
+    },
+    {
+      "id": "stage_recommend_level_popup_dungeon_entrance_desc",
+      "content": "編隊人格當前平均等級<color=#990000>低於</color>關卡推薦等級。\n是否進入迷宮？"
+    },
+    {
+      "id": "current_average_level_and_recommend_level_format",
+      "content": "當前平均等級：{0}\n<color=#f8c200>關卡推薦等級：{1}</color>"
+    },
+    {
+      "id": "current_average_level_with_additional_val_and_recommend_level_format",
+      "content": "當前平均等級：{0}（{1}）\n<color=#f8c200>關卡推薦等級：{2}</color>"
+    }
+  ]
+}

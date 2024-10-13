@@ -3876,7 +3876,7 @@
           "level": 1,
           "name": "狐雨",
           "abName": "流浪狐貍",
-          "desc": "[BeforeAttack] 本回合與下回閤中，使全體友方單位獲得1層怠惰強壯 ，1層怠惰傷害強化 與2層守護 ",
+          "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰強壯 ，1層怠惰傷害強化 與2層守護 ",
           "coinlist": [
             {}
           ]
@@ -3885,7 +3885,7 @@
           "level": 3,
           "name": "狐雨",
           "abName": "流浪狐貍",
-          "desc": "[BeforeAttack] 本回合與下回閤中，使全體友方單位獲得1層怠惰強壯 ，2層怠惰傷害強化 與3層守護 ",
+          "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰強壯 ，2層怠惰傷害強化 與3層守護 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3910,7 +3910,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 本回合與下回閤中，對目標施加1層怠惰易損 與1層突刺易損 "
+                  "desc": "[OnSucceedAttack] 本回合與下回合中，對目標施加1層怠惰易損 與1層突刺易損 "
                 }
               ]
             }
@@ -3925,7 +3925,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 本回合與下回閤中，對目標施加2層怠惰易損 與2層突刺易損 "
+                  "desc": "[OnSucceedAttack] 本回合與下回合中，對目標施加2層怠惰易損 與2層突刺易損 "
                 }
               ]
             }
@@ -4228,7 +4228,7 @@
                   "desc": "[OnSucceedAttack] 隨機對除自身以外的1名友方單位施加3層防禦等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防御等級提升 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "
@@ -4249,7 +4249,7 @@
                   "desc": "[OnSucceedAttack] 隨機對除自身以外的1名友方單位施加3層防禦等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防御等級提升 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "
@@ -4273,7 +4273,7 @@
                   "desc": "[OnSucceedAttack] 隨機對除自身以外的1名友方單位施加3層防禦等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防御等級提升 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "

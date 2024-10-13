@@ -25,7 +25,7 @@ namespace LimbusLocalize
         public static LLC_Manager Instance;
 
         void OnApplicationQuit() => LCB_LLCMod.CopyLog();
-        public static void OpenGlobalPopup(string description, string title = null, string close = "取消", string confirm = "确认", Action confirmEvent = null, Action closeEvent = null)
+        public static void OpenGlobalPopup(string description, string title = null, string close = "取消", string confirm = "確認", Action confirmEvent = null, Action closeEvent = null)
         {
             if (!GlobalGameManager.Instance) { return; }
             TextOkUIPopup globalPopupUI = GlobalGameManager.Instance.globalPopupUI;
@@ -124,7 +124,7 @@ namespace LimbusLocalize
         public static void CheckModActions()
         {
             if (LLC_UpdateChecker.UpdateCall != null)
-                OpenGlobalPopup("Has Update " + LLC_UpdateChecker.Updatelog + "!\nOpen Download Path & Quit Game\n模組存在更新\n點擊OK退出遊戲並打開下載目錄\n請將" + LLC_UpdateChecker.Updatelog + "压缩包解压至该目录", "Mod Has Update\n模组存在更新", null, "OK", () =>
+                OpenGlobalPopup("Has Update " + LLC_UpdateChecker.Updatelog + "!\nOpen Download Path & Quit Game\n模組存在更新\n點擊OK退出遊戲並打開下載目錄\n請將" + LLC_UpdateChecker.Updatelog + "壓縮胞解壓縮至該目錄", "Mod Has Update\n模組存在更新", null, "OK", () =>
                 {
                     LLC_UpdateChecker.UpdateCall.Invoke();
                     LLC_UpdateChecker.UpdateCall = null;

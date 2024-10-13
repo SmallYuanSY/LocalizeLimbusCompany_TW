@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "id": "unable_to_edit",
+      "content": "無法編輯"
+    },
+    {
+      "id": "start_mp_changed",
+      "content": "起始理智值 {1} {0}"
+    },
+    {
+      "id": "new_season_former_global_growth_piece_to_current_piece_desc",
+      "content": "先前賽季擁有的同步&異想解析專用人格碎片（通用）將會按照一定比例轉化為當前賽季的。"
+    },
+    {
+      "id": "new_season_former_global_growth_piece_to_thread_desc",
+      "content": "未被繼承的同步&異想解析專用人格碎片（通用）則會轉化為紡錘。"
+    }
+  ]
+}

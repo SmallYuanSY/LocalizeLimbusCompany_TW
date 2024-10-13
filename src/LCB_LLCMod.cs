@@ -17,7 +17,7 @@ namespace LimbusLocalize
         public static string GamePath;
         public const string GUID = "Com.Bright.LocalizeLimbusCompany";
         public const string NAME = "LimbusLocalizeMod";
-        public const string VERSION = "0.6.53";
+        public const string VERSION = "0.6.54";
         public const string AUTHOR = "Bright&Yuan";
         public const string LLCLink = "https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW";
         public static Action<string, Action> LogFatalError { get; set; }

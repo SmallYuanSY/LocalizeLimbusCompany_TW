@@ -831,6 +831,22 @@
     {
       "id": "10810_getCondition_gacksung",
       "content": "Zwei協會 西部3科 以實瑪利 3階段同步完成"
+    },
+    {
+      "id": "10511_getCondition_normal",
+      "content": "獲得Cinq協會 西部3科 默爾索"
+    },
+    {
+      "id": "10511_getCondition_gacksung",
+      "content": "Cinq協會 西部3科 默爾索 3階段同步完成"
+    },
+    {
+      "id": "11010_getCondition_normal",
+      "content": "獲得Zwei協會 西部3科 辛克萊"
+    },
+    {
+      "id": "11010_getCondition_gacksung",
+      "content": "Zwei協會 西部3科 辛克萊 3階段同步完成"
     }
   ]
 }

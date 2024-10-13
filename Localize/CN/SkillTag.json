@@ -197,8 +197,28 @@
       "name": "[可拼點反擊]"
     },
     {
+      "id": "CantBreak",
+      "name": "[不可摧毀的硬幣]"
+    },
+    {
+      "id": "DuelGuard",
+      "name": "[可拼點防御]"
+    },
+    {
       "id": "WhenUseEvade",
       "name": "[閃避使用時]"
+    },
+    {
+      "id": "EndCoin",
+      "name": "[硬幣攻擊結束時]"
+    },
+    {
+      "id": "CriticalEnemyTargetKillFail",
+      "name": "[暴擊未擊殺時]"
+    },
+    {
+      "id": "CriticalEnemyTargetKill",
+      "name": "[暴擊擊殺時]"
     }
   ]
 }

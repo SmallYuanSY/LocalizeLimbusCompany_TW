@@ -1,0 +1,840 @@
+{
+  "dataList": [
+    {
+      "id": 9015201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血強化突刺",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血斬擊",
+          "desc": "[WhenUse] 若目標的流血 強度不低於8級，則使本技能造成的傷害+20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的流血 強度不低於6級，則使自身獲得1層硬化血液 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加8級流血 強度並使自身獲得1層帶血的剪刃 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血強化斬擊",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的基礎威力+1\n自身每帶有1層硬化血液 ，使本技能造成的傷害+5%(最多+25%)\n[EndSkill] 消耗所有[HardenedBlood]與[BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(目標的流血 強度)%的體力(最多20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反擊",
+          "desc": "[WhenUse] 自身每帶有1層[HardenedBlood]，使本技能的基礎威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "楔形硬血",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血割裂",
+          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能造成的傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的流血 強度不低於6級，則使自身獲得1層硬化血液 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加8級流血 強度並使自身獲得1層帶血的剪刃 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血強化割裂",
+          "desc": "[WhenUse] 若目標的流血 層數不低於6層，則使本技能的基礎威力+1\n自身每帶有1層硬化血液 ，使本技能造成的傷害+5%(最多+25%)\n[EndSkill] 消耗所有[HardenedBlood]與[BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(目標的流血 強度)%的體力(最多20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反擊",
+          "desc": "[WhenUse] 自身每帶有1層[HardenedBlood]，使本技能的基礎威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "是慶典啊，慶典！",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我來為你打扮",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能造成的傷害+20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則使自身獲得1層硬化血液 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "現在還能參加活動！",
+          "desc": "[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層帶血的剪刃 \n[WhenUse] 若本技能未消耗血宴 ，則使自身增加5級流血 強度並使自身獲得1層硬化血液 \n[WhenUse] 若目標的流血 強度不低於5級，則使本技能硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "別著急",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 自身每帶有1層帶血的剪刃 ，使本技能拼點威力+1(最多+3)\n自身每帶有1層硬化血液 ，使本技能造成的傷害+7%(最多+35%)\n[EndSkill] 消耗所有硬化血液 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加8級流血 強度"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗至多5層帶血的剪刃 ，使本硬幣造成的傷害+(20×消耗的帶血的剪刃 層數)%(最多+100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(目標的流血 強度)%的體力(最多30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反擊",
+          "desc": "[WhenUse] 若自身的[BloodScissor]層數不低於1層，則使本技能的基礎威力+1\n[WhenUse] 若自身的[HardenedBlood]層數不低於3層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "還要更多",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "再吃一點",
+          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能造成的傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則使自身獲得1層[HardenedBlood]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "如此美味！",
+          "desc": "[WhenUse] 消耗至多50層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]\n[WhenUse] 若本技能未消耗[BloodDinner]，則使自身增加5級流血 強度並使自身獲得1層[HardenedBlood]\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "你就像隻過街老鼠！",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能硬幣威力+1\n[WhenUse] 自身每帶有1層帶血的剪刃 ，使本技能拼點威力+1(最多+3)\n自身每帶有1層硬化血液 ，使本技能造成的傷害+7%(最多+35%)\n[EndSkill] 消耗所有硬化血液 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗至多5層帶血的剪刃 ，使本硬幣造成的傷害+(20×消耗的帶血的剪刃 層數)%(最多+100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(目標的流血 強度)%的體力(最多30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反擊",
+          "desc": "[WhenUse] 若自身的[BloodScissor]層數不低於1層，則使本技能的基礎威力+1\n[WhenUse] 若自身的[HardenedBlood]層數不低於3層，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "巨力猛砸",
+          "desc": "若目標的破裂 強度不低於5級，則使本技能造成的傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "深剜傷口",
+          "desc": "若目標的破裂 強度不低於5級，則使本技能的基礎威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層體力恢復降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於5級，則對目標施加1層體力恢復降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "過激的猛砸",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於10級，則本技能命中時不消耗目標的破裂 層數",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於10級，則使本硬幣造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "止血",
+          "desc": "[WhenUse] 若自身帶有流血 ，則使自身的流血 強度減少2級(不會降至1級以下)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "巨力猛砸",
+          "desc": "若目標的破裂 層數不低於3層，則使本技能造成的傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "深剜傷口",
+          "desc": "若目標的破裂 層數不低於3層，則使本技能的基礎威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層體力恢復降低 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於5級，則對目標施加1層體力恢復降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "過激的猛砸",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於10級，則本技能命中時不消耗目標的破裂 層數",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於10級，則使本硬幣造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "止血",
+          "desc": "[WhenUse] 若自身帶有流血 ，則使自身的流血 強度減少2級(不會降至1級以下)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "橫行霸道",
+          "desc": "[WhenUse] 使自身增加2級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣造成的傷害+20%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "欺凌",
+          "desc": "[WhenUse] 使自身增加2級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 若目標帶有[TrulyWeak]，則使本硬幣造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "“嘎嗷嗷”",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "“嘎嗚嗚”",
+          "desc": "若目標的流血 強度不低於5級，則使本技能造成的傷害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "不是，所以…“嘎嗷嗷”",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "…",
+          "desc": "[WhenUse] 使自身獲得1層守護 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "喂，我還得繼續下去嗎？",
+          "desc": "[WhenUse] 下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

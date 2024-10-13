@@ -1227,6 +1227,22 @@
     {
       "id": "introduce_sentence_156",
       "content": "{0}的名譽可能會一落千丈……"
+    },
+    {
+      "id": "introduce_word_157",
+      "content": "觀眾"
+    },
+    {
+      "id": "introduce_sentence_157",
+      "content": "有知道如何解決這種情況的{0}嗎……"
+    },
+    {
+      "id": "introduce_word_158",
+      "content": "安全"
+    },
+    {
+      "id": "introduce_sentence_158",
+      "content": "我覺得希望所有人都能{0}並沒有錯。"
     }
   ]
 }

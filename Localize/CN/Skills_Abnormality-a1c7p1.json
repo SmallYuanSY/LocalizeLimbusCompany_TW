@@ -1,0 +1,407 @@
+{
+  "dataList": [
+    {
+      "id": 837101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "來吧",
+          "desc": "[WhenUse] 對目標施加[DuelDeclaration_Camille]\n[WhenUse] 使自身增加5級呼吸法 強度\n[WinDuel] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "正手直刺",
+          "desc": "[WhenUse] 使自身增加2級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "長刺",
+          "desc": "[WhenUse] 若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+2\n[WinDuel] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則對目標施加3層破裂 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣暴擊時造成的傷害+50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "向您致敬",
+          "desc": "[WhenUse] 若自身的速度值高於攻擊者，則使本技能的硬幣威力+1(速度值每相差2點，使本技能的硬幣威力+1。最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得4層呼吸法 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度並對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加5級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度並對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加5級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度並對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣暴擊時造成的傷害+100%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有1級破裂 強度，使本技能造成的傷害+5%(最多+50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "回應",
+          "desc": "[WinDuel] 根據拼點次數相應使本技能造成的傷害增加(每次拼點使本技能造成的傷害+10%，最多+50%)\n[WinDuel] 下回合使自身獲得2層迅捷 \n[DefeatDuel] 下回合對自身施加2層束縛 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防守閃避",
+          "desc": "[OnSucceedEvade] 下回合使自身獲得1層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我會把你切得很漂亮！",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1(最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 重複使用本硬幣(自身的[BloodScissor]階段-1)次(最多2次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "更加鋒利",
+          "desc": "[WhenUse] 消耗至多20層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值。\n- 若自身未通過本技能消耗[BloodDinner]，則使自身增加30級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "剪斷！！",
+          "desc": "[WhenUse] 消耗至多30層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[WhenUse] 若目標帶有[LineCutting]，則使本技能的拼點威力+5\n攻擊命中帶有[LineCutting]的目標時，使自身恢復5點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我也會把你切斷！",
+          "desc": "[BeforeAttack] 自身的[BloodScissor]每到1階段，使本技能的攻擊容量+1 (最多+2)\n[WhenUse] 消耗至多30層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拼點威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層[BloodScissorScars]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加5級流血 強度並對其施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "現在輪到你了",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層[BloodScissorScars]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加[LineCutting]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我會把你一同切開！",
+          "desc": "[BeforeAttack] 自身的[BloodScissor]每到1階段，使本技能的攻擊容量+1\n[WhenUse] 消耗至多100層[BloodDinner]， 每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[EndSkill] 消耗10層[BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                },
+                {
+                  "desc": "[WinDuelAttack] 觸發目標的流血 (最多10級)。使目標的流血 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                },
+                {
+                  "desc": "[WinDuelAttack] 觸發目標的流血 (最多10級)。使目標的流血 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
+                },
+                {
+                  "desc": "[WinDuelAttack] 觸發目標的流血 (最多10級)。使目標的流血 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自身的[BloodScissor]每到1階段，使本硬幣造成的傷害+40% (最多+120%)"
+                },
+                {
+                  "desc": "[EnemyKill] 若本硬幣擊殺目標，則使自身恢復對目標造成傷害量50%的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "如此無禮！",
+          "desc": "[DuelCounter]\n[WhenUse] 自身的[BloodScissor]每到1階段，使本技能的拼點威力+1 (最多+3)\n[WhenUse] 自身每帶有5級流血 強度， 使本技能的硬幣威力+1 (最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加4層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我不需要不美麗的東西！！",
+          "desc": "[CantChangeTarget]\n優先指定現存體力比例最低的單位",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 擊殺體力比例低於30%的單位"
+                },
+                {
+                  "desc": "[EnemyKill] 獲得陣亡單位體力上限30%的[BloodDinner]"
+                },
+                {
+                  "desc": "[EnemyKill] 下回合對自身施加4層易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

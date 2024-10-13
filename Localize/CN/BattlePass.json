@@ -162,7 +162,7 @@
     },
     {
       "id": "battlepass_limbus_pass_benefit_ex_box_reward_count",
-      "content": "{1} [第{0}賽季]自我碎片自選箱 "
+      "content": "<size=75%>(根據購買通行證時的等級\n獲得<style=\"highlightConverted\">{1}</style>個[第{0}賽季]自我碎片自選箱)</size>"
     },
     {
       "id": "battlepass_select_product_popup_title",
@@ -206,7 +206,7 @@
     },
     {
       "id": "until_season_5_start",
-      "content": "到第五賽季開始前"
+      "content": "到第六賽季開始前"
     },
     {
       "id": "battlepass_ask_purchase_limbus_pass_package",
@@ -218,7 +218,7 @@
     },
     {
       "id": "battlepass_purchase_desc_ex",
-      "content": "通行證超額獎勵中可獲取的[第4賽季]自我碎片自選箱的數量由<style=\"highlightConverted\">{0}</style>增加到<style=\"highlightConverted\">{1}</style>個"
+      "content": "通行證超額獎勵中可獲取的[第5賽季]自我碎片自選箱的數量由<style=\"highlightConverted\">{0}</style>增加到<style=\"highlightConverted\">{1}</style>個"
     },
     {
       "id": "battlepass_purchase_desc_pass_level",
@@ -226,7 +226,7 @@
     },
     {
       "id": "battlepass_purchase_desc_level_ticket",
-      "content": "人格等級直升券IV"
+      "content": "人格等級直升券V"
     },
     {
       "id": "battlepass_purchase_desc_special_banner",
@@ -242,7 +242,7 @@
     },
     {
       "id": "battle_pass_package_button_desc_with_limbus_2",
-      "content": "◆ 購買後立即提升10級通行證等級\n◆ 邊獄組合包特別橫幅\n◆ 人格等級直升券IV"
+      "content": "◆ 購買後立即提升10級通行證等級\n◆ 2個邊獄組合包特別橫幅\n◆ 人格等級直升券IV"
     },
     {
       "id": "battle_pass_product_limbus_desc_summary",
@@ -250,11 +250,11 @@
     },
     {
       "id": "battle_pass_product_package_with_limbus_desc_summary",
-      "content": "◆ 第4賽季邊獄通行證\n◆ 購買後立即提升10級通行證等級\n◆ 人格等級直升券IV\n◆ 邊獄通行證組合包特別橫幅"
+      "content": "◆ 第4賽季邊獄通行證\n◆ 購買後立即提升10級通行證等級\n◆ 人格等級直升券V\n◆ 邊獄通行證組合包特別橫幅"
     },
     {
       "id": "battle_pass_product_package_without_limbus_desc_summary",
-      "content": "◆ 購買後立即提升10級通行證等級\n◆ 人格等級直升券IV\n◆ 邊獄通行證組合包特別橫幅"
+      "content": "◆ 購買後立即提升10級通行證等級\n◆ 人格等級直升券V\n◆ 邊獄通行證組合包特別橫幅"
     },
     {
       "id": "battle_pass_sale_10",

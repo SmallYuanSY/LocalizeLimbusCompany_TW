@@ -690,6 +690,236 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "開始鎮壓。",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身獲得1層防御等級提升 \n[WinDuel] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] 對目標施加1層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得2層防御等級提升 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "開始鎮壓。",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身獲得2層防御等級提升 \n[WhenUse] 若目標的震顫 層數不低於4層，則使本技能的拼點威力+1\n[WinDuel] 對自身施加2層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] 對目標施加2層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得2層防御等級提升 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "開始鎮壓。",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身獲得2層防御等級提升 \n[WhenUse] 若目標的震顫 層數不低於4層，則使本技能的拼點威力+2\n[WinDuel] 對自身施加3層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] 對目標施加2層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防御等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "戰鬥準備",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WinDuel] 對自身施加2層震顫 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使除自身以外帶有防御等級提升 的1名友方單位在下回合獲得(其帶有的防御等級提升 層數/3)層攻擊等級提升 (每回合最多1次，最多3層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "戰鬥準備",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多3層)\n[WhenUse] 若自身的防御等級提升 層數不低於4層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] 使除自身以外現存體力比例最低的1名友方單位在下回合獲得2層防御等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使除自身以外帶有防御等級提升 的1名友方單位在下回合獲得(其帶有的防御等級提升 層數/2)層攻擊等級提升 (每回合最多1次，最多3層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "戰鬥準備",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多3層)\n[WhenUse] 若自身的防御等級提升 層數不低於4層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] 使除自身以外現存體力比例最低的2名友方單位在下回合獲得2層防御等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使除自身以外帶有防御等級提升 的2名友方單位在下回合獲得(其帶有的防御等級提升 層數/2)層攻擊等級提升 (每回合最多1次，最多3層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "以身為盾",
+          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多2層)\n[WhenUse] 自身每帶有3層防御等級提升 ，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使除自身以外現存體力比例最低的1名友方單位在下回合獲得3層防御等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身至多8層震顫 ，並對目標施加相應層數的震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "以身為盾",
+          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多4層)\n[WhenUse] 自身每帶有3層防御等級提升 ，使本技能的硬幣威力+1(最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使除自身以外現存體力比例最低的1名友方單位在下回合獲得4層防御等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗自身至多8層震顫 ，並對目標施加相應層數的震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zwei騎士團巨劍術-防御",
+          "desc": "[CanDuelGuard]\n[StartBattle] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 對自身施加2層震顫 (每回合最多1次)\n[WinDuel] 使目標震顫引爆 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zwei騎士團巨劍術-防御",
+          "desc": "[CanDuelGuard]\n[StartBattle] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 對自身施加3層震顫 (每回合最多1次)\n[WinDuel] 使目標震顫引爆 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -12,8 +12,8 @@ namespace LimbusLocalize
 {
     public static class LLC_UpdateChecker
     {
-        public static ConfigEntry<bool> AutoUpdate = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "AutoUpdate", false, "是否自动检查并下载更新 ( true | false )");
-        public static ConfigEntry<URI> UpdateURI = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "UpdateURI", URI.GitHub, "自动更新所使用URI ( GitHub:默认 | Mirror_OneDrive:镜像,更新可能有延迟,但下载速度更快 )");
+        public static ConfigEntry<bool> AutoUpdate = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "AutoUpdate", false, "是否自動檢查並下載更新 ( true | false )");
+        public static ConfigEntry<URI> UpdateURI = LCB_LLCMod.LLC_Settings.Bind("LLC Settings", "UpdateURI", URI.GitHub, "自動更新使用URI ( GitHub:默認 | Mirror_OneDrive:備用,更新可能有延遲但下載更快 )");
         public static void StartAutoUpdate()
         {
             if (AutoUpdate.Value)

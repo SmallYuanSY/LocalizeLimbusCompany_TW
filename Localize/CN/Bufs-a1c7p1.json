@@ -1,0 +1,158 @@
+{
+  "dataList": [
+    {
+      "id": "BloodScissor",
+      "name": "帶血的剪刃",
+      "desc": "- 最大值：10\n- 帶血的剪刃 1階段\n- 使用特殊技能",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorTwo",
+      "name": "帶血的剪刃II",
+      "desc": "- 最大值：20\n- 帶血的剪刃 2階段\n- 回合開始時，每帶有5層該效果，使自身獲得1層攻擊等級提升 並對自身施加1層防禦等級降低 \n- 使用特殊技能",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorThree",
+      "name": "帶血的剪刃III",
+      "desc": "- 最大值：30\n- 帶血的剪刃 3階段\n- 回合開始時，每帶有5層該效果，使自身獲得2層攻擊等級提升 並對自身施加1層防禦等級降低 \n- 使用特殊技能",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner",
+      "name": "血宴",
+      "desc": "- 最大值：999\n- 儲存在該戰鬥場地造成的流血 傷害\n- 改變戰鬥場地時重置該效果\n- 該效果層數全體單位共同計算",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner_Accumulation",
+      "name": "消耗血宴總數",
+      "desc": "- 最大值：999\n- 本場戰鬥中累積消耗的血宴 層數：{0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_LowMorale",
+      "name": "飢餓",
+      "desc": "- 士氣低落\n- 回合開始時，對自身施加1層束縛 並使自身獲得2層強壯 ，回合結束時，受到5點理智傷害",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_Panic",
+      "name": "飢餓",
+      "desc": "- 陷入恐慌\n回合開始時，對自身施加2層束縛 並使自身獲得4層強壯 ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclaration_Camille",
+      "name": "決鬥宣告-卡米爾",
+      "desc": "施加決鬥宣告 的單位與帶有該狀態的單位拼點時，使施加該狀態的單位拼點威力+1\n攻擊命中時，下回合使自身獲得1層迅捷 。(每回合最多4次)\n當該單位對其他單位施加決鬥宣告 時，此效果轉移到新的目標上。\n當被其他單位施加決鬥宣告 時，此效果被替換。",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RecklessDuel",
+      "name": "魯莽的決鬥",
+      "desc": "回合結束時，自身每失去10%的體力，下回合使自身獲得1層拼點強壯 (最多5層)\n回合結束時，自身每失去10%的體力，下回合對自身施加1層束縛 (最多5層)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttack",
+      "name": "集中攻擊",
+      "desc": "特定行動槽帶有",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TrulyWeak",
+      "name": "弱者",
+      "desc": "- 造成的傷害-10%\n- 回合結束時，減少1層該效果",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RealPaperBear",
+      "name": "真正的熊",
+      "desc": "- 這頭可怕的熊連人都吃",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorScars",
+      "name": "深度裂傷",
+      "desc": "- 對自身施加3層流血 並觸發流血 ，隨後減少1層流血 \n- 回合結束時解除該效果",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LineCutting",
+      "name": "縫紉對象",
+      "desc": "- 優先成為？？？的攻擊指定目標\n- 回合結束時解除該效果",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberOne",
+      "name": "衰老",
+      "desc": "- 很久未飲用過血液了\n- 攻擊等級-15\n- 防禦等級-15",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberTwo",
+      "name": "衰老",
+      "desc": "- 很久未飲用過血液了\n- 攻擊等級-22\n- 防禦等級-22",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodShooting",
+      "name": "血獵！！",
+      "desc": "陣亡時\n- 獲得30層血宴 \n- 獲得持有量最少的2個罪孽碎片\n- 下回合使全體友方單位的所有物理抗性增加0.1。可疊加。(最多5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RighteousFeeling",
+      "name": "正義至極！！",
+      "desc": "- 每回合結束時，下回合使自身獲得1層迅捷 ，3層攻擊等級提升 與3層防禦等級降低 \n- 每滿3回合後，使自身額外獲得2層攻擊等級提升 (最多6層)\n- 拼點勝利時，恢復3點理智值\n- 擊殺敵方單位時，下回合使自身獲得1層拼點強壯 (每回合最多1次)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclarationMeursault",
+      "name": "決鬥宣告-默爾索",
+      "desc": "施加決鬥宣告 的單位與帶有該狀態的單位拼點時，使施加該狀態的單位拼點威力+1\n攻擊命中時，下回合使自身獲得1層迅捷 。(每回合最多4次)\n當該單位對其他單位施加決鬥宣告 時，此效果轉移到新的目標上。\n當被其他單位施加決鬥宣告 時，此效果被替換。",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttackMeursault",
+      "name": "集中攻擊-默爾索",
+      "desc": "<集中遭遇戰專屬>\n施加本集中攻擊的單位根據目標行動槽的集中攻擊層數獲得相應效果，\n1層：拼點威力+1\n2層：基礎威力+1\n3層：基礎威力+1，硬幣威力+1\n- 若施加本集中攻擊的單位一回合內未能命中其施加集中攻擊的行動槽，則解除本效果",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_LowMorale",
+      "name": "決鬥戰力",
+      "desc": "- 士氣低落\n- 回合開始時，使自身獲得2層攻擊等級提升 。拼點失敗時，對自身施加1層防禦等級降低 (每回合最多3層)。最小速度值-1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_Panic",
+      "name": "決鬥戰力",
+      "desc": "- 陷入恐慌\n- 回合開始時，使自身獲得4層攻擊等級提升 。拼點失敗時，對自身施加2層防禦等級降低 (每回合最多6層)。最小速度值-1",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

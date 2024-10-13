@@ -279,7 +279,7 @@
         {
           "level": 4,
           "name": "到我身邊！",
-          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得2層防禦等級提升 \n[WhenUse] 下回合使除自身以外體力上限最高的1名友方單位最左側的行動槽的挑釁值 + (最大共鳴數)。(每回合最多1次)\n- 若最大完全共鳴數不低於4，則觸發該效果時使該單位下回合獲得1層守護 (每回合最多1次)",
+          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得2層防御等級提升 \n[WhenUse] 下回合使除自身以外體力上限最高的1名友方單位最左側的行動槽的挑釁值 + (最大共鳴數)。(每回合最多1次)\n- 若最大完全共鳴數不低於4，則觸發該效果時使該單位下回合獲得1層守護 (每回合最多1次)",
           "coinlist": [
             {},
             {
@@ -711,7 +711,7 @@
         {
           "level": 1,
           "name": "Zwei騎士團巨劍術",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2\n[WhenUse] 自身每帶有4層震顫 ，使自身獲得1層防禦等級提升 (最多2層)",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2\n[WhenUse] 自身每帶有4層震顫 ，使自身獲得1層防御等級提升 (最多2層)",
           "coinlist": [
             {
               "coindescs": [
@@ -719,7 +719,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防御等級提升 "
                 }
               ]
             },
@@ -729,7 +729,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防御等級提升 "
                 }
               ]
             }
@@ -738,7 +738,7 @@
         {
           "level": 2,
           "name": "Zwei騎士團巨劍術",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有3層震顫 ，使自身獲得1層防禦等級提升 (最多2層)\n[WhenUse] 若自身的防禦等級提升 層數不低於4層，則使本技能的基礎威力+1",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有3層震顫 ，使自身獲得1層防御等級提升 (最多2層)\n[WhenUse] 若自身的防御等級提升 層數不低於4層，則使本技能的基礎威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -746,7 +746,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防御等級提升 "
                 }
               ]
             },
@@ -756,7 +756,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防御等級提升 "
                 }
               ]
             }
@@ -765,7 +765,7 @@
         {
           "level": 4,
           "name": "Zwei騎士團巨劍術",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多3層)\n[WhenUse] 自身每帶有4層防禦等級提升 ，使本技能的基礎威力+1(最多+2)",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多3層)\n[WhenUse] 自身每帶有4層防御等級提升 ，使本技能的基礎威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -773,7 +773,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防御等級提升 "
                 }
               ]
             },
@@ -783,7 +783,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防御等級提升 "
                 }
               ]
             }
@@ -797,7 +797,7 @@
         {
           "level": 1,
           "name": "禁止通行。",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多3層)\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多3層)\n[WinDuel] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -809,7 +809,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得3層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得3層防御等級提升 "
                 }
               ]
             },
@@ -828,7 +828,7 @@
         {
           "level": 2,
           "name": "禁止通行。",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多4層)\n[WhenUse] 若自身的防禦等級提升 層數不低於5層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多4層)\n[WhenUse] 若自身的防御等級提升 層數不低於5層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -840,7 +840,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得3層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得3層防御等級提升 "
                 }
               ]
             },
@@ -859,7 +859,7 @@
         {
           "level": 4,
           "name": "禁止通行。",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多5層)\n[WhenUse] 若自身的防禦等級提升 層數不低於4層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多5層)\n[WhenUse] 若自身的防御等級提升 層數不低於4層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -871,7 +871,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得4層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得4層防御等級提升 "
                 }
               ]
             },
@@ -895,7 +895,7 @@
         {
           "level": 3,
           "name": "保護",
-          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多3層)\n[WhenUse] 若自身帶有防御姿態 ，則使本技能造成的傷害+50%\n[WhenUse] 自身每帶有4級防禦等級提升 ，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +8\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多3層)\n[WhenUse] 若自身帶有防御姿態 ，則使本技能造成的傷害+50%\n[WhenUse] 自身每帶有4級防御等級提升 ，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +8\n[WinDuel] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -929,7 +929,7 @@
         {
           "level": 4,
           "name": "保護",
-          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多5層)\n[WhenUse] 若自身帶有防御姿態 ，則使本技能造成的傷害+70%\n[WhenUse] 自身每帶有4級防禦等級提升 ，使本技能的硬幣威力+1(最多+4)\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +10\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防御等級提升 (最多5層)\n[WhenUse] 若自身帶有防御姿態 ，則使本技能造成的傷害+70%\n[WhenUse] 自身每帶有4級防御等級提升 ，使本技能的硬幣威力+1(最多+4)\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +10\n[WinDuel] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
