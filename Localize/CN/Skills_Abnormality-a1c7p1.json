@@ -219,7 +219,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "剪斷！！",
+          "name": "剪剪！！",
           "desc": "[WhenUse] 消耗至多30層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[WhenUse] 若目標帶有[LineCutting]，則使本技能的拼點威力+5\n攻擊命中帶有[LineCutting]的目標時，使自身恢復5點理智值",
           "coinlist": [
             {
@@ -303,7 +303,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我會把你一同切開！",
+          "name": "我會把你一同剪開！",
           "desc": "[BeforeAttack] 自身的[BloodScissor]每到1階段，使本技能的攻擊容量+1\n[WhenUse] 消耗至多100層[BloodDinner]， 每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[EndSkill] 消耗10層[BloodScissor]",
           "coinlist": [
             {

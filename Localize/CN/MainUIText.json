@@ -1767,6 +1767,30 @@
     {
       "id": "mainui_ask_use_personality_level_ticket_disadvantage",
       "content": "在您當前的故事進度使用本張票券\n將使您選擇的人格提升等級至{1}而非{0}，\n且可能造成大量的經驗值損失。\n\n您確定要使用本張票券嗎？"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_title",
+      "content": "經驗采光 #7（斬擊）"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_open_day",
+      "content": "經驗采光#7（斬擊）將在周一，周二，周日開放。"
+    },
+    {
+      "id": "mainui_exp_dungeon_8_title",
+      "content": "經驗采光 #7（突刺）"
+    },
+    {
+      "id": "mainui_exp_dungeon_8_open_day",
+      "content": "經驗采光#7（斬擊）將在周三，周四，周日開放。"
+    },
+    {
+      "id": "mainui_exp_dungeon_9_title",
+      "content": "經驗采光 #7（打擊）"
+    },
+    {
+      "id": "mainui_exp_dungeon_9_open_day",
+      "content": "經驗采光#7（斬擊）將在周五，周六，周日開放。"
     }
   ]
 }

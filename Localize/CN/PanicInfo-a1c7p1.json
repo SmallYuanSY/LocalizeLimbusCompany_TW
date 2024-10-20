@@ -8,7 +8,7 @@
     },
     {
       "id": 1028,
-      "panicName": "決鬥戰力",
+      "panicName": "決鬥擔當",
       "lowMoraleDescription": "回合開始時，使自身獲得2層[AttackUp]。拼點失敗時，對自身施加1層[DefenseDown](每回合最多3層)。最小速度值-1",
       "panicDescription": "回合開始時，使自身獲得4層[AttackUp]。拼點失敗時，對自身施加2層[DefenseDown](每回合最多6層)。最小速度值-1"
     }

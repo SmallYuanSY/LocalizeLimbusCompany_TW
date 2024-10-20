@@ -763,6 +763,14 @@
     {
       "id": "battle_StageBuffUI_Stackdesc",
       "content": "(當前值：{0})"
+    },
+    {
+      "id": "EGOSelectUI_not_allow",
+      "content": "目前無法裝備此E.G.O。"
+    },
+    {
+      "id": "laceration_surge",
+      "content": "출혈쇄도!"
     }
   ]
 }

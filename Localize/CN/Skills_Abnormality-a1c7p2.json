@@ -1,0 +1,432 @@
+{
+  "dataList": [
+    {
+      "id": 838101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "步伐優雅…",
+          "desc": "優先指定未處於混亂狀態的友方單位，若指定友方單位，則使本技能的拼點威力+10並使本技能造成的傷害固定為0點\n目標每帶有3級流血 強度，使本技能的拼點威力+1(最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度\n- 若指定友方單位，則改為下回合使其獲得3層攻擊等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "姿態優美…",
+          "desc": "優先指定未處於混亂狀態的友方單位，若指定友方單位，則使本技能的拼點威力+10並使本技能造成的傷害固定為0點\n目標每帶有3級流血 強度，使本技能的拼點威力+1(最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 \n- 若指定友方單位，則改為下回合使其獲得3層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "向觀眾招手…",
+          "desc": "[WhenUse] 自身每帶有5層[FestivalFever]或目標每帶有6級流血 強度，使本技能的最終威力+1(最多+4)\n[WhenUse] 若[BloodDinner]層數低於15層，則使自身增加15級流血 強度並立即觸發自身的流血 1次，隨後使自身的流血 層數減少1層(若現存體力低於10%，則僅發動該效果中使自身增加流血 強度與施加流血 層數的部分)\n[EndSkill] 消耗15層[BloodDinner]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有6級流血 強度，使自身獲得1層攻擊等級提升 與1層防禦等級提升 (每個目標最多3次)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 對目標施加5層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層[BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "夢幻的遊行",
+          "desc": "[CantIdentify]\n主要目標優先指定敵方單位，次要目標優先指定友方單位。若指定友方單位，則使本技能的拼點威力+10並使本技能造成的傷害固定為0點\n[WhenUse] 自身每帶有20層[BloodDinner_Accumulation]，使本技能的拼點威力+1(最多+10)\n[WhenUse] 若[BloodDinner]層數低於25層，則使自身增加25級流血 強度並立即觸發自身的流血 1次，隨後使自身的流血 層數減少1層(若現存體力低於10%，則僅發動該效果中使自身增加流血 強度與施加流血 層數的部分)\n[EndSkill] 消耗25層[BloodDinner]\n[EndBattle] 消耗所有[FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有3層[FestivalFever]，使其獲得1層攻擊等級提升 與1層防禦等級提升 (每個目標最多3次)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 \n- 若指定友方單位，則改為使其獲得5層[BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "遊行會永遠重複下去",
+          "desc": "[WhenUse] 自身每帶有20層[BloodDinner_Accumulation]，使本技能的拼點威力+1(最多+10)\n[WhenUse] 若[BloodDinner]層數低於50層，則使自身增加25級流血 強度並對自身施加2層流血，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層(若現存體力低於10%，則僅發動該效果中使自身增加流血 強度與施加流血 層數的部分)\n[WhenUse] 消耗一半的[BloodDinner]\n[EndBattle] 消耗所有[IncompleteParade]\n[EndBattle] 使自身獲得10層[FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量25%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量25%的體力"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度與5級破裂 強度"
+                },
+                {
+                  "desc": "[EndCoin] 本技能每消耗10層血宴 ，使自身獲得1層[BloomingThorns](最多10層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "只是重複…",
+          "desc": "[DuelCounter]\n[WhenUse] 若自身的[FestivalFever]層數不低於5層，則使本技能的拼點威力+3\n[StartBattle] 使自身獲得5層[BloomingThorns]\n[DefeatDuel] 使自身失去5層[BloomingThorns]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "落幕",
+          "desc": "[WhenUse] 消耗一半的[BloodDinner]層數\n[WinDuel] 使本技能造成的傷害+(本技能消耗的[BloodDinner]層數)% (最多+150%)\n[DefeatDuel] 使本技能造成的傷害-50%，且本技能造成的傷害不會使目標陷入混亂\n[EndSkill] 使自身減少相當於本技能消耗的[BloodDinner]層數的理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加6級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加6層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 使目標增加6級破裂 強度"
+                },
+                {
+                  "desc": "[WinDuelAttack] 對目標施加6層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[EndCoin] 本技能每消耗10層血宴 ，使自身獲得1層[BloomingThorns](最多10層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "泉之龍",
+          "desc": "[WhenUse] 下回合使自身獲得2層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "秋之蓮",
+          "desc": "[WhenUse] 下回合使自身獲得2層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "微弱的軌跡",
+          "desc": "[WhenUse] 下回合使自身獲得3層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層斬擊易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蒼白的軌跡",
+          "desc": "若自身的速度值高於目標5點或以上，則使本技能的拼點威力+5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標額外造成100點傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "赤箭",
+          "desc": "[WhenUse] 下回合使自身獲得2層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標額外造成50點傷害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標額外造成50點傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "黑箭",
+          "desc": "[WhenUse] 下回合使自身獲得2層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MentalCrack]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "水之鏡",
+          "desc": "[CanDuelGuard]\n[WhenUse] 使自身獲得3層守護 \n[WinDuel] 對目標造成相當於本技能最終拼點威力的體力傷害",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "電子加速軌道活化",
+          "desc": "[StartBattle] 下回合使自身獲得10層強壯 與10層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "箭",
+          "desc": "[WhenUse] 使自身獲得5層突刺傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -842,6 +842,245 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1061001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "猛砸",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "猛砸",
+          "desc": "若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "猛砸",
+          "desc": "若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "碎骨機",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "碎骨機",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能不會增加破裂 強度或施加破裂 層數，而改為使本技能的硬幣威力+1\n[WinDuel] 對目標施加1層破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層體力恢覆降低 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "碎骨機",
+          "desc": "若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能不會增加破裂 強度或施加破裂 層數，而改為使本技能的硬幣威力+1\n- 若目標屬於<血魔>或<血袋>，則使本技能的硬幣威力額外+1\n[WinDuel] 對目標施加1層破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層體力恢覆降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "清爽結束狩獵",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能不會增加破裂 強度或施加破裂 層數，而改為使本技能的硬幣威力+1\n[WinDuel] 對目標施加1層破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "清爽結束狩獵",
+          "desc": "若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能不會增加破裂 強度或施加破裂 層數，而改為使本技能的硬幣威力+1\n- 若目標屬於<血魔>或<血袋>，則使本技能的硬幣威力額外+1\n[WinDuel] 對目標施加2層破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於15級，或目標現存體力不高於30%，則重覆使用本硬幣(每個技能最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "緊急止血",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "緊急止血",
+          "desc": "[StartBattle] 使自身的流血 強度減少2級(每回合最多3次，若流血 強度降至0級或以下，則解除流血 )",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

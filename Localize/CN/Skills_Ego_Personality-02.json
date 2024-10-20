@@ -343,6 +343,196 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2020711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "套索",
+          "abName": "玫瑰獵人",
+          "desc": "目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "套索",
+          "abName": "玫瑰獵人",
+          "desc": "若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 下回合使自身獲得2層迅捷 \n[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "套索",
+          "abName": "玫瑰獵人",
+          "desc": "若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 下回合使自身獲得2層迅捷 \n[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1\n- 若該共鳴為暴食共鳴，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "套索",
+          "abName": "玫瑰獵人",
+          "desc": "[CantIdentify]\n隨機指定目標\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Snare]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "套索",
+          "abName": "玫瑰獵人",
+          "desc": "[CantIdentify]\n隨機指定目標\n若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 下回合使自身獲得2層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Snare]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有1級破裂 強度，使本硬幣造成的傷害+2%(最多+30%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "套索",
+          "abName": "玫瑰獵人",
+          "desc": "[CantIdentify]\n隨機指定目標\n若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 下回合使自身獲得2層迅捷 \n[EndSkill] 若使目標陷入混亂或擊殺目標，則下回合使自身獲得1層暴食強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Snare]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有1級破裂 強度，使本硬幣造成的傷害+2%(最多+60%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

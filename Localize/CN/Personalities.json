@@ -832,6 +832,20 @@
       "name": "辛克萊",
       "nameWithTitle": "辛克萊",
       "desc": "辛克萊的第10人格"
+    },
+    {
+      "id": 11111,
+      "title": "拉·曼卻領\n理發師",
+      "name": "奧提斯",
+      "nameWithTitle": "奧提斯",
+      "desc": "奧提斯的第11人格"
+    },
+    {
+      "id": 10610,
+      "title": "獵牙事務所\n收尾人",
+      "name": "鴻璐",
+      "nameWithTitle": "鴻璐",
+      "desc": "鴻璐的第10人格"
     }
   ]
 }

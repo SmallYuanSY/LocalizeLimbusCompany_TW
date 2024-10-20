@@ -1,0 +1,129 @@
+{
+  "dataList": [
+    {
+      "id": 40000101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "赤擊",
+          "desc": "[WhenUse] 若目標帶有的負面狀態不少於5種，則使本技能的拼點威力+1\n[WhenUse] 目標每帶有3級破裂 強度，使本技能的基礎威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層攻擊等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層攻擊等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "赤鳳",
+          "desc": "[WhenUse] 若目標帶有的負面狀態不少於5種，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層防禦等級降低 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得3層攻擊等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據目標的破裂 強度，使自身增加相應的呼吸法 強度(最多5級)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 根據目標的破裂 層數，使自身獲得相應層數的呼吸法 (最多2層)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣造成的傷害+50%"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] 下回合使自身獲得3層攻擊等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "赤春",
+          "desc": "[StartBattle] 目標每帶有4種負面狀態，使本技能的攻擊容量+1(最多+2)\n[WhenUse] 若目標帶有的負面狀態不低於5種，則使本技能的基礎威力+5\n[WhenUse] 若目標的破裂 強度與破裂 層數之和不低於15點，則使本技能的硬幣威力+5\n[WinDuel] 對目標施加2層破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加7級流血 強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣造成的傷害+200%"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加3層流血 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使自身增加2級呼吸法 強度並使自身獲得1層呼吸法 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "秀避",
+          "desc": "[OnSucceedEvade] 下回合使自身增加1級呼吸法 強度(每回合最多3次)"
+        }
+      ]
+    }
+  ]
+}
