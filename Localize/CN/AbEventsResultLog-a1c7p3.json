@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "id": "837901",
+      "content": "<color=#ebcaa2>全體罪人</color>受到了<color=#fe4b48>{0}點理智傷害</color>"
+    },
+    {
+      "id": "837902_1",
+      "content": "<color=#ebcaa2>罪人[{0}]</color>受到了<color=#e30000>{1}點體力傷害</color>, 恢復了<color=#80c9ff>{2}點理智值</color>"
+    },
+    {
+      "id": "837902_2",
+      "content": "<color=#ebcaa2>[{0}]</color>每回合獲得%{2} [{1}]/%"
+    },
+    {
+      "id": "837601_success_1_1",
+      "content": "玫瑰獵人獲得<color=#e30000>3層攻擊等級降低 與3層防禦等級降低 </color> "
+    },
+    {
+      "id": "837601_success_1_2",
+      "content": "玫瑰獵人獲得<color=#e30000>3層攻擊等級降低 與3層防禦等級降低 </color> "
+    },
+    {
+      "id": "837601_failure_1_1",
+      "content": "罪人{0}受到<color=#e30000>體力上限15%的傷害</color>"
+    },
+    {
+      "id": "837601_failure_1_2",
+      "content": "玫瑰獵人獲得<color=#f8c200>3層攻擊等級提升 與3層防禦等級提升 </color> "
+    }
+  ]
+}

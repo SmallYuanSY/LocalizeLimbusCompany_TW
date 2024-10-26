@@ -383,6 +383,175 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2090711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "詛咒之釘",
+          "abName": "痛苦泰迪",
+          "desc": "[EndSkill] 使自身與現存體力比例最低的2名友方單位恢覆自身體力上限12.5%的體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層尖釘 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "詛咒之釘",
+          "abName": "痛苦泰迪",
+          "desc": "[EndSkill] 使自身與現存體力比例最低的2名友方單位恢覆自身體力上限12.5%的體力\n- 受到恢覆的單位每帶有2種負面狀態，使其額外恢覆2.5%的體力(最多7.5%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層尖釘 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "詛咒之釘",
+          "abName": "痛苦泰迪",
+          "desc": "[EndSkill] 使自身與現存體力比例最低的2名友方單位恢覆自身體力上限15%的體力\n- 受到恢覆的單位每帶有1種負面狀態，使其額外恢覆2.5%的體力(最多10%)\n- 若包括本技能在內嫉妒共鳴數不低於4，則額外使1名友方單位恢覆體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層詛咒 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層尖釘 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "詛咒之釘",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢覆自身體力上限15%的體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 "
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加2層尖釘 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "詛咒之釘",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢覆自身體力上限15%的體力\n- 受到恢覆的單位每帶有2種負面狀態，下回合使其獲得1層攻擊等級提升 (最多2層)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 "
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加2層尖釘 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "詛咒之釘",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢覆自身體力上限20%的體力\n- 受到恢覆的單位每帶有1種負面狀態，下回合使其獲得1層攻擊等級提升 (最多3層)\n- 若包括本技能在內嫉妒共鳴數不低於4，則額外使1名友方單位恢覆體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層詛咒 "
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加3層尖釘 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

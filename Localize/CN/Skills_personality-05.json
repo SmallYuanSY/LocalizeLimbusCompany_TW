@@ -996,7 +996,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7點，則對目標施加2層破裂 "
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則對目標施加2層破裂 "
                 }
               ]
             }
@@ -1030,7 +1030,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7點，則對目標施加2層破裂 "
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則對目標施加2層破裂 "
                 }
               ]
             }

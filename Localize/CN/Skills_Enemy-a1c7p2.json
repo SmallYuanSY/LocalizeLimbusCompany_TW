@@ -1017,7 +1017,7 @@
         {
           "level": 1,
           "name": "永遠的幸福王國拉·曼卻領！",
-          "desc": "[WhenUse] 若[BloodDinner]低於40層，則使自身增加20級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndSkill] 消耗40層[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]",
+          "desc": "[WhenUse] 若[BloodDinner]低於40層，則使自身增加20級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndSkill] 消耗40層[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]\n\n",
           "coinlist": [
             {
               "coindescs": [
@@ -1143,7 +1143,7 @@
         {
           "level": 1,
           "name": "永遠的幸福王國拉·曼卻領！",
-          "desc": "[WhenUse] 若[BloodDinner]低於40層，則使自身增加20級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndSkill] 消耗40層[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]",
+          "desc": "[WhenUse] 若[BloodDinner]低於40層，則使自身增加20級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndSkill] 消耗40層[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]\n\n",
           "coinlist": [
             {
               "coindescs": [

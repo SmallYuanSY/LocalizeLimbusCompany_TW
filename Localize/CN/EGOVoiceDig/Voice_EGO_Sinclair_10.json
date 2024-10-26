@@ -54,6 +54,16 @@
       "id": "battle_erosion_21006_1",
       "desc": "E.G.O侵蝕",
       "dlg": ""
+    },
+    {
+      "id": "battle_awaken_21007_1",
+      "desc": "E.G.O覺醒",
+      "dlg": "你也試試被刺穿吧。體會被人詛咒是何種心情……"
+    },
+    {
+      "id": "battle_erosion_21007_1",
+      "desc": "E.G.O侵蝕",
+      "dlg": "被撕裂了呢！我得縫好才行！呵呵……過來吧！"
     }
   ]
 }

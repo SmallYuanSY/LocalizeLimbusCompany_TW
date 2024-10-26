@@ -1782,7 +1782,7 @@
     },
     {
       "id": "mainui_exp_dungeon_8_open_day",
-      "content": "經驗采光#7（斬擊）將在周三，周四，周日開放。"
+      "content": "經驗采光#7（突刺）將在周三，周四，周日開放。"
     },
     {
       "id": "mainui_exp_dungeon_9_title",
@@ -1790,7 +1790,15 @@
     },
     {
       "id": "mainui_exp_dungeon_9_open_day",
-      "content": "經驗采光#7（斬擊）將在周五，周六，周日開放。"
+      "content": "經驗采光#7（打擊）將在周五，周六，周日開放。"
+    },
+    {
+      "id": "mainui_default_personality_blocked",
+      "content": "基本人格無法出戰"
+    },
+    {
+      "id": "mainui_change_personality_of_character",
+      "content": "需要改變罪人{0}的人格。追加支援人格。"
     }
   ]
 }

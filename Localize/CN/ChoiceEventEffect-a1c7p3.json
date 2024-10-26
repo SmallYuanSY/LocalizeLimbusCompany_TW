@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "LoseRatioHpOnly",
+      "content": "<color=#ebcaa2>{conditions}{targets}</color><color=#ebcaa2>失去</color><color=#e30000>{amount}%的體力！</color>"
+    },
+    {
+      "id": "Choice_901070401",
+      "content": "<color=#f8c200>獲得2個暴怒屬性罪孽碎片</color>\n<color=#f8c200>獲得2個傲慢屬性罪孽碎片</color>"
+    },
+    {
+      "id": "Choice_901070402",
+      "content": "<color=#f8c200>獲得2個色慾屬性罪孽碎片</color>\n<color=#f8c200>獲得2個暴食屬性罪孽碎片</color>"
+    },
+    {
+      "id": "Choice_901070403",
+      "content": "<color=#f8c200>獲得2個憂鬱屬性罪孽碎片</color>\n<color=#f8c200>獲得2個嫉妒屬性罪孽碎片</color>"
+    },
+    {
+      "id": "Choice_901070404",
+      "content": "下回合戰鬥開始時，對所有罪人施加<color=#e30000>4層破裂 </color>"
+    },
+    {
+      "id": "Choice_901070405",
+      "content": "下回合戰鬥開始時，對所有罪人施加<color=#e30000>4層破裂 並增加4級破裂 強度</color>"
+    }
+  ]
+}

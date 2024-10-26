@@ -1,0 +1,1908 @@
+{
+  "dataList": [
+    {
+      "id": 837801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "無法洗清的罪…",
+          "desc": "[WhenUse] 使自身增加20級流血 強度並對自身施加1層流血 \n[DefeatDuel] 對自身施加1層流血 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "應得的懲罰…",
+          "desc": "[WhenUse] 使自身增加20級流血 強度並對自身施加1層流血 \n[DefeatDuel] 對自身施加1層流血 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "今天有想過血嗎？",
+          "desc": "[WhenUse] 使自身增加10級流血 強度\n[WhenUse] 消耗至多30層血宴 ，並使現存體力最低的1名友方單位(本體與部位)恢復(消耗的血宴 層數×2)點體力(不包括自身；向下取整)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層[WornHeart]與1層[BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "還在想著血嗎？",
+          "desc": "[WhenUse] 使自身增加10級流血 強度\n[WhenUse] 消耗至多20層血宴 ，並使自身與現存體力最低的1名友方單位(本體與部位)恢復(消耗的血宴 層數×2)點體力\n- 若沒有剩餘友方單位存活，則改為使自身恢復的體力變為2倍",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]\n[OnSucceedAttack] 對目標施加2層流血 \n[OnSucceedAttack] 若現存體力不低於50%，則觸發自身的流血 並使自身的流血 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層[WornHeart]與3層[BloodyHand]\n[OnSucceedAttack] 若自身的[WornHeart]層數不低於10層，則使自身額外獲得3層[BloodyHand]並在下回合獲得1層攻擊等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "更多的血…！",
+          "desc": "[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodyHand]\n[WhenUse] 使自身增加10級流血 強度\n[WhenUse] 使自身獲得3層[BloodyHand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有5級流血 強度，使自身獲得1層[BloodyHand](最多5層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "如此豐富…",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 消耗至多30層血宴 ，每消耗10層血宴 ，使本技能的硬幣威力+1\n[DefeatDuel] 下回合對自身施加1層易損 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]\n[OnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復相當於本硬幣傷害量的體力(最多30點)\n[OnSucceedAttack] 若本技能消耗了30層血宴 ，且自身的[BloodyHand_3rd]層數不低於30層，則重複使用本硬幣1次\n- 若本技能未消耗血宴 ，則使自身增加20級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "為家族的犧牲",
+          "desc": "[WhenUse] 若現存體力不低於50%，則觸發自身的流血 (最多3次；根據觸發的流血 次數，相應使自身的流血 層數減少；不會應該傷害而陷入混亂)\n[WhenUse] 使全體友方單位恢復5點理智值(包括自身)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血…",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能造成的傷害+20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "表達愛意",
+          "desc": "優先指定負面狀態數最少的目標\n[WhenUse] 若目標未帶有負面狀態，則下回合使用“粗暴示愛”\n\n[WhenUse] 若目標的負面狀態數高於自身的[FaintMemory]層數，則下回合使用“悲傷的擁抱”",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層[AffectionTeddy]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 下回合對目標施加2層易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "橫掃",
+          "desc": "優先指定負面狀態數最少的目標\n[WinDuel] 下回合對目標施加3層[AffectionTeddy]\n[DefeatDuel] 下回合對目標施加1層[AffectionTeddy]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層尖釘 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "狂亂橫掃",
+          "desc": "優先指定負面狀態數最少的目標\n[WinDuel] 下回合對目標施加3層[AffectionTeddy]\n[DefeatDuel] 下回合對目標施加1層[AffectionTeddy]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層詛咒 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "謹慎示愛",
+          "desc": "[DuelCounter]\n[WhenUse] 下回合對目標施加2層破綻 \n[WhenUse] 對目標施加1層詛咒 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有[AffectionTeddy]，則消耗目標的[AffectionTeddy]並對其施加相應層數的詛咒 與尖釘 (最多消耗4層)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的詛咒 層數不低於4層，則消耗目標的4層詛咒 並對其施加1層[CursePackage]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "粗暴示愛",
+          "desc": "[CantChangeTarget]\n指定上回合與“表達愛意”拼點的目標",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若目標未帶有負面狀態，則使本硬幣造成的傷害+100%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層詛咒 "
+                },
+                {
+                  "desc": "[WinDuelAttack] 對目標施加6層尖釘 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "悲傷的擁抱",
+          "desc": "[CantChangeTarget]\n指定上回合與“表達愛意”拼點的目標\n對該目標造成的傷害固定為0點\n[StartBattle] 下回合對自身施加2層易損 \n[EndBattle] 使自身陷入混亂",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標恢復所有理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "思念的擁抱",
+          "desc": "[DefeatDuel] 使本技能對敵方單位造成的傷害減半",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層詛咒 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加4層尖釘 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標所有[AffectionTeddy]\n- 若自身拼點勝利，則使目標的混亂閾值前移(消耗的[AffectionTeddy]層數×10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "刺穿",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級[Laceration]強度並對其施加2層[Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "貫穿的欲望",
+          "desc": "[WhenUse] 若目標的[Laceration]強度不低於4級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加6級[Laceration]強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "壓抑的欲望",
+          "desc": "[WhenUse] 若目標的[Laceration]強度不低於4級，則使本技能的基礎威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] 根據與本技能拼點時目標減少的[Laceration]層數，對目標施加相應層數的[Laceration]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加10級[Laceration]強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[ScarletTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防禦",
+          "desc": "[WhenUse] 目標每帶有4級[Laceration]強度，使自身獲得10點護盾體力(最多30點)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "摧殘蹂躪",
+          "desc": "[WhenUse] 使自身獲得2層[Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級[Breath]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級[Breath]強度"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加1層[Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "碾碎",
+          "desc": "[WhenUse] 使自身增加5級[Breath]強度",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[IndigoTakeDamageUp]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加1層[Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "傲慢碾碎",
+          "desc": "[WhenUse] 若自身的[Breath]強度不低於5級，則使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加4級[Breath]強度並使自身獲得3層[Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣造成的傷害+100%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反擊",
+          "desc": "[WhenUse] 若自身的[Breath]強度不低於6級，則使本技能的硬幣威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣造成的傷害+50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層[Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "推倒",
+          "desc": "[WhenUse] 消耗10層[BloodDinner]並使自身獲得1層[BloodArmor]\n[WhenUse] 自身每帶有10層[BloodArmor]，使本技能的硬幣威力+1 (最多+2)\n[WhenUse] 自身每帶有15級[Laceration]，使本技能的硬幣威力+1 (最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Laceration]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Laceration]強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "致傷",
+          "desc": "[WhenUse] 消耗至多20層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodArmor]\n[WhenUse] 自身每帶有10層[BloodArmor]，使本技能的硬幣威力+1 (最多+2)\n[WhenUse] 自身每帶有15級[Laceration]，使本技能的硬幣威力+1 (最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血喜",
+          "desc": "[WhenUse] 消耗4層[BloodArmor]並使自身恢復10點理智值\n[WhenUse] 消耗10層[BloodDinner]，使自身獲得1層[BloodArmor]並恢復10點理智值\n- 若未消耗[BloodDinner]，則使自身增加3級[Laceration]強度。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有1級[Laceration]強度，使本硬幣造成的傷害+10% (最多+100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Laceration]強度並對其施加2層[Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血之歡喜",
+          "desc": "可無視速度值與本技能拼點\n[StartBattle] 若有敵方單位帶有[Laceration]，則立即觸發全體敵方單位的[Laceration]並使全體敵方單位的[Laceration]層數減少2層\n[WhenUse] 若本技能的戰鬥開始時效果未觸發，則使自身增加30級[Laceration]強度。\n[WinDuel] 消耗至多40層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodArmor]並使本技能造成的傷害+25% (最多+100%)\n- 若本技能未消耗[BloodDinner]，則使自身增加5級[Laceration]強度，立即觸發自身的[Laceration]並使自身的[Laceration]層數減少2層\n[EndSkill] 結束戰鬥",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級[Laceration]強度並對其施加2層[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級[Laceration]強度並對其施加2層[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血4式-截斷",
+          "desc": "[WhenUse] 若目標的[Laceration]強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 自身的[BloodArmor]每有1階段，使本技能造成的傷害+20% (最多+60%)\n[DefeatDuel] 消耗4層[BloodArmor]並使自身獲得20點護盾體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級[Laceration]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級[Laceration]強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血11式-貫穿",
+          "desc": "[WhenUse] 目標每帶有3級[Laceration]強度，使本技能的基礎威力+1(最多+3)\n[WinDuel] 自身的[BloodArmor]每有1階段，使本技能造成的傷害+20% (最多+60%)\n[DefeatDuel] 消耗4層[BloodArmor]並使自身獲得20點護盾體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 觸發目標的[Laceration](目標的[Laceration]層數)次並消耗目標的[Laceration]層數至1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血2式-血甲",
+          "desc": "可無視速度值與本技能拼點\n[StartBattle] 消耗200層[BloodDinner]並使自身獲得500點護盾體力，5層[BloodArmor]與1層[SwirlingBlood]\n- 若[BloodDinner]層數不足，則使自身增加50級[Laceration]強度，立即觸發自身的[Laceration]1次並使自身的[Laceration]層數減少2層。隨後使自身獲得500點護盾體力，5層[BloodArmor]與1層[SwirlingBlood](該傷害不會使自身的體力低於1)\n[WinDuel] 使自身獲得200點護盾體力\n[DefeatDuel] 帶有透過本技能獲得的護盾體力時，對自身施加3層[Vulnerable]\n[DefeatDuel] 使本技能造成的傷害-50%，且本技能造成的傷害不會使目標陷入混亂\n[EndSkill] 結束戰鬥",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級[Laceration]強度並對其施加3層[Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派變體桑丘4式-追蹤",
+          "desc": "優先指定流血 最多的目標\n[BeforeAttack] 若目標為流血 最多的目標，則使本技能的攻擊容量+2，拼點威力+3\n[WhenUse] 消耗至多30層血宴 每消耗15層血宴 ，使自身獲得1層[BloodArmor]並使本技能的硬幣威力+1(最多2)\n- 若未消耗血宴 ，則使自身增加10級流血 強度，立即觸發自身的流血 ，並使自身的流血 層數減少2層\n[EndSkill] 獲得層數相當於本技能傷害量的血宴 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 \n- 若本技能消耗了30層血宴 ，則額外施加2層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派變體桑丘3式-突襲",
+          "desc": "優先指定流血 最多的目標\n[BeforeAttack] 若目標為流血 最多的目標，則使本技能的攻擊容量+2，拼點威力+3\n[WhenUse] 消耗至多50層血宴，每消耗10層血宴 ，使自身獲得1層[BloodArmor]並使本技能的基礎威力+1(最多5)\n- 若未消耗血宴 ，則使自身增加10級流血 強度，立即觸發自身的流血 ，並使自身的流血 層數減少1層\n[EndSkill] 獲得層數相當於本技能傷害量的血宴 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 \n- 若本技能消耗了50層血宴 ，則額外施加2層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派變體桑丘2式- La Sangre",
+          "desc": "可無視速度值與本技能拼點\n[WhenUse] 消耗50層血宴 並對自身與目標施加1層麻痺 \n[WhenUse] 消耗100層血宴 並使本技能的拼點威力+5\n- 若血宴 層數不足，則消耗自身100點體力並使本技能的拼點威力+5\n[EndSkill] 結束戰鬥",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加8級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使自身恢復相當於本技能傷害量的體力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "冒險結束了",
+          "desc": "[StartBattle] 消耗(45-自身的理智值)層血宴 並使自身的理智值恢復至45點\n- 若血宴 層數不足，則消耗(45-自身的理智值)點體力並使自身的理智值恢復至45點(該傷害不會使自身的體力降至1點以下)\n- 獲得相當於剩餘血宴 層數點護盾體力(最多100點)\n[WinDuel] 使目標增加10級流血 強度\n[DefeatDuel] 消耗至多100層血宴 \n[EndSkill] 獲得層數相當於本技能傷害量的血宴 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有1級流血 強度，使本硬幣造成的傷害+10%(最多+200%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 每有1層血宴 ，使本硬幣造成的傷害+10%(最多+100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰嘰嘰咿",
+          "desc": "[WhenUse] 使自身獲得3層防禦等級提升 \n[DefeatDuel] 使自身獲得3層防禦等級提升 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰嘰咿",
+          "desc": "[WinDuel] 下回合對目標施加1層束縛 \n[WhenUse] 自身每帶有4層防禦等級提升 ，使本技能的基礎威力+1(最多+2)\n[WhenUse] 使自身獲得3層防禦等級提升 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰咿咿",
+          "desc": "[StartBattle] 使包括自身在內現存體力比例最低的1名友方單位獲得3層防禦等級提升 \n[WhenUse] 自身每帶有5層防禦等級提升 ，使本技能的基礎威力+1(最多+4)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 根據自身的防禦等級提升 層數，在下回合使自身獲得相應層數的攻擊等級提升 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰嘰",
+          "desc": "[StartBattle] 使自身獲得(自身的防禦等級提升 層數×2)點護盾(最多20點，每回合最多2次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "荊棘之鞭",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "揮鞭",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的破裂 層數低於5層，則對其施加2層破裂 \n- 若目標的破裂 層數不低於5層，則改為使其增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標的破裂 層數低於5層，則對其施加2層破裂 \n- 若目標的破裂 層數不低於5層，則改為使其增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "緊縛的荊棘之冠",
+          "desc": "優先指定理智值最低的目標\n[WhenUse] 若目標的理智值不高於0點，則使本技能的拼點威力+3\n[WhenUse] 目標每帶有4級破裂 強度，使本技能的硬幣威力+1(最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成10點理智傷害\n- 若目標的理智值不高於0點，則改為造成20點理智傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "收鞭",
+          "desc": "優先指定帶有[ThornNoose]的目標\n若目標未帶有[ThornNoose]，則使本技能造成的傷害-50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有[ThornNoose]，則使其增加2級破裂 強度\n- 若目標的破裂 強度不低於10級，則改為對其施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有[ThornNoose]，則使其增加2級破裂 強度\n- 若目標的破裂 強度不低於10級，則改為對其施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有[ThornNoose]，則使其增加2級破裂 強度\n- 若目標的破裂 強度不低於10級，則改為對其施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標帶有[ThornNoose]，則使本技能造成的傷害+50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "荊棘套索",
+          "desc": "[WhenUse] 若自身的速度值高於目標，則使本技能的拼點威力+5\n[WhenUse] 目標每帶有4級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 根據帶有[ThornNoose]的目標數，使本技能的基礎威力相應增加",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度並對其施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標陷入混亂或帶有[ThornNoose]，則使本硬幣造成的傷害+30%"
+                },
+                {
+                  "desc": "[EnemyKill] 使全體敵方單位增加(目標的破裂 層數×2)級破裂 強度(最多10級)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "鞭打",
+          "desc": "[StartBattle] 使自身獲得現存體力(帶有[ThornNoose]的敵方單位數)%的護盾",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "捉住套索",
+          "desc": "[StartBattle] 若帶有[ThornNoose]的敵方單位數不高於3名，則對目標施加1層[ThornNoose]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "荊棘",
+          "desc": "[CantChangeTarget]\n優先指定帶有荊棘套索 的目標",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度並對其施加2層破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "高貴地…",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "無盡慶典",
+          "desc": "[CantDuel]\n若目標使用了守備技能，則使本技能造成的傷害-100%\n[WhenUse] 下回合生成1個座艙",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "永恆慶典",
+          "desc": "[CantDuel]\n若目標使用了守備技能，則使本技能造成的傷害-100%\n[WhenUse] 下回合生成4個座艙",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 840301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "讓我出去！！！讓我出去！！！",
+          "desc": "下回合使用自爆技能",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 840302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "要炸了！！！要炸了！！！",
+          "desc": "[CantDuel]\n[StartBattle] 對自身施加3層易損 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 對目標造成10點色慾傷害，隨後去除自身"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 840303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "開幕鳴奏！",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 對目標造成10點色慾傷害，隨後自身陣亡"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "燒灼的飢渴",
+          "desc": "[WhenUse] 目標每帶有5級流血 強度，使本技能的基礎威力+1(最多+3)\n[WhenUse] 消耗至多30層血宴 ，每消耗10層血宴 ，使自身獲得1層[RegainedStrength]\n[DefeatDuel] 使自身失去3點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "被刺穿吧",
+          "desc": "[WhenUse] 消耗至多40層血宴 ，每消耗10層血宴 ，使自身獲得1層[RegainedStrength]並恢復3點理智值\n\n[DefeatDuel] 使自身失去3點理智值\n[DefeatDuel] 消耗3層[RegainedStrength]並在下回合對自身施加3層防禦等級降低 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成其體力上限20%的色慾傷害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成其體力上限20%的色慾傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血2式-樁",
+          "desc": "優先指定流血 最多的目標\n[WhenUse] 目標每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成(其帶有的流血 強度×流血 層數)點色慾傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "楔形硬血",
+          "desc": "[StartBattle] 自身每帶有3層[RegainedStrength]，使本技能的攻擊容量+1(最多+2)\n[EndSkill] 消耗3層[RegainedStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                },
+                {
+                  "desc": "[WinDuelAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[DefeatDuelAttack] 消耗1層[RegainedStrength]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[WinDuelAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[DefeatDuelAttack] 消耗1層[RegainedStrength]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血之慾望",
+          "desc": "[WhenUse] 消耗至多40層血宴 ，每消耗10層血宴 ，使自身獲得1層[RegainedStrength]並恢復5點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血宴時刻",
+          "desc": "[CantIdentify]\n[WhenUse] 消耗至多300層血宴 ，每消耗10層血宴 ，使自身獲得1層[RegainedStrength]並恢復3點理智值\n[WhenUse] 若消耗了血宴 ，則使自身恢復30點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血4式-截斷",
+          "desc": "直到使用本技能時，自身不會陷入混亂\n[WhenUse] 消耗至多100層血宴 ，每消耗10層血宴 ，使自身獲得1層[RegainedStrength]並恢復15點理智值\n[WhenUse] 自身每帶有30層[BloodDinner_Accumulation]，使本技能的拼點威力+1(最多+15)\n[DefeatDuel] 使本技能造成的傷害-50%，且本技能造成的傷害不會使目標陷入混亂\n[EndSkill] 本回合與下回合內，對自身施加層數相當於本技能增加的拼點威力的攻擊等級降低 與防禦等級降低 (最多15層)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗2層[RegainedStrength]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血14式斗篷",
+          "desc": "[DuelGuard]\n[WinDuel] 使目標增加4級流血 強度與4級破裂 強度\n[DefeatDuel] 消耗2層[RegainedStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "脆弱，脆弱不堪",
+          "desc": "[DuelCounter]\n自身每帶有10層[RegainedStrength]，使本技能的基礎威力+1\n目標每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)\n[DefeatDuel] 使自身失去3點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度並對其施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度並對其施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血腥旋轉木馬",
+          "desc": "[CantDuel]\n[WhenUse] 下回合生成凝固的夢",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "被貫穿吧",
+          "desc": "[DefeatDuel] 使自身失去3點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標陷入混亂並在下回合對其施加[Penetration] "
+                },
+                {
+                  "desc": "[EndCoin] 使目標的流血 強度減少25級，使自身增加相應的流血 強度並獲得相應層數的血宴 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841012,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血奧義-球",
+          "desc": "直到使用本技能時，自身不會陷入混亂\n根據[BloodDinner_Common_Accumulation]層數，相應使本技能造成的傷害增加(最多+300%)\n[WhenUse] 使自身恢復30點理智值\n[WhenUse] 自身每帶有10層[RegainedStrength]，使本技能的拼點威力+1\n[EndSkill] 消耗所有[RegainedStrength]，在本回合與下回合對自身施加5層易損 ，並在下回合對自身施加2層束縛 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰",
+          "desc": "[WhenUse] 對目標施加[DuelDeclaration_Camille]\n[WhenUse] 使自身增加5級呼吸法 強度\n[WinDuel] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰咿咿咿",
+          "desc": "[WhenUse] 使自身增加2級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰咿",
+          "desc": "[WhenUse] 若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+2\n[WinDuel] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則對目標施加3層破裂 "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣暴擊時造成的傷害+50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰",
+          "desc": "[WhenUse] 若自身的速度值高於目標，則使本技能的硬幣威力+1(速度值每相差2點，使本技能的硬幣威力+1；最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得4層呼吸法 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度並對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加5級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度並對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加5級呼吸法 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則使目標增加3級破裂 強度並對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使本硬幣暴擊時造成的傷害+100%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有1級破裂 強度，使本硬幣造成的傷害+5%(最多+50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰嘰",
+          "desc": "[WinDuel] 根據拼點次數，使本技能造成的傷害增加(每次拼點使本技能造成的傷害+10%，最多+50%)\n[WinDuel] 下回合使自身獲得2層迅捷 \n[DefeatDuel] 下回合使自身獲得2層束縛 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "嘰嘰嘰嘰",
+          "desc": "[OnSucceedEvade] 下回合使自身獲得1層迅捷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841013,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血奧義- La Sangre",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃耀的冒險記憶",
+          "desc": "[StartBattle] 隨機使1名罪人獲得1層拼點強壯 與1層傷害強化 \n[StartBattle] 對堂吉訶德與凝固的夢施加1層易損 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

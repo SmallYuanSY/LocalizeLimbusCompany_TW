@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_20_1",
+      "dlg": "無畏並不是什麼壞事……但若是您又要魯莽地衝鋒，我可就不奉陪了。"
+    },
+    {
+      "id": "announcer_cheer_20_2",
+      "dlg": "無論遇到何等艱難險阻……都絕不放棄……！啊……實在是說不出口，這也太幼稚了吧。"
+    },
+    {
+      "id": "announcer_specialcheer_20_1",
+      "dlg": "難道您以為，在這種情況下我還會為了您吶喊助威嗎？唔……呃……加、加油吧。"
+    },
+    {
+      "id": "announcer_specialcheer_20_2",
+      "dlg": "如果家人們看到這一幕……大家肯定都會擔心的。雖然杜爾西內婭或許會感到嫌棄吧。"
+    },
+    {
+      "id": "announcer_enemy_break_20_1",
+      "dlg": "您不會就那樣放他們回去吧？必須徹底解決掉才行。"
+    },
+    {
+      "id": "announcer_ally_break_20_1",
+      "dlg": "又大意了吧……不過我知道您還能做得更好，再加把勁吧。"
+    },
+    {
+      "id": "announcer_killenemy_20_1",
+      "dlg": "一場令人厭倦的戰鬥終於結束了。"
+    },
+    {
+      "id": "announcer_ally_dead_20_1",
+      "dlg": "……我會把您轉移到安全的地方，所以趕快再生然後回來吧。我們不能讓這場冒險就這樣結束，不是嗎。"
+    },
+    {
+      "id": "announcer_enemy_adv_20_1",
+      "dlg": "什麼啊，這種荒唐的戰鬥策略……反正您肯定又是讀了書裡的奇怪故事，想要模仿才弄成這樣的吧？真是的，父親大人，您可不知道讓我折壽了多少次。"
+    },
+    {
+      "id": "announcer_ally_adv_20_1",
+      "dlg": "我不會擔心。反正您肯定已經確信自己會贏了。"
+    },
+    {
+      "id": "announcer_danger_20_1",
+      "dlg": "這次接受的委託，期限相當緊迫。如果在這裡再耽擱一會……就要趕不上了。\n……所以我早就說了，應該去接別的委託。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_20_1",
+      "dlg": "對方不是簡單的敵人。請別掉以輕心，要好好防住才行。"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_20_1",
+      "dlg": "這讓我想起了和那些巨人戰鬥的時候。如果您不想再被打飛，就看清楚局勢，好好應對。這次我可不會接住您了。"
+    },
+    {
+      "id": "announcer_advatk_physical_20_1",
+      "dlg": "不錯的攻擊。今後也請繼續保持這個狀態。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_20_1",
+      "dlg": "您用這種武器去攻擊那個敵人的話……唉……"
+    },
+    {
+      "id": "announcer_advatk_attr_20_1",
+      "dlg": "您漂亮地瞄準了弱點。看來您已經逐漸習慣收尾人的戰鬥方式了啊。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_20_1",
+      "dlg": "……以後請不要再使出那種拙劣的攻擊了。至少在我面前，請保持些體面吧……"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_20_1",
+      "dlg": "看起來您有些挑釁過度了……敵人的氣勢明顯變得不一樣了。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_20_1",
+      "dlg": "……父親大人那幼稚的說話方式有時也能派上用場啊。\n看起來對方已經氣得無法做出冷靜的判斷了。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_20_1",
+      "dlg": "……怎麼回事，您竟然穿了件真正有用的裝備？那麼就這樣繼續追擊吧。"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_20_1",
+      "dlg": "您怎麼總是帶些奇怪的東西回來呢……難道是又遭遇了什麼遺物詐騙？又來？"
+    },
+    {
+      "id": "announcer_enemy_destroy_20_1",
+      "dlg": "切得漂亮。現在您的手法已經快要和尼古莉娜一樣嫻熟了吧？"
+    },
+    {
+      "id": "announcer_enemy_destroy_20_2",
+      "dlg": "要是動用真正的力量的話，三秒就足夠結束戰鬥了……不過像這樣一個個逐步摧毀敵人的戰鬥方式也不錯呢。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_20_1",
+      "dlg": "我不是反覆提醒過您要小心了嗎……"
+    },
+    {
+      "id": "announcer_round_takebigdmg_20_2",
+      "dlg": "對克服危機、戰勝考驗的收尾人的浪漫情懷……我可以理解。但是，能不能請您別再故意製造這種局面了？"
+    },
+    {
+      "id": "announcer_round_givebigdmg_20_1",
+      "dlg": "終於開始展現出真正的實力了呢。要是平時也能這樣，該有多好啊。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_20_2",
+      "dlg": "到了旅店您又要滔滔不絕地說個沒完了吧……嗯，看樣子又多了些能講給巴里聽的故事了。"
+    },
+    {
+      "id": "announcer_multikillenemy_20_1",
+      "dlg": "……這次的冒險看起來會有個非常精彩的結局。咳嗯，沒什麼。"
+    },
+    {
+      "id": "announcer_equip_20_1",
+      "dlg": "上次為拉·曼卻領做解說還不夠嗎？這次又打算讓我做什麼奇怪的事情……唉……我又沒說不做。"
+    }
+  ]
+}

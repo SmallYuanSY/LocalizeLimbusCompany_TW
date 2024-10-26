@@ -427,6 +427,10 @@
     {
       "id": "Choice_EGO971029",
       "content": "戰鬥勝利後，獲得E.G.O飾品“E式次元短劍”、“便攜式力場電池”"
+    },
+    {
+      "id": "GetImmediateConfirmedEgogifts",
+      "content": "<color=#ebcaa2>獲得{reward}！</color>"
     }
   ]
 }

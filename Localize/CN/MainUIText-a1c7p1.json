@@ -19,6 +19,10 @@
     {
       "id": "current_average_level_with_additional_val_and_recommend_level_format",
       "content": "當前平均等級：{0}（{1}）\n<color=#f8c200>關卡推薦等級：{2}</color>"
+    },
+    {
+      "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
+      "content": "<color=#f8c200>推薦人格同步&E.G.O異想解析<color=#990000>{0}階段</color></color>"
     }
   ]
 }

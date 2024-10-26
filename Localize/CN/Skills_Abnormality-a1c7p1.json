@@ -171,7 +171,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我會把你切得很漂亮！",
+          "name": "給你剪得漂漂亮亮的！",
           "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1(最多+3)",
           "coinlist": [
             {
@@ -252,7 +252,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我也會把你切斷！",
+          "name": "也把你切斷！",
           "desc": "[BeforeAttack] 自身的[BloodScissor]每到1階段，使本技能的攻擊容量+1 (最多+2)\n[WhenUse] 消耗至多30層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拼點威力+2",
           "coinlist": [
             {
@@ -383,7 +383,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我不需要不美麗的東西！！",
+          "name": "我不需要不美麗之物！！",
           "desc": "[CantChangeTarget]\n優先指定現存體力比例最低的單位",
           "coinlist": [
             {

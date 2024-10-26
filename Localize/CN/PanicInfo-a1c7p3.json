@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 1029,
+      "panicName": "罪惡感",
+      "lowMoraleDescription": "回合結束時，下回合對自身施加1層[Vulnerable]與1層[MentalIncreaseDown]",
+      "panicDescription": "回合結束時，下回合對自身施加2層[Vulnerable]與2層[MentalIncreaseDown]"
+    },
+    {
+      "id": 1031,
+      "panicName": "呈血",
+      "lowMoraleDescription": "若目標未帶有[Laceration]，則使自身的拼點威力-1，攻擊命中時使自身恢復相當於目標[Laceration]強度的體力",
+      "panicDescription": "若目標帶有[Laceration]，則使自身的拼點威力+2；若目標未帶有[Laceration]，則使自身的拼點威力-2，攻擊命中時使自身恢復相當於目標[Laceration]強度的體力"
+    },
+    {
+      "id": 1032,
+      "panicName": "罪惡感",
+      "lowMoraleDescription": "回合結束時，下回合對自身施加1層[Vulnerable]與1層[MentalIncreaseDown]",
+      "panicDescription": "回合結束時，下回合對自身施加2層[Vulnerable]與2層[MentalIncreaseDown]"
+    },
+    {
+      "id": 1034,
+      "panicName": "責任之重",
+      "lowMoraleDescription": "- 使自身獲得2層[Enhancement]並對自身施加1層[Vulnerable]，自身的最大速度值+2\n- 恢復的體力+30%\n- 回合結束時，若自身的[RegainedStrength]層數低於回合開始，則下回合使自身獲得2層[AttackUp]並對自身施加2層[DefenseDown]",
+      "panicDescription": "- 使自身獲得2層[Enhancement]，自身的最大速度值+2\n- 恢復的體力+50%\n- 回合結束時，若自身的[RegainedStrength]層數低於回合開始，則下回合使自身獲得3層[AttackUp]並對自身施加5層[DefenseDown]"
+    },
+    {
+      "id": 1033,
+      "panicName": "覺醒殺戮的昂揚感",
+      "lowMoraleDescription": "每回合開始時，使自身獲得2層[AttackUp]。理智值效率+2",
+      "panicDescription": "回合開始時，使自身獲得6層[DefenseUp]。下回合使自身獲得3層[AttackUp]"
+    }
+  ]
+}

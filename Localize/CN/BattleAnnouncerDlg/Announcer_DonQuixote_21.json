@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_21_1",
+      "dlg": "來吧，同僚們！擺好姿態，迎接他們！打破阻礙吾等的考驗，奔向永不終結的冒險！"
+    },
+    {
+      "id": "announcer_cheer_21_2",
+      "dlg": "無論遇到什麼情況都千萬別放棄！他們的攻擊無法貫穿我們的鬥志！"
+    },
+    {
+      "id": "announcer_specialcheer_21_1",
+      "dlg": "如此卑鄙的手段……咳嗯！他們的策略只是暫時的！其終將向吾等屈服！"
+    },
+    {
+      "id": "announcer_specialcheer_21_2",
+      "dlg": "無論什麼樣的冒險，皆不會毫無波瀾！然而於故事之盡頭，總會有勝利等候。\n就是如此！正如吾等的故事一般！"
+    },
+    {
+      "id": "announcer_enemy_break_21_1",
+      "dlg": "抓住好機會了！只要打倒那個搖搖欲墜的敵人，他們一定會士氣大降！衝啊！"
+    },
+    {
+      "id": "announcer_ally_break_21_1",
+      "dlg": "一時屈膝跪地也無需驚慌！只要抹上些唾沫就好了！\n……嗯。是不是有點過頭了……"
+    },
+    {
+      "id": "announcer_killenemy_21_1",
+      "dlg": "敵方士氣已被擊潰！現下還有誰人能阻攔吾等！"
+    },
+    {
+      "id": "announcer_ally_dead_21_1",
+      "dlg": "……吾會銘記汝的，經理老爺也會如此。\n勇猛戰鬥之人啊，吾盼望著汝的歸來。"
+    },
+    {
+      "id": "announcer_enemy_adv_21_1",
+      "dlg": "父親大人啊。面臨這樣的困境，你會做出什麼選擇呢？\n……哈哈，他大概不曾有過這樣的經歷吧。來吧！至此還並非終結！"
+    },
+    {
+      "id": "announcer_ally_adv_21_1",
+      "dlg": "汝等是……不會摔落馬背的。即便血流如注、奄奄一息，最終也一定會取得優勢。"
+    },
+    {
+      "id": "announcer_danger_21_1",
+      "dlg": "這最後的衝鋒將決定此戰之成敗！即便需面對劣勢，但勝利之史詩終將由吾等書寫！"
+    },
+    {
+      "id": "announcer_enemy_specialskill_21_1",
+      "dlg": "杜爾西內婭在遊行的最後時刻，也會準備這樣的華麗場面……\n但因為我已經知道了，所以並不會造成什麼影響。因此，吾等也可以不受任何威脅地從容應對！"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_21_1",
+      "dlg": "汝等還記得嗎！理髮師的驚喜活動！\n只需睜大雙眼，集中精神，那般技巧也說不上難嘛！"
+    },
+    {
+      "id": "announcer_advatk_physical_21_1",
+      "dlg": "何——等英明的選擇，經理老爺！他們的弱點已然暴露無遺！"
+    },
+    {
+      "id": "announcer_disadvatk_physical_21_1",
+      "dlg": "咳哼……嗯。看來揣測經理老爺之深意，對吾而言並非易事……"
+    },
+    {
+      "id": "announcer_advatk_attr_21_1",
+      "dlg": "經理老爺的慧眼……嗚，何等地令人感動！\n收尾人英雄傳中曾有一言，在哪裡來著……"
+    },
+    {
+      "id": "announcer_disadvatk_attr_21_1",
+      "dlg": "哦呀？敵方未曾迴避這一擊呢……啊啊，原來是讓了他們一手嗎！"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_21_1",
+      "dlg": "他們是喝了血袋嗎……不，不對。他們一副得意洋洋的姿態，一定要警惕起來！"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_21_1",
+      "dlg": "如同吾厭惡水一般，他們也有極度厭惡的東西！\n呃呃……光說出來都有點噁心。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_21_1",
+      "dlg": "……嗯，大家都活力滿滿呢！果然是本人嚴選的鼓舞勇氣的英雄傳說Top5奏效了嗎？"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_21_1",
+      "dlg": "雖然吾不曾擁有神父那樣的口才，但也會盡力去開解汝等的憂愁……\n……為何反而眉頭緊皺？"
+    },
+    {
+      "id": "announcer_enemy_destroy_21_1",
+      "dlg": "已然擊破了一個部位嗎！過去在冒險中，吾也曾……咳嗯。"
+    },
+    {
+      "id": "announcer_enemy_destroy_21_2",
+      "dlg": "因為失去了重要的碎片，他們只有余平衡傾覆的崩塌結局！去吧！"
+    },
+    {
+      "id": "announcer_round_takebigdmg_21_1",
+      "dlg": "這、這是……嗚……如果是父親大人的話，那種程度……"
+    },
+    {
+      "id": "announcer_round_takebigdmg_21_2",
+      "dlg": "他們的抵抗比想像中的還要頑強……但只要吾等的心未曾屈服，便能度過這次危機！\n未曾嘗試怎麼能知道結果呢！"
+    },
+    {
+      "id": "announcer_round_givebigdmg_21_1",
+      "dlg": "吾、吾剛剛所見為何？！何等強大的一擊……！"
+    },
+    {
+      "id": "announcer_round_givebigdmg_21_2",
+      "dlg": "正在記錄剛剛那偉大的一擊。回到巴士之後再回顧一下吧！"
+    },
+    {
+      "id": "announcer_multikillenemy_21_1",
+      "dlg": "唔哦哦哦！令人瞠目結舌的一擊！"
+    },
+    {
+      "id": "announcer_equip_21_1",
+      "dlg": "嗯嗯！正好吾也很想參與這樣的錄音！好以全新的心態去面對任務！"
+    }
+  ]
+}

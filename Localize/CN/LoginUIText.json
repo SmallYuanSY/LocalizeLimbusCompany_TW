@@ -195,6 +195,10 @@
     {
       "id": "serverstate_error_thirdparty_api",
       "content": "外部服務器通訊連接錯誤。請稍後重試。"
+    },
+    {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "商品交易失敗。"
     }
   ]
 }

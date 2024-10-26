@@ -1275,6 +1275,38 @@
     {
       "id": "introduce_sentence_162",
       "content": "不知{0}試圖逃跑……就是這種下場啦。"
+    },
+    {
+      "id": "introduce_word_163",
+      "content": "饑渴"
+    },
+    {
+      "id": "introduce_sentence_163",
+      "content": "你們怎能體會我們的{0}！"
+    },
+    {
+      "id": "introduce_word_164",
+      "content": "血"
+    },
+    {
+      "id": "introduce_sentence_164",
+      "content": "自{0}中綻放吧。"
+    },
+    {
+      "id": "introduce_word_165",
+      "content": "泰迪"
+    },
+    {
+      "id": "introduce_sentence_165",
+      "content": "來，{0}~照著我的動作！鏘鏘！"
+    },
+    {
+      "id": "introduce_word_166",
+      "content": "詛咒"
+    },
+    {
+      "id": "introduce_sentence_166",
+      "content": "體會被人{0}是何種心情……"
     }
   ]
 }
