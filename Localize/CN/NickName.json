@@ -6976,7 +6976,7 @@
     },
     {
       "name": "이발사",
-      "krname": "理發師",
+      "krname": "理髮師",
       "jpname": "理髪師",
       "enname": "The Barber",
       "fileName": "Barber",
@@ -7020,7 +7020,7 @@
     },
     {
       "name": "이발사다침",
-      "krname": "理發師",
+      "krname": "理髮師",
       "jpname": "理髪師",
       "enname": "The Barber",
       "fileName": "Barber_hurt",
@@ -7042,7 +7042,7 @@
     },
     {
       "name": "이발사부하",
-      "krname": "理發師部下",
+      "krname": "理髮師部下",
       "jpname": "",
       "enname": "",
       "fileName": "Barber_staff",
@@ -7768,7 +7768,7 @@
     },
     {
       "name": "이발사하편",
-      "krname": "理發師",
+      "krname": "理髮師",
       "jpname": "理髪師",
       "enname": "The Barber",
       "fileName": "Barber_P",
@@ -7966,7 +7966,7 @@
     },
     {
       "name": "로시난테",
-      "krname": "駑骍難得",
+      "krname": "駑騂難得",
       "jpname": "",
       "enname": "",
       "fileName": "BloodHorse",
@@ -8010,7 +8010,7 @@
     },
     {
       "name": "이발사다침2",
-      "krname": "理發師",
+      "krname": "理髮師",
       "jpname": "理髪師",
       "enname": "The Barber",
       "fileName": "Barber_hurt2",
