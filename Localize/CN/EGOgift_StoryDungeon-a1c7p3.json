@@ -155,7 +155,7 @@
           "simpleDesc": "增加1級流血 強度並施加2層防禦等級降低 直到下回合結束"
         },
         {
-          "abilityID": 90081,
+          "abilityID": 205801,
           "simpleDesc": "增加3級流血 強度"
         }
       ]

@@ -308,10 +308,58 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": [
-                    "BloodDinner_Common_Accumulation"
-                  ],
-                  "": "},{desc:每有1層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+0.1%(最多+10%)"
+                  "desc": "每有1層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+0.1%(最多+10%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若[BloodDinner_Common_Accumulation]不低於100層，則每有1層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+0.1%(最多+20%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若[BloodDinner_Common_Accumulation]不低於200層，則每有1層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+0.1%(最多+25%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若[BloodDinner_Common_Accumulation]不低於300層，則每有1層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+0.1%(最多+40%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] 根據最大色欲完全共鳴數，相應對目標施加[ThirstyRose](最多3層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "渴望-蜜卡拉",
+          "abName": "四百朵玫瑰",
+          "desc": "使用本技能期間，自身的體力不會降至1點以下\n目標每帶有10級流血 強度，使本技能的硬幣威力+1(最多+2)\n自身每帶有100層[BloodDinner_Accumulation]，使本技能的拼點威力+1(最多+5)\n[BeforeAttack] 若血宴 層數低於100層，則令本技能每次命中時使目標增加1級流血 強度\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "每有1層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+0.1%(最多+10%)"
                 }
               ]
             },
@@ -380,7 +428,7 @@
                   "desc": "[WinDuelAttack] 根據最大色欲完全共鳴數，相應對目標施加[ThirstyRose](最多3層)"
                 },
                 {
-                  "desc": "[WinDuelAttack] 使自身恢覆本硬幣造成體力傷害量50%的體力(最多10點)"
+                  "desc": "[WinDuelAttack] 使自身恢復本硬幣造成體力傷害量50%的體力(最多10點)"
                 }
               ]
             }
@@ -411,7 +459,7 @@
                   "desc": "[WinDuelAttack] 根據最大色欲完全共鳴數，相應對目標施加[ThirstyRose](最多4層)"
                 },
                 {
-                  "desc": "[WinDuelAttack] 使自身恢覆本硬幣造成體力傷害量50%的體力(最多10點)"
+                  "desc": "[WinDuelAttack] 使自身恢復本硬幣造成體力傷害量50%的體力(最多10點)"
                 }
               ]
             }
@@ -442,7 +490,7 @@
                   "desc": "[WinDuelAttack] 根據最大色欲完全共鳴數，相應對目標施加[ThirstyRose](最多5層)"
                 },
                 {
-                  "desc": "[WinDuelAttack] 使自身恢覆本硬幣造成體力傷害量50%的體力(最多10點)"
+                  "desc": "[WinDuelAttack] 使自身恢復本硬幣造成體力傷害量50%的體力(最多10點)"
                 }
               ]
             }

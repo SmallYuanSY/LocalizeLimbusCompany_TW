@@ -497,7 +497,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層體力恢覆降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層體力恢復降低 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 暴食共鳴數每有2點，對目標施加1層破裂 (最多3層)"
@@ -607,7 +607,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層體力恢覆降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層體力恢復降低 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加2層流血 "

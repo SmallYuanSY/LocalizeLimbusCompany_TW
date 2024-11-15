@@ -108,6 +108,274 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2010711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "指定體力最低的友方單位\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[BoseProjektil](最多7層)\n[BeforeAttack] 自身每帶有1層[BoseProjektil]，使自身增加1級呼吸法 強度(最多7級)\n[EndSkill] 消耗所有[BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對主要目標造成傷害"
+                },
+                {
+                  "desc": "若主要目標為友方單位，則自身每帶有1層[BoseProjektil]，使本硬幣造成的傷害+8%(最多+56%)"
+                },
+                {
+                  "desc": "[AllyKill] 使自身與2名友方單位增加2級呼吸法 強度"
+                },
+                {
+                  "desc": "[AllyKillFail] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對次要目標造成傷害\n- 若本技能的第一枚硬幣未擊殺友方單位，則僅隨機對1名次要目標造成傷害"
+                },
+                {
+                  "desc": "自身每帶有1層[BoseProjektil]，使本硬幣暴擊時造成的傷害+2%(最多+14%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "指定體力最低的友方單位\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[BoseProjektil](最多7層)\n[BeforeAttack] 自身每帶有1層[BoseProjektil]，使自身增加1級呼吸法 強度(最多7級)\n[EndSkill] 消耗所有[BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對主要目標造成傷害"
+                },
+                {
+                  "desc": "若主要目標為友方單位，則自身每帶有1層[BoseProjektil]，使本硬幣造成的傷害+10%(最多+70%)"
+                },
+                {
+                  "desc": "[AllyKill] 使自身與2名友方單位增加3級呼吸法 強度"
+                },
+                {
+                  "desc": "[AllyKill] 獲得被擊殺友方單位的1技能對應的1個罪孽碎片"
+                },
+                {
+                  "desc": "[AllyKillFail] 使自身增加3級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對次要目標造成傷害\n- 若本技能的第一枚硬幣未擊殺友方單位，則僅隨機對1名次要目標造成傷害"
+                },
+                {
+                  "desc": "自身每帶有1層[BoseProjektil]，使本硬幣暴擊時造成的傷害+5%(最多+35%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "指定體力最低的友方單位\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[BoseProjektil](最多7層)\n- 若該共鳴為傲慢共鳴，則改為使自身獲得(最大共鳴數×2)層[BoseProjektil](最多7層)\n[BeforeAttack] 自身每帶有1層[BoseProjektil]，使自身增加1級呼吸法 強度(最多7級)\n[EndSkill] 消耗所有[BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對主要目標造成傷害"
+                },
+                {
+                  "desc": "若主要目標為友方單位，則自身每帶有1層[BoseProjektil]，使本硬幣造成的傷害+15%(最多+105%)"
+                },
+                {
+                  "desc": "[AllyKill] 使自身與2名友方單位增加3級呼吸法 強度"
+                },
+                {
+                  "desc": "[AllyKill] 獲得被擊殺友方單位的1、2技能對應的罪孽碎片各1個"
+                },
+                {
+                  "desc": "[AllyKillFail] 使自身增加3級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對次要目標造成傷害\n- 若本技能的第一枚硬幣未擊殺友方單位，則僅隨機對1名次要目標造成傷害"
+                },
+                {
+                  "desc": "自身每帶有1層[BoseProjektil]，使本硬幣暴擊時造成的傷害+9%(最多+63%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "[CantIdentify]\n指定體力最低的友方單位\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[BoseProjektil](最多7層)\n[BeforeAttack] 自身每帶有1層[BoseProjektil]，使本技能造成的傷害+2%(最多+14%)\n[BeforeAttack] 自身每帶有1層[BoseProjektil]，使自身增加1級呼吸法 強度(最多7級)\n[EndSkill] 消耗所有[BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對主要目標造成傷害"
+                },
+                {
+                  "desc": "若主要目標為友方單位，則自身每帶有1層[BoseProjektil]，使本硬幣造成的傷害+10%(最多+70%)"
+                },
+                {
+                  "desc": "若主要目標為友方單位，則自身每帶有1級呼吸法 強度，使本硬幣造成的傷害+2%(最多+50%)"
+                },
+                {
+                  "desc": "[AllyKill] 使自身與3名友方單位增加2級呼吸法 強度"
+                },
+                {
+                  "desc": "[AllyKill] 自身每帶有1層[BoseProjektil]，使本技能下一枚硬幣造成的傷害+2%(最多+14%)"
+                },
+                {
+                  "desc": "[AllyKill] 獲得被擊殺友方單位的1、2技能對應的罪孽碎片各1個"
+                },
+                {
+                  "desc": "[AllyKillFail] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對次要目標造成傷害\n- 若本技能的第一枚硬幣未擊殺友方單位，則僅隨機對1名次要目標造成傷害"
+                },
+                {
+                  "desc": "自身每帶有1層[BoseProjektil]，使本技能暴擊時造成的傷害+2%(最多+14%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "[CantIdentify]\n指定體力最低的友方單位\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[BoseProjektil](最多7層)\n[BeforeAttack] 自身每帶有1層[BoseProjektil]，使本技能造成的傷害+3%(最多+21%)\n[BeforeAttack] 自身每帶有1層[BoseProjektil]，使自身增加1級呼吸法 強度(最多7級)\n[EndSkill] 消耗所有[BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對主要目標造成傷害"
+                },
+                {
+                  "desc": "若主要目標為友方單位，則自身每帶有1層[BoseProjektil]，使本硬幣造成的傷害+12%(最多+84%)"
+                },
+                {
+                  "desc": "若主要目標為友方單位，則自身每帶有1級呼吸法 強度，使本硬幣造成的傷害+2%(最多+50%)"
+                },
+                {
+                  "desc": "[AllyKill] 使自身與3名友方單位增加3級呼吸法 強度"
+                },
+                {
+                  "desc": "[AllyKill] 自身每帶有1層[BoseProjektil]，使本技能下一枚硬幣造成的傷害+5%(最多+35%)"
+                },
+                {
+                  "desc": "[AllyKill] 獲得被擊殺友方單位的1、2、3技能對應的罪孽碎片各1個"
+                },
+                {
+                  "desc": "[AllyKillFail] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對次要目標造成傷害\n- 若本技能的第一枚硬幣未擊殺友方單位，則僅隨機對1名次要目標造成傷害"
+                },
+                {
+                  "desc": "自身每帶有1層[BoseProjektil]，使本技能暴擊時造成的傷害+3%(最多+21%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加4級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "兇彈",
+          "abName": "兇彈射手",
+          "desc": "[CantIdentify]\n指定體力最低的友方單位\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[BoseProjektil](最多7層)\n- 若該共鳴為傲慢共鳴，則改為使自身獲得(最大共鳴數×2)層[BoseProjektil](最多7層)\n[BeforeAttack] 自身每帶有1層[BoseProjektil]，使本技能造成的傷害+4%(最多+28%)\n[BeforeAttack] 自身每帶有1層[BoseProjektil]，使自身增加1級呼吸法 強度(最多7級)\n[EndSkill] 消耗所有[BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對主要目標造成傷害"
+                },
+                {
+                  "desc": "若主要目標為友方單位，則自身每帶有1層[BoseProjektil]，使本硬幣造成的傷害+15%(最多+105%)"
+                },
+                {
+                  "desc": "若主要目標為友方單位，則自身每帶有1級呼吸法 強度，使本硬幣造成的傷害+2%(最多+50%)"
+                },
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+30%"
+                },
+                {
+                  "desc": "[AllyKill] 使自身與3名友方單位增加4級呼吸法 強度"
+                },
+                {
+                  "desc": "[AllyKill] 自身每帶有1層[BoseProjektil]，使本技能下一枚硬幣造成的傷害+7%(最多+49%)"
+                },
+                {
+                  "desc": "[AllyKill] 獲得被擊殺友方單位的1、2、3技能對應的罪孽碎片各1個"
+                },
+                {
+                  "desc": "[AllyKillFail] 使自身增加3級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "本硬幣僅對次要目標造成傷害\n- 若本技能的第一枚硬幣未擊殺友方單位，則僅隨機對1名次要目標造成傷害"
+                },
+                {
+                  "desc": "自身每帶有1層[BoseProjektil]，使本技能暴擊時造成的傷害+4%(最多+28%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加5級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

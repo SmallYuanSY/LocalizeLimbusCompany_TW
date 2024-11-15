@@ -42,7 +42,7 @@
     },
     {
       "id": "mainui_battleselection_everydungeon",
-      "content": "鏡象迷宮"
+      "content": "鏡像迷宮"
     },
     {
       "id": "mainui_stageinfo_recommendlevel",
@@ -1799,6 +1799,34 @@
     {
       "id": "mainui_change_personality_of_character",
       "content": "需要改變罪人{0}的人格。追加支援人格。"
+    },
+    {
+      "id": "caution",
+      "content": "注意"
+    },
+    {
+      "id": "announcer_spoiler_caution",
+      "content": "此播報員包含對主線章節<color=#990000><{0}-{1}></color>的劇透。\n\n確定要繼續嗎？"
+    },
+    {
+      "id": "mass_announcer_spoiler_caution",
+      "content": "將領取的獎勵列表中\n播報員可能包含\n對尚未通過的章節的劇透。\n\n是否領取獎勵？"
+    },
+    {
+      "id": "select_all",
+      "content": "全選"
+    },
+    {
+      "id": "deselect_all",
+      "content": "取消全選"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "管理故事語音"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "(임시 더미)보이스를 적용할 항목을 선택해주세요."
     }
   ]
 }

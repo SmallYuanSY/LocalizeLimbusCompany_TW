@@ -863,6 +863,22 @@
     {
       "id": "10610_getCondition_gacksung",
       "content": "獵牙事務所 收尾人 鴻璐 3階段同步完成"
+    },
+    {
+      "id": "11210_getCondition_normal",
+      "content": "獲得拉·曼卻領 神父 格里高爾"
+    },
+    {
+      "id": "11210_getCondition_gacksung",
+      "content": "拉·曼卻領 神父 格里高爾 3階段同步完成"
+    },
+    {
+      "id": "10911_getCondition_normal",
+      "content": "獲得拉·曼卻領 公主 羅佳"
+    },
+    {
+      "id": "10911_getCondition_gacksung",
+      "content": "拉·曼卻領 公主 羅佳 3階段同步完成"
     }
   ]
 }

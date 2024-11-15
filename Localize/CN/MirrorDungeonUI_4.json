@@ -1082,7 +1082,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_text_1",
-      "content": "在通過遭遇戰節點時，您可能根據鏡象迷宮的難度和所處的階層獲得遭遇戰獎勵卡。"
+      "content": "在通過遭遇戰節點時，您可能根據鏡像迷宮的難度和所處的階層獲得遭遇戰獎勵卡。"
     },
     {
       "id": "mirror_battle_reward_card_guide_text_2",
@@ -1090,11 +1090,11 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_0_1",
-      "content": "鏡象迷宮 模擬"
+      "content": "鏡像迷宮 模擬"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_0_2",
-      "content": "鏡象迷宮 Ritornello"
+      "content": "鏡像迷宮 Ritornello"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_1_0",

@@ -30,15 +30,15 @@
     },
     {
       "id": "tkt_scrap_guide_desc",
-      "content": "通關活動關卡、主線劇情、鏡象迷宮時，您將有低概率獲得</color><color=#c69136>[成捆懷錶]</color>。\n\n<color=#c69136>[成捆懷錶]</color>將轉換為20個</color>[懷錶]<color=#c69136>。"
+      "content": "通關活動關卡、主線劇情、鏡像迷宮時，您將有低概率獲得</color><color=#c69136>[成捆懷錶]</color>。\n\n<color=#c69136>[成捆懷錶]</color>將轉換為20個</color>[懷錶]<color=#c69136>。"
     },
     {
       "id": "tkt_rewardpage_desc",
-      "content": "通關活動關卡、迷宮後，可獲得 <color=#c69136>[懷錶]</color>。\n除此之外，首次通關主線劇情關卡、迷宮，通關鏡象迷宮後，也可獲得<color=#c69136>[懷錶]</color>。\n\n通關活動、主線劇情關卡、以及鏡象迷宮時，將有低概率獲得 <color=#c69136>[成捆懷錶]</color>，獲得的<color=#c69136>[成捆懷錶]</color>將立即轉換為20個<color=#c69136>[懷錶]</color>。\n\n可在<color=#c69136>[獎勵兌換]</color>視窗中，花費<color=#c69136>[懷錶]</color>兌換各種獎勵。"
+      "content": "通關活動關卡、迷宮後，可獲得 <color=#c69136>[懷錶]</color>。\n除此之外，首次通關主線劇情關卡、迷宮，通關鏡像迷宮後，也可獲得<color=#c69136>[懷錶]</color>。\n\n通關活動、主線劇情關卡、以及鏡像迷宮時，將有低概率獲得 <color=#c69136>[成捆懷錶]</color>，獲得的<color=#c69136>[成捆懷錶]</color>將立即轉換為20個<color=#c69136>[懷錶]</color>。\n\n可在<color=#c69136>[獎勵兌換]</color>視窗中，花費<color=#c69136>[懷錶]</color>兌換各種獎勵。"
     },
     {
       "id": "tkt_reward_popup_desc",
-      "content": "通關活動關卡與迷宮、\n首次通關主線劇情關卡、以及通關鏡象迷宮時，\n可獲得<color=#c69136>[懷錶]</color>。\n\n可在<color=#c69136>[獎勵兌換]</color>視窗中花費<color=#c69136>[懷錶]</color>，\n以獲得各種各樣的獎勵。"
+      "content": "通關活動關卡與迷宮、\n首次通關主線劇情關卡、以及通關鏡像迷宮時，\n可獲得<color=#c69136>[懷錶]</color>。\n\n可在<color=#c69136>[獎勵兌換]</color>視窗中花費<color=#c69136>[懷錶]</color>，\n以獲得各種各樣的獎勵。"
     },
     {
       "id": "tkt_reward_popup_num_of_owned_items",

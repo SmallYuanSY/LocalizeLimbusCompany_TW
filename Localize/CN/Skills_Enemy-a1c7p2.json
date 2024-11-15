@@ -574,7 +574,7 @@
                   "desc": "[OnSucceedAttack] 消耗所有[BloodyHand]並對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]並獲得(消耗的[HardenedBlood]層數×3)層血宴，使自身增加5級流血 強度"
+                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]並獲得(消耗的[HardenedBlood]層數×3)層血宴 ，使自身增加5級流血 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢復(目標的流血 強度)%體力(最多30%)"
@@ -706,7 +706,7 @@
                   "desc": "[OnSucceedAttack] 消耗所有[BloodyHand]並對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]並獲得(消耗的[HardenedBlood]層數×3)層血宴，使自身增加5級流血 強度"
+                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]並獲得(消耗的[HardenedBlood]層數×3)層血宴 ，使自身增加5級流血 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢復(目標的流血 強度)%體力(最多30%)"

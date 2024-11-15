@@ -18,11 +18,11 @@
     },
     {
       "id": "MIRROR_DUNGEON_TRY",
-      "content": "進入鏡象迷宮{0}次"
+      "content": "進入鏡像迷宮{0}次"
     },
     {
       "id": "MIRROR_DUNGEON_CLEAR",
-      "content": "通過鏡象迷宮{0}次"
+      "content": "通過鏡像迷宮{0}次"
     },
     {
       "id": "BATTLEPASS_LEVELUP",

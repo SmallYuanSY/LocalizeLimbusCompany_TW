@@ -883,6 +883,266 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1121001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "為家族的犧牲",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身增加10級流血 強度\n- 若現存體力不低於50%，則使自身額外增加15級流血 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層[BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "為家族的犧牲",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加10級流血 強度\n- 若現存體力不低於50%，則使自身額外增加15級流血 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "為家族的犧牲",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 使自身增加10級流血 強度\n- 若現存體力不低於50%，則使自身額外增加15級流血 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層[BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "緊扼而來的罪惡感",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身增加10級流血 強度\n[WhenUse] 若自身的[WornHeartGreg]層數不低於5層，則消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodyHandGregFirst]\n- 若自身的[WornHeartGreg]層數低於5層，則使自身增加10級流血 強度並使自身獲得2層[BloodyHandGregFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層[BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "緊扼而來的罪惡感",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加10級流血 強度\n[WhenUse] 若自身的[WornHeartGreg]層數不低於5層，則消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodyHandGregFirst]\n- 若自身的[WornHeartGreg]層數低於5層，則使自身增加10級流血 強度並使自身獲得2層[BloodyHandGregFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "緊扼而來的罪惡感",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 使自身增加10級流血 強度\n[WhenUse] 若自身的[WornHeartGreg]層數不低於5層，則消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodyHandGregFirst]\n- 若自身的[WornHeartGreg]層數低於5層，則使自身增加10級流血 強度並使自身獲得3層[BloodyHandGregFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層[BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "無法洗清的罪",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(每個技能最多100點)\n[WhenUse] 自身每失去體力上限1%的體力，使本技能造成的傷害+1%(最多+60%)\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 消耗所有超出10層的[BloodyHandGregFirst]，並觸發以下效果：\n- 使自身恢復(消耗的[BloodyHandGregFirst]層數×3)點體力\n- 若消耗的[BloodyHandGregFirst]層數不低於10層，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加10級流血 強度\n[EndSkill] 使自身恢復體力上限10%的體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[BloodyHandGregFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "無法洗清的罪",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(每個技能最多100點)\n[WhenUse] 自身每失去體力上限1%的體力，使本技能造成的傷害+1.5%(最多+90%)\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 消耗所有超出10層的[BloodyHandGregFirst]，並觸發以下效果：\n- 使自身恢復(消耗的[BloodyHandGregFirst]層數×3)點體力\n- 若消耗的[BloodyHandGregFirst]層數不低於10層，則使本技能的硬幣威力+1\n- 若消耗了20層[BloodyHandGregFirst]，則重覆使用本技能的最後一枚硬幣\n[WhenUse] 使自身增加10級流血 強度\n[EndSkill] 使自身恢復體力上限10%的體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得3層[BloodyHandGregFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "褪色的忍耐",
+          "desc": "[StartBattle] 使自身獲得3層[WornHeartGreg](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "褪色的忍耐",
+          "desc": "[StartBattle] 若現存體力不低於體力上限的40%，則使自身增加5級流血 強度並觸發自身的流血至多3次(每回合最多1次。根據觸發的流血 次數，相應使自身的流血 層數減少)\n[StartBattle] 若現存體力低於體力上限的40%，則消耗至多20層血宴 並使自身恢復相應的體力(每回合最多1次)\n[StartBattle] 使自身獲得3層[WornHeartGreg](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

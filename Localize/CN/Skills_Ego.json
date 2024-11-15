@@ -561,7 +561,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加3層尖釘 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有詛咒 ，則使本技能造成的傷害+50%"
+                  "desc": "[OnSucceedAttack] 若目標帶有詛咒 ，則使本硬幣造成的傷害+50%"
                 }
               ]
             }

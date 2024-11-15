@@ -959,7 +959,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層體力恢覆降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層體力恢復降低 "
                 }
               ]
             }
@@ -986,7 +986,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層體力恢覆降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層體力恢復降低 "
                 }
               ]
             }

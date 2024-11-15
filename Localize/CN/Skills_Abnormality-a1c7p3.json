@@ -651,7 +651,7 @@
         {
           "level": 1,
           "name": "血之歡喜",
-          "desc": "可無視速度值與本技能拼點\n[StartBattle] 若有敵方單位帶有[Laceration]，則立即觸發全體敵方單位的[Laceration]並使全體敵方單位的[Laceration]層數減少2層\n[WhenUse] 若本技能的戰鬥開始時效果未觸發，則使自身增加30級[Laceration]強度。\n[WinDuel] 消耗至多40層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodArmor]並使本技能造成的傷害+25% (最多+100%)\n- 若本技能未消耗[BloodDinner]，則使自身增加5級[Laceration]強度，立即觸發自身的[Laceration]並使自身的[Laceration]層數減少2層\n[EndSkill] 結束戰鬥",
+          "desc": "可無視速度值與本技能拼點\n[StartBattle] 若有敵方單位帶有[Laceration]，則立即觸發全體敵方單位的[Laceration]並使全體敵方單位的[Laceration]層數減少2層\n[WhenUse] 若本技能的戰鬥開始時效果未觸發，則使自身增加30級[Laceration]強度。\n[WinDuel] 消耗至多40層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodArmor]並使本技能造成的傷害+25% (最多+100%)\n- 若本技能未消耗[BloodDinner]，則使自身增加5級[Laceration]強度，立即觸發自身的[Laceration]並使自身的[Laceration]層數減少2層\n[EndSkill] 結束戰鬥階段",
           "coinlist": [
             {
               "coindescs": [
@@ -851,7 +851,7 @@
         {
           "level": 1,
           "name": "堂吉訶德派變體桑丘2式- La Sangre",
-          "desc": "可無視速度值與本技能拼點\n[WhenUse] 消耗50層血宴 並對自身與目標施加1層麻痺 \n[WhenUse] 消耗100層血宴 並使本技能的拼點威力+5\n- 若血宴 層數不足，則消耗自身100點體力並使本技能的拼點威力+5\n[EndSkill] 結束戰鬥",
+          "desc": "可無視速度值與本技能拼點\n[WhenUse] 消耗50層血宴 並對自身與目標施加1層麻痺 \n[WhenUse] 消耗100層血宴 並使本技能的拼點威力+5\n- 若血宴 層數不足，則消耗自身100點體力並使本技能的拼點威力+5\n[EndSkill] 結束戰鬥階段",
           "coinlist": [
             {
               "coindescs": [
@@ -1614,7 +1614,7 @@
         {
           "level": 1,
           "name": "血腥旋轉木馬",
-          "desc": "[CantDuel]\n[WhenUse] 下回合生成凝固的夢",
+          "desc": "[CantDuel]\n[WhenUse] 下回合生成凝結的夢",
           "coinlist": [
             {
               "coindescs": [

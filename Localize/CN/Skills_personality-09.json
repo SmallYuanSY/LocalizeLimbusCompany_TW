@@ -518,7 +518,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對自身施加1層震顫 "
+                  "desc": "[WinDuelAttack] 對目標施加1層震顫 "
                 },
                 {
                   "desc": "[WinDuelAttack] 對目標施加1層震顫 "
@@ -964,6 +964,359 @@
           "desc": "[StartBattle] 若使用的為本技能，則使自身獲得體力上限(自身的派送箱 層數)%的護盾(最多25%，每回合最多1次)\n[EndBattle] 激活戰略性休息福利模式 ",
           "coinlist": [
             {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "退下…",
+          "desc": "[StartBattle] 消耗至多20層血宴 ，每消耗10層血宴 ，使自身與體力上限最高的1名友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "退下…",
+          "desc": "[StartBattle] 消耗至多20層血宴 ，每消耗10層血宴 ，使自身與體力上限最高的1名友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "退下…",
+          "desc": "[StartBattle] 消耗至多20層血宴 ，每消耗10層血宴 ，使自身與體力上限最高的1名友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "四散、消亡吧",
+          "desc": "[StartBattle] 使自身與體力上限最低的1名友方單位獲得1層強壯 。消耗至多30層血宴 ，每消耗10層血宴 ，使自身與該友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層強壯 與2層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "四散、消亡吧",
+          "desc": "[StartBattle] 使自身與體力上限最低的1名友方單位獲得1層強壯 。消耗至多30層血宴 ，每消耗10層血宴 ，使自身與該友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層強壯 與2層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "四散、消亡吧",
+          "desc": "[StartBattle] 使自身與體力上限最低的1名友方單位獲得1層強壯 。消耗至多30層血宴 ，每消耗10層血宴 ，使自身與該友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層強壯 與2層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "慶典總會結束",
+          "desc": "[BeforeUse] 若自身的[BloomingThornsRodionFirst]層數不低於25層，則改為使用“堂吉訶德派硬血奧義 落幕”\n[WhenUse] 本回合與下回合使自身與(最大共鳴數)名友方單位獲得3層[FestivalFeverRodion]，自身每帶有50層[BloodDinner_Accumulation]，額外獲得1層[FestivalFeverRodion](最多10層)\n[WhenUse] 使自身與(最大共鳴數)名友方單位獲得3層[BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "慶典總會結束",
+          "desc": "[BeforeUse] 若自身的[BloomingThornsRodionFirst]層數不低於25層，則改為使用“堂吉訶德派硬血奧義 落幕”\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 本回合與下回合使自身與(最大共鳴數)名友方單位獲得3層[FestivalFeverRodion]，自身每帶有50層[BloodDinner_Accumulation]，額外獲得1層[FestivalFeverRodion](最多10層)\n[WhenUse] 使自身與(最大共鳴數)名友方單位獲得3層[BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血15式 陽傘",
+          "desc": "[DuelCounter]\n[WhenUse] 使除自身以外(流血 強度與流血 層數之積)最高的2名友方單位的流血 層數減少3層，並獲得(減少前的流血 強度×減少的流血 層數)層血宴 \n - 若該效果使其流血 層數降至0層，則解除其流血 \n[WinDuel] 使自身獲得4層[BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "堂吉訶德派硬血15式 陽傘",
+          "desc": "[DuelCounter]\n[WhenUse] 使除自身以外(流血 強度與流血 層數之積)最高的2名友方單位的流血 層數減少3層，並獲得(減少前的流血 強度×減少的流血 層數)層血宴 \n - 若該效果使其流血 層數降至0層，則解除其流血 \n - 若該友方單位屬於<血魔>，則使其流血 層數額外減少2層\n[WinDuel] 使自身獲得4層[BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "堂吉訶德派硬血奧義 落幕",
+          "desc": "[WhenUse] 本回合與下回合使自身與(最大共鳴數)名友方單位獲得5層[FestivalFeverRodion]，自身每帶有50層[BloodDinner_Accumulation]，額外獲得1層[FestivalFeverRodion](最多10層)\n[WhenUse] 使自身與(最大共鳴數)名友方單位獲得5層[BloomingThornsRodionFirst]\n[WhenUse] 自身每帶有5層[BloodDinner_Accumulation]，使本技能造成的傷害+1%(最多+50%)\n[EndSkill] 消耗自身所有[BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "堂吉訶德派硬血奧義 落幕",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 本回合與下回合使自身與(最大共鳴數)名友方單位獲得5層[FestivalFeverRodion]，自身每帶有50層[BloodDinner_Accumulation]，額外獲得1層[FestivalFeverRodion](最多10層)\n[WhenUse] 使自身與(最大共鳴數)名友方單位獲得5層[BloomingThornsRodionFirst]\n[WhenUse] 自身每帶有5層[BloodDinner_Accumulation]，使本技能造成的傷害+1%(最多+50%)\n[EndSkill] 消耗自身所有[BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
           ]
         }
       ]

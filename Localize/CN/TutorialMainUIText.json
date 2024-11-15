@@ -582,15 +582,15 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon",
-      "content": "鏡象迷宮"
+      "content": "鏡像迷宮"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_01_title_01",
-      "content": "鏡象迷宮列表"
+      "content": "鏡像迷宮列表"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_01_desc_01",
-      "content": "能夠在眾多鏡象迷宮中選擇其一入場。需要消耗腦啡肽模組來獲得獎勵。"
+      "content": "能夠在眾多鏡像迷宮中選擇其一入場。需要消耗腦啡肽模組來獲得獎勵。"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_02_title_01",
@@ -598,7 +598,7 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_02_desc_01",
-      "content": "能夠確認在鏡象迷宮中出現的E.G.O飾品，部分E.G.O擁有特殊的解鎖條件。"
+      "content": "能夠確認在鏡像迷宮中出現的E.G.O飾品，部分E.G.O擁有特殊的解鎖條件。"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_03_title_01",
@@ -606,7 +606,7 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_03_desc_01",
-      "content": "進入鏡象迷宮時，將會隨機選出幾件E.G.O飾品。從中選擇一件後，在推進鏡象迷宮時能夠獲得特殊效果。"
+      "content": "進入鏡像迷宮時，將會隨機選出幾件E.G.O飾品。從中選擇一件後，在推進鏡像迷宮時能夠獲得特殊效果。"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_04_title_01",
@@ -622,7 +622,7 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_05_desc_01",
-      "content": "能夠編輯所選罪人的人格。鏡象迷宮中使用了不同的強化方式，所有人格在編輯階段都將是10級。"
+      "content": "能夠編輯所選罪人的人格。鏡像迷宮中使用了不同的強化方式，所有人格在編輯階段都將是10級。"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_06_title_01",
@@ -634,11 +634,11 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_07_title_01",
-      "content": "鏡象迷宮探索"
+      "content": "鏡像迷宮探索"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_07_desc_01",
-      "content": "鏡象迷宮中，將會隨機產生入場後的節點以及道路。選擇與目前節點相鄰的節點並推進後，在各個節點將會隨機產生不同型別的戰鬥及事件。"
+      "content": "鏡像迷宮中，將會隨機產生入場後的節點以及道路。選擇與目前節點相鄰的節點並推進後，在各個節點將會隨機產生不同型別的戰鬥及事件。"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_08_title_01",
@@ -670,15 +670,15 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_02",
-      "content": "鏡象迷宮中使用了不同的強化方式。通過戰鬥或是事件能夠升級並追加裝備E.G.O。"
+      "content": "鏡像迷宮中使用了不同的強化方式。通過戰鬥或是事件能夠升級並追加裝備E.G.O。"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_10_title_01",
-      "content": "鏡象迷宮獎勵"
+      "content": "鏡像迷宮獎勵"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_10_desc_01",
-      "content": "通關鏡象迷宮後將會獲得獎勵。每週能夠領取固定次數的額外獎勵。獎勵數目與通關的節點數量成比例。"
+      "content": "通關鏡像迷宮後將會獲得獎勵。每週能夠領取固定次數的額外獎勵。獎勵數目與通關的節點數量成比例。"
     },
     {
       "id": "tutorial_mainui_11_extraction",
@@ -1134,7 +1134,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_02_desc_02",
-      "content": "※鏡象迷宮，採光迷宮，折射軌道將無法獲得[小鳳玩偶]。"
+      "content": "※鏡像迷宮，採光迷宮，折射軌道將無法獲得[小鳳玩偶]。"
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_03_title_01",
@@ -1182,7 +1182,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_07_desc_01",
-      "content": "地獄雞迷宮的探索方式與鏡象迷宮相同。\n地獄雞迷宮分為兩種難度，特徵區別如下。"
+      "content": "地獄雞迷宮的探索方式與鏡像迷宮相同。\n地獄雞迷宮分為兩種難度，特徵區別如下。"
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_08_title_01",
@@ -1190,7 +1190,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_08_desc_01",
-      "content": "鏡象迷宮中的部分E.G.O飾品會出現在Hell's Chicken迷宮中。\n此類E.G.O飾品將會對人格及E.G.O進行有效輔助。"
+      "content": "鏡像迷宮中的部分E.G.O飾品會出現在Hell's Chicken迷宮中。\n此類E.G.O飾品將會對人格及E.G.O進行有效輔助。"
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_09_title_01",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_10_desc_01",
-      "content": "進入Hell's Chicken迷宮時，將與鏡象迷宮類似，隨機產生節點及線路。\nHell's Chicken迷宮僅由一層組成，最終節點將會出現固定的頭目。"
+      "content": "進入Hell's Chicken迷宮時，將與鏡像迷宮類似，隨機產生節點及線路。\nHell's Chicken迷宮僅由一層組成，最終節點將會出現固定的頭目。"
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_11_title_01",
@@ -1302,15 +1302,15 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon",
-      "content": "鏡象迷宮"
+      "content": "鏡像迷宮"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_01",
-      "content": "鏡象迷宮列表"
+      "content": "鏡像迷宮列表"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_01",
-      "content": "能夠從列表中選擇一個鏡象迷宮進入。 \n每次僅能探索一個鏡象迷宮，如果您想在探險過程中進入另一個迷宮，您必須先清除或放棄正在進行的鏡象迷宮。\n每個鏡象迷宮分為兩個難度：簡單和困難。起始之鏡不包含困難模式。"
+      "content": "能夠從列表中選擇一個鏡像迷宮進入。 \n每次僅能探索一個鏡像迷宮，如果您想在探險過程中進入另一個迷宮，您必須先清除或放棄正在進行的鏡像迷宮。\n每個鏡像迷宮分為兩個難度：簡單和困難。起始之鏡不包含困難模式。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_02",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_02",
-      "content": "鏡象迷宮每週會提供3次額外的獎勵，在結束時使用則可收穫獎勵。"
+      "content": "鏡像迷宮每週會提供3次額外的獎勵，在結束時使用則可收穫獎勵。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_03",
@@ -1326,7 +1326,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_03",
-      "content": "每個鏡象迷宮都存在開放條件。"
+      "content": "每個鏡像迷宮都存在開放條件。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_04",
@@ -1334,7 +1334,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_04",
-      "content": "能夠檢視在鏡象迷宮中出現過的E.G.O飾品。\n在鏡象迷宮中，未獲得過的E.G.O飾品將顯示為“無數據”"
+      "content": "能夠檢視在鏡像迷宮中出現過的E.G.O飾品。\n在鏡像迷宮中，未獲得過的E.G.O飾品將顯示為“無數據”"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_05",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_05",
-      "content": "進入鏡象迷宮時，將會隨機選出幾件E.G.O飾品。從中選擇一件後，在推進鏡象迷宮時能夠獲得特殊效果。"
+      "content": "進入鏡像迷宮時，將會隨機選出幾件E.G.O飾品。從中選擇一件後，在推進鏡像迷宮時能夠獲得特殊效果。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_06",
@@ -1350,7 +1350,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_06",
-      "content": "能夠選擇參與鏡象迷宮探索的罪人。\n每個鏡象迷宮初始可編排的最大罪人數固定的。"
+      "content": "能夠選擇參與鏡像迷宮探索的罪人。\n每個鏡像迷宮初始可編排的最大罪人數固定的。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_07",
@@ -1382,7 +1382,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_10",
-      "content": "能夠選擇罪人的人格。\n在鏡象迷宮中，所有人格將自動應用每個鏡象迷宮的人格等級。"
+      "content": "能夠選擇罪人的人格。\n在鏡像迷宮中，所有人格將自動應用每個鏡像迷宮的人格等級。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_11",
@@ -1394,19 +1394,19 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_12",
-      "content": "進入鏡象迷宮"
+      "content": "進入鏡像迷宮"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_12",
-      "content": "完成初始人格設定後，按“確認”能夠進入鏡象迷宮。"
+      "content": "完成初始人格設定後，按“確認”能夠進入鏡像迷宮。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_13",
-      "content": "鏡象迷宮探索"
+      "content": "鏡像迷宮探索"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_13",
-      "content": "每次進入鏡象迷宮中，將會隨機產生節點和路徑。\n可以移動至與目前節點相鄰的節點，在各節點中將會隨機觸發各種戰鬥與事件。"
+      "content": "每次進入鏡像迷宮中，將會隨機產生節點和路徑。\n可以移動至與目前節點相鄰的節點，在各節點中將會隨機觸發各種戰鬥與事件。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_14",
@@ -1430,7 +1430,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_16",
-      "content": "在鏡象迷宮的戰鬥節點下方會顯示對敵人的有利屬性。"
+      "content": "在鏡像迷宮的戰鬥節點下方會顯示對敵人的有利屬性。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_17",
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_17",
-      "content": "鏡象迷宮中的休息點能夠免費治療友方單位，或花費經費來追加人格或購買E.G.O飾品。"
+      "content": "鏡像迷宮中的休息點能夠免費治療友方單位，或花費經費來追加人格或購買E.G.O飾品。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_18",
@@ -1446,11 +1446,11 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_18",
-      "content": "鏡象迷宮中的商店，能夠通過消耗戰鬥中獲得的經費購買E.G.O飾品，治療友方單位，追加人格與E.G.O，強化所顯示的人格。"
+      "content": "鏡像迷宮中的商店，能夠通過消耗戰鬥中獲得的經費購買E.G.O飾品，治療友方單位，追加人格與E.G.O，強化所顯示的人格。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_19",
-      "content": "鏡象迷宮獎勵"
+      "content": "鏡像迷宮獎勵"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_19",
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_20",
-      "content": "當鏡象迷宮的困難難度被解鎖時，困難難度獎勵計數將顯示在上方。\n困難模式中能夠獲得更多的戰鬥通行證經驗值，但每週只能領取1次獎勵。\n困難難度獎勵和每週獎勵相互獨立。您可以通過將每週獎勵應用於困難難度獎勵來最大限度地提高您獲取獎勵的效率。"
+      "content": "當鏡像迷宮的困難難度被解鎖時，困難難度獎勵計數將顯示在上方。\n困難模式中能夠獲得更多的戰鬥通行證經驗值，但每週只能領取1次獎勵。\n困難難度獎勵和每週獎勵相互獨立。您可以通過將每週獎勵應用於困難難度獎勵來最大限度地提高您獲取獎勵的效率。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_21",
@@ -1478,7 +1478,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_22",
-      "content": "開局增益可以通過“星芒”系統啟用，它為您的迷宮探險提供各種增益效果。\n星芒可以通過通關鏡象迷宮獲得。到達更深的迷宮會獲得更多星芒。\n在特定的鏡象迷宮中，開局增益同時適用於普通模式和困難模式，但不會影響其他鏡象迷宮。\n在特定的鏡象迷宮中獲得的星芒無法用於啟用其他鏡象迷宮的開局增益。"
+      "content": "開局增益可以通過“星芒”系統啟用，它為您的迷宮探險提供各種增益效果。\n星芒可以通過通關鏡像迷宮獲得。到達更深的迷宮會獲得更多星芒。\n在特定的鏡像迷宮中，開局增益同時適用於普通模式和困難模式，但不會影響其他鏡像迷宮。\n在特定的鏡像迷宮中獲得的星芒無法用於啟用其他鏡像迷宮的開局增益。"
     },
     {
       "id": "tutorial_mainui_20_umida_title",
@@ -1502,7 +1502,7 @@
     },
     {
       "id": "tutorial_mainui_20_umida_02_desc_02",
-      "content": "※鏡象迷宮，採光迷宮，折射軌道將無法獲得[巴士改造廢料]。"
+      "content": "※鏡像迷宮，採光迷宮，折射軌道將無法獲得[巴士改造廢料]。"
     },
     {
       "id": "tutorial_mainui_20_umida_03_title_01",
@@ -1882,7 +1882,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_01_desc_01",
-      "content": "第3賽季鏡象迷宮名為“湖之鏡”。"
+      "content": "第3賽季鏡像迷宮名為“湖之鏡”。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_01_desc_02",
@@ -1894,7 +1894,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_02_desc_01",
-      "content": "鏡象迷宮擁有每週獎勵加成。領取獎勵時使用額外獎勵加成，將會大幅增加所獲得的獎勵。"
+      "content": "鏡像迷宮擁有每週獎勵加成。領取獎勵時使用額外獎勵加成，將會大幅增加所獲得的獎勵。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_02_desc_02",
@@ -1918,7 +1918,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_03_desc_02",
-      "content": "能夠消耗通關鏡象迷宮時所獲得的星芒，來獲取鏡象迷宮探索時的加成。"
+      "content": "能夠消耗通關鏡像迷宮時所獲得的星芒，來獲取鏡像迷宮探索時的加成。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_03_title_03",
@@ -1926,7 +1926,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_03_desc_03",
-      "content": "能夠確認在鏡象迷宮中出現的E.G.O飾品。若在探索過程中獲得新的E.G.O飾品，將會在此處追加記錄。"
+      "content": "能夠確認在鏡像迷宮中出現的E.G.O飾品。若在探索過程中獲得新的E.G.O飾品，將會在此處追加記錄。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_title_01",
@@ -1938,7 +1938,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_desc_02",
-      "content": "開局增益不受鏡象迷宮難度的影響。"
+      "content": "開局增益不受鏡像迷宮難度的影響。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_title_02",
@@ -1946,7 +1946,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_desc_03",
-      "content": "通關鏡象迷宮時，可以獲得星芒。"
+      "content": "通關鏡像迷宮時，可以獲得星芒。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_desc_04",
@@ -1958,7 +1958,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_01",
-      "content": "進入鏡象迷宮時，將會提供總計8種可選E.G.O飾品型別。"
+      "content": "進入鏡像迷宮時，將會提供總計8種可選E.G.O飾品型別。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_02",
@@ -1966,11 +1966,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_03",
-      "content": "鏡象迷宮中，能夠獲得有助於戰鬥的E.G.O飾品。"
+      "content": "鏡像迷宮中，能夠獲得有助於戰鬥的E.G.O飾品。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_04",
-      "content": "以之前未選擇過的E.G.O飾品類別通關鏡象迷宮時，可以額外獲得星芒。"
+      "content": "以之前未選擇過的E.G.O飾品類別通關鏡像迷宮時，可以額外獲得星芒。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_06_title_01",
@@ -1978,11 +1978,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_06_desc_01",
-      "content": "能夠選擇編入鏡象迷宮探索隊伍的罪人。"
+      "content": "能夠選擇編入鏡像迷宮探索隊伍的罪人。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_06_desc_02",
-      "content": "在鏡象迷宮編隊時，人格等級將會固定在40級。但困難難度將會直接反映現有人格等級。（最多40級）"
+      "content": "在鏡像迷宮編隊時，人格等級將會固定在40級。但困難難度將會直接反映現有人格等級。（最多40級）"
     },
     {
       "id": "tutorial_mirrordungeon03_page_06_desc_03",
@@ -1998,7 +1998,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_07_desc_01",
-      "content": "通關鏡象迷宮時，編入隊伍中的人格所剩餘的休息獎勵將轉換為星芒。"
+      "content": "通關鏡像迷宮時，編入隊伍中的人格所剩餘的休息獎勵將轉換為星芒。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_07_desc_02",
@@ -2010,11 +2010,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_08_title_01",
-      "content": "鏡象迷宮入場"
+      "content": "鏡像迷宮入場"
     },
     {
       "id": "tutorial_mirrordungeon03_page_08_desc_01",
-      "content": "完成人格與E.G.O設定後，按“確認”即可進入鏡象迷宮。"
+      "content": "完成人格與E.G.O設定後，按“確認”即可進入鏡像迷宮。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_08_desc_02",
@@ -2022,11 +2022,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_09_title_01",
-      "content": "鏡象迷宮探索"
+      "content": "鏡像迷宮探索"
     },
     {
       "id": "tutorial_mirrordungeon03_page_09_desc_01",
-      "content": "每次進入鏡象迷宮中，將會隨機產生節點和路徑。"
+      "content": "每次進入鏡像迷宮中，將會隨機產生節點和路徑。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_09_desc_02",
@@ -2038,7 +2038,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_09_desc_03",
-      "content": "在鏡象迷宮的遊玩過程中可以獲得經費，可以通過消耗經費使用商店與休息點的功能。"
+      "content": "在鏡像迷宮的遊玩過程中可以獲得經費，可以通過消耗經費使用商店與休息點的功能。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_title_01",
@@ -2054,7 +2054,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page10_desc_02",
-      "content": "在鏡象迷宮的戰鬥節點下方會顯示對應關卡的有利屬性。"
+      "content": "在鏡像迷宮的戰鬥節點下方會顯示對應關卡的有利屬性。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_title_03",
@@ -2102,7 +2102,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_14_title_01",
-      "content": "鏡象迷宮獎勵"
+      "content": "鏡像迷宮獎勵"
     },
     {
       "id": "tutorial_mirrordungeon03_page_14_desc_01",
@@ -2130,7 +2130,7 @@
     },
     {
       "id": "tutorial_mainui_24_miracle_02_desc_01",
-      "content": "此處顯示了20區的奇蹟活動的持續時間。活動過程中，您可以通過通關活動或主線關卡以及鏡象迷宮來獲取[裝飾品包裹]。\n※ 您無法從採光關卡中獲取[裝飾品包裹]。"
+      "content": "此處顯示了20區的奇蹟活動的持續時間。活動過程中，您可以通過通關活動或主線關卡以及鏡像迷宮來獲取[裝飾品包裹]。\n※ 您無法從採光關卡中獲取[裝飾品包裹]。"
     },
     {
       "id": "tutorial_mainui_24_miracle_03_title_01",
@@ -2450,7 +2450,7 @@
     },
     {
       "id": "tutorial_mainui_26_ycgd_02_desc_01",
-      "content": "此處展示了肉斬骨斷活動的持續時間。\n\n通關活動關卡、迷宮可獲取[染血劍鞘]。除此之外，首次通關主線關卡、迷宮，通關鏡象迷宮也可獲取[染血劍鞘]。\n\n※ 採光關卡與折射軌道中無法獲取[染血劍鞘]。"
+      "content": "此處展示了肉斬骨斷活動的持續時間。\n\n通關活動關卡、迷宮可獲取[染血劍鞘]。除此之外，首次通關主線關卡、迷宮，通關鏡像迷宮也可獲取[染血劍鞘]。\n\n※ 採光關卡與折射軌道中無法獲取[染血劍鞘]。"
     },
     {
       "id": "tutorial_mainui_26_ycgd_03_title_01",
@@ -2494,7 +2494,7 @@
     },
     {
       "id": "tutorial_mainui_26_ycgd_07_desc_01",
-      "content": "肉斬骨斷最後的戰鬥，將以鏡象迷宮的形式進行。\n\n入場時，將消耗腦啡肽模組。"
+      "content": "肉斬骨斷最後的戰鬥，將以鏡像迷宮的形式進行。\n\n入場時，將消耗腦啡肽模組。"
     },
     {
       "id": "tutorial_mainui_26_ycgd_08_title_01",
@@ -2526,7 +2526,7 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_02_desc_01",
-      "content": "此處顯示了時間殺人時間活動的持續時間。\n活動過程中，您可以通過活動關卡或鏡象迷宮來獲取[懷錶]。\n\n※ 您無法從採光關卡以及折射軌道中獲取[懷錶]。"
+      "content": "此處顯示了時間殺人時間活動的持續時間。\n活動過程中，您可以通過活動關卡或鏡像迷宮來獲取[懷錶]。\n\n※ 您無法從採光關卡以及折射軌道中獲取[懷錶]。"
     },
     {
       "id": "tutorial_mainui_28_tkt_03_title_01",

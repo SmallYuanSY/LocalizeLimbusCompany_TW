@@ -1259,7 +1259,7 @@
         {
           "level": 1,
           "name": "縫紉",
-          "desc": "本技能命中時，使自身恢覆造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗至多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 ",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗至多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1280,7 +1280,7 @@
         {
           "level": 2,
           "name": "縫紉",
-          "desc": "本技能命中時，使自身恢覆造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗至多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 \n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗至多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 \n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1307,7 +1307,7 @@
         {
           "level": 4,
           "name": "縫紉",
-          "desc": "本技能命中時，使自身恢覆造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗至多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 \n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗至多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 \n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1339,12 +1339,12 @@
         {
           "level": 1,
           "name": "剪斷",
-          "desc": "本技能命中時，使自身恢覆造成體力傷害量10%的體力(最多20點)\n[WhenUse] 消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多20點)\n[WhenUse] 消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標帶有[LineCuttingPersonality]，則使其增加2級流血 強度"
@@ -1373,7 +1373,7 @@
         {
           "level": 2,
           "name": "剪斷",
-          "desc": "本技能命中時，使自身恢覆造成體力傷害量20%的體力(最多20點)\n[WhenUse] 消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量20%的體力(最多20點)\n[WhenUse] 消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1407,7 +1407,7 @@
         {
           "level": 4,
           "name": "剪斷",
-          "desc": "本技能命中時，使自身恢覆造成體力傷害量20%的體力(最多20點)\n[WhenUse] 消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量20%的體力(最多20點)\n[WhenUse] 消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1446,7 +1446,7 @@
         {
           "level": 3,
           "name": "給你做條新裙子！",
-          "desc": "本技能命中時，使自身恢覆造成體力傷害量30%的體力(最多20點)\n[BeforeAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有6級流血 強度，使本技能的拼點威力+1(最多+2)\n[EndSkill] 本技能的攻擊容量每增加1點，使自身消耗15層[BloodScissorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得10層血宴 。使自身重新獲得本技能消耗量一半的[BloodScissorPersonalityFirst](每回合最多1次)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多20點)\n[BeforeAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有6級流血 強度，使本技能的拼點威力+1(最多+2)\n[EndSkill] 本技能的攻擊容量每增加1點，使自身消耗15層[BloodScissorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得10層血宴 。使自身重新獲得本技能消耗量一半的[BloodScissorPersonalityFirst](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1481,7 +1481,7 @@
         {
           "level": 4,
           "name": "給你做條新裙子！",
-          "desc": "本技能命中時，使自身恢覆造成體力傷害量30%的體力(最多20點)\n[BeforeAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1\n- 若自身的[BloodScissorPersonalityFirst]層數不低於20層，則改為使本技能的攻擊容量+2\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有6級流血 強度，使本技能的拼點威力+1(最多+2)\n[EndSkill] 本技能的攻擊容量每增加1點，使自身消耗10層[BloodScissorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得20層血宴 。使自身重新獲得本技能消耗量一半的[BloodScissorPersonalityFirst](每回合最多1次)\n\n- 若目標帶有[LineCuttingPersonality]，則額外獲得20層血宴 ，並使自身獲得5層[BloodScissorPersonalityFirst](每回合最多1次)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多20點)\n[BeforeAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1\n- 若自身的[BloodScissorPersonalityFirst]層數不低於20層，則改為使本技能的攻擊容量+2\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有6級流血 強度，使本技能的拼點威力+1(最多+2)\n[EndSkill] 本技能的攻擊容量每增加1點，使自身消耗10層[BloodScissorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得20層血宴 。使自身重新獲得本技能消耗量一半的[BloodScissorPersonalityFirst](每回合最多1次)\n\n- 若目標帶有[LineCuttingPersonality]，則額外獲得20層血宴 ，並使自身獲得5層[BloodScissorPersonalityFirst](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [

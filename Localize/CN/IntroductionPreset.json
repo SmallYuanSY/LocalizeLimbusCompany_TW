@@ -1307,6 +1307,30 @@
     {
       "id": "introduce_sentence_166",
       "content": "體會被人{0}是何種心情……"
+    },
+    {
+      "id": "introduce_word_167",
+      "content": "血棒"
+    },
+    {
+      "id": "introduce_sentence_167",
+      "content": "我也曾深信過{0}是偉大的。"
+    },
+    {
+      "id": "introduce_word_168",
+      "content": "遊行"
+    },
+    {
+      "id": "introduce_sentence_168",
+      "content": "要與我一同，參加這永無止盡的{0}嗎？"
+    },
+    {
+      "id": "introduce_word_169",
+      "content": "彈丸"
+    },
+    {
+      "id": "introduce_sentence_169",
+      "content": "讓這兇惡的{0}貫穿他們……！"
     }
   ]
 }

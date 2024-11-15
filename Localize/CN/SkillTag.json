@@ -106,11 +106,11 @@
     },
     {
       "id": "EnemyKill",
-      "name": "[擊殺時]"
+      "name": "[擊殺敵方時]"
     },
     {
       "id": "EnemyKillFail",
-      "name": "[未擊殺時]"
+      "name": "[未擊殺敵方時]"
     },
     {
       "id": "ReUse",
@@ -214,11 +214,11 @@
     },
     {
       "id": "CriticalEnemyTargetKillFail",
-      "name": "[暴擊未擊殺時]"
+      "name": "[暴擊未擊殺敵方時]"
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[暴擊擊殺時]"
+      "name": "[暴擊擊殺敵方時]"
     },
     {
       "id": "DefeatDuelAttack",
@@ -226,7 +226,15 @@
     },
     {
       "id": "TargetKillFail",
-      "name": "[擊殺目標失敗時]"
+      "name": "[未擊殺目標時]"
+    },
+    {
+      "id": "AllyKill",
+      "name": "[擊殺友方時]"
+    },
+    {
+      "id": "AllyKillFail",
+      "name": "[未擊殺友方時]"
     }
   ]
 }
