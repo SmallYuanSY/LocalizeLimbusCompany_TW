@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 1030,
-      "panicName": "虛無的韁繩",
+      "panicName": "虛無的枷鎖",
       "lowMoraleDescription": "回合開始時，使自身獲得1層[Enhancement]並對自身施加3層[DefenseDown]。回合結束時，失去5點理智值",
       "panicDescription": "回合開始時，使自身獲得2層[Enhancement]並對自身施加6層[DefenseDown]。回合結束時，恢復10點理智值"
     },

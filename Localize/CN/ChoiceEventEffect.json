@@ -431,6 +431,14 @@
     {
       "id": "GetImmediateConfirmedEgogifts",
       "content": "<color=#ebcaa2>獲得{reward}！</color>"
+    },
+    {
+      "id": "Choice_EGO901101",
+      "content": "戰鬥勝利後，獲得E.G.O飾品“微縮電線桿”"
+    },
+    {
+      "id": "Choice_EGO901104",
+      "content": "戰鬥勝利後，獲得E.G.O飾品“撕裂的血囊”"
     }
   ]
 }

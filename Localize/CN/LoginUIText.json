@@ -199,6 +199,10 @@
     {
       "id": "servererror_invalid_purchasing_package",
       "content": "商品交易失敗。"
+    },
+    {
+      "id": "forcequit_cache_initialize_fail",
+      "content": "遊戲客戶端無法正常啟動。\n請確認網絡狀態並重試。\n咨詢：limbussupport+bug@projmoon.com"
     }
   ]
 }

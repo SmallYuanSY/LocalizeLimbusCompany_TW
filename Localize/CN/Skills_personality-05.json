@@ -74,7 +74,7 @@
         {
           "level": 1,
           "name": "忠義鎖鏈",
-          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得1層嫉妒強壯 ",
+          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得1層嫉妒威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -95,7 +95,7 @@
         {
           "level": 2,
           "name": "忠義鎖鏈",
-          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得1層嫉妒強壯 ",
+          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得1層嫉妒威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -116,7 +116,7 @@
         {
           "level": 4,
           "name": "忠義鎖鏈",
-          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得1層嫉妒強壯 \n若受影響的行動槽中的技能為嫉妒屬性，則使對應單位獲得1層嫉妒傷害強化 ",
+          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得1層嫉妒威力提升 \n若受影響的行動槽中的技能為嫉妒屬性，則使對應單位獲得1層嫉妒傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -335,7 +335,7 @@
         {
           "level": 1,
           "name": "穿刺劍法",
-          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊強壯 ",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
         {
           "level": 2,
           "name": "穿刺劍法",
-          "desc": "[StartBattle] 按速度值由低到高使除自身以外隸屬於劍契組的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)\n[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊強壯 ",
+          "desc": "[StartBattle] 按速度值由低到高使除自身以外隸屬於劍契組的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)\n[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -379,7 +379,7 @@
         {
           "level": 3,
           "name": "穿刺劍法",
-          "desc": "[StartBattle_Force] 按速度值由低到高使除自身以外隸屬於劍契組的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)\n[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊強壯 ",
+          "desc": "[StartBattle_Force] 按速度值由低到高使除自身以外隸屬於劍契組的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)\n[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -401,7 +401,7 @@
         {
           "level": 4,
           "name": "穿刺劍法",
-          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1\n[StartBattle] 按速度值由低到高使除自身以外隸屬於劍契組的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)\n- 若參戰的隸屬於劍契組的友方單位不低於6名，則改為獲得2層\n[WhenUse] 使自身獲得3層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊強壯 ",
+          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1\n[StartBattle] 按速度值由低到高使除自身以外隸屬於劍契組的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)\n- 若參戰的隸屬於劍契組的友方單位不低於6名，則改為獲得2層\n[WhenUse] 使自身獲得3層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -449,7 +449,7 @@
         {
           "level": 1,
           "name": "弒主妖劍",
-          "desc": "[WhenUse] 下回合使自身獲得1層斬擊強壯 (最多1層)",
+          "desc": "[WhenUse] 下回合使自身獲得1層斬擊威力提升 (最多1層)",
           "coinlist": [
             {
               "coindescs": [
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "弒主妖劍",
-          "desc": "[WhenUse] 下回合使自身獲得1層斬擊強壯 (最多1層)\n自身每失去1%體力，造成的傷害+0.5%(最多25%)",
+          "desc": "[WhenUse] 下回合使自身獲得1層斬擊威力提升 (最多1層)\n自身每失去1%體力，造成的傷害+0.5%(最多25%)",
           "coinlist": [
             {
               "coindescs": [

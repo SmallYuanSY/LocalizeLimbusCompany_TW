@@ -49,6 +49,18 @@
     {
       "id": 9109,
       "openCondition": "通過時間殺人時間"
+    },
+    {
+      "id": 107,
+      "openCondition": "通過主線劇情第7章 "
+    },
+    {
+      "id": 9110,
+      "openCondition": "通過WARP快車謀殺案"
+    },
+    {
+      "id": 9111,
+      "openCondition": "通過第4次 瓦爾普吉斯之夜"
     }
   ]
 }

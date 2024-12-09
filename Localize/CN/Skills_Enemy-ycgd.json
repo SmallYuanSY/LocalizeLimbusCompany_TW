@@ -54,7 +54,7 @@
         {
           "level": 1,
           "name": "黑雲散亂",
-          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WinDuel] 下回合使自身獲得1層斬擊強壯 ",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WinDuel] 下回合使自身獲得1層斬擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -480,7 +480,7 @@
         {
           "level": 1,
           "name": "鋒芒畢現",
-          "desc": "[StartBattle] 使包括自身在內的全體友方單位獲得2層斬擊傷害強化 \n[StartBattle] 使自身獲得2層斬擊強壯 ",
+          "desc": "[StartBattle] 使包括自身在內的全體友方單位獲得2層斬擊傷害強化 \n[StartBattle] 使自身獲得2層斬擊威力提升 ",
           "coinlist": [
             {},
             {

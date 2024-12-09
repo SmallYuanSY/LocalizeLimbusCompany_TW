@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "砍斷",
-          "desc": "[WhenUse] 若目標帶有燒傷 ，則使本技能的基礎威力+2",
+          "desc": "[WinDuel] 若目標帶有燒傷 ，則使本技能的基礎威力+2",
           "coinlist": [
             {
               "coindescs": [

@@ -879,6 +879,14 @@
     {
       "id": "10911_getCondition_gacksung",
       "content": "拉·曼卻領 公主 羅佳 3階段同步完成"
+    },
+    {
+      "id": "11011_getCondition_normal",
+      "content": "獲得Девять協會 北部3科 辛克萊"
+    },
+    {
+      "id": "11011_getCondition_gacksung",
+      "content": "Девять協會 北部3科 辛克萊 3階段同步完成"
     }
   ]
 }

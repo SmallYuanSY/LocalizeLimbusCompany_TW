@@ -386,6 +386,193 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2070811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "失衡慣性",
+          "abName": "發條裝置時間不倒翁",
+          "desc": "[BeforeAttack] 對自身施加(最大共鳴數)層震顫 (最多6層，每回合最多20層)\n- 若該共鳴為怠惰共鳴，則使自身的震顫 振幅轉換 為震顫-上弦 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加2層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層\n- 使目標震顫引爆 時，本回合對其施加1層怠惰易損 \n- 若最大共鳴為共鳴數不低於4的怠惰完全共鳴，則下回合額外對其施加1層怠惰易損 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "失衡慣性",
+          "abName": "發條裝置時間不倒翁",
+          "desc": "[BeforeAttack] 對自身施加(2+最大共鳴數)層震顫 (最多8層，每回合最多20層)\n- 若該共鳴為怠惰共鳴，則使自身的震顫 振幅轉換 為震顫-上弦 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加4級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加2層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層\n- 使目標震顫引爆 時，本回合對其施加1層怠惰易損 \n- 若最大共鳴為怠惰完全共鳴，則下回合額外對其施加1層怠惰易損 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "失衡慣性",
+          "abName": "發條裝置時間不倒翁",
+          "desc": "[BeforeAttack] 對自身施加(4+最大共鳴數)層震顫 (最多8層，每回合最多20層)\n- 若該共鳴為怠惰共鳴，則使自身的震顫 振幅轉換 為震顫-上弦 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加3層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層\n- 使目標震顫引爆 時，本回合對其施加1層怠惰易損 \n- 若最大共鳴為共鳴數不低於3的怠惰共鳴，則下回合額外對其施加1層怠惰易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "失衡慣性",
+          "abName": "發條裝置時間不倒翁",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 對自身施加(2+最大共鳴數)層震顫 (最多8層，每回合最多20層)\n- 若該共鳴為怠惰共鳴，則使自身的震顫 振幅轉換 為震顫-上弦 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加4級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加2層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層\n- 使目標震顫引爆 時，本回合對其施加2層怠惰易損 \n- 若最大共鳴為共鳴數不低於4的怠惰完全共鳴，則下回合額外對其施加2層怠惰易損 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "失衡慣性",
+          "abName": "發條裝置時間不倒翁",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 對自身施加(4+最大共鳴數)層震顫 (最多8層，每回合最多20層)\n- 若該共鳴為怠惰共鳴，則使自身的震顫 振幅轉換 為震顫-上弦 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加3層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層\n- 使目標震顫引爆 時，本回合對其施加2層怠惰易損 \n- 若最大共鳴為怠惰完全共鳴，則下回合額外對其施加2層怠惰易損 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "失衡慣性",
+          "abName": "發條裝置時間不倒翁",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 對自身施加(2+最大共鳴數)層震顫 (最多10層，每回合最多20層)\n- 若該共鳴為怠惰共鳴，則使自身的震顫 振幅轉換 為震顫-上弦 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目標增加6級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] 對目標施加4層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層\n- 使目標震顫引爆 時，本回合對其施加2層怠惰易損 \n- 若最大共鳴為共鳴數不低於3的怠惰共鳴，則下回合額外對其施加2層怠惰易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

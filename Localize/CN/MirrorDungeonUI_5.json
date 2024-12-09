@@ -1,0 +1,496 @@
+{
+  "dataList": [
+    {
+      "id": "mirror_dungeon_get_ego_gift_with_enemy_buff_less_count",
+      "content": "仍有E.G.O飾品可選次數。\n\n確定不選擇E.G.O飾品，直接繼續嗎？\n\n（若不選擇E.G.O飾品，則會根據所剩可選次數隨機獲得苦難。）"
+    },
+    {
+      "id": "mirror_dungeon_easy_difficulty",
+      "content": "普通"
+    },
+    {
+      "id": "mirror_dungeon_hard_difficulty",
+      "content": "困難"
+    },
+    {
+      "id": "mirror_dungeon_start_bonus_formation_rest_point",
+      "content": "休息獎勵"
+    },
+    {
+      "id": "mirror_dungeon_start_bonus_formation_total",
+      "content": "休息\n獎勵"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_reset_selection",
+      "content": "重設效果選項"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_applied_effect",
+      "content": "已生效的效果"
+    },
+    {
+      "id": "mirror_dungeon_reward_popup_rest_bonus_guide",
+      "content": "未編入隊伍的人格將獲得1點休息獎勵"
+    },
+    {
+      "id": "mirror_user_start_buff",
+      "content": "休息獎勵"
+    },
+    {
+      "id": "mirror_enemy_buff",
+      "content": "苦難"
+    },
+    {
+      "id": "mirror_enemy_addenemylevel_desc",
+      "content": "敵方等級增加+{0}"
+    },
+    {
+      "id": "mirror_card_pack",
+      "content": "主題卡包"
+    },
+    {
+      "id": "mirror_acquired_random_enemy_buff_popup_title",
+      "content": "苦難追加"
+    },
+    {
+      "id": "mirror_acquired_enemy_buff_popup_desc",
+      "content": "苦難已追加。"
+    },
+    {
+      "id": "mirror_start_buff_purchase_complete_modal_title",
+      "content": "星之恩惠 選擇完畢"
+    },
+    {
+      "id": "mirror_start_buff_purchase_complete_modal_desc",
+      "content": "星之恩惠已選擇完畢。"
+    },
+    {
+      "id": "mirror_recovered_unit_status",
+      "content": "陣亡的友方單位已復活，全體友方單位已恢復"
+    },
+    {
+      "id": "mirror_start_buff_cannot_purchase_side_popup_title",
+      "content": "無法進行"
+    },
+    {
+      "id": "mirror_start_buff_cannot_purchase_side_popup_desc",
+      "content": "休息獎勵不足"
+    },
+    {
+      "id": "user_enemy_buff_empty_list",
+      "content": "未持有任何效果"
+    },
+    {
+      "id": "mirror_start_set_buff_type",
+      "content": "星之恩惠"
+    },
+    {
+      "id": "mirror_start_buff_type",
+      "content": "群星之恩惠"
+    },
+    {
+      "id": "mirror_start_buff_purchase_button",
+      "content": "完成"
+    },
+    {
+      "id": "user_enemy_buff_select_event_buff",
+      "content": "事件效果"
+    },
+    {
+      "id": "dungeon_shop_heal_desc_one_revive",
+      "content": "復活所選罪人"
+    },
+    {
+      "id": "dungeon_shop_heal_desc_all_revive",
+      "content": "復活全體罪人"
+    },
+    {
+      "id": "dungeon_encounter_guide_mirror_hard_ab_battle",
+      "content": "異想體遭遇戰"
+    },
+    {
+      "id": "dungeon_shop_heal_enter",
+      "content": "可以恢復或是復活罪人。\n要怎麼做？"
+    },
+    {
+      "id": "dungeon_shop_heal_select_one",
+      "content": "罪人{0}的體力與理智值恢復了。"
+    },
+    {
+      "id": "dungeon_shop_heal_all",
+      "content": "全體罪人的體力與理智值恢復了。"
+    },
+    {
+      "id": "dungeon_shop_heal_revive_select_one",
+      "content": "罪人{0}復活，可以重新參與戰鬥。"
+    },
+    {
+      "id": "mirrordungeon_revive_log",
+      "content": "觸發星之恩惠效果\n罪人[{0}]復活"
+    },
+    {
+      "id": "mirror_start_buff_unlock_condition_needs_held_buff_points",
+      "content": "休息獎勵不低於{0}"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_after_selected_bonus",
+      "content": "剩餘的休息獎勵"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_exchanged_cost",
+      "content": "經費"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_title",
+      "content": "選擇星之恩惠"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_description",
+      "content": "要選擇此效果嗎？"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_purchase_description",
+      "content": "剩餘的休息獎勵將轉換為經費。"
+    },
+    {
+      "id": "mirror_start_buff_applied_passive",
+      "content": "星之恩惠被動"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_title",
+      "content": "夢中的星之恩惠"
+    },
+    {
+      "id": "mirror_shop_purchase_complete",
+      "content": "已購買"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_not_selected_any_buff",
+      "content": "未選中"
+    },
+    {
+      "id": "dungeon_shop_heal_title_all_season5",
+      "content": "全體罪人少量恢復"
+    },
+    {
+      "id": "dungeon_shop_heal_title_one_season5",
+      "content": "1名罪人大量恢復"
+    },
+    {
+      "id": "dungeon_shop_revive_title_one_season5",
+      "content": "復活一名罪人。"
+    },
+    {
+      "id": "dungeon_shop_revive_one_select_ask",
+      "content": "選擇要復活的罪人。"
+    },
+    {
+      "id": "mirror_dungeon_block_to_click_hard_theme_list",
+      "content": "通過主線劇情\n第六章後開放"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_blocked",
+      "content": "通過主線劇情\n第六章後開放"
+    },
+    {
+      "id": "mirrordungeon_shop_heal_title",
+      "content": "治療罪人"
+    },
+    {
+      "id": "mirrordungeon_shop_title",
+      "content": "商店"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_5",
+      "content": "夢中之鏡第{0}層"
+    },
+    {
+      "id": "mirror_dungeon_progress_awaiting_reward_claim",
+      "content": "待領取獎勵"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_bonus_gift",
+      "content": "觸發星之恩惠效果\n獲得合成·售賣專用E.G.O飾品"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_1",
+      "content": "普通難度"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_2",
+      "content": "困難難度"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_1",
+      "content": "常規遭遇戰：7.5%\n集中遭遇戰： - \n精銳遭遇戰： - \n異想體遭遇戰： - \n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_2",
+      "content": "常規遭遇戰：7.5%\n集中遭遇戰： - \n精銳遭遇戰： - \n異想體遭遇戰： - \n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_1",
+      "content": "常規遭遇戰：10%\n集中遭遇戰：20%\n精銳遭遇戰：33%\n異想體遭遇戰： - \n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_2",
+      "content": "常規遭遇戰：10%\n集中遭遇戰：20%\n精銳遭遇戰：33%\n異想體遭遇戰： - \n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_1",
+      "content": "常規遭遇戰：10%\n集中遭遇戰：20%\n精銳遭遇戰：33%\n異想體遭遇戰：100%\n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_2",
+      "content": "常規遭遇戰：10%\n集中遭遇戰：20%\n精銳遭遇戰：33%\n異想體遭遇戰：100%\n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_1",
+      "content": "常規遭遇戰：12.5%\n集中遭遇戰：25%\n精銳遭遇戰：50%\n異想體遭遇戰：100%\n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_2",
+      "content": "常規遭遇戰：12.5%\n集中遭遇戰：25%\n精銳遭遇戰：50%\n異想體遭遇戰：100%\n頭目遭遇戰：100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_1",
+      "content": "常規遭遇戰：12.5%\n集中遭遇戰：25%\n精銳遭遇戰：50%\n異想體遭遇戰：100%\n頭目遭遇戰： - "
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_2",
+      "content": "常規遭遇戰：12.5%\n集中遭遇戰：25%\n精銳遭遇戰：50%\n異想體遭遇戰：100%\n頭目遭遇戰： - "
+    },
+    {
+      "id": "mirrordungeon_additional_cost_by_start_bonus",
+      "content": "觸發星之恩惠效果\n獲得300經費"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_desc",
+      "content": "將E.G.O飾品作為合成材料使用時，其點數根據等級有所差別，具體如下所示。"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_header",
+      "content": "E.G.O飾品等級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_score_header",
+      "content": "點數"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_1",
+      "content": "1級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_1_score",
+      "content": "3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_2",
+      "content": "2級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_2_score",
+      "content": "6"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_3",
+      "content": "3級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_3_score",
+      "content": "10"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_4",
+      "content": "4級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_4_score",
+      "content": "15"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_5",
+      "content": "5級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_5_score",
+      "content": "30"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_label",
+      "content": "合成時，根據合成材料點數合成的E.G.O飾品等級將透過如下方式決定。"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_header",
+      "content": "點數統計"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_header",
+      "content": "合成E.G.O飾品等級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_1",
+      "content": "10點以下"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_1",
+      "content": "1級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_2",
+      "content": "11~16點"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_2",
+      "content": "2級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_3",
+      "content": "17~24點"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_3",
+      "content": "3級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_4",
+      "content": "25點以上"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_4",
+      "content": "4級"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_1",
+      "content": "※ 目前持有的E.G.O飾品並不屬於可通過合成獲得的E.G.O飾品。"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_2",
+      "content": "※ 作為合成材料的E.G.O飾品無法成為合成結果產物。但此前作為合成材料消耗的E.G.O飾品屬於合成結果產物。"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_3",
+      "content": "※ 無法再獲得特定等級且特定關鍵字下的E.G.O飾品時，將獲得同等級其他關鍵字下的E.G.O飾品。"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_4",
+      "content": "※ 重複獲得特定等級的某件E.G.O飾品時，將改為獲得同等級的合成·售賣專用E.G.O飾品。"
+    },
+    {
+      "id": "mirrordungeon_upgrade_shop_title",
+      "content": "<color=#990000>特殊商店</color>"
+    },
+    {
+      "id": "mirrordungeon_upgrade_shop_rate_in_next_floor",
+      "content": "下一階層\n出現特殊商店的概率"
+    },
+    {
+      "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
+      "content": "休息獎勵不足"
+    },
+    {
+      "id": "mirror_theme_pack_baton",
+      "content": "長線戰鬥"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_no_pool",
+      "content": "您已達成解鎖困難難度的條件。您可以自下一階層的主題卡包選擇菜單起切換難度。"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_3_0",
+      "content": "4件以上"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_3_1",
+      "content": "99%"
+    },
+    {
+      "id": "mirrordungeon_level_up_by_long_battle_theme",
+      "content": "獲得長線戰鬥獎勵\n人格等級+3"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_100",
+      "content": "起始之星"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_101",
+      "content": "層積星雲"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_102",
+      "content": "星際旅行"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_103",
+      "content": "流星雨"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_104",
+      "content": "雙星商店"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_105",
+      "content": "衛星商店"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_106",
+      "content": "星雲的寵愛"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_107",
+      "content": "星芒的引導"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_108",
+      "content": "偶然的彗星"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_109",
+      "content": "全面的可能性"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over10",
+      "content": "休息獎勵不低於[10]點"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over20",
+      "content": "休息獎勵不低於[20]點"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over30",
+      "content": "休息獎勵不低於[30]點"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over40",
+      "content": "休息獎勵不低於[40]點"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs__over50",
+      "content": "休息獎勵不低於[50]點"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs__over60",
+      "content": "休息獎勵不低於[60]點"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
+      "content": "在特殊商店進行合成時，總點數將有補正值。"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade",
+      "content": "9點以下"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_2_upgrade",
+      "content": "10~14點"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_3_upgrade",
+      "content": "15~21點"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
+      "content": "22點以上"
+    }
+  ]
+}

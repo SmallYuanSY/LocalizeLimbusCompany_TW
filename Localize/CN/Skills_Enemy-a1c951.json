@@ -208,7 +208,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
+                  "desc": "[OnSucceedAttackHead] 使自身增加3級呼吸法 強度"
                 },
                 {
                   "desc": "使本硬幣暴擊時造成的傷害+40%"

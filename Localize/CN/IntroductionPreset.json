@@ -1122,7 +1122,7 @@
     },
     {
       "id": "introduce_sentence_141",
-      "content": "此{0}乃是隻要進入T公司就會發放的！"
+      "content": "此{0}乃是只要進入T公司就會發放的！"
     },
     {
       "id": "introduce_word_142",
@@ -1215,6 +1215,22 @@
     {
       "id": "introduce_word_153",
       "content": "信念"
+    },
+    {
+      "id": "introduce_word_154",
+      "content": "包裹"
+    },
+    {
+      "id": "introduce_sentence_154",
+      "content": "啊……我也只會……剩下這個{0}……"
+    },
+    {
+      "id": "introduce_word_155",
+      "content": "掃除"
+    },
+    {
+      "id": "introduce_sentence_155",
+      "content": "這場{0}怎麽還沒有結束……"
     },
     {
       "id": "introduce_sentence_153",
@@ -1331,6 +1347,22 @@
     {
       "id": "introduce_sentence_169",
       "content": "讓這兇惡的{0}貫穿他們……！"
+    },
+    {
+      "id": "introduce_word_170",
+      "content": "跑腿"
+    },
+    {
+      "id": "introduce_sentence_170",
+      "content": "……下次這種事情不會再幫您{0}了。"
+    },
+    {
+      "id": "introduce_word_171",
+      "content": "平衡"
+    },
+    {
+      "id": "introduce_sentence_171",
+      "content": "才不是失去{0}。"
     }
   ]
 }

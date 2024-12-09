@@ -119,7 +119,7 @@
     {
       "id": "TimeRentalTwoPersonality",
       "name": "時間租賃",
-      "desc": " 下回合使自身獲得{1}層迅捷 、拼點強壯 並對自身施加易損 \n若本效果的層數為1層，則改為下回合對自身施加{0}層束縛",
+      "desc": " 下回合使自身獲得{1}層迅捷 、拚點威力提升 並對自身施加易損 \n若本效果的層數為1層，則改為下回合對自身施加{0}層束縛",
       "summary": ""
     },
     {
@@ -127,6 +127,34 @@
       "name": "震顫-鎖鏈",
       "desc": "- 每帶有10級震顫 強度，使自身的拼點威力-1(最多-3)",
       "summary": ""
+    },
+    {
+      "id": "DefSkillPowerResultAdder",
+      "desc": "守備技能的最終威力 {0}"
+    },
+    {
+      "id": "TakeAtkDamageMultiplier",
+      "desc": "受到的傷害 {0}%"
+    },
+    {
+      "id": "ParryingResultAdder",
+      "desc": "拼點威力 {0}"
+    },
+    {
+      "id": "SkillPowerResultAdder",
+      "desc": "最終威力 {0}"
+    },
+    {
+      "id": "SkillPowerAdder",
+      "desc": "基礎威力 {0}"
+    },
+    {
+      "id": "PlusCoinScaleAdder",
+      "desc": "加算技能硬幣威力 {0}"
+    },
+    {
+      "id": "MinusCoinScaleAdder",
+      "desc": "減算技能硬幣威力 {0}"
     }
   ]
 }

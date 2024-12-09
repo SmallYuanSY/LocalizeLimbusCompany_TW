@@ -1893,7 +1893,7 @@
         {
           "level": 1,
           "name": "閃耀的冒險記憶",
-          "desc": "[StartBattle] 隨機使1名罪人獲得1層拼點強壯 與1層傷害強化 \n[StartBattle] 對堂吉訶德與凝固的夢施加1層易損 ",
+          "desc": "[StartBattle] 隨機使1名罪人獲得1層拚點威力提升 與1層傷害強化 \n[StartBattle] 對堂吉訶德與凝固的夢施加1層易損 ",
           "coinlist": [
             {
               "coindescs": [

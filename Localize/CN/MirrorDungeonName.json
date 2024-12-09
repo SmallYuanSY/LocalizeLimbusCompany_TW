@@ -43,6 +43,18 @@
     {
       "id": "mirrordungeon_name_4_1",
       "content": "呼嘯之鏡 - Ritornello"
+    },
+    {
+      "id": "mirrordungeon_name_5",
+      "content": "夢中之鏡"
+    },
+    {
+      "id": "mirrordungeon_name_5_0",
+      "content": "夢中之鏡[普通]"
+    },
+    {
+      "id": "mirrordungeon_name_5_1",
+      "content": "夢中之鏡[困難]"
     }
   ]
 }

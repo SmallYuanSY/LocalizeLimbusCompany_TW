@@ -15,7 +15,7 @@
 
 # 安装[![Download](https://img.shields.io/github/downloads/SmallYuanSY/LocalizeLimbusCompany/total.svg?label=Download|下载)](../../releases)
 [![Version](https://img.shields.io/github/release/SmallYuanSY/LocalizeLimbusCompany.svg?label=Version|最新版)![Download](https://img.shields.io/github/downloads/SmallYuanSY/LocalizeLimbusCompany/latest/total.svg?label=Download|下载)](../../releases/latest)
-### 0. 安装[.NET 6.0 SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/sdk-6.0.406-windows-x64-installer)
+### 0. 安装[.NET 8.0 SDK](https://dotnet.microsoft.com/zh-tw/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)
 ### 1. 安装模组框架
    - 从[BepInEx](https://github.com/LocalizeLimbusCompany/BepInEx_For_LLC)下載v0.6.1或更高版本的模组框架
    
@@ -38,6 +38,7 @@
 - **使用本模组完全免費。** 
 - **本模组已获得官方認可。** 月亮計畫官方已聲明不會對漢化模组封禁帳號。相關内容请查看[`特别公告`](https://github.com/orgs/LocalizeLimbusCompany/discussions/70)(零協會Github特別公告)
 - **我们使用了MIT許可證。** 請前往[`LICENSE`](./LICENSE)或[`CN_LICENSE`](./.github/CN_LICENSE)了解相關許可。(零協許可)
+- **本模組已通過電郵聯系獲得官方認可。** 更多信息請參考[本郵件](https://www.zeroasso.top/docs/community/minutes/firstContact/)。  
 # 貢獻者
 ## 本倉庫
 <a href="https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/graphs/contributors">

@@ -273,10 +273,10 @@
                   "desc": "[OnSucceedAttack] 使目標以震顫-永恒 振幅糾纏 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
@@ -300,10 +300,10 @@
                   "desc": "[OnSucceedAttack] 使目標以震顫-永恒 振幅糾纏 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
@@ -327,13 +327,13 @@
                   "desc": "[OnSucceedAttack] 使目標以震顫-永恒 振幅糾纏 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫層數減少1層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
@@ -504,7 +504,7 @@
           "level": 4,
           "name": "套索",
           "abName": "玫瑰獵人",
-          "desc": "[CantIdentify]\n隨機指定目標\n若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 下回合使自身獲得2層迅捷 \n[EndSkill] 若使目標陷入混亂或擊殺目標，則下回合使自身獲得1層暴食強壯 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 下回合使自身獲得2層迅捷 \n[EndSkill] 若使目標陷入混亂或擊殺目標，則下回合使自身獲得1層暴食威力提升 ",
           "coinlist": [
             {
               "coindescs": [

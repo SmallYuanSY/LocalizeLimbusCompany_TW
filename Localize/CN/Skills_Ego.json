@@ -2854,7 +2854,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得7層充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合隨機使2名友方單位獲得1層嫉妒強壯 與1層迅捷 "
+                  "desc": "[OnSucceedAttackHead] 下回合隨機使2名友方單位獲得1層嫉妒威力提升 與1層迅捷 "
                 }
               ]
             }
@@ -2875,7 +2875,7 @@
                   "desc": "[EndSkill] 使自身獲得7層充能 "
                 },
                 {
-                  "desc": "[EndSkillHead] 下回合隨機使2名友方單位獲得1層嫉妒強壯 與1層迅捷 ，並使自身獲得3層充能 "
+                  "desc": "[EndSkillHead] 下回合隨機使2名友方單位獲得1層嫉妒威力提升 與1層迅捷 ，並使自身獲得3層充能 "
                 }
               ]
             }
@@ -3307,7 +3307,7 @@
           "level": 1,
           "name": "鬥牛披風",
           "abName": "黃銅公牛",
-          "desc": "[EndSkill] 下回合使自身獲得1層迅捷 ，1層暴怒強壯 ，1層打擊強壯 ",
+          "desc": "[EndSkill] 下回合使自身獲得1層迅捷 ，1層暴怒威力提升 ，1層打擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3328,7 +3328,7 @@
           "level": 3,
           "name": "鬥牛披風",
           "abName": "黃銅公牛",
-          "desc": "[EndSkill] 下回合使自身獲得2層迅捷 ，1層暴怒強壯 ，1層打擊強壯 ",
+          "desc": "[EndSkill] 下回合使自身獲得2層迅捷 ，1層暴怒威力提升 ，1層打擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3352,7 +3352,7 @@
           "level": 4,
           "name": "鬥牛披風",
           "abName": "黃銅公牛",
-          "desc": "[EndSkill] 下回合使自身獲得2層迅捷 ，1層暴怒強壯 ，1層打擊強壯 ",
+          "desc": "[EndSkill] 下回合使自身獲得2層迅捷 ，1層暴怒威力提升 ，1層打擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3381,7 +3381,7 @@
           "level": 1,
           "name": "鬥牛披風",
           "abName": "黃銅公牛",
-          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 下回合使自身獲得1層迅捷 ，1層暴怒強壯 ，1層打擊強壯 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 下回合使自身獲得1層迅捷 ，1層暴怒威力提升 ，1層打擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3402,7 +3402,7 @@
           "level": 3,
           "name": "鬥牛披風",
           "abName": "黃銅公牛",
-          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 下回合使自身獲得2層迅捷 ，1層暴怒強壯 ，1層打擊強壯 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 下回合使自身獲得2層迅捷 ，1層暴怒威力提升 ，1層打擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3426,7 +3426,7 @@
           "level": 4,
           "name": "鬥牛披風",
           "abName": "黃銅公牛",
-          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 下回合使自身獲得2層迅捷 ，1層暴怒強壯 ，1層打擊強壯 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 下回合使自身獲得2層迅捷 ，1層暴怒威力提升 ，1層打擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3876,7 +3876,7 @@
           "level": 1,
           "name": "狐雨",
           "abName": "流浪狐貍",
-          "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰強壯 ，1層怠惰傷害強化 與2層守護 ",
+          "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰威力提升 ，1層怠惰傷害強化 與2層守護 ",
           "coinlist": [
             {}
           ]
@@ -3885,7 +3885,7 @@
           "level": 3,
           "name": "狐雨",
           "abName": "流浪狐貍",
-          "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰強壯 ，2層怠惰傷害強化 與3層守護 ",
+          "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰威力提升 ，2層怠惰傷害強化 與3層守護 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3905,7 +3905,7 @@
           "level": 1,
           "name": "狐雨",
           "abName": "流浪狐貍",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 本回合與下2回合中，使自身獲得1層怠惰強壯 與1層怠惰傷害強化 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 本回合與下2回合中，使自身獲得1層怠惰威力提升 與1層怠惰傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3920,7 +3920,7 @@
           "level": 3,
           "name": "狐雨",
           "abName": "流浪狐貍",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 本回合與下2回合中，使自身獲得2層怠惰強壯 與2層怠惰傷害強化 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 本回合與下2回合中，使自身獲得2層怠惰威力提升 與2層怠惰傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
