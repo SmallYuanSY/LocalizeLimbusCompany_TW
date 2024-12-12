@@ -439,7 +439,7 @@
         {
           "level": 1,
           "name": "劍舞",
-          "desc": "[EnemyKill] 下回合使自身獲得3層攻擊等級提升 和3層防御等級提升 ",
+          "desc": "[EnemyKill] 下回合使自身獲得3層攻擊等級提升 和3層防禦等級提升 ",
           "coinlist": [
             {
               "coindescs": [

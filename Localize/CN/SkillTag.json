@@ -202,7 +202,7 @@
     },
     {
       "id": "DuelGuard",
-      "name": "[可拼點防御]"
+      "name": "[可拼點防禦]"
     },
     {
       "id": "WhenUseEvade",
@@ -235,6 +235,10 @@
     {
       "id": "AllyKillFail",
       "name": "[未擊殺友方時]"
+    },
+    {
+      "id": "TabExplain",
+      "name": ""
     }
   ]
 }

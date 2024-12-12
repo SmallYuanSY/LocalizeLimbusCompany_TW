@@ -887,6 +887,14 @@
     {
       "id": "11011_getCondition_gacksung",
       "content": "Девять協會 北部3科 辛克萊 3階段同步完成"
+    },
+    {
+      "id": "10310_getCondition_normal",
+      "content": "獲得拉·曼卻領 總督 堂吉訶德"
+    },
+    {
+      "id": "10310_getCondition_gacksung",
+      "content": "拉·曼卻領 總督 堂吉訶德 3階段同步完成"
     }
   ]
 }

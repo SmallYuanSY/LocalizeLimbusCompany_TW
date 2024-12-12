@@ -1886,7 +1886,7 @@
         {
           "level": 1,
           "name": "褪色的懺悔",
-          "desc": "[WhenUse] 使自身失去5層魁魁格的自我 \n[WinDuel] 使自身獲得6層防御等級提升 \n[DefeatDuel] 使自身失去5點理智值",
+          "desc": "[WhenUse] 使自身失去5層魁魁格的自我 \n[WinDuel] 使自身獲得6層防禦等級提升 \n[DefeatDuel] 使自身失去5點理智值",
           "coinlist": [
             {
               "coindescs": [

@@ -519,7 +519,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防御等級降低 "
+                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防禦等級降低 "
                 }
               ]
             },
@@ -543,14 +543,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防御等級降低 "
+                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防禦等級降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防御等級降低 "
+                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防禦等級降低 "
                 }
               ]
             },

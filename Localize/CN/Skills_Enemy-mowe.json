@@ -365,7 +365,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加6層防御等級降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加6層防禦等級降低 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 吸收目標至多10級流血 強度並使自身恢復(吸收的流血 強度×2)%體力(該效果不會使目標的流血 強度降至1級以下)",
@@ -382,7 +382,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
+          "name": "防禦",
           "desc": "[WhenUse] 自身每帶有3層流血 ，使本技能的基礎威力+1(最多+2)",
           "coinlist": [
             {
@@ -600,7 +600,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
+          "name": "防禦",
           "desc": "[WhenUse] 自身每帶有3層流血 ，使本技能的基礎威力+1(最多+2)",
           "coinlist": [
             {
@@ -817,7 +817,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
+          "name": "防禦",
           "desc": "[WhenUse] 自身每帶有3層流血 ，使本技能的基礎威力+1(最多+2)",
           "coinlist": [
             {

@@ -131,7 +131,7 @@
         {
           "level": 1,
           "name": "被撕碎的心",
-          "desc": "[WinDuel] 下回合使自身獲得3層防御等級提升 ",
+          "desc": "[WinDuel] 下回合使自身獲得3層防禦等級提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -345,7 +345,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防御等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
@@ -409,7 +409,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防御等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層[AaCfPcBb]"
@@ -538,7 +538,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加6層防御等級降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加6層防禦等級降低 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重覆使用本硬幣(最多1次)"

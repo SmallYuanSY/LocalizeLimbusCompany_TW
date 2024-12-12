@@ -119,7 +119,7 @@
     },
     {
       "id": 838005,
-      "name": "血甲",
+      "name": "硬血",
       "desc": "戰鬥開始時，使自身獲得1層[BloodArmor]\n- [BloodArmor]不會低於1\n- [BloodArmor]不低於10時，轉化為[BloodArmor_2nd]\n- [BloodArmor]不低於20時，轉化為[BloodArmor_3rd]\n根據階段相應使自身最小與最大速度值增加(最多2)\n若[BloodArmor]被消耗至閾值以下，則轉換至前一階段"
     },
     {

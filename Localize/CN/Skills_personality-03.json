@@ -1035,6 +1035,544 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1031001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "忍耐已經結束",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗5層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "忍耐已經結束",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗5層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "忍耐已經結束",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗5層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "隨心所欲地盛放吧",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[BeforeAttack] 若自身的[BloodArmorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
+                },
+                {
+                  "desc": "自身每帶有100層[BloodDinner_Accumulation]，使本硬幣造成的傷害+5%(最多+25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "隨心所欲地盛放吧",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
+                },
+                {
+                  "desc": "自身每帶有100層[BloodDinner_Accumulation]，使本硬幣造成的傷害+10%(最多+50%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "隨心所欲地盛放吧",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
+                },
+                {
+                  "desc": "自身每帶有100層[BloodDinner_Accumulation]，使本硬幣造成的傷害+15%(最多+75%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "將由我來刺穿",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多10點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的拼點威力+1(最多+2)\n[WhenUse] 若目標的流血 強度不低於10級，則使本技能的硬幣威力+1\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 自身每帶有100層[BloodDinner_Accumulation]，使本技能造成的傷害+10%(最多+50%)\n[EndSkill] 若擊殺目標，則獲得30層血宴 ，並使自身獲得10層[BloodArmorPersonalityFirst](每回合最多1次)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "將由我來刺穿",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多10點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的拼點威力+1(最多+2)\n[WhenUse] 目標每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 自身每帶有100層[BloodDinner_Accumulation]，使本技能造成的傷害+20%(最多+100%)\n[EndSkill] 若擊殺目標，則獲得60層血宴 ，並使自身獲得10層[BloodArmorPersonalityFirst](每回合最多1次)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "笑聲將歸於寂靜",
+          "desc": "[DuelCounter]\n[StartBattle] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[StartBattle] 每有50層[BloodDinner_Common_Accumulation]，使現存體力最低的1名友方單位獲得1層[SwirlingBloodPersonality](最多10層，每回合最多1次)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "笑聲將歸於寂靜",
+          "desc": "[DuelCounter]\n[StartBattle] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[StartBattle] 每有50層[BloodDinner_Common_Accumulation]，使現存體力最低的1名友方單位獲得1層[SwirlingBloodPersonality](最多15層，每回合最多1次)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "桑丘變體硬血9式-鞭",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "桑丘變體硬血9式-鞭",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "桑丘變體硬血9式-鞭",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次並使其流血 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "桑丘變體硬血8式-割裂",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[BeforeAttack] 若自身的[BloodArmorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1\n[EndSkill] 若本技能增加了攻擊容量，則消耗10層[BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
+                },
+                {
+                  "desc": "每有100層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+5%(最多+25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "桑丘變體硬血8式-割裂",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)\n[EndSkill] 本技能每增加1點攻擊容量，消耗10層[BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
+                },
+                {
+                  "desc": "每有100層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+10%(最多+50%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "桑丘變體硬血8式-割裂",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)\n[EndSkill] 本技能每增加1點攻擊容量，消耗10層[BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
+                },
+                {
+                  "desc": "每有100層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+15%(最多+75%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031007,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "桑丘派硬血奧義-La Sangre",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的基礎威力+1(最多+2)\n[WhenUse] 若目標的流血 強度不低於10級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 每有100層[BloodDinner_Common_Accumulation]，使本技能造成的傷害+20%(最多+100%)\n[EndSkill] 自身每帶有10層[BloodArmorPersonalityFirst]，消耗10層[BloodArmorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得50層血宴 ，並使自身重新獲得本技能消耗量一半的[BloodArmorPersonalityFirst](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加4層流血 "
+                },
+                {
+                  "desc": "[EndSkill] 若擊殺目標，則使全體敵方單位增加5級流血 強度並對全體敵方單位施加1層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "桑丘派硬血奧義-La Sangre",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的基礎威力+1(最多+3)\n[WhenUse] 目標每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 每有100層[BloodDinner_Common_Accumulation]，使本技能造成的傷害+20%(最多+100%)\n[EndSkill] 自身每帶有10層[BloodArmorPersonalityFirst]，消耗10層[BloodArmorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得100層血宴 ，並使自身重新獲得本技能消耗量一半的[BloodArmorPersonalityFirst](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度並對其施加4層流血 "
+                },
+                {
+                  "desc": "[EndSkill] 若擊殺目標，則使全體敵方單位增加5級流血 強度並對全體敵方單位施加1層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "桑丘變體硬血15式-落幕的準備",
+          "desc": "[DuelCounter]\n[StartBattle] 每有40層[BloodDinner_Common_Accumulation]，使現存體力最低的(3+最大共鳴數/2)名友方單位獲得(1+自身的[BloodArmorPersonalityFirst]層數/15)層[SwirlingBloodPersonality]，使自身的[BloodArmorPersonalityFirst]層數減半(每名友方單位最多1次，向下取整)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "桑丘變體硬血15式-落幕的準備",
+          "desc": "[DuelCounter]\n[StartBattle] 每有40層[BloodDinner_Common_Accumulation]，使現存體力最低的(3+最大共鳴數/2)名友方單位獲得(1+自身的[BloodArmorPersonalityFirst]層數/10)層[SwirlingBloodPersonality]，使自身的[BloodArmorPersonalityFirst]層數減半(每名友方單位最多1次，向下取整)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

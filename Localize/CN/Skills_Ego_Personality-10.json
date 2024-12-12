@@ -575,7 +575,7 @@
                   "desc": "[OnSucceedAttackTail] 下回合對目標施加2層束縛 (每回合最多1次)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合對目標施加2層防御等級降低 (每回合最多1次)"
+                  "desc": "[OnSucceedAttackTail] 下回合對目標施加2層防禦等級降低 (每回合最多1次)"
                 }
               ]
             }
