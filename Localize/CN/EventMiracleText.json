@@ -22,23 +22,47 @@
     },
     {
       "id": "miracle_exchange_scrap",
-      "content": "交換禮物"
+      "content": "獎勵兌換"
     },
     {
       "id": "miracle_scrap_guide_title",
-      "content": "巨大裝飾品包裹"
+      "content": "活動道具介紹"
     },
     {
       "id": "miracle_scrap_guide_desc",
-      "content": "通關活動或主線章節的關卡和迷宮\n可低概率獲得<color=#008d0d>[巨大裝飾品包裹]</color>。\n\n<color=#008d0d>[巨大裝飾品包裹]</color>會轉換為20個<color=#008d0d>[裝飾品包裹]</color>。"
+      "content": "通關活動或主線章節的關卡和迷宮可獲得<color=#008d0d>[裝飾品包裹]</color>\n獲得時，有低概率額外獲得<color=#008d0d>[巨大裝飾品包裹]</color>。\n\n<color=#008d0d>[巨大裝飾品包裹]</color>會立即轉換為20個<color=#008d0d>[裝飾品包裹]</color>。"
     },
     {
       "id": "miracle_rewardpage_desc",
-      "content": "通關活動或主線章節的關卡和迷宮可獲得<color=#008d0d>[裝飾品包裹]</color>。\n\n根據獲得的<color=#008d0d>[裝飾品包裹]</color>的數量，可在<color=#008d0d>[交換禮物]</color>中換取獎勵。"
+      "content": "首次通關主線劇情關卡、以及通關鏡像迷宮時，可獲得<color=#008d0d>[裝飾品包裹]</color>。\n\n可在<color=#008d0d>[獎勵兌換]</color>窗口中花費<color=#008d0d>[裝飾品包裹]</color>，以獲得各種各樣的獎勵。"
     },
     {
       "id": "miracle_scrap_counter_label",
       "content": "收集到的裝飾品包裹"
+    },
+    {
+      "id": "miracle_chapter_map_difficulty_ui_9105",
+      "content": "普通"
+    },
+    {
+      "id": "miracle_chapter_map_difficulty_ui_9112",
+      "content": "困難"
+    },
+    {
+      "id": "miracle_chapter_map_difficulty_ui_hard_chapter_unlock_condition",
+      "content": "通關{0}-{1}後解鎖困難模式"
+    },
+    {
+      "id": "miracle_chapter_map_difficulty_ui_event_date_format",
+      "content": "持續至{0}月{1}日"
+    },
+    {
+      "id": "miracle_bonusUI_Desc",
+      "content": "活動期間，編隊內存在下列人格與E.G.O時<color=#008d0d>[裝飾品包裹]</color>獲取量提升。\n獲取量提升合計最大值為<color=#008d0d>120%</color>。"
+    },
+    {
+      "id": "miracle_bonus_popup_title",
+      "content": "活動加成角色"
     }
   ]
 }

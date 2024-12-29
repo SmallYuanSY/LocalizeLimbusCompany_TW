@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "id": 107804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "來包裝吧",
+          "desc": "若自身帶有[AaCeSeBa]，則使本技能的硬幣效果增加“下回合對目標施加1層麻痺 ”\n優先指定速度值最低的單位\n[EndBattle] 消耗所有充能 層數",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度。"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據自身帶有的呼吸法 強度，對目標追加相應的傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得3層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為守護 、強壯 、易損 或麻痺 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根據自身帶有的充能 層數，使目標失去相應的理智值"
+                },
+                {
+                  "desc": "[EnemyKill] 使全體敵方單位失去10點理智值。"
+                },
+                {
+                  "desc": "[EnemyKillFail] 下回合對自身施加2層麻痺 。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

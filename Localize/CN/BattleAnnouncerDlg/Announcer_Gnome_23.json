@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_23_1",
+      "dlg": "諾姆！！！有好多材料諾姆！\n哪裡諾姆？在哪諾姆！？\n在那裡諾姆！帶好工具就跟上諾姆！"
+    },
+    {
+      "id": "announcer_cheer_23_2",
+      "dlg": "諾姆！應該能做出很多禮物諾姆！\n諾姆諾姆！多麼開心愉快的一天諾姆！"
+    },
+    {
+      "id": "announcer_specialcheer_23_1",
+      "dlg": "大家的狀態怎麼這樣諾姆！\n看來是時候該休息了諾姆……"
+    },
+    {
+      "id": "announcer_specialcheer_23_2",
+      "dlg": "別因為腰疼就偷懶諾姆！\n休息應該在做完事之後諾姆！"
+    },
+    {
+      "id": "announcer_enemy_break_23_1",
+      "dlg": "走動的原材料在這裡暈乎乎諾姆！\n諾姆！馬上開始處理諾姆！"
+    },
+    {
+      "id": "announcer_ally_break_23_1",
+      "dlg": "為什麼在偷懶諾姆？\n打起精神諾姆！被多多魯科長發現就完蛋了諾姆！"
+    },
+    {
+      "id": "announcer_killenemy_23_1",
+      "dlg": "現在可以拉走了諾姆！\n快快搬諾姆！"
+    },
+    {
+      "id": "announcer_ally_dead_23_1",
+      "dlg": "諾姆！！！這不是友軍嗎諾姆？\n諾姆諾姆！好像只剩一具屍體了諾姆！"
+    },
+    {
+      "id": "announcer_enemy_adv_23_1",
+      "dlg": "啊嘞？為什麼成這副鬼樣子了諾姆？\n這時候應該去偷個懶再看情況回來諾姆！"
+    },
+    {
+      "id": "announcer_ally_adv_23_1",
+      "dlg": "再用點勁諾姆！\n對諾姆！想想收到禮物的朋友們諾姆！\n痛苦轉瞬即逝，但快樂是長久的諾姆！"
+    },
+    {
+      "id": "announcer_danger_23_1",
+      "dlg": "緊急諾姆！緊急諾姆！\n材料快壞掉了諾姆！不能做禮物了諾姆！緊急……\n吵死了諾姆！快點閉嘴來幫忙諾姆！"
+    },
+    {
+      "id": "announcer_enemy_specialskill_23_1",
+      "dlg": "諾姆？沒聽到奇怪的聲音嗎諾姆？\n諾諾姆！？看那裡諾姆！\n是不是要發生大事了諾姆？"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_23_1",
+      "dlg": "氣氛好奇怪諾姆！\n廠長生氣的時候也是這種氣氛吧諾姆？\n那就快跑吧諾姆！"
+    },
+    {
+      "id": "announcer_advatk_physical_23_1",
+      "dlg": "多麼華麗的手藝諾姆！\n是不是做完禮物就埋頭練習使用工具諾姆？"
+    },
+    {
+      "id": "announcer_disadvatk_physical_23_1",
+      "dlg": "啊……！帶錯工具了諾姆！\n諾諾姆！帶別的工具過去吧諾姆！"
+    },
+    {
+      "id": "announcer_advatk_attr_23_1",
+      "dlg": "剛剛抽動了諾姆！\n看來那裡是弱點諾姆！"
+    },
+    {
+      "id": "announcer_disadvatk_attr_23_1",
+      "dlg": "禮物怎麼能包裝成這樣諾姆！\n我要告訴多多魯科長諾姆！"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_23_1",
+      "dlg": "用那種拚命叫喚的傢伙才能做出好禮物諾姆！\n說的沒錯諾姆！"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_23_1",
+      "dlg": "諾姆！睡眠粉塵起作用了諾姆！\n方便做成禮物了諾姆！"
+    },
+    {
+      "id": "announcer_ally_specialbuff_23_1",
+      "dlg": "沒感覺大家處理材料的速度變快了嗎諾姆？\n多虧了好材料才興奮起來了吧諾姆！"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_23_1",
+      "dlg": "諾姆？大家都怎麼了諾姆？\n是啊諾姆。撒睡眠粉塵的時候沒戴防毒面具嗎諾姆？"
+    },
+    {
+      "id": "announcer_enemy_destroy_23_1",
+      "dlg": "處理完成諾姆！\n那麼，直接開始下一個吧諾姆！"
+    },
+    {
+      "id": "announcer_enemy_destroy_23_2",
+      "dlg": "諾姆諾姆！做得不錯諾姆！\n不是能夠好好處理嗎諾姆？"
+    },
+    {
+      "id": "announcer_round_takebigdmg_23_1",
+      "dlg": "諾姆？\n諾姆？\n諾姆？"
+    },
+    {
+      "id": "announcer_round_takebigdmg_23_2",
+      "dlg": "到底在幹什麼啊諾姆！給我認真點諾姆！\n這樣下去，會被材料吃掉的諾姆！"
+    },
+    {
+      "id": "announcer_round_givebigdmg_23_1",
+      "dlg": "諾姆！？\n諾諾姆！？\n諾姆姆姆姆！！！"
+    },
+    {
+      "id": "announcer_round_givebigdmg_23_2",
+      "dlg": "哇諾姆！已經把材料處理成這樣了諾姆？\n今天工廠可以早些關門了諾姆！"
+    },
+    {
+      "id": "announcer_multikillenemy_23_1",
+      "dlg": "一諾姆，二諾姆，三諾姆！！\n哇，簡直絕了諾姆！"
+    },
+    {
+      "id": "announcer_equip_23_1",
+      "dlg": "諾姆！\n諾諾姆！\n諾姆姆！"
+    }
+  ]
+}

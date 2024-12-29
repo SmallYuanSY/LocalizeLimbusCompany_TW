@@ -398,6 +398,196 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2120811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "[EndSkill] 若自身體力為最大值，則在回合結束時使自身恢復10點理智值並在下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標陷入混亂、士氣低落或陷入恐慌，則在下回合對其施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "若目標的理智值低於0點，則每相差1點，使本技能造成的傷害+1%(最多+45%)\n[EndSkill] 若自身體力為最大值，則在回合結束時使自身恢復10點理智值並在下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復自身已失去體力(2+最大共鳴數)%的體力(每個技能最多30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標陷入混亂、士氣低落或陷入恐慌，則在下回合對其施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "若目標的理智值低於0點，則每相差1點，使本技能造成的傷害+1%(最多+45%)\n[EndSkill] 若自身體力為最大值，則在回合結束時使自身恢復15點理智值並在下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復自身已失去體力(3+最大共鳴數)%的體力(每個技能最多30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標陷入混亂、士氣低落或陷入恐慌，則在下回合對其施加1層虛弱 與1層最大共鳴數罪孽屬性的易損"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身恢復10點體力\n[EndSkill] 若自身體力為最大值，則在回合結束時使自身恢復10點理智值並在下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標陷入混亂、士氣低落或陷入恐慌，則在下回合對其施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "[CantIdentify]\n隨機指定目標\n若目標的理智值低於0點，則每相差1點，使本技能造成的傷害+1%(最多+45%)\n[BeforeAttack] 使自身恢復10點體力\n[EndSkill] 若自身體力為最大值，則在回合結束時使自身恢復15點理智值並在下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復自身已失去體力(2+最大共鳴數)%的體力(每個技能最多30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標陷入混亂、士氣低落或陷入恐慌，則在下回合對其施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "[CantIdentify]\n隨機指定目標\n若目標的理智值低於0點，則每相差1點，使本技能造成的傷害+1%(最多+45%)\n[BeforeAttack] 使自身恢復10點體力\n[EndSkill] 若自身體力為最大值，則在回合結束時使自身恢復20點理智值並在下回合使自身獲得1層強壯 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復自身已失去體力(3+最大共鳴數)%的體力(每個技能最多30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標陷入混亂、士氣低落或陷入恐慌，則在下回合對其施加1層虛弱 與2層最大共鳴數罪孽屬性的易損"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

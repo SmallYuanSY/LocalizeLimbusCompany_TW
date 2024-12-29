@@ -1246,7 +1246,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "桑丘變體硬血9式-鞭",
+          "name": "桑丘變體硬血6式-鞭",
           "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
           "coinlist": [
             {
@@ -1280,7 +1280,7 @@
         },
         {
           "level": 2,
-          "name": "桑丘變體硬血9式-鞭",
+          "name": "桑丘變體硬血6式-鞭",
           "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
           "coinlist": [
             {},
@@ -1308,7 +1308,7 @@
         },
         {
           "level": 4,
-          "name": "桑丘變體硬血9式-鞭",
+          "name": "桑丘變體硬血6式-鞭",
           "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
           "coinlist": [
             {},

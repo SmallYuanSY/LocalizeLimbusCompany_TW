@@ -461,6 +461,196 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2080811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[EndSkill] 若有目標陷入混亂、士氣低落或陷入恐慌，則使自身恢復10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "若目標的理智值低於0點，則每相差1點，使本技能造成的傷害+1%(最多+45%)\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[EndSkill] 若有目標陷入混亂、士氣低落或陷入恐慌，則使自身恢復10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其增加5級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 ，並使其震顫 層數減少2層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "若目標的理智值低於0點，則每相差1點，使本技能造成的傷害+1%(最多+45%)\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[EndSkill] 若有目標陷入混亂、士氣低落或陷入恐慌，則使自身恢復10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其增加5級沉淪 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 2次，並使其震顫 層數減少2層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[BeforeAttack] 使自身恢復10點體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "[CantIdentify]\n隨機指定目標\n若主要目標陷入混亂、士氣低落或陷入恐慌，則使本技能的基礎威力+1\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[BeforeAttack] 使自身恢復10點體力\n[EndSkill] 每有1名敵方單位陷入混亂、士氣低落或陷入恐慌，使自身恢復5點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其增加5級沉淪 強度並對其施加2層沉淪 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "聖誕夢魘",
+          "abName": "舒適臥床",
+          "desc": "[CantIdentify]\n隨機指定目標\n若主要目標陷入混亂、士氣低落或陷入恐慌，則使本技能的基礎威力+2\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[BeforeAttack] 使自身恢復10點體力\n[EndSkill] 每有1名敵方單位陷入混亂、士氣低落或陷入恐慌，使自身恢復5點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其增加5級沉淪 強度並對其施加2層沉淪 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 ，並使其震顫 層數減少1層"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
