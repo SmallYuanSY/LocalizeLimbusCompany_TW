@@ -1770,27 +1770,27 @@
     },
     {
       "id": "mainui_exp_dungeon_7_title",
-      "content": "經驗采光 #7（斬擊）"
+      "content": "經驗採光 #7（斬擊）"
     },
     {
       "id": "mainui_exp_dungeon_7_open_day",
-      "content": "經驗采光#7（斬擊）將在周一，周二，周日開放。"
+      "content": "經驗採光#7（斬擊）將在周一，周二，周日開放。"
     },
     {
       "id": "mainui_exp_dungeon_8_title",
-      "content": "經驗采光 #7（突刺）"
+      "content": "經驗採光 #7（突刺）"
     },
     {
       "id": "mainui_exp_dungeon_8_open_day",
-      "content": "經驗采光#7（突刺）將在周三，周四，周日開放。"
+      "content": "經驗採光#7（突刺）將在周三，周四，周日開放。"
     },
     {
       "id": "mainui_exp_dungeon_9_title",
-      "content": "經驗采光 #7（打擊）"
+      "content": "經驗採光 #7（打擊）"
     },
     {
       "id": "mainui_exp_dungeon_9_open_day",
-      "content": "經驗采光#7（打擊）將在周五，周六，周日開放。"
+      "content": "經驗採光#7（打擊）將在周五，周六，周日開放。"
     },
     {
       "id": "mainui_default_personality_blocked",
@@ -1843,6 +1843,10 @@
     {
       "id": "gacha_notice_vending_available_date_v3",
       "content": "賽季人格與E.G.O可在{0}月{1}日{2} ({3})後通過自動販賣機兌換。"
+    },
+    {
+      "id": "mini_story_warning_spoiler_checkbox_desc",
+      "content": "不再顯示彈出窗口"
     }
   ]
 }

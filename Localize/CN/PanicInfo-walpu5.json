@@ -1,0 +1,10 @@
+{
+  "dataList": [
+    {
+      "id": 1035,
+      "panicName": "教團",
+      "lowMoraleDescription": "戰鬥中，增加[Smoke]強度或獲得[Smoke]層數時，額外增加1級[Smoke]強度或獲得1層[Smoke]\n回合開始時，對自身施加3層[Vulnerable]並獲得2層[AttackDmgUp]與1層[Endurance]",
+      "panicDescription": "戰鬥中，增加[Smoke]強度或獲得[Smoke]層數時，額外增加2級[Smoke]強度或獲得2層[Smoke]\n回合開始時，對自身施加3層[Vulnerable]並獲得4層[AttackDmgUp]與2層[Endurance]"
+    }
+  ]
+}

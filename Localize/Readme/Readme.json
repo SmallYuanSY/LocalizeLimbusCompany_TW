@@ -31,6 +31,16 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"都市零協會漢化組\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://space.bilibili.com/1247764479\"},{\"formatKey\":\"Text\",\"formatValue\":\"邊獄公司中文WIKI\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://limbuscompany.huijiwiki.com\"},{\"formatKey\":\"Text\",\"formatValue\":\"ParaTranz 合作翻譯項目\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://paratranz.cn/projects/6860\"}]}"
     },
     {
+      "id": 3068,
+      "version": 0,
+      "type": 0,
+      "startDate": "2025-01-12T08:00:00.000Z",
+      "endDate": "2098-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Mod V0.6.64",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.64\\n- 漢化內容跟進\\n  - 句點事務所人格 以及 瓦爾普吉斯之夜 的翻譯更新\\n  - 其他內容跟進\"}]}"
+    },
+    {
       "id": 3067,
       "version": 0,
       "type": 0,

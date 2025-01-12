@@ -22,7 +22,7 @@
     },
     {
       "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
-      "description": "<color=#ff6000>商店里展出的E.G.O飾品數量</color> +{0}"
+      "description": "<color=#ff6000>商店裡展出的E.G.O飾品數量</color> +{0}"
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_1ST_FLOOR",
@@ -70,7 +70,7 @@
     },
     {
       "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
-      "description": "提升商店里<color=#ff6000>更高等級E.G.O飾品</color>的展出概率"
+      "description": "提升商店裡<color=#ff6000>更高等級E.G.O飾品</color>的展出概率"
     },
     {
       "id": "FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE",

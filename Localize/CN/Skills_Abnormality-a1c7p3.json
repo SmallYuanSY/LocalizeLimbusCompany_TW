@@ -560,10 +560,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使本硬幣造成的傷害+50%"
-                },
-                {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層[Breath]"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得2层呼吸法 "
                 }
               ]
             }

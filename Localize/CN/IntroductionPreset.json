@@ -1230,7 +1230,7 @@
     },
     {
       "id": "introduce_sentence_155",
-      "content": "這場{0}怎麽還沒有結束……"
+      "content": "這場{0}怎麼還沒有結束……"
     },
     {
       "id": "introduce_sentence_153",
@@ -1387,6 +1387,30 @@
     {
       "id": "introduce_sentence_174",
       "content": "昏暗的床底下……棲息著{0}！！"
+    },
+    {
+      "id": "introduce_word_175",
+      "content": "句點"
+    },
+    {
+      "id": "introduce_sentence_175",
+      "content": "你人生的……{0}。"
+    },
+    {
+      "id": "introduce_word_176",
+      "content": "狙擊"
+    },
+    {
+      "id": "introduce_sentence_176",
+      "content": "好，{0}準備完成。"
+    },
+    {
+      "id": "introduce_word_177",
+      "content": "魔彈"
+    },
+    {
+      "id": "introduce_sentence_177",
+      "content": "果然如你所言，這枚{0}能擊中任何人。"
     }
   ]
 }

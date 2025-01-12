@@ -295,6 +295,10 @@
     {
       "id": "MainStoryOpenCondition_107",
       "content": "通過7-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9019",
+      "content": "通過7-36"
     }
   ]
 }

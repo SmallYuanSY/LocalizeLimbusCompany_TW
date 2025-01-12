@@ -131,20 +131,6 @@ public static class ChineseSetting
         return false;
     }
 
-    [HarmonyPatch(typeof(PriceText), nameof(PriceText.SetPrice))]
-    [HarmonyPrefix]
-    private static bool SetPrice(PriceText __instance, IAPProductStaticData productStaticData)
-    {
-        if (!IsUseChinese.Value)
-            return true;
-        __instance.tmp_unit.text = "CNY";
-        var priceTier = StaticDataManager.Instance._iapProductStaticDataList
-            .GetDataByProductID(productStaticData.productId).priceTier;
-        var usdCent = StaticDataManager.Instance._iapPriceTierStaticDataList.list
-            .Find((Func<IAPPriceTierStaticData, bool>)(price => price.PriceTier == priceTier)).usd_cent;
-        __instance.tmp_price.text = ((usdCent + 1) * 7 / 100).ToString();
-        return false;
-    }
 
     [HarmonyPatch(typeof(BattleUnitView), nameof(BattleUnitView.ViewCancelTextTypo_Lack))]
     [HarmonyPrefix]

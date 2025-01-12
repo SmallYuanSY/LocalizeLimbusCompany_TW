@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_24_1",
+      "dlg": "唔……沒什麼特別的話要說。“能做到的”，“希望你加油”，什麼的。怎麼能期待我說出那種話呢？"
+    },
+    {
+      "id": "announcer_cheer_24_2",
+      "dlg": "我從來沒要求過要站在這裡。一次也沒有。"
+    },
+    {
+      "id": "announcer_specialcheer_24_1",
+      "dlg": "主管也明白了吧。在這片空間裡，“安全”這個詞是多麼地空洞。"
+    },
+    {
+      "id": "announcer_specialcheer_24_2",
+      "dlg": "不立刻進行疏散的話，可能會有員工死亡。如果死在這裡，沒人會記得他們……就算這樣也要繼續戰鬥下去嗎？"
+    },
+    {
+      "id": "announcer_enemy_break_24_1",
+      "dlg": "似乎是鎮壓敵人的機會。反正它們又會出逃的。"
+    },
+    {
+      "id": "announcer_ally_break_24_1",
+      "dlg": "苟全至今的性命，要在今天結束了呢。"
+    },
+    {
+      "id": "announcer_killenemy_24_1",
+      "dlg": "在這裡沒人是安全的。對那個個體來說也是一樣。"
+    },
+    {
+      "id": "announcer_ally_dead_24_1",
+      "dlg": "所有人，放下心中的罪惡感。反正是已經幫不上忙的同伴。"
+    },
+    {
+      "id": "announcer_enemy_adv_24_1",
+      "dlg": "算了吧。即便一味地延長沒有希望的戰鬥，最後還能留下什麼呢。"
+    },
+    {
+      "id": "announcer_ally_adv_24_1",
+      "dlg": "想要防止更多人死去的話，只要一開始少投入些員工就可以吧。"
+    },
+    {
+      "id": "announcer_danger_24_1",
+      "dlg": "離結束很近了，主管。這裡無論何時都很可怕，希望最後能有一個華麗的結局。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_24_1",
+      "dlg": "危險的攻擊即將到來……隨它去吧。這不是你最擅長的事嗎。"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_24_1",
+      "dlg": "敵人正在準備著什麼。雖然不知道是什麼，但就這樣一切都消失掉也不錯。只要閉上眼睛，就什麼都不剩了……"
+    },
+    {
+      "id": "announcer_advatk_physical_24_1",
+      "dlg": "……對。做得很好呢。雖然並不是什麼有意義的成果。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_24_1",
+      "dlg": "真是可怕的攻擊……如果還有什麼話要講，可以告訴我。"
+    },
+    {
+      "id": "announcer_advatk_attr_24_1",
+      "dlg": "繼續保持這個勢頭的話，今天的鎮壓很快就能完成。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_24_1",
+      "dlg": "為什麼要下那種命令……不，算了。隨你的便。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_24_1",
+      "dlg": "觀測到敵方個體出現異常現象。雖然麻煩但也不能無視掉。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_24_1",
+      "dlg": "敵方個體的狀態不是很好。雖然不多，但情況似乎在慢慢好轉。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_24_1",
+      "dlg": "形勢變得有利了。明明能這樣做卻到現在才這樣做，是因為那不是你的職責嗎？"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_24_1",
+      "dlg": "員工們的狀態很奇怪。我覺得有些不對勁，可以幫我確認一下嗎？"
+    },
+    {
+      "id": "announcer_enemy_destroy_24_1",
+      "dlg": "嗯。地面正在劇烈地晃動。甚至連個體的部位都看不清……"
+    },
+    {
+      "id": "announcer_enemy_destroy_24_2",
+      "dlg": "啊。主管是什麼東西來著。不管怎樣聽說你好像弄壞了什麼，真不錯。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_24_1",
+      "dlg": "雖然是司空見慣的場面……但每次看到都令人十分無力。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_24_2",
+      "dlg": "果然這地方絕對不會安全。請照顧好活下來的員工。反正之後情況很快就會惡化掉吧……"
+    },
+    {
+      "id": "announcer_round_givebigdmg_24_1",
+      "dlg": "嗯……不好意思。有些頭暈沒有看見。嗯，大概又做了些什麼了不起的事吧。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_24_2",
+      "dlg": "其實也算不上什麼了不起的事。啊，如果想得到稱讚，不如去找Angela或者Malkuth，而不是我。"
+    },
+    {
+      "id": "announcer_multikillenemy_24_1",
+      "dlg": "員工表現良好，給他們裝一台啤酒販賣機如何？"
+    },
+    {
+      "id": "announcer_equip_24_1",
+      "dlg": "唔……已經知道我的名字了吧？……我是Netzach。是無法保證安全的安保部的Sephirah。"
+    }
+  ]
+}

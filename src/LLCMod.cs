@@ -18,7 +18,7 @@ public class LLCMod : BasePlugin
 {
     public const string Guid = "Com.Bright.LocalizeLimbusCompany";
     public const string Name = "LimbusLocalizeMod";
-    public const string Version = "0.6.63";
+    public const string Version = "0.6.64";
     public const string Author = "Bright&Yuan";
     public const string LLCLink = "https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW";
     public static ConfigFile LLCSettings;

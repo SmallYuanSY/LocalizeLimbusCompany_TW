@@ -895,6 +895,22 @@
     {
       "id": "10310_getCondition_gacksung",
       "content": "拉·曼卻領 總督 堂吉訶德 3階段同步完成"
+    },
+    {
+      "id": "10611_getCondition_normal",
+      "content": "獲得句點事務所 代表 鴻璐"
+    },
+    {
+      "id": "10611_getCondition_gacksung",
+      "content": "句點事務所 代表 鴻璐 3階段同步完成"
+    },
+    {
+      "id": "10711_getCondition_normal",
+      "content": "獲得句點事務所 收尾人 希斯克利夫"
+    },
+    {
+      "id": "10711_getCondition_gacksung",
+      "content": "句點事務所 收尾人 希斯克利夫 3階段同步完成"
     }
   ]
 }

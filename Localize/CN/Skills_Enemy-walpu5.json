@@ -1,0 +1,311 @@
+{
+  "dataList": [
+    {
+      "id": 9017801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "齒輪指引",
+          "desc": "[WhenUse] 使自身增加2級煙氣 強度",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層煙氣 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血肉齒輪-停止",
+          "desc": "[WhenUse] 使自身增加4級煙氣 強度並獲得2層煙氣 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級煙氣 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級煙氣 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蒸汽噴發",
+          "desc": "目標每帶有3級煙氣 強度，使本技能的拼點威力+1(最多+2)\n自身每帶有3級煙氣 強度，使本技能造成的傷害+10%(最多+20%)\n[WhenUse] 若自身的煙氣 強度不低於10級，則使本技能的硬幣威力+2\n[EndSkill] 消耗自身所有煙氣 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級煙氣 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有3級煙氣 強度，重複使用本硬幣1次(最多3次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避指示",
+          "desc": "[OnSucceedEvade] 使自身增加3級煙氣 強度並獲得1層煙氣 \n[OnSucceedEvade] 若自身的煙氣 強度不低於10級，則下回合使自身獲得1層拼點威力提升 與3層守護 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "遵循齒輪",
+          "desc": "[WhenUse] 使自身增加2級煙氣 強度",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層煙氣 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血肉齒輪-緊勒",
+          "desc": "[WhenUse] 使自身增加4級煙氣 強度並獲得2層煙氣 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層煙氣 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層束縛 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層煙氣 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層束縛 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "突襲指示",
+          "desc": "目標每帶有3級煙氣 強度，使本技能的拼點威力+1(最多+2)\n自身每帶有3級煙氣 強度，使本技能造成的傷害+10%(最多+20%)\n[WhenUse] 若自身的煙氣 強度不低於10級，則使本技能的硬幣威力+2\n[EndSkill] 消耗自身所有煙氣 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層煙氣 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有3級煙氣 強度，重複使用本硬幣1次(最多3次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "閃避指示",
+          "desc": "[OnSucceedEvade] 使自身增加3級煙氣 強度並獲得1層煙氣 \n[OnSucceedEvade] 若自身的煙氣 強度不低於10級，則下回合使自身獲得1層拼點威力提升 與3層守護 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血肉齒輪-命令",
+          "desc": "[WhenUse] 使自身增加3級煙氣 強度並獲得2層煙氣 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級煙氣 強度並對其施加2層煙氣 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "思想齒輪-接受",
+          "desc": "[WhenUse] 使自身增加4級煙氣 強度並獲得2層煙氣 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級煙氣 強度並對其施加2層煙氣 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血肉齒輪-限制",
+          "desc": "目標每帶有3級煙氣 強度，使本技能的硬幣威力+1\n自身每帶有3級煙氣 強度，使本技能造成的傷害+10%\n本技能重複使用硬幣時，消耗自身的3級煙氣 強度\n[WhenUse] 若自身的煙氣 強度不低於10級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層煙氣 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有5級煙氣 強度，重複使用本硬幣1次(最多2次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "思想齒輪-解除",
+          "desc": "目標每帶有3級煙氣 強度，使本技能的拼點威力+1\n自身每帶有3級煙氣 強度，使本技能造成的傷害+20%\n[WhenUse] 若自身的煙氣 強度不低於10級，則使本技能的硬幣威力+2\n[EndSkill] 消耗自身所有煙氣 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級煙氣 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層煙氣 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目標每帶有3級煙氣 強度，重複使用本硬幣1次(最多3次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "思想齒輪-蒸汽",
+          "desc": "[WhenUse] 使自身增加5級煙氣 強度並獲得2層煙氣\n[WhenUse] 若自身的煙氣 強度不低於10級，則下回合使自身獲得2層加算硬幣強化 與3層守護 (每回合最多1次)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

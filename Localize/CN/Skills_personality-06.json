@@ -1081,6 +1081,669 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1061101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "火力壓制",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "火力壓制",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "火力壓制",
+          "desc": "[WhenUse] 使自身獲得3層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "標記目標",
+          "desc": "本技能每將消耗1發彈藥 ，使本技能的基礎威力+1\n[WhenUse] 若句點事務所 收尾人 希斯克利夫在場，則以(最大共鳴數×20)%的概率激活[CoveringFire]\n[WhenUse] 使自身獲得1層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗至多3發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×10)%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "標記目標",
+          "desc": "本技能每將消耗1發彈藥 ，使本技能的基礎威力+1\n[WhenUse] 若句點事務所 收尾人 希斯克利夫在場，則以(最大共鳴數×20)%的概率激活[CoveringFire]\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗至多3發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×10)%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "標記目標",
+          "desc": "本技能每將消耗1發彈藥 ，使本技能的基礎威力+1\n[WhenUse] 若句點事務所 收尾人 希斯克利夫在場，則以(最大共鳴數×25)%的概率激活[CoveringFire]\n[WhenUse] 使自身獲得3層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗至多3發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×10)%"
+                },
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+(消耗的彈藥 數×10)%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+20%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "命之句點",
+          "desc": "本技能每將消耗1發彈藥 ，使本技能的基礎威力+1\n[WhenUse] 若句點事務所 收尾人 希斯克利夫在場，則激活[CoveringFire]\n[WhenUse] 使自身增加5級呼吸法 強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×10)%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗至多2發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×10)%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標陷入混亂，則使本硬幣暴擊時造成的傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層突刺易損 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "命之句點",
+          "desc": "本技能每將消耗1發彈藥 ，使本技能的基礎威力+1\n[WhenUse] 若句點事務所 收尾人 希斯克利夫在場，則激活[CoveringFire]\n[WhenUse] 使自身增加5級呼吸法 強度\n[WinDuel] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×15)%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的15%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗至多2發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×15)%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的15%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標陷入混亂，則使本硬幣暴擊時造成的傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層突刺易損 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "戰鬥呼吸",
+          "desc": "回合開始時，若自身的彈藥 數為0，則改為使用“影之彼端”\n[OnSucceedEvade] 使自身增加1級呼吸法 強度(每回合最多3次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "戰鬥呼吸",
+          "desc": "回合開始時，若自身的彈藥 數為0，則改為使用“影之彼端”\n[OnSucceedEvade] 使自身增加1級呼吸法 強度(每回合最多5次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061105,
+      "levelList": [
+        {
+          "level": 2,
+          "name": "聯合：標記目標",
+          "desc": "本技能每將消耗1發彈藥 ，使本技能的基礎威力+1\n[WhenUse] 使自身獲得2層呼吸法 \n[DefeatDuel] 使本技能的最終威力+5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗至多3發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×10)%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "聯合：標記目標",
+          "desc": "本技能每將消耗1發彈藥 ，使本技能的基礎威力+1\n[WhenUse] 使自身獲得3層呼吸法 \n[DefeatDuel] 使本技能的最終威力+5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗至多3發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×10)%"
+                },
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+(消耗的彈藥 數×10)%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+20%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061106,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "聯合：命之句點",
+          "desc": "本技能每將消耗1發彈藥 ，使本技能的基礎威力+1\n[WhenUse] 使自身增加5級呼吸法 強度\n[DefeatDuel] 使本技能的最終威力+5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×10)%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗至多2發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×10)%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標陷入混亂，則使本硬幣暴擊時造成的傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層突刺易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+30%"
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(目標的突刺抗性×50)%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "聯合：命之句點",
+          "desc": "本技能每將消耗1發彈藥 ，使本技能的基礎威力+1\n[WhenUse] 使自身增加5級呼吸法 強度\n[WinDuel] 使自身獲得2層呼吸法 \n[DefeatDuel] 使本技能的最終威力+5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×15)%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的15%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗至多2發彈藥 "
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(消耗的彈藥 數×15)%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的15%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標陷入混亂，則使本硬幣暴擊時造成的傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層突刺易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+50%"
+                },
+                {
+                  "desc": "使本硬幣造成的傷害+(目標的突刺抗性×50)%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "影之彼端",
+          "desc": "[DuelCounter]\n[WhenUse] 使自身獲得2層呼吸法 \n[EndBattle] 使自身[FullReload](每場戰鬥最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "影之彼端",
+          "desc": "[DuelCounter]\n使本技能暴擊時造成的傷害+20%\n[WhenUse] 使自身獲得2層呼吸法 \n[EndBattle] 使自身[FullReload](每場戰鬥最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "近戰支援",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "近戰支援",
+          "desc": "使本技能暴擊時造成的傷害+20%\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
