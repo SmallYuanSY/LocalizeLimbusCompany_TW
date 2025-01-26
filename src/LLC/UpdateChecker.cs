@@ -19,7 +19,7 @@ public static class UpdateChecker
     }
 
     public static ConfigEntry<bool> AutoUpdate =
-        LLCMod.LLCSettings.Bind("LLC Settings", "AutoUpdate", false, "是否自動檢查並下載更新 ( true | false )");
+        LLCMod.LLCSettings.Bind("LLC Settings", "AutoUpdate", true, "是否自動檢查並下載更新 ( true | false )");
 
     public static ConfigEntry<Uri> UpdateUri = LLCMod.LLCSettings.Bind("LLC Settings", "UpdateURI", Uri.GitHub,
         "自動更新所使用URI ( GitHub:默認 | Mirror_OneDrive:鏡像,更新可能有延遲,但下載速度更快 )");
@@ -31,11 +31,11 @@ public static class UpdateChecker
     {
         if (!AutoUpdate.Value) return;
         LLCMod.LogWarning($"Check Mod Update From {UpdateUri.Value}");
-        var modUpdate = CheckModUpdate;
+        var modUpdate = ModUpdate;
         new Thread(modUpdate).Start();
     }
 
-    private static void CheckModUpdate()
+    private static void ModUpdate()
     {
         var releaseUri = UpdateUri.Value == Uri.GitHub
             ? "https://api.github.com/repos/SmallYuanSY/LocalizeLimbusCompany_TW/releases/latest"
@@ -68,12 +68,12 @@ public static class UpdateChecker
             }
 
             LLCMod.LogWarning("Check Chinese Font Asset Update");
-            var fontAssetUpdate = CheckChineseFontAssetUpdate;
+            var fontAssetUpdate = ChineseFontAssetUpdate;
             new Thread(fontAssetUpdate).Start();
         }
     }
 
-    private static void CheckChineseFontAssetUpdate()
+    private static void ChineseFontAssetUpdate()
     {
         var releaseUri = UpdateUri.Value == Uri.GitHub
             ? "https://api.github.com/repos/SmallYuanSY/LLC_ChineseFontAsset/releases/latest"
@@ -101,7 +101,6 @@ public static class UpdateChecker
             DownloadFileAsync(download, filename);
         UpdateCall = UpdateDel;
     }
-
     private static void UpdateDel()
     {
         LLCMod.OpenGamePath();
@@ -128,7 +127,7 @@ public static class UpdateChecker
         }
     }
 
-    public static void CheckReadmeUpdate()
+    public static void ReadmeUpdate()
     {
         var www = UnityWebRequest.Get("https://smallyuansy.github.io/LocalizeLimbusCompany_TW/LatestUpdateTime.txt");
         www.timeout = 1;

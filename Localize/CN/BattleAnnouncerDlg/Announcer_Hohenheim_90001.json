@@ -1,0 +1,166 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_911401_90001_1",
+      "dlg": "果然，經理的指揮能夠提高勝率。不錯的記錄。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911404_90001_1",
+      "dlg": "這是假設經理在特殊情況下與你們分離時的評定。請認真對待。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911404_90001_2",
+      "dlg": "看來在不經指揮的情況下罪人們連戰勝嫉妒罪種都很困難……經理？",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911406_90001_1",
+      "dlg": "這次的條件是確保戰鬥中沒有罪人遭到重傷。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911406_90001_2",
+      "dlg": "嗯，這種程度不算很難嗎。進行下一項測試。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911406_90001_3",
+      "dlg": "你讓罪人們受到攻擊了。經理，你對罪人們的損失是否有些太麻木了？",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911406_90001_4",
+      "dlg": "沒有達成測試條件。嘛，再試試吧。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911407_90001_1",
+      "dlg": "這次的條件是儘可能快地鎮壓個體。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911407_90001_2",
+      "dlg": "這是預想之內的首次鎮壓。嘛，我不覺得有需要特意修正的變數。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911407_90001_3",
+      "dlg": "花費了比預想中更長的時間。可以的話希望能在這次指揮中結束戰鬥。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911407_90001_4",
+      "dlg": "不要太激動，這並非什麼驚人的成果。進入下次測試。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911407_90001_5",
+      "dlg": "雖然很驚險……但滿足了條件。給你們PASS評價吧。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911407_90001_6",
+      "dlg": "沒有達成測試條件。嘛，再試試吧。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911408_90001_1",
+      "dlg": "這次的條件有些苛刻。在個體自毀之前處理掉它吧。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911408_90001_2",
+      "dlg": "真是老練的應對。你們面對過很多次這種形態的罪種嗎？",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911408_90001_3",
+      "dlg": "嗯，在嚴苛的條件下取得了不錯的成果。很好，進入下次測試吧。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911408_90001_4",
+      "dlg": "不應該擔心罪種的自毀而應該先擔心罪人……嘛，總之先堅持到最後吧。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911408_90001_5",
+      "dlg": "沒有達成測試條件。嘛，再試試吧。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911409_90001_1",
+      "dlg": "這次來觀察一下諸位的迴避能力吧。請試著在不受攻擊的情況下進行處理，無法避免的情況除外。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911409_90001_2",
+      "dlg": "看來經理並非是隻在口頭上關心罪人的指揮者。與報告中的數據一致，很好。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911409_90001_3",
+      "dlg": "嗯，是罪人的失誤嗎？希望不是因不成熟的指揮體系所導致。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911409_90001_4",
+      "dlg": "我認為連續十次的失敗是由指揮的失策所致……嘛，繼續吧。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911410_90001_1",
+      "dlg": "既然是最後的測試，就試試更難的條件吧。讓我們來處理與各罪人形態相同的罪人。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911410_90001_2",
+      "dlg": "聽說你在成為公司資產之前就已經非常出色了。恭喜你，這一點被證實了。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911410_90001_3",
+      "dlg": "……嗯。看來那束縛用具的影響也轉移到了罪種身上。這相當有趣。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911410_90001_4",
+      "dlg": "請按照我給出的條件提示去進行……不，算了。剩下的測試就按照自己的想法去進行吧。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_911410_90001_5",
+      "dlg": "嘛……因為測試太難了，所以我也能接受這樣的結果。但失敗就是失敗。",
+      "imgStr": "hohenheim_announcer",
+      "isHide": true
+    }
+  ]
+}

@@ -1005,6 +1005,348 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1021101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "點火",
+          "desc": "[WhenUse] 若自身的燒傷 強度不低于10級，則使本技能造成的傷害+10%\n[WhenUse] 使自身增加7級燒傷 強度並對自身施加1層燒傷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "點火",
+          "desc": "[WhenUse] 若自身的燒傷 強度不低于10級，則使本技能造成的傷害+10%\n[WhenUse] 使自身增加7級燒傷 強度並對自身施加1層燒傷 \n[WhenUse] 若自身的燒傷 強度與目標的燒傷 強度之和不低于10點，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的燒傷 強度不低于10級，則使目標額外增加1級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "點火",
+          "desc": "[WhenUse] 若自身的燒傷 強度不低于10級，則使本技能造成的傷害+10%\n[WhenUse] 使自身增加7級燒傷 強度並對自身施加1層燒傷 \n[WhenUse] 自身的燒傷 強度與目標的燒傷 強度之和每有10點，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的燒傷 強度不低于10級，則使目標額外增加3級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "E.G.O紅艷煞 展開",
+          "desc": "[WhenUse] 若自身的燒傷 強度不低于10級，則使本技能造成的傷害+10%\n[WhenUse] 對自身施加4層燒傷 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "E.G.O紅艷煞 展開",
+          "desc": "[WhenUse] 自身每帶有10級燒傷 強度，使本技能造成的傷害+10%(最多+20%)\n[WhenUse] 對自身施加4層燒傷 \n[WhenUse] 若自身的燒傷 強度與目標的燒傷 強度之和不低于4點，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "E.G.O紅艷煞 展開",
+          "desc": "[WhenUse] 自身每帶有10級燒傷 強度，使本技能造成的傷害+10%(最多+20%)\n[WhenUse] 對自身施加4層燒傷 \n[WhenUse] 自身的燒傷 強度與目標的燒傷 強度之和每有4點，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加3級燒傷 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低于15級，則對其施加2層燒傷 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "渴火",
+          "desc": "[StartBattle] 使自身增加7級燒傷 強度並對自身施加1層燒傷 \n[BeforeUse] 若自身的燒傷 強度不低于30級，則改為使用“紅艷煞 最大感應【劣化侵蝕】”\n[WhenUse] 自身每帶有5級燒傷 強度，使本技能造成的傷害+7.5%(最多+30%)\n[WhenUse] 若自身的燒傷 強度與目標的燒傷 強度之和不低于10點，則使本技能的基礎威力+1\n[WhenUse] 若自身的已失去體力不低于30%，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "渴火",
+          "desc": "[StartBattle] 使自身增加7級燒傷 強度並對自身施加1層燒傷 \n[BeforeUse] 若自身的燒傷 強度不低于30級，則改為使用“紅艷煞 最大感應【劣化侵蝕】”\n[WhenUse] 自身每帶有5級燒傷 強度，使本技能造成的傷害+12.5%(最多+50%)\n[WhenUse] 自身的燒傷 強度與目標的燒傷 強度之和每有10點，使本技能的基礎威力+1(最多+2)\n[WhenUse] 自身每失去30%體力，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "提升紅艷煞感應度進行共鳴。",
+          "desc": "[WhenUse] 使自身的燒傷 強度減少5級(每回合最多1次)\n[OnSucceedEvade] 使自身的燒傷 強度減少5級(每回合最多1次)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "提升紅艷煞感應度進行共鳴。",
+          "desc": "[WhenUse] 若自身的燒傷 強度不低于10級，則使本技能的硬幣威力+3\n[WhenUse] 使自身的燒傷 強度減少5級(每回合最多1次)\n[OnSucceedEvade] 使自身的燒傷 強度減少5級(每回合最多1次)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "紅艷煞 最大感應【劣化侵蝕】",
+          "desc": "使用本技能后，自身陣亡\n- 使用本技能期間，若自身的體力降至1點以下，則體力維持為1點\n[WhenUse] 自身每帶有5級燒傷 強度，使本技能造成的傷害+7.5%(最多+30%)\n[WhenUse] 若自身的燒傷 強度與目標的燒傷 強度之和不低于10點，則使本技能的基礎威力+1\n[WhenUse] 自身每失去30%體力，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每失去20%體力，使本技能的攻擊容量+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身每失去20%體力，使本硬幣造成的傷害+10%(最多+30%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "紅艷煞 最大感應【劣化侵蝕】",
+          "desc": "使用本技能后，自身陣亡\n- 使用本技能期間，若自身的體力降至1點以下，則體力維持為1點\n[WhenUse] 自身每帶有5級燒傷 強度，使本技能造成的傷害+12.5%(最多+50%)\n[WhenUse] 自身的燒傷 強度與目標的燒傷 強度之和每有10點，使本技能的基礎威力+1(最多+2)\n[WhenUse] 自身每失去30%體力，使本技能的硬幣威力+1(最多+3)\n[BeforeAttack] 自身每失去20%體力，使本技能的攻擊容量+1(最多+4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身每失去20%體力，使本硬幣造成的傷害+10%(最多+30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

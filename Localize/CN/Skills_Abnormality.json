@@ -1618,7 +1618,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "凈化",
+          "name": "淨化",
           "desc": "[WhenUse] 若目標現存體力不高於30%，則使本技能威力+2",
           "coinlist": [
             {
@@ -1879,7 +1879,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "崇高凈化",
+          "name": "崇高淨化",
           "coinlist": [
             {
               "coindescs": [

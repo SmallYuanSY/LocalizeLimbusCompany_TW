@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "id": "lcb_checkup_stagebutton_not_clear",
+      "content": "通過7-36後解鎖"
+    },
+    {
+      "id": "lcb_checkup_stagebutton_normal",
+      "content": "關卡"
+    },
+    {
+      "id": "lcb_checkup_stagebutton_end_event",
+      "content": "活動結束"
+    },
+    {
+      "id": "lcb_checkup_storybutton_before_start",
+      "content": "<size=75%>觀看活動劇情第1關後\n開放</size>"
+    },
+    {
+      "id": "lcb_checkup_storybutton_normal",
+      "content": "跳轉至放映室"
+    },
+    {
+      "id": "lcb_checkup_rewardShopButton",
+      "content": "獎勵兌換"
+    },
+    {
+      "id": "lcb_checkup_scrap_guide_title",
+      "content": "活動道具介紹"
+    },
+    {
+      "id": "lcb_checkup_scrap_guide_desc",
+      "content": "通關活動關卡、主線劇情、鏡像迷宮時，您將有低概率獲得<color=#ff99e6>[機密文件]</color>。\n\n<color=#ff99e6>[機密文件]</color>會立即轉換為20個<color=#ff99e6>[情報文件]</color>。"
+    },
+    {
+      "id": "lcb_checkup_rewardpage_desc",
+      "content": "首次通關活動關卡與主線劇情，\n以及通關鏡像迷宮時，可獲得<color=#ac1605>情報文件</color>，\n並有低概率額外獲得<color=#ac1605>機密文件</color>。\n\n<color=#ac1605>機密文件</color>獲得後，將立即轉化為20個<color=#ac1605>情報文件</color>。"
+    },
+    {
+      "id": "lcb_checkup_reward_popup_desc",
+      "content": "首次通關活動關卡與主線劇情、以及通關鏡像迷宮時，可獲得<color=#ac1605>情報文件</color>。\n\n可在<color=#ac1605>獎勵兌換</color>窗口中花費<color=#ac1605>情報文件</color>，以獲得各種各樣的獎勵。"
+    },
+    {
+      "id": "lcb_checkup_reward_popup_num_of_owned_items",
+      "content": "持有道具數"
+    },
+    {
+      "id": "lcb_checkup_bonusUI_Title",
+      "content": "增加"
+    },
+    {
+      "id": "lcb_checkup_bonusUI_Title_contain_false",
+      "content": "未擁有"
+    },
+    {
+      "id": "lcb_checkup_bonusUI_Desc",
+      "content": "活動期間，編隊內存在下列人格與E.G.O時<color=#ac1605>情報文件</color>獲取量提升。\n獲取量提升合計最大值為<color=#ac1605>120%</color>。"
+    },
+    {
+      "id": "lcb_checkup_bonus_popup_title",
+      "content": "活動加成角色"
+    },
+    {
+      "id": "lcb_checkup_bonus_preview",
+      "content": "活動加成角色"
+    }
+  ]
+}

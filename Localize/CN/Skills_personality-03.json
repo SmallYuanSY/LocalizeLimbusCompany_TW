@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "覈查賬簿",
+          "name": "核查賬簿",
           "desc": "",
           "coinlist": [
             {
@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "覈查賬簿",
+          "name": "核查賬簿",
           "desc": "[WhenUse] 使自身恢復5點理智值",
           "coinlist": [
             {
@@ -47,7 +47,7 @@
         },
         {
           "level": 4,
-          "name": "覈查賬簿",
+          "name": "核查賬簿",
           "desc": "[WhenUse] 使自身恢復5點理智值",
           "coinlist": [
             {

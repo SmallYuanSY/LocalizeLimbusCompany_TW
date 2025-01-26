@@ -6,7 +6,6 @@ using Il2CppSystem.Collections.Generic;
 using LocalSave;
 using MainUI;
 using MainUI.NoticeUI;
-using Server;
 using SimpleJSON;
 using TMPro;
 using UnityEngine;
@@ -105,7 +104,18 @@ public static class ReadmeManager
         ReadmeList.Clear();
         foreach (var notices in JSONNode.Parse(File.ReadAllText(LLCMod.ModPath + "/Localize/Readme/Readme.json"))[0]
                      .AsArray.m_List)
-            ReadmeList.Add(new Notice(JsonUtility.FromJson<NoticeFormat>(notices.ToString()), LOCALIZE_LANGUAGE.KR));
+            ReadmeList.Add(HandleDynamicType(notices.ToString()));
+    }
+
+    public static Notice HandleDynamicType(string jsonPayload)
+    {
+        var noticetype = SynchronousDataManager.Instance.NoticeSynchronousDataList.noticeFormats.GetType()
+            .GetGenericArguments()[0];
+
+        var deserializedObject = typeof(JsonUtility).GetMethod("FromJson", [typeof(string)])
+            ?.MakeGenericMethod(noticetype).Invoke(null, [jsonPayload]);
+
+        return Activator.CreateInstance(typeof(Notice), deserializedObject, LOCALIZE_LANGUAGE.KR) as Notice;
     }
 
     public static void Close()
@@ -126,7 +136,9 @@ public static class ReadmeManager
         var count = ReadmeList.Count;
         while (i < count)
         {
-            if (!UserLocalSaveDataRoot.Instance.NoticeRedDotSaveModel.TryCheckId(ReadmeList[i].ID)) return true;
+            var readme = ReadmeList[i];
+            if (!readme.StartDate.isFuture && !readme.EndDate.isPast &&
+                !UserLocalSaveDataRoot.Instance.NoticeRedDotSaveModel.TryCheckId(readme.ID)) return true;
             i++;
         }
 
@@ -134,31 +146,26 @@ public static class ReadmeManager
     }
 
     #region 公告相关
-
     [HarmonyPatch(typeof(UserLocalNoticeRedDotModel), nameof(UserLocalNoticeRedDotModel.InitNoticeList))]
     [HarmonyPrefix]
     private static bool InitNoticeList(UserLocalNoticeRedDotModel __instance, List<int> severNoticeList)
     {
-        UpdateChecker.CheckReadmeUpdate();
-        for (var i = 0; i < __instance.GetDataList().Count; i++)
-        {
-            __instance.idList.RemoveAll((Func<int, bool>)Func);
-            continue;
-
-            bool Func(int x)
-            {
-                return !severNoticeList.Contains(x) && ReadmeList.FindAll((Func<Notice, bool>)Func2).Count == 0;
-
-                bool Func2(Notice x2)
-                {
-                    return x2.ID == x;
-                }
-            }
-        }
-
+        UpdateChecker.ReadmeUpdate();
+        if (__instance.idList.RemoveAll((Func<int, bool>)Func) > 0)
+            __instance.isChanged = true;
         __instance.Save();
         UpdateNoticeRedDot();
         return false;
+
+        bool Func(int id)
+        {
+            return !severNoticeList.Contains(id) && ReadmeList.FindAll((Func<Notice, bool>)Func2).Count == 0;
+
+            bool Func2(Notice notice)
+            {
+                return notice.ID == id;
+            }
+        }
     }
 
     [HarmonyPatch(typeof(NoticeUIPopup), nameof(NoticeUIPopup.Initialize))]

@@ -1,0 +1,246 @@
+{
+  "dataList": [
+    {
+      "id": 9018101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "■嚼",
+          "desc": "[WhenUse] 若目標未帶有破裂 ，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成2點理智傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "吃■吧",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成3點理智傷害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量的體力(最多20點)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成5點理智傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "下■就是■！！",
+          "desc": "[WhenUse] 目標每帶有3級破裂 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量的體力(最多20點)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於體力上限的50%，則重複使用本硬幣1次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成10點理智傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量的體力(最多20點)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防■",
+          "desc": "[WhenUse] 目標每帶有1級破裂 強度，使自身獲得5點護盾\n[EndBattle] 根據自身剩餘的護盾，使自身恢復相應的體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "哇■■哈",
+          "desc": "[WhenUse] 若目標未帶有破裂 ，則使本技能的拼點威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成2點理智傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "■掃",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成3點理智傷害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量的體力(最多20點)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成5點理智傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "吃■■間到！",
+          "desc": "[WhenUse] 目標每帶有3級破裂 強度，使本技能的硬幣威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量的體力(最多20點)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於體力上限的50%，則重複使用本硬幣1次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成10點理智傷害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量的體力(最多20點)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "■御",
+          "desc": "[WhenUse] 目標每帶有1級破裂 強度，使自身獲得5點護盾\n[EndBattle] 根據自身剩餘的護盾，使自身恢復相應的體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

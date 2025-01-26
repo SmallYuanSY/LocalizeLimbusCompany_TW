@@ -1,0 +1,10 @@
+{
+  "dataList": [
+    {
+      "id": 1036,
+      "panicName": "煩惱",
+      "lowMoraleDescription": "回合開始時，對自身施加1層[Vulnerable]與2層[MentalIncreaseDown]",
+      "panicDescription": "回合開始時，對自身施加2層[Vulnerable]與3層[MentalIncreaseDown]"
+    }
+  ]
+}

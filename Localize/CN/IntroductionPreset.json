@@ -358,7 +358,7 @@
     },
     {
       "id": "introduce_word_46",
-      "content": "凈化"
+      "content": "淨化"
     },
     {
       "id": "introduce_sentence_46",
@@ -1411,6 +1411,30 @@
     {
       "id": "introduce_sentence_177",
       "content": "果然如你所言，這枚{0}能擊中任何人。"
+    },
+    {
+      "id": "introduce_word_178",
+      "content": "陷阱"
+    },
+    {
+      "id": "introduce_sentence_178",
+      "content": "啊。這次不是{0}，是真的。"
+    },
+    {
+      "id": "introduce_word_179",
+      "content": "火光"
+    },
+    {
+      "id": "introduce_sentence_179",
+      "content": "就如同，被{0}吸引的蛾群一般。"
+    },
+    {
+      "id": "introduce_word_180",
+      "content": "怨恨"
+    },
+    {
+      "id": "introduce_sentence_180",
+      "content": "{0}和後悔都是無用。"
     }
   ]
 }

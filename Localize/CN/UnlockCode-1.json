@@ -61,6 +61,14 @@
     {
       "id": 9111,
       "openCondition": "通過第4次 瓦爾普吉斯之夜"
+    },
+    {
+      "id": 9113,
+      "openCondition": "通過第5次 瓦爾普吉斯之夜"
+    },
+    {
+      "id": 9114,
+      "openCondition": "通過LCB定期體檢"
     }
   ]
 }
