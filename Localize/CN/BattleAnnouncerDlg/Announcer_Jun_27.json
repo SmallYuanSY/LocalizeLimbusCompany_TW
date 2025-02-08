@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_27_1",
+      "dlg": "你去那裡，你站前面……啊，不用我管嗎……？行吧，嘛……少受點傷。"
+    },
+    {
+      "id": "announcer_cheer_27_2",
+      "dlg": "戰鬥就在眼前，吶喊助威什麼的根本沒有意義。要是不做好受傷的準備，就會斷送性命。打起精神就夠了。"
+    },
+    {
+      "id": "announcer_specialcheer_27_1",
+      "dlg": "……這幫小子的鬼樣真不像話……哈，那也得拼個你死我活。還能怎麼辦呢。"
+    },
+    {
+      "id": "announcer_specialcheer_27_2",
+      "dlg": "一團糟啊……喂，有機會的話讓他們撤回來重整旗鼓才更明智。"
+    },
+    {
+      "id": "announcer_enemy_break_27_1",
+      "dlg": "漏洞百出啊。趕緊闖過去算了？"
+    },
+    {
+      "id": "announcer_ally_break_27_1",
+      "dlg": "這就是在戰鬥當中分心的後果。派人保護一下那傢伙。"
+    },
+    {
+      "id": "announcer_killenemy_27_1",
+      "dlg": "一個兩個越來越少了。節奏不錯。我……哈啊，小睡一會也可以吧？"
+    },
+    {
+      "id": "announcer_ally_dead_27_1",
+      "dlg": "嗯……嘛，來不及一個個哀悼了。待會再敬上杯餞行酒吧。"
+    },
+    {
+      "id": "announcer_enemy_adv_27_1",
+      "dlg": "快完蛋了……既然都做了幫派成員，就決一死戰吧。"
+    },
+    {
+      "id": "announcer_ally_adv_27_1",
+      "dlg": "爭鬥的結果多半就是這樣……無論對方還是我們都會失去不少人。但即便如此，我們也總是會笑到最後。"
+    },
+    {
+      "id": "announcer_danger_27_1",
+      "dlg": "保持謹慎。按照上面下達的命令，這是最後的機會了。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_27_1",
+      "dlg": "那……那是什麼鬼東西？渾身都起了雞皮疙瘩，那東西可不一般……？"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_27_1",
+      "dlg": "我這一路都能聽到你絞盡腦汁的聲音……別多想，那些事情憑感覺應付就足夠了。"
+    },
+    {
+      "id": "announcer_advatk_physical_27_1",
+      "dlg": "這傢伙如同蒟蒻一樣柔弱。只是輕輕接觸就被斬開了。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_27_1",
+      "dlg": "你為什麼……哈……想用刀去砍木柱……用合適的武器啊。"
+    },
+    {
+      "id": "announcer_advatk_attr_27_1",
+      "dlg": "這劍技簡直一騎絕塵啊？那人是什麼出身，我很中意……"
+    },
+    {
+      "id": "announcer_disadvatk_attr_27_1",
+      "dlg": "真是令人惱火……你平常都是怎麼訓練這幫人的？"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_27_1",
+      "dlg": "那些傢伙……的士氣變了。肯定是上頭下達了什麼命令。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_27_1",
+      "dlg": "全都跟吃了蟲子一樣苦哈哈的。士氣如此低落，我自己都不想上了……"
+    },
+    {
+      "id": "announcer_ally_specialbuff_27_1",
+      "dlg": "好，等結束之後都有好酒伺候著~哈，瞧你們這心花怒放的樣。噢，說好了我可不買單啊。"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_27_1",
+      "dlg": "嗯……真讓人生氣，你們這幫傢伙……！給我拿出氣勢來！"
+    },
+    {
+      "id": "announcer_enemy_destroy_27_1",
+      "dlg": "哈！看看那被斬開的樣子。現在他還能拿什麼攻擊？"
+    },
+    {
+      "id": "announcer_enemy_destroy_27_2",
+      "dlg": "這幫小子倒是不傻。比起一窩蜂的上，就該像這樣先斬掉四肢才俐落。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_27_1",
+      "dlg": "呃……這完全是在預料之外。先撤！"
+    },
+    {
+      "id": "announcer_round_takebigdmg_27_2",
+      "dlg": "那邊好像也帶著個大傢伙……先重整旗鼓。哈啊……可要動點腦子了。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_27_1",
+      "dlg": "啊？嗯？哇……你挺有能耐啊？有時間要不要一起喝一杯？"
+    },
+    {
+      "id": "announcer_round_givebigdmg_27_2",
+      "dlg": "剛剛那傢伙……啊，是啊。那傢伙確實有一手。挺不錯的。"
+    },
+    {
+      "id": "announcer_multikillenemy_27_1",
+      "dlg": "令鬼神辟易……這種……嗯，讓我想起了在東部的會長。"
+    },
+    {
+      "id": "announcer_equip_27_1",
+      "dlg": "呼啊啊……這種雜工作就讓手底下的去唄……嘖，行，那我就教教他們後巷的規矩吧。"
+    }
+  ]
+}

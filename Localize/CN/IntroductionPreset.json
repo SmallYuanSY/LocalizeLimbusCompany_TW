@@ -1178,7 +1178,7 @@
     },
     {
       "id": "introduce_sentence_148",
-      "content": "大概是因為有{0}的家夥們不會害怕戰鬥吧。"
+      "content": "大概是因為有{0}的傢伙們不會害怕戰鬥吧。"
     },
     {
       "id": "introduce_word_149",
@@ -1282,7 +1282,7 @@
     },
     {
       "id": "introduce_sentence_161",
-      "content": "你把{0}藏到哪里去了？"
+      "content": "你把{0}藏到哪裡去了？"
     },
     {
       "id": "introduce_word_162",
@@ -1435,6 +1435,22 @@
     {
       "id": "introduce_sentence_180",
       "content": "{0}和後悔都是無用。"
+    },
+    {
+      "id": "introduce_word_181",
+      "content": "家人"
+    },
+    {
+      "id": "introduce_sentence_181",
+      "content": "你想對我們的{0}動手？"
+    },
+    {
+      "id": "introduce_word_182",
+      "content": "決戰"
+    },
+    {
+      "id": "introduce_sentence_182",
+      "content": "你的{0}申請，我接受了。"
     }
   ]
 }

@@ -994,6 +994,263 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1081101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "血振納刀",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "血振納刀",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "血振納刀",
+          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n目標每帶有1種負面效果，使本技能造成的傷害+10%(最多+30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "鋒芒畢現",
+          "desc": "[StartBattle] 使除自身以外速度值最高且屬於黑雲會的2名友方單位獲得1層傷害強化 (每回合最多1次)\n- 若包括自身在內屬於黑雲會的友方單位不低於6名，則改為使5名友方單位獲得2層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "鋒芒畢現",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[StartBattle] 使除自身以外速度值最高且屬於黑雲會的2名友方單位獲得2層傷害強化 (每回合最多1次)\n- 若包括自身在內屬於黑雲會的友方單位不低於6名，則改為使5名友方單位獲得3層傷害強化",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層斬擊易損 (每回合最多1次)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層斬擊威力提升 (每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "鋒芒畢現",
+          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n目標每帶有1種負面效果，使本技能造成的傷害+10%(最多+50%)\n[StartBattle] 使除自身以外速度值最高且屬於黑雲會的2名友方單位獲得2層傷害強化 (每回合最多1次)\n- 若包括自身在內屬於黑雲會的友方單位不低於6名，則改為使5名友方單位獲得4層傷害強化 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead]  對目標施加1層斬擊易損 (每回合最多1次)"
+                },
+                {
+                  "desc": "- 若包括自身在內屬於黑雲會的友方單位不低於6名，則改為對目標施加2層易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層斬擊威力提升 (每回合最多2次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "黑雲翻墨",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 3次並使其流血 層數減少3層"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "黑雲翻墨",
+          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[EnemyKill] 下回合使自身獲得2層斬擊威力提升 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目標每帶有1種負面效果，使本硬幣造成的傷害+10%(最多+100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 3次並使其流血 層數減少3層"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "散亂之舞",
+          "desc": "[StartBattle] 使自身獲得1層守護 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "散亂之舞",
+          "desc": "[StartBattle] 使自身獲得1層守護 (每回合最多去1次)\n[StartBattle] 使包括自身在內(2+最大共鳴數)名速度值最高且屬於黑雲會的友方單位獲得2層忍耐 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -911,6 +911,22 @@
     {
       "id": "10711_getCondition_gacksung",
       "content": "句點事務所 收尾人 希斯克利夫 3階段同步完成"
+    },
+    {
+      "id": "10811_getCondition_normal",
+      "content": "獲得黑雲會 副會長 以實瑪利"
+    },
+    {
+      "id": "10811_getCondition_gacksung",
+      "content": "黑雲會 副會長 以實瑪利 3階段同步完成"
+    },
+    {
+      "id": "10712_getCondition_normal",
+      "content": "獲得黑雲會 若眾 希斯克利夫"
+    },
+    {
+      "id": "10712_getCondition_gacksung",
+      "content": "黑雲會 若眾 希斯克利夫 3階段同步完成"
     }
   ]
 }

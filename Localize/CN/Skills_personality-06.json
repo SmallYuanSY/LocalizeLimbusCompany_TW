@@ -180,17 +180,13 @@
           "level": 1,
           "name": "防禦",
           "desc": "[WhenUse] 使自身獲得2層充能力場 (每回合最多3次)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "防禦",
           "desc": "[WhenUse] 使自身獲得3層充能力場 (每回合最多3次)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -412,17 +408,13 @@
           "level": 1,
           "name": "閃電神經",
           "desc": "[OnSucceedEvade] 下回合使自身獲得1層迅捷 (每回合最多3次)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "閃電神經",
           "desc": "若目標的流血 強度不低於7級，則使本技能的硬幣威力+2\n[OnSucceedEvade] 下回合使自身獲得1層迅捷 (每回合最多3次)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -582,17 +574,13 @@
           "level": 1,
           "name": "引導步伐",
           "desc": "[WhenUse] 按技能級別由低到高隨機丟棄 自身所有行動槽中的2個技能",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "引導步伐",
           "desc": "[WhenUse] 按技能級別由低到高隨機丟棄 自身所有行動槽中的2個技能",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -829,17 +817,13 @@
           "level": 1,
           "name": "等一下？！",
           "desc": "[WhenUse] 使自身獲得(2×目標的震顫 層數)點護盾體力(最多7點)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "等一下？！",
           "desc": "[WhenUse] 使自身獲得(2×目標的震顫 層數)點護盾體力(最多13點)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1041,7 +1025,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於15級，或目標現存體力不高於30%，則重覆使用本硬幣(每個技能最多1次)"
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於15級，或目標現存體力不高於30%，則重複使用本硬幣(每個技能最多1次)"
                 }
               ]
             }

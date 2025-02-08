@@ -1,0 +1,223 @@
+{
+  "dataList": [
+    {
+      "id": 112204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "弒主妖劍",
+          "desc": "[WhenUse] 使自身獲得3層呼吸法 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-10"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度並獲得1層呼吸法 "
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加1層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-10"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層斬擊傷害強化 "
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加2層斬擊抗性弱化 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-10"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加5級流血 強度"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 下回合對目標施加2層麻痺 "
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加3層流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斷汝筋骨",
+          "desc": "[StartBattle] 使自身獲得100點護盾\n[WhenUse] 若護盾未被全部消耗，則使本技能的拼點威力+5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-20"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加3層斬擊抗性弱化 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-20"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使本硬幣暴擊時造成的傷害+100%"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加10級流血 強度並對其施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-20"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若護盾未被全部消耗，則對目標造成(自身的[Grudge]層數/本技能的攻擊容量)點固定傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斷汝筋骨",
+          "desc": "[StartBattle] 使自身獲得250點護盾\n[WhenUse] 使自身獲得3層呼吸法 \n[WhenUse] 若護盾未被全部消耗，則使本技能的拼點威力+10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-23"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加3層斬擊抗性弱化 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-23"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使本硬幣暴擊時造成的傷害+100%"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 下回合對目標施加5層麻痺 "
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加10級流血 強度並對其施加2層流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-23"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若護盾未被全部消耗，則對目標造成(自身的[Grudge]層數/本技能的攻擊容量)點固定傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斷汝筋骨",
+          "desc": "[CantChangeTarget]\n優先指定體力最低的目標\n[EnemyKill] 使自身的[Grudge]層數變為2倍\n[EnemyKill] 使自身恢復(自身的[Grudge]層數)點體力",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-25"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-25"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "若本硬幣被摧毀，則使本技能的最終威力-25"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標造成(自身的[Grudge]層數)點固定傷害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

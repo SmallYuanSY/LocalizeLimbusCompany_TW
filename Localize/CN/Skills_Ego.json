@@ -3542,7 +3542,7 @@
         {
           "level": 1,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[BeforeAttack] 使自身獲得4層呼吸法 ",
           "coinlist": [
             {
@@ -3560,7 +3560,7 @@
         {
           "level": 3,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[BeforeAttack] 使自身獲得6層呼吸法 ",
           "coinlist": [
             {
@@ -3581,7 +3581,7 @@
         {
           "level": 4,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[BeforeAttack] 使自身獲得7層呼吸法 ",
           "coinlist": [
             {
@@ -3607,7 +3607,7 @@
         {
           "level": 1,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[CantIdentify]\n指定體力最低的單位\n[BeforeAttack] 使自身獲得5層呼吸法 ",
           "coinlist": [
             {
@@ -3625,7 +3625,7 @@
         {
           "level": 3,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[CantIdentify]\n指定體力最低的單位\n[BeforeAttack] 使自身獲得7層呼吸法 ",
           "coinlist": [
             {
@@ -3649,7 +3649,7 @@
         {
           "level": 4,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[CantIdentify]\n指定體力最低的單位\n[BeforeAttack] 使自身獲得7層呼吸法 ",
           "coinlist": [
             {
@@ -3820,7 +3820,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 消耗所有充能 層數並對目標追加本硬幣傷害量(消耗的充能 層數×1.5)%的憂鬱傷害(最多追加30%)"
-                  },
+                },
                 {
                   "desc": "[OnSucceedAttackTail] 攻擊結束後，消耗自身體力上限10%的體力並使自身獲得7層充能 "
                 }
@@ -3875,16 +3875,14 @@
         {
           "level": 1,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰威力提升 ，1層怠惰傷害強化 與2層守護 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 3,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰威力提升 ，2層怠惰傷害強化 與3層守護 ",
           "coinlist": [
             {
@@ -3904,7 +3902,7 @@
         {
           "level": 1,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 本回合與下2回合中，使自身獲得1層怠惰威力提升 與1層怠惰傷害強化 ",
           "coinlist": [
             {
@@ -3919,7 +3917,7 @@
         {
           "level": 3,
           "name": "狐雨",
-          "abName": "流浪狐貍",
+          "abName": "流浪狐狸",
           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 本回合與下2回合中，使自身獲得2層怠惰威力提升 與2層怠惰傷害強化 ",
           "coinlist": [
             {

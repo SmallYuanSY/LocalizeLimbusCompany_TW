@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_26_1",
+      "dlg": "嗯……願閣下們的戰鬥能傳來捷報。"
+    },
+    {
+      "id": "announcer_cheer_26_2",
+      "dlg": "已經無路可退了。拔劍前行吧。給那幫無賴之徒以冰冷的劍擊！"
+    },
+    {
+      "id": "announcer_specialcheer_26_1",
+      "dlg": "何不稍事整頓。頭領在這種情況下一定會先照顧好同伴，然後再向前邁進。"
+    },
+    {
+      "id": "announcer_specialcheer_26_2",
+      "dlg": "被逼入守勢，也不過是殺手的日常罷了。如果閣下們能再靜下心來一些，那麼便沒有不可逾越的阻礙。"
+    },
+    {
+      "id": "announcer_enemy_break_26_1",
+      "dlg": "落英繽紛。花這種事物，就是在四散飄零之時才最為美麗。"
+    },
+    {
+      "id": "announcer_ally_break_26_1",
+      "dlg": "入睡還為時尚早，夜晚還仍未到來……"
+    },
+    {
+      "id": "announcer_killenemy_26_1",
+      "dlg": "那些無賴之徒正在潰散。就照這樣的步調，把他們全部切碎也不成問題。閣下們的劍法當真是高超無比。"
+    },
+    {
+      "id": "announcer_ally_dead_26_1",
+      "dlg": "因失去友人而患得患失可不像是殺手的作風……或許是因為無法摒棄人心，所以仍有……些許刺痛。"
+    },
+    {
+      "id": "announcer_enemy_adv_26_1",
+      "dlg": "看看閣下們自身的情形，優先保全自身如何……亦或，暫先退讓以期他日……"
+    },
+    {
+      "id": "announcer_ally_adv_26_1",
+      "dlg": "友人們所揮灑鮮血的分量，絕非輕如鴻毛。知曉這分量的殘存殺手們，難道連這逆境也無法跨越嗎？"
+    },
+    {
+      "id": "announcer_danger_26_1",
+      "dlg": "已然步入危急關頭。這一手可能會決定閣下們的命運。要謹慎，但也要大膽。頭領一直是如此教導的。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_26_1",
+      "dlg": "……命懸一線之時。還請準備相應的對策。不然......哈啊。"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_26_1",
+      "dlg": "如此妙手……在組織內下棋的時候，偶爾也會看到這樣的妙招……"
+    },
+    {
+      "id": "announcer_advatk_physical_26_1",
+      "dlg": "真是一手巧妙的招式。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_26_1",
+      "dlg": "那是，什麼……錯失機會了嗎？"
+    },
+    {
+      "id": "announcer_advatk_attr_26_1",
+      "dlg": "當然，這是對其最為有效的攻擊方式。做得好。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_26_1",
+      "dlg": "嘛，雖說交手的方式本不是死板的……咳，但也應該有更好的辦法……"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_26_1",
+      "dlg": "那幫無賴之徒看起來倒十分愉快……或許是曾共飲了清酒吧。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_26_1",
+      "dlg": "或許是被閣下們的攻勢嚇到了吧。他們的意志已然潰敗。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_26_1",
+      "dlg": "氣勢如虹。彷彿是正在月下享受著拂面清風的表情。閣下們。"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_26_1",
+      "dlg": "是疲累了嗎？嗯……你們的臉色蒙上了陰翳……"
+    },
+    {
+      "id": "announcer_enemy_destroy_26_1",
+      "dlg": "乾淨的切面。彷彿它們從未是一體那般。"
+    },
+    {
+      "id": "announcer_enemy_destroy_26_2",
+      "dlg": "礙事的部位已經被斬下，後續的戰鬥也定將更為順利。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_26_1",
+      "dlg": "意外之災……！先收劍，撤退！"
+    },
+    {
+      "id": "announcer_round_takebigdmg_26_2",
+      "dlg": "此時通常……應先選擇撤退，但閣下們看起來也並無如此餘裕。嗯……相互掩護，繼續戰鬥吧。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_26_1",
+      "dlg": "似是能切下一縷月華的一擊……如此精彩。受教了。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_26_2",
+      "dlg": "方才閣下們的戰鬥，甚至能成為眾多殺手們的榜樣。做得漂亮。"
+    },
+    {
+      "id": "announcer_multikillenemy_26_1",
+      "dlg": "守護應守之物，斬殺當斬之敵。你們那副模樣，恰似這番話的生動寫照。雖不知這般表述聽起來如何……頗似劍鬼一般。"
+    },
+    {
+      "id": "announcer_equip_26_1",
+      "dlg": "這還真是……古怪的任務啊。為何要錄製聲音……嗯，好吧。這種情況下，容不得我挑三揀四了。\n……我名為櫻桃，是身屬於執劍之契的殺手。"
+    }
+  ]
+}

@@ -388,7 +388,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "墨云",
+          "name": "墨雲",
           "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能造成的傷害+10%",
           "coinlist": [
             {
@@ -446,7 +446,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "云斬",
+          "name": "雲斬",
           "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {

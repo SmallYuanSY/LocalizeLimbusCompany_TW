@@ -186,17 +186,13 @@
           "level": 1,
           "name": "最佳防守",
           "desc": "[StartBattle] 使自身獲得(自身的防禦等級提升 層數 × 2)點護盾",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "最佳防守",
           "desc": "[StartBattle] 使自身獲得(自身的防禦等級提升 層數 × 2)點護盾\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -209,9 +205,7 @@
           "desc": "[WhenUse] 使自身增加2級呼吸法 強度",
           "coinlist": [
             {
-              "coindescs": [
-                {}
-              ]
+              "coindescs": [{}]
             },
             {
               "coindescs": [
@@ -424,17 +418,13 @@
           "level": 1,
           "name": "喘口氣",
           "desc": "[OnSucceedEvade] 使自身增加1級呼吸法 強度(每回合最多3次)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "喘口氣",
           "desc": "[OnSucceedEvade] 使自身增加1級呼吸法 強度(每回合最多5次)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -443,7 +433,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "云渦撕裂",
+          "name": "雲渦撕裂",
           "desc": "[WinDuel] 使目標增加1級流血 強度",
           "coinlist": [
             {
@@ -457,7 +447,7 @@
         },
         {
           "level": 2,
-          "name": "云渦撕裂",
+          "name": "雲渦撕裂",
           "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1\n[WinDuel] 使目標增加1級流血 強度",
           "coinlist": [
             {
@@ -471,7 +461,7 @@
         },
         {
           "level": 3,
-          "name": "云渦撕裂",
+          "name": "雲渦撕裂",
           "desc": "[WhenUse_Force] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1\n[WinDuel] 使目標增加1級流血 強度",
           "coinlist": [
             {
@@ -485,7 +475,7 @@
         },
         {
           "level": 4,
-          "name": "云渦撕裂",
+          "name": "雲渦撕裂",
           "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+2\n[WinDuel] 使目標增加1級流血 強度",
           "coinlist": [
             {
@@ -504,7 +494,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "墨云",
+          "name": "墨雲",
           "desc": "",
           "coinlist": [
             {
@@ -528,7 +518,7 @@
         },
         {
           "level": 2,
-          "name": "墨云",
+          "name": "墨雲",
           "desc": "",
           "coinlist": [
             {
@@ -552,7 +542,7 @@
         },
         {
           "level": 4,
-          "name": "墨云",
+          "name": "墨雲",
           "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+2",
           "coinlist": [
             {
@@ -581,7 +571,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "墨云崩裂",
+          "name": "墨雲崩裂",
           "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1",
           "coinlist": [
             {
@@ -615,7 +605,7 @@
         },
         {
           "level": 4,
-          "name": "墨云崩裂",
+          "name": "墨雲崩裂",
           "desc": "[WhenUse] 若目標的流血 強度不低於7級，則使本技能的拼點威力+1\n[WhenUse] 若目標的流血 強度不低於10級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
@@ -659,17 +649,13 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -870,17 +856,13 @@
           "level": 1,
           "name": "你也想哭嗎？",
           "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的硬幣威力+1",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "你也想哭嗎？",
           "desc": "[WhenUse] 目標每帶有3級沉淪 強度，使本技能的硬幣威力+1(最多+3)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1078,7 +1060,7 @@
         {
           "level": 4,
           "name": "無法洗清的罪",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(每個技能最多100點)\n[WhenUse] 自身每失去體力上限1%的體力，使本技能造成的傷害+1.5%(最多+90%)\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 消耗所有超出10層的[BloodyHandGregFirst]，並觸發以下效果：\n- 使自身恢復(消耗的[BloodyHandGregFirst]層數×3)點體力\n- 若消耗的[BloodyHandGregFirst]層數不低於10層，則使本技能的硬幣威力+1\n- 若消耗了20層[BloodyHandGregFirst]，則重覆使用本技能的最後一枚硬幣\n[WhenUse] 使自身增加10級流血 強度\n[EndSkill] 使自身恢復體力上限10%的體力",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(每個技能最多100點)\n[WhenUse] 自身每失去體力上限1%的體力，使本技能造成的傷害+1.5%(最多+90%)\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 消耗所有超出10層的[BloodyHandGregFirst]，並觸發以下效果：\n- 使自身恢復(消耗的[BloodyHandGregFirst]層數×3)點體力\n- 若消耗的[BloodyHandGregFirst]層數不低於10層，則使本技能的硬幣威力+1\n- 若消耗了20層[BloodyHandGregFirst]，則重複使用本技能的最後一枚硬幣\n[WhenUse] 使自身增加10級流血 強度\n[EndSkill] 使自身恢復體力上限10%的體力",
           "coinlist": [
             {
               "coindescs": [

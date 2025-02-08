@@ -541,7 +541,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加6層防禦等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重覆使用本硬幣(最多1次)"
+                  "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重複使用本硬幣(最多1次)"
                 }
               ]
             }
@@ -773,9 +773,7 @@
           "level": 1,
           "name": "破滅的狂獵",
           "desc": "[CantDuel]\n[WhenUse] 若目標帶有[AaCfPbBc]，則使本技能造成的傷害-100%\n[WhenUse] 每有1名友方單位存活，使本技能造成的傷害+25%",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -786,9 +784,7 @@
           "level": 1,
           "name": "忍耐",
           "desc": "[WhenUse] 下回合使自身獲得1層強壯 (每回合最多1層)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1076,9 +1072,7 @@
           "level": 1,
           "name": "為了一個他沒有痛苦的世界",
           "desc": "[CantDuel]\n[StartBattle] 對除自身以外的全體友方單位施加2層易損 並使其獲得2層強壯 \n[StartBattle] 下回合對自身施加5層束縛 並使自身獲得5層傷害強化 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },

@@ -58,11 +58,23 @@
     },
     {
       "id": "ycgd_bonus_popup_title",
-      "content": "活動獎勵人格"
+      "content": "活動加成角色"
     },
     {
       "id": "ycgd_bonus_preview",
       "content": "活動獎勵人格"
+    },
+    {
+      "id": "ycgd_chapter_map_difficulty_ui_9107",
+      "content": "NORMAL"
+    },
+    {
+      "id": "ycgd_chapter_map_difficulty_ui_9115",
+      "content": "HARD"
+    },
+    {
+      "id": "ycgd_chapter_map_difficulty_ui_unlock_condition",
+      "content": "通關{0}-{1}後解鎖困難難度"
     }
   ]
 }

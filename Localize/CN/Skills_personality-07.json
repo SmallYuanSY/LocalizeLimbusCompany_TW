@@ -641,17 +641,13 @@
           "level": 1,
           "name": "充能",
           "desc": "[WhenUse] 使自身獲得3層充能 (每回合最多1次)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "充能",
           "desc": "[WhenUse] 使自身獲得3層充能 (每回合最多2次)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1334,6 +1330,335 @@
               "coindescs": [
                 {
                   "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "雲渦撕裂",
+          "desc": "[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "雲渦撕裂",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "雲渦撕裂",
+          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 下回合使自身獲得2層忍耐 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "風起雲湧",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層虛弱 (每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "風起雲湧",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層斬擊易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層虛弱 (每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "風起雲湧",
+          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層斬擊易損 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層虛弱 (每回合最多2次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "雷鳴斬",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[StartBattle] 下回合使自身獲得1層[CloudWall]\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使本技能最後一枚硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層斬擊易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使本技能最後一枚硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目標每帶有1種負面狀態，使本硬幣造成的傷害+10%(最多+30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加6級流血 強度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "雷鳴斬",
+          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[StartBattle] 下回合使自身獲得1層[CloudWall]\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)\n[WinDuel] 下回合使自身獲得1層[BlackCloudBlade](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使本技能最後一枚硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層斬擊易損 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使本技能最後一枚硬幣造成的傷害+10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目標每帶有1種負面狀態，使本硬幣造成的傷害+10%(最多+100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加6級流血 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "後巷規矩",
+          "desc": "[DuelCounter]\n若黑雲會 副會長 以實瑪利在場，則觸發以下效果\n- 使本技能中的所有硬幣轉化為[SuperCoin]\n- 拼點失敗時，使本技能的最終威力+3\n[WhenUse] 若自身帶有[CloudWall]，則使本技能所有重複使用效果無條件生效",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身帶有[BlackCloudBlade]，則重複使用本硬幣1次(每個技能最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身帶有[EngageToBattle]，則重複使用本硬幣1次(每個技能最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "後巷規矩",
+          "desc": "[DuelCounter]\n若黑雲會 副會長 以實瑪利在場，則觸發以下效果\n- 使本技能中的所有硬幣轉化為[SuperCoin]\n- 拼點失敗時，使本技能的最終威力+4\n目標每帶有1種負面狀態，使本技能造成的傷害+10%(最多+100%)\n[WhenUse] 若自身帶有[CloudWall]，則使本技能所有重複使用效果無條件生效",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身帶有[BlackCloudBlade]，則重複使用本硬幣1次(每個技能最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身帶有[EngageToBattle]，則重複使用本硬幣1次(每個技能最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "後巷規矩",
+          "desc": "[WhenUse] 若自身帶有[CloudWall]，則使本技能所有重複使用效果無條件生效",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身帶有[BlackCloudBlade]，則重複使用本硬幣1次(每個技能最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身帶有[EngageToBattle]，則重複使用本硬幣1次(每個技能最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "後巷規矩",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n目標每帶有1種負面狀態，使本技能造成的傷害+10%(最多+100%)\n[WhenUse] 若自身帶有[CloudWall]，則使本技能所有重複使用效果無條件生效",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身帶有[BlackCloudBlade]，則重複使用本硬幣1次(每個技能最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身帶有[EngageToBattle]，則重複使用本硬幣1次(每個技能最多1次)"
                 }
               ]
             }

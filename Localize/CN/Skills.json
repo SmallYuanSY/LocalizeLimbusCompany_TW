@@ -191,9 +191,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -239,9 +237,7 @@
           "level": 3,
           "name": "絞劍迅擊",
           "desc": "",
-          "keywords": [
-            "Vulnerable"
-          ],
+          "keywords": ["Vulnerable"],
           "coinlist": [
             {
               "coindescs": [
@@ -270,9 +266,7 @@
           "level": 4,
           "name": "絞劍迅擊",
           "desc": "",
-          "keywords": [
-            "Vulnerable"
-          ],
+          "keywords": ["Vulnerable"],
           "coinlist": [
             {
               "coindescs": [
@@ -309,9 +303,7 @@
           "level": 1,
           "name": "格擋回擊",
           "desc": "[WinDuel] 下回合對目標施加3層麻痹 ",
-          "keywords": [
-            "Paralysis"
-          ],
+          "keywords": ["Paralysis"],
           "coinlist": [
             {
               "coindescs": [
@@ -333,9 +325,7 @@
           "level": 2,
           "name": "格擋回擊",
           "desc": "[WinDuel] 下回合對目標施加3層 麻痹",
-          "keywords": [
-            "Paralysis"
-          ],
+          "keywords": ["Paralysis"],
           "coinlist": [
             {
               "coindescs": [
@@ -357,9 +347,7 @@
           "level": 4,
           "name": "格擋回擊",
           "desc": "[WinDuel] 下回合對目標施加3層麻痹 \n[WinDuel] 對目標施加1層破裂 ",
-          "keywords": [
-            "Paralysis"
-          ],
+          "keywords": ["Paralysis"],
           "coinlist": [
             {
               "coindescs": [
@@ -389,9 +377,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -453,30 +439,21 @@
           "name": "劍刃扭轉",
           "desc": "[WinDuel] 下回合使自身獲得1層呼吸法 ",
           "keywords": [],
-          "coinlist": [
-            {},
-            {}
-          ]
+          "coinlist": [{}, {}]
         },
         {
           "level": 2,
           "name": "劍刃扭轉",
           "desc": "[WinDuel] 下回合使自身獲得2層呼吸法 ",
           "keywords": [],
-          "coinlist": [
-            {},
-            {}
-          ]
+          "coinlist": [{}, {}]
         },
         {
           "level": 4,
           "name": "劍刃扭轉",
           "desc": "[WinDuel] 下回合使自身獲得2層呼吸法 ",
           "keywords": [],
-          "coinlist": [
-            {},
-            {}
-          ]
+          "coinlist": [{}, {}]
         }
       ]
     },
@@ -539,9 +516,7 @@
           "name": "反擊",
           "desc": "",
           "keywords": [],
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
@@ -666,9 +641,7 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -819,9 +792,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -991,9 +962,7 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1004,17 +973,13 @@
           "level": 1,
           "name": "長槍突刺",
           "desc": "[WinDuel] 下回合使自身獲得1層迅捷 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 2,
           "name": "長槍突刺",
           "desc": "[WinDuel] 下回合使自身獲得2層迅捷 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1025,17 +990,13 @@
           "level": 1,
           "name": "蓄力突刺",
           "desc": "[WinDuel] 下回合使自身獲得1層強壯 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 2,
           "name": "蓄力突刺",
           "desc": "[WinDuel] 下回合使自身獲得2層強壯 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
@@ -1060,11 +1021,7 @@
           "level": 3,
           "name": "為了正義！",
           "desc": "若自身的速度值不低於10，則使本技能的硬幣威力+2",
-          "coinlist": [
-            {},
-            {},
-            {}
-          ]
+          "coinlist": [{}, {}, {}]
         },
         {
           "level": 4,
@@ -1103,9 +1060,7 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1287,9 +1242,7 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1415,17 +1368,13 @@
           "level": 3,
           "name": "過度呼吸",
           "desc": "若自身的速度值不低於10，則使本技能威力+3",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "過度呼吸",
           "desc": "若自身的速度值不低於10，則使本技能威力+5",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1436,9 +1385,7 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1529,11 +1476,7 @@
           "level": 3,
           "name": "描繪",
           "desc": "[StartBattle] 使自身獲得2層斬擊傷害強化 ",
-          "coinlist": [
-            {},
-            {},
-            {}
-          ]
+          "coinlist": [{}, {}, {}]
         },
         {
           "level": 4,
@@ -1560,9 +1503,7 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -1859,9 +1800,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -2009,9 +1948,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -2231,9 +2168,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -2461,17 +2396,13 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "防禦",
           "desc": "[StartBattle] 使自身獲得2層充能 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -2624,9 +2555,7 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -2685,7 +2614,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "裁云斷霧",
+          "name": "裁雲斷霧",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -2707,7 +2636,7 @@
         },
         {
           "level": 2,
-          "name": "裁云斷霧",
+          "name": "裁雲斷霧",
           "desc": "[BeforeAttack] 若目標的流血 層數低於4層，則重複使用本技能的前兩枚硬幣1次",
           "keywords": [],
           "coinlist": [
@@ -2729,7 +2658,7 @@
         },
         {
           "level": 4,
-          "name": "裁云斷霧",
+          "name": "裁雲斷霧",
           "desc": "[BeforeAttack] 若目標的流血 層數低於4層，則重複使用本技能的前兩枚硬幣1次",
           "keywords": [],
           "coinlist": [
@@ -2791,9 +2720,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -2968,17 +2895,13 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "閃避",
           "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+2\n[OnSucceedEvade] 使自身恢復3點理智值",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -3095,9 +3018,7 @@
           "level": 1,
           "name": "反擊",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -3108,25 +3029,19 @@
           "level": 1,
           "name": "極意之劍",
           "desc": "若現存體力低於25%，則使本技能威力+1",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 2,
           "name": "極意之劍",
           "desc": "若現存體力低於25%，則使本技能威力+1",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "極意之劍",
           "desc": "若現存體力低於50%，則使本技能威力+2\n[WhenUse] 使自身獲得3層呼吸法 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -3137,25 +3052,19 @@
           "level": 1,
           "name": "飛劍刺殺",
           "desc": "若現存體力低於25%，則使本技能威力+1",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 2,
           "name": "飛劍刺殺",
           "desc": "若現存體力低於25%，則使本技能威力+2",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "飛劍刺殺",
           "desc": "若現存體力低於50%，則使本技能威力+2\n[WhenUse] 使自身增加3級呼吸法 強度",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -3213,17 +3122,13 @@
           "level": 1,
           "name": "反擊",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "反擊",
           "desc": "[WhenUse] 使自身失去5點體力\n若自身的呼吸法 層數不低於3層，則使本硬幣造成的傷害+50%",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -3408,17 +3313,13 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "閃避",
           "desc": "[WhenUse]  使自身獲得1層充能 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -3462,17 +3363,13 @@
           "level": 1,
           "name": "斷踵滑鏟",
           "desc": "[WinDuel] 對目標施加1層破綻 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 2,
           "name": "斷踵滑鏟",
           "desc": "[WinDuel] 對目標施加3層破綻 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
@@ -3516,9 +3413,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -3755,17 +3650,13 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "閃避",
           "desc": "[OnSucceedEvade] 使自身獲得1層充能 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -3968,10 +3859,7 @@
           "name": "反擊",
           "desc": "",
           "keywords": [],
-          "coinlist": [
-            {},
-            {}
-          ]
+          "coinlist": [{}, {}]
         },
         {
           "level": 4,
@@ -4180,17 +4068,13 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "防禦",
           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +4\n若自身的彈藥 數為0，則額外使本技能對應行動槽的挑釁值 +2 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -4362,9 +4246,7 @@
           "level": 1,
           "name": "反擊",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -4541,17 +4423,13 @@
           "level": 1,
           "name": "反擊",
           "desc": "[WhenUse] 使自身獲得1層守護 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "反擊",
           "desc": "[WhenUse] 使自身獲得1層守護 \n[WhenUse] 使自身獲得2層呼吸法 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -4745,9 +4623,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -4791,21 +4667,13 @@
           "level": 1,
           "name": "連斬",
           "desc": "[WinDuel] 使本技能造成的傷害+10%",
-          "coinlist": [
-            {},
-            {},
-            {}
-          ]
+          "coinlist": [{}, {}, {}]
         },
         {
           "level": 2,
           "name": "連斬",
           "desc": "[WinDuel] 使本技能造成的傷害+30%",
-          "coinlist": [
-            {},
-            {},
-            {}
-          ]
+          "coinlist": [{}, {}, {}]
         }
       ]
     },
@@ -4816,11 +4684,7 @@
           "level": 3,
           "name": "翻斬",
           "desc": "[WinDuel] 使自身獲得1層強壯 ",
-          "coinlist": [
-            {},
-            {},
-            {}
-          ]
+          "coinlist": [{}, {}, {}]
         },
         {
           "level": 4,
@@ -4859,9 +4723,7 @@
           "level": 1,
           "name": "反擊",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -5050,17 +4912,13 @@
           "level": 1,
           "name": "反擊：展鋒",
           "desc": "[WhenUse] 下回合使自身獲得1層傷害強化 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "反擊：展鋒",
           "desc": "[WhenUse] 下回合使自身獲得1層傷害強化 \n[WhenUse] 使自身獲得3層呼吸法 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -5219,17 +5077,13 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "防禦",
           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +4",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -5424,17 +5278,13 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "閃避",
           "desc": "[OnSucceedEvade] 使自身獲得1層呼吸法 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -5551,9 +5401,7 @@
           "level": 3,
           "name": "利刃穿身",
           "desc": "若目標的體力不低於50%， 使本技能造成的傷害+20%",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
@@ -5578,9 +5426,7 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -5723,17 +5569,13 @@
           "level": 1,
           "name": "閃避",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "閃避",
           "desc": "若自身的呼吸法 強度不低於6級，則使本技能的硬幣威力+3",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -5880,9 +5722,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -6011,9 +5851,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -6256,9 +6094,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -6447,9 +6283,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -6681,9 +6515,7 @@
           "level": 1,
           "name": "愚不可及…！",
           "desc": "[StartBattle] 使自身獲得1層守護 \n若現存體力不高於50%，則使本技能的最終威力+2",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -6868,9 +6700,7 @@
           "level": 1,
           "name": "反擊",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
@@ -7086,9 +6916,7 @@
           "level": 1,
           "name": "如此污穢！",
           "desc": "[OnSucceedEvade] 使目標失去3點理智值",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -7242,9 +7070,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -7456,9 +7282,7 @@
           "level": 1,
           "name": "我打頭陣",
           "desc": "[WhenUse] 下回合使自身獲得1層迅捷 與忍耐 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -7625,9 +7449,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -7829,9 +7651,7 @@
           "level": 1,
           "name": "新·材發現",
           "desc": "[OnSucceedEvade] 下回合使自身獲得1層迅捷 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -8032,9 +7852,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -8228,9 +8046,7 @@
           "level": 1,
           "name": "夠了…",
           "desc": "[StartBattle] 使自身恢復5~10點理智值",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -8450,9 +8266,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -8650,9 +8464,7 @@
           "level": 1,
           "name": "預熱",
           "desc": "[StartBattle] 使自身獲得2層充能 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -8885,9 +8697,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -9086,9 +8896,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -9569,9 +9377,7 @@
           "level": 1,
           "name": "餘香飛散",
           "desc": "[OnSucceedEvade] 使目標增加1級沉淪 強度",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -9736,17 +9542,13 @@
           "level": 1,
           "name": "防禦",
           "desc": "",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "防禦",
           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +4",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -9757,25 +9559,19 @@
           "level": 1,
           "name": "阻截入侵者",
           "desc": "若目標的破裂 強度不低於5級，則硬幣威力 +1",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 2,
           "name": "阻截入侵者",
           "desc": "若目標的破裂 強度不低於5級，則硬幣威力 +2",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "阻截入侵者",
           "desc": "若目標的破裂 強度不低於5級，則硬幣威力 +3\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -9901,17 +9697,13 @@
           "level": 1,
           "name": "注射安瓿",
           "desc": "[WhenUse] 下回合使自身獲得1層K公司的安瓿 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "注射安瓿",
           "desc": "[WhenUse] 下回合使自身獲得1層K公司的安瓿 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -10123,9 +9915,7 @@
           "level": 1,
           "name": "防禦",
           "desc": "[WhenUse] 使自身獲得1層符咒 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -10596,17 +10386,13 @@
           "level": 1,
           "name": "生物電感應",
           "desc": "[WhenUse] 若自身帶有護盾時受到攻擊，則使自身獲得1層充能 (最多獲得10層)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "生物電感應",
           "desc": "[WhenUse] 若自身帶有護盾時受到攻擊，則使自身獲得2層充能 (最多獲得10層)",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
@@ -10685,9 +10471,7 @@
           "level": 1,
           "name": "專注防禦",
           "desc": "[WhenUse] 若自身的護盾不低於15點，則使自身獲得2層呼吸法 ",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 2,
@@ -10939,17 +10723,13 @@
           "level": 1,
           "name": "防守閃避",
           "desc": "[OnSucceedEvade] 使目標失去3點理智值",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         },
         {
           "level": 4,
           "name": "防守閃避",
           "desc": "[OnSucceedEvade] 使目標失去3點理智值",
-          "coinlist": [
-            {}
-          ]
+          "coinlist": [{}]
         }
       ]
     },
