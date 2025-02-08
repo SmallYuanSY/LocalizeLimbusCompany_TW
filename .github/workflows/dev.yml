@@ -34,7 +34,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Cache NuGet packages
         if: steps.extract_version.outputs.hasnewver != 'true'
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.nuget/packages
           key: ${{ runner.os }}-nuget-${{ hashFiles('src/*.csproj') }}
@@ -46,7 +46,7 @@ jobs:
           ./build.ps1 Dev
       - name: Upload BIE Full
         if: steps.extract_version.outputs.hasnewver != 'true'
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: LimbusLocalize_BIE_Dev.7z
           path: Release/LimbusLocalize_BIE_Dev.7z

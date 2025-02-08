@@ -16,7 +16,7 @@ jobs:
           lfs: true
           fetch-depth: 0
       - name: Cache NuGet packages
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.nuget/packages
           key: ${{ runner.os }}-nuget-${{ hashFiles('src/*.csproj') }}
@@ -38,7 +38,7 @@ jobs:
           - LimbusLocalize_BIE_${{ steps.extract_version.outputs.release_tag }}.7z 全量包
           - LimbusLocalize_BIE_OTA_${{ steps.extract_version.outputs.release_tag }}.7z 增量更新"
       - name: Create Upload Release   
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: |
             Release/*.7z

@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Create pages
         run: |
          mkdir pages
@@ -36,7 +36,7 @@ jobs:
         with:
           source: ./pages/
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
